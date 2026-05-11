@@ -41,3 +41,7 @@ python -m http.server 8000   # open http://localhost:8000/
 - `data/raw/<CC>.json` is overwritten every run (not committed history). Only `data/archive/` keeps long-term snapshots.
 - At 2 snapshots/day × 7 countries × ~250 KB/country, archive grows ~3.5 MB/day, ~1.3 GB/year. Manageable in a regular repo for years.
 - `latest.json` and per-country files are **simplified** (rank, title, channel, views, thumbnail, duration, url). Raw API responses live in `data/raw/` (current) and `data/archive/` (historical).
+
+## License
+
+[MIT](./LICENSE) © 2026 xAtlaz
