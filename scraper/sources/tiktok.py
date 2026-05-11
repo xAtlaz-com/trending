@@ -52,7 +52,9 @@ def fetch() -> list[dict]:
                         pass
                 break
     if not payload:
-        print(f"[{KEY}] no SSR payload found, page may have changed", file=sys.stderr)
+        print(f"[{KEY}] no SSR payload found in {len(resp.text)} bytes; "
+              f"has __APP_PROPS__={'__APP_PROPS__' in resp.text} "
+              f"has hashtag_name={'hashtag_name' in resp.text}", file=sys.stderr)
         return []
 
     # Find any list with hashtag entries.

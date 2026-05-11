@@ -23,13 +23,15 @@ def fetch() -> list[dict]:
     })
     resp = s.get(URL, timeout=30)
     if resp.status_code != 200:
-        print(f"[{KEY}] HTTP {resp.status_code}", file=sys.stderr)
+        print(f"[{KEY}] HTTP {resp.status_code} body[:200]={resp.text[:200]!r}", file=sys.stderr)
         return []
     payload = resp.json() or {}
     if not payload.get("success", True):
-        print(f"[{KEY}] api error: {payload.get('msg')}", file=sys.stderr)
+        print(f"[{KEY}] api error: code={payload.get('code')} msg={payload.get('msg')}", file=sys.stderr)
         return []
     raw = (payload.get("data") or {}).get("items") or []
+    if not raw:
+        print(f"[{KEY}] empty data; success={payload.get('success')} keys={list(payload.keys())}", file=sys.stderr)
     items: list[dict] = []
     for rank, v in enumerate(raw, 1):
         title = v.get("title") or v.get("word") or ""
