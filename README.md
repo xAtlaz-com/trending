@@ -18,19 +18,26 @@
 
 Real-time trending from 11 of the world's biggest content platforms — refreshed every 30 minutes, history archived twice a day:
 
+**Overseas**
+
 | Platform | What | Region |
 |---|---|---|
 | 🟥 **YouTube** | `chart=mostPopular` videos | 🇬🇧 🇺🇸 🇯🇵 🇰🇷 🇮🇳 🇭🇰 🇹🇼 |
 | 𝕏 **X / Twitter** | trends | global |
 | 🟧 **Reddit** | `r/popular` | global |
-| 🐙 **GitHub** | trending daily repositories | global |
 | 📷 **Instagram** | top hashtags | global |
-| 🅱️ **Bilibili** | 全站热门 | 🇨🇳 |
+| 🐙 **GitHub** | trending daily repositories | global |
+
+**China**
+
+| Platform | What | Region |
+|---|---|---|
 | 🟨 **微博** | 实时热搜 | 🇨🇳 |
 | 🔴 **知乎** | 热榜 | 🇨🇳 |
 | 🟦 **抖音** | 热搜词 | 🇨🇳 |
 | 🟩 **头条** | 头条热榜 | 🇨🇳 |
-| 🟫 **V2EX** | 热门主题 | global |
+| 🅱️ **Bilibili** | 全站热门 | 🇨🇳 |
+| 🟫 **V2EX** | 热门主题 | 🇨🇳 |
 
 > ℹ️ Twitter via [trends24.in](https://trends24.in/) (latest snapshot). Instagram via [top-hashtags.com](https://top-hashtags.com/instagram/) — Meta doesn't publish a real-time global trending feed, so it's "long-term most-used tags" rather than minute-by-minute movement.
 
@@ -90,7 +97,7 @@ https://xatlaz-com.github.io/trending/data/feeds/instagram.xml
 
 Optional Variables (Settings → Variables):
 - `COUNTRIES` — default `GB,US,JP,KR,IN,HK,TW`
-- `SOURCES` — default `youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,instagram,twitter`
+- `SOURCES` — default `youtube,twitter,reddit,instagram,github,weibo,zhihu,douyin,toutiao,bilibili,v2ex`
 - `ARCHIVE_HOURS` — default `0,12` (UTC hours when snapshots get archived)
 
 ## Local dev
