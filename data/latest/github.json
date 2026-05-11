@@ -1,162 +1,175 @@
 {
   "source": "github",
-  "updated_at": "2026-05-11T08:01:42+00:00",
-  "count": 12,
+  "updated_at": "2026-05-11T11:42:38+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "bytedance / UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "metric": "★ 32,525",
+      "metric": "★ 32,659",
       "extra": {
         "language": "TypeScript",
-        "stars": "32,525",
-        "forks": "3,218",
+        "stars": "32,659",
+        "forks": "3,232",
         "stars_today": "669 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "metric": "★ 19,500",
-      "extra": {
-        "language": "Python",
-        "stars": "19,500",
-        "forks": "2,529",
-        "stars_today": "1,449 stars today"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 38,954",
-      "extra": {
-        "language": "Shell",
-        "stars": "38,954",
-        "forks": "4,306",
-        "stars_today": "1,065 stars today"
-      }
-    },
-    {
-      "rank": 4,
       "title": "CloakHQ / CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "metric": "★ 5,207",
+      "metric": "★ 5,439",
       "extra": {
         "language": "Python",
-        "stars": "5,207",
-        "forks": "392",
+        "stars": "5,439",
+        "forks": "419",
         "stars_today": "496 stars today"
       }
     },
     {
-      "rank": 5,
-      "title": "HKUDS / AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "metric": "★ 15,885",
+      "rank": 3,
+      "title": "yikart / AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "metric": "★ 10,210",
       "extra": {
-        "language": "Python",
-        "stars": "15,885",
-        "forks": "2,552",
-        "stars_today": "163 stars today"
+        "language": "TypeScript",
+        "stars": "10,210",
+        "forks": "1,956",
+        "stars_today": "397 stars today"
       }
     },
     {
-      "rank": 6,
-      "title": "jundot / omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "metric": "★ 13,466",
-      "extra": {
-        "language": "Python",
-        "stars": "13,466",
-        "forks": "1,144",
-        "stars_today": "185 stars today"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "datawhalechina / easy-vibe",
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "metric": "★ 9,480",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "9,480",
-        "forks": "913",
-        "stars_today": "635 stars today"
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "playcanvas / supersplat",
       "url": "https://github.com/playcanvas/supersplat",
       "description": "3D Gaussian Splat Editor",
-      "metric": "★ 6,993",
+      "metric": "★ 7,052",
       "extra": {
         "language": "TypeScript",
-        "stars": "6,993",
-        "forks": "778",
+        "stars": "7,052",
+        "forks": "783",
         "stars_today": "579 stars today"
       }
     },
     {
-      "rank": 9,
-      "title": "lsdefine / GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "metric": "★ 10,710",
+      "rank": 5,
+      "title": "datawhalechina / easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "metric": "★ 9,601",
       "extra": {
-        "language": "Python",
-        "stars": "10,710",
-        "forks": "1,205",
-        "stars_today": "174 stars today"
+        "language": "JavaScript",
+        "stars": "9,601",
+        "forks": "920",
+        "stars_today": "635 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "decolua / 9router",
       "url": "https://github.com/decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "metric": "★ 7,631",
+      "metric": "★ 7,799",
       "extra": {
         "language": "JavaScript",
-        "stars": "7,631",
-        "forks": "1,261",
+        "stars": "7,799",
+        "forks": "1,280",
         "stars_today": "803 stars today"
       }
     },
     {
-      "rank": 11,
-      "title": "affaan-m / everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 178,780",
+      "rank": 7,
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "metric": "★ 943",
       "extra": {
-        "language": "JavaScript",
-        "stars": "178,780",
-        "forks": "27,572",
-        "stars_today": "1,081 stars today"
+        "language": "Rust",
+        "stars": "943",
+        "forks": "136",
+        "stars_today": "154 stars today"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "millionco / react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "metric": "★ 7,632",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "7,632",
+        "forks": "241",
+        "stars_today": "312 stars today"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Lordog / dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "metric": "★ 37,118",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "stars": "37,118",
+        "forks": "4,557",
+        "stars_today": "373 stars today"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "AUTOMATIC1111 / stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "metric": "★ 162,815",
+      "extra": {
+        "language": "Python",
+        "stars": "162,815",
+        "forks": "30,325",
+        "stars_today": "29 stars today"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "rasbt / LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "metric": "★ 92,607",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "stars": "92,607",
+        "forks": "14,305",
+        "stars_today": "141 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "datawhalechina / hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "metric": "★ 47,093",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "metric": "★ 143,669",
       "extra": {
         "language": "Python",
-        "stars": "47,093",
-        "forks": "5,667",
-        "stars_today": "748 stars today"
+        "stars": "143,669",
+        "forks": "22,425",
+        "stars_today": "1,496 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "rohitg00 / agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "metric": "★ 4,193",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "4,193",
+        "forks": "401",
+        "stars_today": "655 stars today"
       }
     }
   ]
