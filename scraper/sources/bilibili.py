@@ -18,12 +18,13 @@ def fetch() -> list[dict]:
     for rank, v in enumerate(raw, 1):
         stat = v.get("stat") or {}
         bvid = v.get("bvid") or ""
+        pic = (v.get("pic") or "").replace("http://", "https://") or None
         items.append({
             "rank": rank,
             "title": v.get("title") or "",
             "url": f"https://www.bilibili.com/video/{bvid}" if bvid else v.get("short_link_v2") or "",
             "description": (v.get("desc") or "")[:300],
-            "image": v.get("pic"),
+            "image": pic,
             "channel": (v.get("owner") or {}).get("name"),
             "metric": f"▶ {stat.get('view', 0):,}",
             "metric_value": stat.get("view", 0),
