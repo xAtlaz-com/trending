@@ -47,6 +47,11 @@ def write_json(path: Path, payload) -> None:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
 
+def write_text(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+
+
 def rss(items, title, link, description, updated):
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -119,13 +124,12 @@ def process_source(key, updated):
                 "updated_at": updated.isoformat(),
                 "count": len(items), "items": items,
             })
-            (DATA / "feeds" / f"{key}-{cc}.xml").write_text(
+            write_text(DATA / "feeds" / f"{key}-{cc}.xml",
                 rss(items,
                     title=f"{SITE_TITLE} — {label} {cc}",
                     link=f"{SITE_URL}#{key}/{cc}",
                     description=f"{label} trending for {cc}, refreshed every 30 minutes.",
-                    updated=updated),
-                encoding="utf-8")
+                    updated=updated))
         meta = {"key": key, "label": label, "kind": kind, "countries": countries}
         return meta, per_country
     else:
@@ -141,13 +145,12 @@ def process_source(key, updated):
             "updated_at": updated.isoformat(),
             "count": len(items), "items": items,
         })
-        (DATA / "feeds" / f"{key}.xml").write_text(
+        write_text(DATA / "feeds" / f"{key}.xml",
             rss(items,
                 title=f"{SITE_TITLE} — {label}",
                 link=f"{SITE_URL}#{key}",
                 description=f"{label}, refreshed every 30 minutes.",
-                updated=updated),
-            encoding="utf-8")
+                updated=updated))
         meta = {"key": key, "label": label, "kind": kind}
         return meta, items
 
@@ -184,13 +187,12 @@ def main() -> None:
         "data": combined_data,
     })
 
-    (DATA / "feed.xml").write_text(
+    write_text(DATA / "feed.xml",
         rss(all_items,
             title=f"{SITE_TITLE} — All sources",
             link=SITE_URL,
             description="Trending across YouTube, GitHub, V2EX, 微博, 知乎, 抖音, 头条 — refreshed every 30 minutes.",
-            updated=updated),
-        encoding="utf-8")
+            updated=updated))
 
     print(f"generated {len(sources_meta)} sources, {len(all_items)} total items")
 
