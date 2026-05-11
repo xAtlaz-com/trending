@@ -182,7 +182,7 @@ function renderCards(items, sourceKey) {
     if (img) {
       return `<article class="card">
         <a class="thumb" href="${escapeHtml(it.url)}" target="_blank" rel="noopener">
-          <img loading="lazy" src="${escapeHtml(img)}" alt="">
+          <img loading="lazy" referrerpolicy="no-referrer" src="${escapeHtml(img)}" alt="">
           <span class="rank">#${it.rank}</span>
         </a>
         <div class="body">
