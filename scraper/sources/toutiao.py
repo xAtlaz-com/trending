@@ -1,54 +1,33 @@
 from __future__ import annotations
 
-import json
-import sys
-
-from . import _aggregator
 from .base import session
 
 KEY = "toutiao"
 LABEL = "头条热榜"
 KIND = "single"
 
-URL = "https://i-lq.snssdk.com/api/feed/hotboard_online/v1/"
-
-
-def _fetch_direct() -> list[dict]:
-    s = session()
-    resp = s.get(URL, params={"category": "hotboard_online", "count": "50"}, timeout=30)
-    if resp.status_code != 200:
-        return []
-    items: list[dict] = []
-    for rank, raw in enumerate((resp.json() or {}).get("data") or [], 1):
-        content = raw
-        if isinstance(raw, dict) and isinstance(raw.get("content"), str):
-            try:
-                content = json.loads(raw["content"])
-            except Exception:
-                content = {}
-        title = content.get("title") or content.get("Title")
-        url = content.get("share_url") or content.get("url") or content.get("display_url")
-        hot = content.get("hot_value") or content.get("HotValue") or content.get("read_count") or 0
-        if not title:
-            continue
-        items.append({
-            "rank": rank, "title": title, "url": url or "",
-            "metric": f"{int(hot):,}" if str(hot).isdigit() else str(hot),
-            "metric_value": int(hot) if str(hot).isdigit() else 0,
-        })
-    return items
+URL = "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc"
 
 
 def fetch() -> list[dict]:
-    try:
-        items = _fetch_direct()
-        if items:
-            print(f"[{KEY}] direct OK, {len(items)} items", file=sys.stderr)
-            return items
-        print(f"[{KEY}] direct returned 0, falling back to aggregator", file=sys.stderr)
-    except Exception as e:
-        print(f"[{KEY}] direct failed: {e}, falling back to aggregator", file=sys.stderr)
-    return _aggregator.fetch_hot("toutiao")
+    s = session()
+    resp = s.get(URL, timeout=30)
+    resp.raise_for_status()
+    raw_items = (resp.json() or {}).get("data") or []
+    items: list[dict] = []
+    for rank, v in enumerate(raw_items, 1):
+        cid = v.get("ClusterIdStr") or ""
+        hot = v.get("HotValue") or 0
+        hot_int = int(hot) if str(hot).isdigit() else 0
+        items.append({
+            "rank": rank,
+            "title": v.get("Title") or "",
+            "url": f"https://www.toutiao.com/trending/{cid}/" if cid else "",
+            "image": (v.get("Image") or {}).get("url"),
+            "metric": f"{hot_int:,}" if hot_int else "",
+            "metric_value": hot_int,
+        })
+    return items
 
 
 def normalize(items: list[dict]) -> list[dict]:

@@ -1,56 +1,37 @@
 from __future__ import annotations
 
-import sys
-from urllib.parse import urljoin
+from urllib.parse import quote
 
-from bs4 import BeautifulSoup
-
-from . import _aggregator
 from .base import session
 
 KEY = "weibo"
 LABEL = "微博热搜"
 KIND = "single"
 
-URL = "https://s.weibo.com/top/summary?cate=realtimehot"
-
-
-def _fetch_direct() -> list[dict]:
-    s = session()
-    resp = s.get(URL, timeout=30, allow_redirects=False)
-    if resp.status_code != 200:
-        return []
-    soup = BeautifulSoup(resp.text, "html.parser")
-    items: list[dict] = []
-    rows = soup.select("table tbody tr")
-    rank = 0
-    for tr in rows:
-        td = tr.select_one("td.td-02")
-        if not td:
-            continue
-        a = td.select_one("a")
-        if not a:
-            continue
-        rank += 1
-        href = a.get("href", "")
-        url = urljoin("https://s.weibo.com", href)
-        title = a.get_text(strip=True)
-        span = td.select_one("span")
-        hot = span.get_text(strip=True) if span else ""
-        items.append({"rank": rank, "title": title, "url": url, "metric": hot})
-    return items
+URL = "https://weibo.com/ajax/side/hotSearch"
 
 
 def fetch() -> list[dict]:
-    try:
-        items = _fetch_direct()
-        if items:
-            print(f"[{KEY}] direct OK, {len(items)} items", file=sys.stderr)
-            return items
-        print(f"[{KEY}] direct returned 0, falling back to aggregator", file=sys.stderr)
-    except Exception as e:
-        print(f"[{KEY}] direct failed: {e}, falling back to aggregator", file=sys.stderr)
-    return _aggregator.fetch_hot("weibo")
+    s = session(headers={
+        "Referer": "https://weibo.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0 Safari/537.36",
+    })
+    resp = s.get(URL, timeout=30)
+    resp.raise_for_status()
+    realtime = ((resp.json() or {}).get("data") or {}).get("realtime") or []
+    items: list[dict] = []
+    for rank, v in enumerate(realtime, 1):
+        word = v.get("word") or v.get("word_scheme") or f"热搜{rank}"
+        items.append({
+            "rank": rank,
+            "title": word,
+            "url": f"https://s.weibo.com/weibo?q={quote(word)}",
+            "description": v.get("word_scheme") or "",
+            "metric": f"{v.get('num'):,}" if isinstance(v.get("num"), int) else (v.get("note") or ""),
+            "metric_value": v.get("num") if isinstance(v.get("num"), int) else 0,
+            "extra": {"label_name": v.get("label_name"), "category": v.get("category")},
+        })
+    return items
 
 
 def normalize(items: list[dict]) -> list[dict]:
