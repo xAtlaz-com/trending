@@ -4,11 +4,11 @@
 
 # Trending Pages
 
-**One place. Ten platforms. What the world is watching, right now.**
+**One place. Eleven platforms. What the world is watching, right now.**
 
-[🌐 **Live site**](https://xatlaz-com.github.io/trending/) · [📦 JSON API](https://xatlaz-com.github.io/trending/data/latest.json) · [📡 RSS](https://xatlaz-com.github.io/trending/data/feed.xml)
+[🌐 **Live site**](https://trending.subdownload.com/) · [📦 JSON API](https://trending.subdownload.com/data/latest.json) · [📡 RSS](https://trending.subdownload.com/data/feed.xml) · [🗄 Archive](https://trending.subdownload.com/data/archive/)
 
-![refresh](https://img.shields.io/badge/refresh-every%2030%20min-1ee84d) ![sources](https://img.shields.io/badge/sources-10-1ee84d) ![languages](https://img.shields.io/badge/i18n-7%20languages-1ee84d) ![license](https://img.shields.io/badge/license-MIT-blue)
+![refresh](https://img.shields.io/badge/refresh-every%2030%20min-1ee84d) ![sources](https://img.shields.io/badge/sources-11-1ee84d) ![languages](https://img.shields.io/badge/i18n-7%20languages-1ee84d) ![license](https://img.shields.io/badge/license-MIT-blue)
 
 </div>
 
@@ -16,11 +16,12 @@
 
 ## What it shows
 
-Real-time trending from 10 of the world's biggest content platforms — refreshed every 30 minutes, history archived twice a day:
+Real-time trending from 11 of the world's biggest content platforms — refreshed every 30 minutes, history archived twice a day:
 
 | Platform | What | Region |
 |---|---|---|
 | 🟥 **YouTube** | `chart=mostPopular` videos | 🇬🇧 🇺🇸 🇯🇵 🇰🇷 🇮🇳 🇭🇰 🇹🇼 |
+| 𝕏 **X / Twitter** | trends | global |
 | 🟧 **Reddit** | `r/popular` | global |
 | 🐙 **GitHub** | trending daily repositories | global |
 | 📷 **Instagram** | top hashtags | global |
@@ -31,7 +32,7 @@ Real-time trending from 10 of the world's biggest content platforms — refreshe
 | 🟩 **头条** | 头条热榜 | 🇨🇳 |
 | 🟫 **V2EX** | 热门主题 | global |
 
-> ℹ️ Instagram uses [top-hashtags.com](https://top-hashtags.com/instagram/) — Meta doesn't publish a real-time global trending feed, so this is "long-term most-used tags" rather than minute-by-minute movement.
+> ℹ️ Twitter via [trends24.in](https://trends24.in/) (latest snapshot). Instagram via [top-hashtags.com](https://top-hashtags.com/instagram/) — Meta doesn't publish a real-time global trending feed, so it's "long-term most-used tags" rather than minute-by-minute movement.
 
 ## What you get, for free
 
@@ -89,7 +90,7 @@ https://xatlaz-com.github.io/trending/data/feeds/instagram.xml
 
 Optional Variables (Settings → Variables):
 - `COUNTRIES` — default `GB,US,JP,KR,IN,HK,TW`
-- `SOURCES` — default `youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,instagram`
+- `SOURCES` — default `youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,instagram,twitter`
 - `ARCHIVE_HOURS` — default `0,12` (UTC hours when snapshots get archived)
 
 ## Local dev
