@@ -4,11 +4,11 @@
 
 # Trending Pages
 
-**One place. Nine platforms. What the world is watching, right now.**
+**One place. Ten platforms. What the world is watching, right now.**
 
 [🌐 **Live site**](https://xatlaz-com.github.io/trending/) · [📦 JSON API](https://xatlaz-com.github.io/trending/data/latest.json) · [📡 RSS](https://xatlaz-com.github.io/trending/data/feed.xml)
 
-![refresh](https://img.shields.io/badge/refresh-every%2030%20min-1ee84d) ![sources](https://img.shields.io/badge/sources-9-1ee84d) ![languages](https://img.shields.io/badge/i18n-7%20languages-1ee84d) ![license](https://img.shields.io/badge/license-MIT-blue)
+![refresh](https://img.shields.io/badge/refresh-every%2030%20min-1ee84d) ![sources](https://img.shields.io/badge/sources-10-1ee84d) ![languages](https://img.shields.io/badge/i18n-7%20languages-1ee84d) ![license](https://img.shields.io/badge/license-MIT-blue)
 
 </div>
 
@@ -16,19 +16,22 @@
 
 ## What it shows
 
-Real-time trending from 9 of the world's biggest content platforms — refreshed every 30 minutes, history archived twice a day:
+Real-time trending from 10 of the world's biggest content platforms — refreshed every 30 minutes, history archived twice a day:
 
 | Platform | What | Region |
 |---|---|---|
 | 🟥 **YouTube** | `chart=mostPopular` videos | 🇬🇧 🇺🇸 🇯🇵 🇰🇷 🇮🇳 🇭🇰 🇹🇼 |
 | 🟧 **Reddit** | `r/popular` | global |
 | 🐙 **GitHub** | trending daily repositories | global |
+| 📷 **Instagram** | top hashtags | global |
 | 🅱️ **Bilibili** | 全站热门 | 🇨🇳 |
 | 🟨 **微博** | 实时热搜 | 🇨🇳 |
 | 🔴 **知乎** | 热榜 | 🇨🇳 |
 | 🟦 **抖音** | 热搜词 | 🇨🇳 |
 | 🟩 **头条** | 头条热榜 | 🇨🇳 |
 | 🟫 **V2EX** | 热门主题 | global |
+
+> ℹ️ Instagram uses [top-hashtags.com](https://top-hashtags.com/instagram/) — Meta doesn't publish a real-time global trending feed, so this is "long-term most-used tags" rather than minute-by-minute movement.
 
 ## What you get, for free
 
@@ -59,15 +62,19 @@ curl https://xatlaz-com.github.io/trending/data/latest/youtube/US.json
 # Just GitHub trending
 curl https://xatlaz-com.github.io/trending/data/latest/github.json
 
+# Just Instagram top hashtags
+curl https://xatlaz-com.github.io/trending/data/latest/instagram.json
+
 # Historical: midnight UTC archive for 2026-05-11
 curl https://xatlaz-com.github.io/trending/data/archive/26.05.11/00/youtube-GB.json
 ```
 
 Subscribe in any RSS reader:
 ```
-https://xatlaz-com.github.io/trending/data/feed.xml          # everything
-https://xatlaz-com.github.io/trending/data/feeds/youtube-US.xml
+https://xatlaz-com.github.io/trending/data/feed.xml             # everything
+https://xatlaz-com.github.io/trending/data/feeds/youtube-GB.xml
 https://xatlaz-com.github.io/trending/data/feeds/weibo.xml
+https://xatlaz-com.github.io/trending/data/feeds/instagram.xml
 ```
 
 ---
@@ -82,7 +89,7 @@ https://xatlaz-com.github.io/trending/data/feeds/weibo.xml
 
 Optional Variables (Settings → Variables):
 - `COUNTRIES` — default `GB,US,JP,KR,IN,HK,TW`
-- `SOURCES` — default `youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili`
+- `SOURCES` — default `youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,instagram`
 - `ARCHIVE_HOURS` — default `0,12` (UTC hours when snapshots get archived)
 
 ## Local dev
