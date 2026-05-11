@@ -32,7 +32,7 @@ SOURCES = [
         "SOURCES", "youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili"
     ).split(",") if s.strip()
 ]
-COUNTRY_ORDER = [c.strip() for c in os.environ.get("COUNTRIES", "US,JP,KR,GB,IN,HK,TW").split(",") if c.strip()]
+COUNTRY_ORDER = [c.strip() for c in os.environ.get("COUNTRIES", "GB,US,JP,KR,IN,HK,TW").split(",") if c.strip()]
 
 
 def ordered_countries(found):

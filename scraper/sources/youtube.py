@@ -13,7 +13,7 @@ PARTS = "id,snippet,contentDetails,statistics,player,topicDetails"
 
 
 def get_countries() -> list[str]:
-    return [c.strip() for c in os.environ.get("COUNTRIES", "US,JP,KR,GB,IN,HK,TW").split(",") if c.strip()]
+    return [c.strip() for c in os.environ.get("COUNTRIES", "GB,US,JP,KR,IN,HK,TW").split(",") if c.strip()]
 
 
 def fetch() -> dict[str, list[dict]]:
