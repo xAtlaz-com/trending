@@ -39,6 +39,9 @@ jobs:
           SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,instagram' }}
         run: python scraper/generate_outputs.py
 
+      - name: Generate archive index pages
+        run: python scraper/generate_archive_index.py
+
       - name: Commit and push
         run: |
           git config user.email "actions@github.com"
