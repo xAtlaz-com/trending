@@ -4,10 +4,10 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title data-i18n="title">Trending Pages</title>
-<meta name="description" data-i18n-attr="content:description_meta" content="YouTube trending videos across regions, refreshed every 30 minutes. RSS + JSON API included." />
+<meta name="description" data-i18n-attr="content:description_meta" content="YouTube / GitHub / V2EX / 微博 / 知乎 / 抖音 / 头条 trending, refreshed every 30 minutes. RSS + JSON API included." />
 <link rel="icon" type="image/png" href="./assets/icon.png" />
 <link rel="apple-touch-icon" href="./assets/icon.png" />
-<link rel="alternate" type="application/rss+xml" title="Trending — YouTube (all regions)" href="./data/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="Trending (all)" href="./data/feed.xml" />
 <link rel="stylesheet" href="./assets/style.css" />
 </head>
 <body>
@@ -18,7 +18,7 @@
     <select id="lang-select" class="lang-select" aria-label="Language"></select>
   </div>
   <p class="sub">
-    <span data-i18n="subtitle">YouTube · refreshed every 30 min ·</span>
+    <span data-i18n="subtitle">Refreshed every 30 min ·</span>
     <span id="updated" data-i18n="loading">loading…</span>
   </p>
   <nav class="links">
@@ -29,16 +29,13 @@
   </nav>
 </header>
 
-<section class="tabs" id="tabs" role="tablist" aria-label="Country"></section>
+<section class="sources" id="sources" role="tablist" aria-label="Source"></section>
+<section class="tabs" id="tabs" role="tablist" aria-label="Sub"></section>
 
 <main id="grid" class="grid"></main>
 
 <footer>
-  <p>
-    <span data-i18n="footer_via">Data via YouTube Data API v3.</span>
-    <span data-i18n="footer_feeds">Per-country feeds:</span>
-    <span id="per-country-feeds"></span>
-  </p>
+  <p><span data-i18n="footer_feeds">Per-source feeds:</span> <span id="per-source-feeds"></span></p>
 </footer>
 
 <script src="./assets/app.js"></script>

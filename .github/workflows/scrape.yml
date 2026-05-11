@@ -25,14 +25,18 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Scrape
+      - name: Scrape all sources
         env:
           YOUTUBE_DATA_API_KEY: ${{ secrets.YOUTUBE_DATA_API_KEY }}
           COUNTRIES: ${{ vars.COUNTRIES || 'US,JP,KR,GB,IN,HK,TW' }}
+          SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao' }}
           ARCHIVE_HOURS: ${{ vars.ARCHIVE_HOURS || '0,12' }}
-        run: python scraper/youtube_scraper.py
+        run: python scraper/scrape_all.py
 
       - name: Generate latest.json + RSS
+        env:
+          COUNTRIES: ${{ vars.COUNTRIES || 'US,JP,KR,GB,IN,HK,TW' }}
+          SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao' }}
         run: python scraper/generate_outputs.py
 
       - name: Commit and push
