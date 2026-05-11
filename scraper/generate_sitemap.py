@@ -10,7 +10,15 @@ from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parent.parent
 ARCHIVE = ROOT / "data" / "archive"
+LATEST = ROOT / "data" / "latest"
 BASE = "https://trending.subdownload.com"
+
+SOURCE_ORDER = [
+    "youtube", "twitter", "reddit", "instagram", "github",
+    "weibo", "zhihu", "douyin", "toutiao", "bilibili", "v2ex",
+]
+MULTI_COUNTRY = {"youtube"}
+COUNTRY_ORDER = ["GB", "US", "JP", "KR", "IN", "HK", "TW"]
 
 
 def url_entry(loc: str, lastmod: str | None = None, changefreq: str | None = None, priority: str | None = None) -> str:
@@ -31,6 +39,27 @@ def main() -> None:
 
     # Homepage — highest priority, refreshes constantly
     entries.append(url_entry(f"{BASE}/", lastmod=now, changefreq="always", priority="1.0"))
+
+    # Static per-source pages (and per-country sub-pages for multi-country sources)
+    for key in SOURCE_ORDER:
+        if key in MULTI_COUNTRY:
+            d = LATEST / key
+            if not d.is_dir():
+                continue
+            found = sorted(p.stem for p in d.glob("*.json"))
+            known = [c for c in COUNTRY_ORDER if c in found]
+            extra = sorted(c for c in found if c not in COUNTRY_ORDER)
+            for cc in known + extra:
+                entries.append(url_entry(
+                    f"{BASE}/{key}/{cc}/",
+                    lastmod=now, changefreq="hourly", priority="0.9",
+                ))
+        else:
+            if (LATEST / f"{key}.json").exists():
+                entries.append(url_entry(
+                    f"{BASE}/{key}/",
+                    lastmod=now, changefreq="hourly", priority="0.9",
+                ))
 
     # Archive root
     if ARCHIVE.exists():

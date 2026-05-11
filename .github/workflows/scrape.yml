@@ -39,6 +39,9 @@ jobs:
           SOURCES: ${{ vars.SOURCES || 'youtube,twitter,reddit,instagram,github,weibo,zhihu,douyin,toutiao,bilibili,v2ex' }}
         run: python scraper/generate_outputs.py
 
+      - name: Generate static per-source pages
+        run: python scraper/generate_pages.py
+
       - name: Generate archive index pages
         run: python scraper/generate_archive_index.py
 
