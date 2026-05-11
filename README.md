@@ -1,46 +1,99 @@
+<div align="center">
+
+<img src="./assets/icon.png" width="96" alt="Trending Pages logo" />
+
 # Trending Pages
 
-YouTube trending videos across regions — auto-refreshed every 30 minutes, with full historical archive, JSON API, and RSS feeds. Hosted as a static site on GitHub Pages.
+**One place. Nine platforms. What the world is watching, right now.**
 
-## What you get
+[🌐 **Live site**](https://xatlaz-com.github.io/trending/) · [📦 JSON API](https://xatlaz-com.github.io/trending/data/latest.json) · [📡 RSS](https://xatlaz-com.github.io/trending/data/feed.xml)
 
-- **Web UI** — `https://<user>.github.io/<repo>/` — country tabs, thumbnails, ranks, views
-- **JSON API** — always the latest snapshot
-  - `data/latest.json` — all countries combined
-  - `data/latest/<CC>.json` — single country (e.g. `data/latest/US.json`)
-- **RSS feeds**
-  - `data/feed.xml` — all countries combined
-  - `data/feeds/<CC>.xml` — single country
-- **History archive** — `data/archive/YY.MM.DD/<HH>/<CC>.json` (raw API responses, **2 snapshots per day** by default at UTC 00:00 and 12:00)
+![refresh](https://img.shields.io/badge/refresh-every%2030%20min-1ee84d) ![sources](https://img.shields.io/badge/sources-9-1ee84d) ![languages](https://img.shields.io/badge/i18n-7%20languages-1ee84d) ![license](https://img.shields.io/badge/license-MIT-blue)
 
-## Setup (one time)
+</div>
 
-1. Push this repo to GitHub.
-2. **Secrets** — Settings → Secrets and variables → Actions → New repository secret:
-   - `YOUTUBE_DATA_API_KEY` — your YouTube Data API v3 key ([Google Cloud Console](https://console.cloud.google.com/apis/credentials), free 10 000 units/day quota; this project uses ~340/day at 30-min intervals × 7 countries).
-3. **(Optional) Variables** — Settings → Secrets and variables → Actions → Variables:
-   - `COUNTRIES` — comma-separated ISO codes. Default `US,JP,KR,GB,IN,HK,TW`.
-   - `ARCHIVE_HOURS` — comma-separated UTC hours at which to snapshot to `data/archive/`. Default `0,12` (twice a day). The scraper still runs every 30 min for fresh `latest.json` / RSS, but only writes to archive at these slots.
-4. **GitHub Pages** — Settings → Pages → Source: `Deploy from a branch` → branch `main`, folder `/ (root)`.
-5. **Run it once** — Actions tab → `Scrape YouTube Trending` → `Run workflow`. After it completes, your site is live and will refresh every 30 min.
+---
+
+## What it shows
+
+Real-time trending from 9 of the world's biggest content platforms — refreshed every 30 minutes, history archived twice a day:
+
+| Platform | What | Region |
+|---|---|---|
+| 🟥 **YouTube** | `chart=mostPopular` videos | 🇬🇧 🇺🇸 🇯🇵 🇰🇷 🇮🇳 🇭🇰 🇹🇼 |
+| 🟧 **Reddit** | `r/popular` | global |
+| 🐙 **GitHub** | trending daily repositories | global |
+| 🅱️ **Bilibili** | 全站热门 | 🇨🇳 |
+| 🟨 **微博** | 实时热搜 | 🇨🇳 |
+| 🔴 **知乎** | 热榜 | 🇨🇳 |
+| 🟦 **抖音** | 热搜词 | 🇨🇳 |
+| 🟩 **头条** | 头条热榜 | 🇨🇳 |
+| 🟫 **V2EX** | 热门主题 | global |
+
+## What you get, for free
+
+- **🌐 Web UI** — Pinterest-style masonry, instant country/source switching, dark mode
+- **📦 JSON API** — `data/latest.json` for everything, `data/latest/<source>.json` per platform, `data/latest/youtube/<CC>.json` per country
+- **📡 RSS feeds** — `data/feed.xml` combined + per-source `data/feeds/<source>.xml`
+- **🗄 Full history** — `data/archive/YY.MM.DD/HH/*.json` snapshots, twice daily, preserved forever
+- **🌍 7 languages** — English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Español · हिन्दी
+- **⚙️ Self-hostable** — fork it, add your own YouTube key, done
+
+## Use cases
+
+- 📊 **Trend research** — historical archive gives you a year-over-year view of what was hot when
+- 🎯 **Content strategy** — see what's working across platforms before you post
+- 🤖 **Bot fuel** — JSON API is one HTTP GET away; build dashboards, Slack bots, newsletters
+- 📰 **Personal feed** — subscribe to per-platform RSS, skip the doom-scrolling
+- 🌏 **Cross-cultural pulse** — compare what's trending in 🇺🇸 vs 🇨🇳 vs 🇯🇵 at a glance
+
+## API at a glance
+
+```bash
+# Everything, all sources, latest snapshot
+curl https://xatlaz-com.github.io/trending/data/latest.json
+
+# Just YouTube US
+curl https://xatlaz-com.github.io/trending/data/latest/youtube/US.json
+
+# Just GitHub trending
+curl https://xatlaz-com.github.io/trending/data/latest/github.json
+
+# Historical: midnight UTC archive for 2026-05-11
+curl https://xatlaz-com.github.io/trending/data/archive/26.05.11/00/youtube-GB.json
+```
+
+Subscribe in any RSS reader:
+```
+https://xatlaz-com.github.io/trending/data/feed.xml          # everything
+https://xatlaz-com.github.io/trending/data/feeds/youtube-US.xml
+https://xatlaz-com.github.io/trending/data/feeds/weibo.xml
+```
+
+---
+
+## Setup (your own fork)
+
+1. Fork → enable GitHub Actions on your fork.
+2. Get a free [YouTube Data API v3 key](https://console.cloud.google.com/apis/credentials) (10K units/day free, project uses ~340/day).
+3. Settings → Secrets → add `YOUTUBE_DATA_API_KEY`.
+4. Settings → Pages → branch `main`, folder `/ (root)`.
+5. Actions → run `Scrape Trending` once. Done — it'll refresh every 30 min on its own.
+
+Optional Variables (Settings → Variables):
+- `COUNTRIES` — default `GB,US,JP,KR,IN,HK,TW`
+- `SOURCES` — default `youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili`
+- `ARCHIVE_HOURS` — default `0,12` (UTC hours when snapshots get archived)
 
 ## Local dev
 
 ```bash
 pip install -r requirements.txt
-export YOUTUBE_DATA_API_KEY=your_key_here
-export COUNTRIES=US,JP
-python scraper/youtube_scraper.py
+export YOUTUBE_DATA_API_KEY=your_key
+python scraper/scrape_all.py
 python scraper/generate_outputs.py
 python -m http.server 8000   # open http://localhost:8000/
 ```
-
-## Notes
-
-- GitHub Actions cron is best-effort; expect ±5–15 min drift during peak hours. The archive slot logic is idempotent — first run within an archive hour wins, retries are no-ops.
-- `data/raw/<CC>.json` is overwritten every run (not committed history). Only `data/archive/` keeps long-term snapshots.
-- At 2 snapshots/day × 7 countries × ~250 KB/country, archive grows ~3.5 MB/day, ~1.3 GB/year. Manageable in a regular repo for years.
-- `latest.json` and per-country files are **simplified** (rank, title, channel, views, thumbnail, duration, url). Raw API responses live in `data/raw/` (current) and `data/archive/` (historical).
 
 ## License
 
