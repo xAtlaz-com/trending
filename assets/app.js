@@ -232,6 +232,62 @@ function renderUpdated(iso) {
 
 const state = {};
 
+let masonryRO = null;
+let masonryTimer = null;
+const MASONRY_GAP = 14;
+const MASONRY_MIN_WIDTH = 280;
+
+function layoutMasonry() {
+  const grid = document.getElementById("grid");
+  if (!grid) return;
+  const cards = [...grid.querySelectorAll(".card")];
+  if (!cards.length) { grid.style.height = ""; return; }
+  const w = grid.clientWidth;
+  if (w <= 0) return;
+  const numCols = Math.max(1, Math.floor((w + MASONRY_GAP) / (MASONRY_MIN_WIDTH + MASONRY_GAP)));
+  const colWidth = (w - MASONRY_GAP * (numCols - 1)) / numCols;
+  const colHeights = new Array(numCols).fill(0);
+  cards.forEach(card => {
+    card.style.width = colWidth + "px";
+    let minIdx = 0;
+    for (let i = 1; i < numCols; i++) {
+      if (colHeights[i] < colHeights[minIdx]) minIdx = i;
+    }
+    const x = minIdx * (colWidth + MASONRY_GAP);
+    const y = colHeights[minIdx];
+    card.style.left = x + "px";
+    card.style.top = y + "px";
+    colHeights[minIdx] += card.offsetHeight + MASONRY_GAP;
+  });
+  grid.style.height = (Math.max(...colHeights) - MASONRY_GAP) + "px";
+}
+
+function relayoutSoon() {
+  if (masonryTimer) return;
+  masonryTimer = requestAnimationFrame(() => {
+    masonryTimer = null;
+    layoutMasonry();
+  });
+}
+
+function setupMasonry() {
+  const grid = document.getElementById("grid");
+  if (!grid) return;
+  if (masonryRO) masonryRO.disconnect();
+  masonryRO = new ResizeObserver(relayoutSoon);
+  masonryRO.observe(grid);
+  grid.querySelectorAll(".card").forEach(c => masonryRO.observe(c));
+  grid.querySelectorAll("img").forEach(img => {
+    if (!img.complete) {
+      img.addEventListener("load", relayoutSoon, { once: true });
+      img.addEventListener("error", relayoutSoon, { once: true });
+    }
+  });
+  layoutMasonry();
+}
+
+window.addEventListener("resize", relayoutSoon);
+
 (async function init() {
   applyI18n();
   renderLangSelect();
@@ -290,6 +346,7 @@ const state = {};
     }
     renderFeeds(sources);
     renderUpdated(payload.updated_at);
+    setupMasonry();
   };
 
   if (!currentCC) {

@@ -29,8 +29,9 @@ header { padding: 24px 20px 8px; max-width: 1200px; margin: 0 auto; }
 .tab { padding: 8px 14px; border-radius: 8px 8px 0 0; cursor: pointer; background: transparent; color: var(--muted); border: 1px solid transparent; border-bottom: none; font-size: 13px; }
 .tab[aria-selected="true"] { background: var(--panel); color: var(--fg); border-color: var(--line); }
 
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; align-items: start; padding: 18px 20px 40px; max-width: 1200px; margin: 0 auto; }
-.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; transition: border-color .15s; }
+.grid-wrap { padding: 18px 20px 40px; max-width: 1200px; margin: 0 auto; }
+.grid { position: relative; width: 100%; }
+.card { position: absolute; top: 0; left: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; transition: border-color .15s, top .25s cubic-bezier(.2,.7,.2,1), left .25s cubic-bezier(.2,.7,.2,1); }
 .card.no-thumb { padding: 14px 16px; }
 .card:hover { border-color: #3a4452; }
 .thumb { position: relative; aspect-ratio: 16/9; background: #000; }
