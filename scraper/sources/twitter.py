@@ -22,6 +22,9 @@ def fetch() -> list[dict]:
     })
     resp = s.get(URL, timeout=30)
     resp.raise_for_status()
+    # trends24.in serves UTF-8 but doesn't advertise charset in Content-Type,
+    # so requests falls back to ISO-8859-1 and mangles é, 日本語, etc.
+    resp.encoding = "utf-8"
     soup = BeautifulSoup(resp.text, "html.parser")
 
     # Page renders multiple time-slot cards; first one is the most recent snapshot.
