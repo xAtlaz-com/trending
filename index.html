@@ -3,20 +3,29 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Trending Pages — YouTube</title>
-<meta name="description" content="YouTube trending videos across regions, refreshed every 30 minutes. RSS + JSON API included." />
+<title data-i18n="title">Trending Pages</title>
+<meta name="description" data-i18n-attr="content:description_meta" content="YouTube trending videos across regions, refreshed every 30 minutes. RSS + JSON API included." />
+<link rel="icon" type="image/png" href="./assets/icon.png" />
+<link rel="apple-touch-icon" href="./assets/icon.png" />
 <link rel="alternate" type="application/rss+xml" title="Trending — YouTube (all regions)" href="./data/feed.xml" />
 <link rel="stylesheet" href="./assets/style.css" />
 </head>
 <body>
 <header>
-  <h1>Trending Pages</h1>
-  <p class="sub">YouTube · refreshed every 30 min · <span id="updated">loading…</span></p>
+  <div class="brand">
+    <img src="./assets/icon.png" alt="" class="logo" />
+    <h1 data-i18n="title">Trending Pages</h1>
+    <select id="lang-select" class="lang-select" aria-label="Language"></select>
+  </div>
+  <p class="sub">
+    <span data-i18n="subtitle">YouTube · refreshed every 30 min ·</span>
+    <span id="updated" data-i18n="loading">loading…</span>
+  </p>
   <nav class="links">
-    <a href="./data/latest.json">latest.json</a>
-    <a href="./data/feed.xml">RSS</a>
-    <a href="./data/archive/">history</a>
-    <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">source</a>
+    <a href="./data/latest.json" data-i18n="nav_json">latest.json</a>
+    <a href="./data/feed.xml" data-i18n="nav_rss">RSS</a>
+    <a href="./data/archive/" data-i18n="nav_history">history</a>
+    <a href="https://github.com/xAtlaz-com/trending" target="_blank" rel="noopener" data-i18n="nav_source">source</a>
   </nav>
 </header>
 
@@ -25,7 +34,11 @@
 <main id="grid" class="grid"></main>
 
 <footer>
-  <p>Data via YouTube Data API v3. Per-country feeds: <span id="per-country-feeds"></span></p>
+  <p>
+    <span data-i18n="footer_via">Data via YouTube Data API v3.</span>
+    <span data-i18n="footer_feeds">Per-country feeds:</span>
+    <span id="per-country-feeds"></span>
+  </p>
 </footer>
 
 <script src="./assets/app.js"></script>

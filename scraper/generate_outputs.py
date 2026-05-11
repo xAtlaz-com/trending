@@ -5,7 +5,9 @@ Read data/raw/<CC>.json (always-fresh, written by the scraper every run) and pro
   data/feed.xml                    — combined RSS 2.0
   data/feeds/<CC>.xml              — per-country RSS 2.0
 """
+from __future__ import annotations
 import json
+import os
 import re
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -17,7 +19,15 @@ RAW = ROOT / "data" / "raw"
 DATA = ROOT / "data"
 
 SITE_TITLE = "Trending Pages"
-SITE_URL = "https://example.github.io/trending/"
+SITE_URL = "https://xatlaz-com.github.io/trending/"
+COUNTRY_ORDER = [c.strip() for c in os.environ.get("COUNTRIES", "US,JP,KR,GB,IN,HK,TW").split(",") if c.strip()]
+
+
+def ordered(countries):
+    """Sort countries by COUNTRY_ORDER (US first by default); unknowns appended alphabetically."""
+    known = [c for c in COUNTRY_ORDER if c in countries]
+    extra = sorted(c for c in countries if c not in COUNTRY_ORDER)
+    return known + extra
 
 
 def find_raw_per_country() -> dict[str, Path]:
@@ -115,7 +125,8 @@ def main() -> None:
     combined: dict[str, list[dict]] = {}
     all_items: list[dict] = []
 
-    for cc, path in sorted(raw_files.items()):
+    for cc in ordered(raw_files.keys()):
+        path = raw_files[cc]
         with path.open("r", encoding="utf-8") as f:
             raw = json.load(f)
         items = simplify(raw, cc)
@@ -142,7 +153,7 @@ def main() -> None:
 
     write_json(DATA / "latest.json", {
         "updated_at": updated.isoformat(),
-        "countries": sorted(combined.keys()),
+        "countries": ordered(combined.keys()),
         "data": combined,
     })
 

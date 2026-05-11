@@ -6,6 +6,7 @@ Writes to:
   data/archive/<YY.MM.DD>/<HH>/<CC>.json               — only when current UTC hour ∈ ARCHIVE_HOURS (default 00,12)
                                                           and that slot hasn't been written yet today
 """
+from __future__ import annotations
 import json
 import os
 import sys
