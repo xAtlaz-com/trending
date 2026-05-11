@@ -42,6 +42,9 @@ jobs:
       - name: Generate archive index pages
         run: python scraper/generate_archive_index.py
 
+      - name: Generate sitemap.xml
+        run: python scraper/generate_sitemap.py
+
       - name: Commit and push
         run: |
           git config user.email "actions@github.com"

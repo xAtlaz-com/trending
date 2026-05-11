@@ -3,17 +3,102 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title data-i18n="title">Trending Pages</title>
-<meta name="description" data-i18n-attr="content:description_meta" content="YouTube / GitHub / V2EX / 微博 / 知乎 / 抖音 / 头条 trending, refreshed every 30 minutes. RSS + JSON API included." />
+<title data-i18n="title">Trending Pages — Real-time trends from YouTube, X, Reddit, GitHub, Weibo & more</title>
+<meta name="description" data-i18n-attr="content:description_meta" content="Track what's trending across YouTube, X/Twitter, Reddit, Instagram, GitHub, Weibo, Zhihu, Douyin, Toutiao, Bilibili and V2EX. Refreshed every 30 minutes. Free JSON API and RSS feeds." />
+<meta name="keywords" content="trending, trends, youtube trending, twitter trends, x trends, reddit popular, github trending, weibo hot search, 微博热搜, douyin, 抖音热搜, zhihu, 知乎热榜, bilibili, 头条, instagram hashtags, v2ex, real-time trends, json api, rss feed" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+<meta name="theme-color" content="#0b0d10" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Trending" />
+<link rel="canonical" href="https://trending.subdownload.com/" />
 <link rel="icon" type="image/png" href="./assets/icon.png" />
 <link rel="apple-touch-icon" href="./assets/icon.png" />
-<link rel="alternate" type="application/rss+xml" title="Trending (all)" href="./data/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="Trending — all sources" href="./data/feed.xml" />
+<link rel="alternate" type="application/json" title="Trending — JSON API" href="./data/latest.json" />
 <link rel="stylesheet" href="./assets/style.css" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Trending Pages" />
+<meta property="og:title" content="Trending Pages — Real-time cross-platform trends" />
+<meta property="og:description" content="What the world is watching, right now. YouTube, X, Reddit, Instagram, GitHub, Weibo, Zhihu, Douyin, Toutiao, Bilibili & V2EX — refreshed every 30 min. Free JSON API + RSS." />
+<meta property="og:url" content="https://trending.subdownload.com/" />
+<meta property="og:image" content="https://trending.subdownload.com/assets/icon.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="256" />
+<meta property="og:image:height" content="256" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="zh_CN" />
+<meta property="og:locale:alternate" content="zh_TW" />
+<meta property="og:locale:alternate" content="ja_JP" />
+<meta property="og:locale:alternate" content="ko_KR" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:locale:alternate" content="hi_IN" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Trending Pages — Real-time cross-platform trends" />
+<meta name="twitter:description" content="11 platforms, refreshed every 30 min. YouTube, X, Reddit, IG, GitHub, Weibo, Zhihu, Douyin, Toutiao, Bilibili, V2EX. Free JSON API + RSS." />
+<meta name="twitter:image" content="https://trending.subdownload.com/assets/icon.png" />
+
+<!-- Structured data: WebSite + Organization -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://trending.subdownload.com/#website",
+      "url": "https://trending.subdownload.com/",
+      "name": "Trending Pages",
+      "description": "Real-time trending content from 11 platforms — refreshed every 30 minutes, archived twice daily, with free JSON API and RSS feeds.",
+      "inLanguage": ["en", "zh-Hans", "zh-Hant", "ja", "ko", "es", "hi"],
+      "publisher": { "@id": "https://trending.subdownload.com/#org" }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://trending.subdownload.com/#org",
+      "name": "Trending Pages",
+      "url": "https://trending.subdownload.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://trending.subdownload.com/assets/icon.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "@type": "Dataset",
+      "name": "Trending Pages cross-platform trends dataset",
+      "description": "Aggregated trending entries from YouTube (7 regions), X/Twitter, Reddit, Instagram, GitHub, Weibo, Zhihu, Douyin, Toutiao, Bilibili and V2EX. Refreshed every 30 minutes, archived twice daily.",
+      "url": "https://trending.subdownload.com/",
+      "sameAs": "https://github.com/xAtlaz-com/trending",
+      "license": "https://opensource.org/licenses/MIT",
+      "creator": { "@id": "https://trending.subdownload.com/#org" },
+      "keywords": ["trending", "youtube", "twitter", "reddit", "github", "weibo", "zhihu", "douyin", "bilibili"],
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://trending.subdownload.com/data/latest.json"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://trending.subdownload.com/data/feed.xml"
+        }
+      ]
+    }
+  ]
+}
+</script>
 </head>
 <body>
 <header>
   <div class="brand">
-    <img src="./assets/icon.png" alt="" class="logo" />
+    <img src="./assets/icon.png" alt="Trending Pages logo" class="logo" />
     <h1 data-i18n="title">Trending Pages</h1>
     <select id="lang-select" class="lang-select" aria-label="Language"></select>
   </div>
@@ -21,7 +106,7 @@
     <span data-i18n="subtitle">Refreshed every 30 min ·</span>
     <span id="updated" data-i18n="loading">loading…</span>
   </p>
-  <nav class="links">
+  <nav class="links" aria-label="Resources">
     <a href="./data/latest.json" data-i18n="nav_json">latest.json</a>
     <a href="./data/feed.xml" data-i18n="nav_rss">RSS</a>
     <a href="./data/archive/" data-i18n="nav_history">history</a>
@@ -32,11 +117,30 @@
 <section class="sources" id="sources" role="tablist" aria-label="Source"></section>
 <section class="tabs" id="tabs" role="tablist" aria-label="Sub"></section>
 
-<main class="grid-wrap"><div id="grid" class="grid"></div></main>
+<main class="grid-wrap"><div id="grid" class="grid" aria-live="polite"></div></main>
 
 <footer>
   <p><span data-i18n="footer_feeds">Per-source feeds:</span> <span id="per-source-feeds"></span></p>
 </footer>
+
+<!-- SEO crawl fallback: rendered list for engines that don't run JS -->
+<noscript>
+  <h2>Sources covered</h2>
+  <ul>
+    <li><a href="./data/latest/youtube/GB.json">YouTube trending (GB, US, JP, KR, IN, HK, TW)</a></li>
+    <li><a href="./data/latest/twitter.json">X / Twitter trends</a></li>
+    <li><a href="./data/latest/reddit.json">Reddit r/popular</a></li>
+    <li><a href="./data/latest/instagram.json">Instagram top hashtags</a></li>
+    <li><a href="./data/latest/github.json">GitHub trending repositories</a></li>
+    <li><a href="./data/latest/weibo.json">微博实时热搜</a></li>
+    <li><a href="./data/latest/zhihu.json">知乎热榜</a></li>
+    <li><a href="./data/latest/douyin.json">抖音热搜</a></li>
+    <li><a href="./data/latest/toutiao.json">今日头条热榜</a></li>
+    <li><a href="./data/latest/bilibili.json">Bilibili 全站热门</a></li>
+    <li><a href="./data/latest/v2ex.json">V2EX 热门主题</a></li>
+  </ul>
+  <p>This site needs JavaScript to render the interactive view. The raw data is available via the JSON files linked above and at <a href="./data/latest.json">/data/latest.json</a>.</p>
+</noscript>
 
 <script src="./assets/app.js"></script>
 </body>
