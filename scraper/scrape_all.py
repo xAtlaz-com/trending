@@ -22,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 SOURCES = [
     s.strip() for s in os.environ.get(
-        "SOURCES", "youtube,github,v2ex,weibo,zhihu,douyin,toutiao"
+        "SOURCES", "youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,tiktok,xiaohongshu"
     ).split(",") if s.strip()
 ]
 ARCHIVE_HOURS = {int(h) for h in os.environ.get("ARCHIVE_HOURS", "0,12").split(",") if h.strip()}

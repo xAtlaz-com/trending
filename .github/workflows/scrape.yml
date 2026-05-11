@@ -29,14 +29,14 @@ jobs:
         env:
           YOUTUBE_DATA_API_KEY: ${{ secrets.YOUTUBE_DATA_API_KEY }}
           COUNTRIES: ${{ vars.COUNTRIES || 'US,JP,KR,GB,IN,HK,TW' }}
-          SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao' }}
+          SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,tiktok,xiaohongshu' }}
           ARCHIVE_HOURS: ${{ vars.ARCHIVE_HOURS || '0,12' }}
         run: python scraper/scrape_all.py
 
       - name: Generate latest.json + RSS
         env:
           COUNTRIES: ${{ vars.COUNTRIES || 'US,JP,KR,GB,IN,HK,TW' }}
-          SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao' }}
+          SOURCES: ${{ vars.SOURCES || 'youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,tiktok,xiaohongshu' }}
         run: python scraper/generate_outputs.py
 
       - name: Commit and push
