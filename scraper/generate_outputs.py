@@ -29,7 +29,7 @@ SITE_URL = "https://xatlaz-com.github.io/trending/"
 
 SOURCES = [
     s.strip() for s in os.environ.get(
-        "SOURCES", "youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili,tiktok,xiaohongshu"
+        "SOURCES", "youtube,github,v2ex,weibo,zhihu,douyin,toutiao,reddit,bilibili"
     ).split(",") if s.strip()
 ]
 COUNTRY_ORDER = [c.strip() for c in os.environ.get("COUNTRIES", "US,JP,KR,GB,IN,HK,TW").split(",") if c.strip()]
