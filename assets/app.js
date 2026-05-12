@@ -130,4 +130,69 @@ function refreshUpdated() {
 (function init() {
   renderLangSelect();
   applyI18n();
+  setupMasonry();
 })();
+
+// Progressive-enhancement masonry: every .grid is laid out as a true
+// Pinterest-style waterfall in row-major reading order (shortest-column
+// packing). Each grid reads its own --masonry-min / --masonry-gap CSS
+// vars so the same script handles the 280px single-source grid and the
+// 320px hub miniature grids.
+function setupMasonry() {
+  const grids = document.querySelectorAll(".grid");
+  if (!grids.length || typeof ResizeObserver === "undefined") return;
+  const ro = new ResizeObserver(entries => {
+    const seen = new Set();
+    entries.forEach(e => {
+      const g = e.target.closest(".grid") || e.target;
+      if (g && g.classList.contains("grid") && !seen.has(g)) {
+        seen.add(g);
+        scheduleLayout(g);
+      }
+    });
+  });
+  grids.forEach(grid => {
+    grid.dataset.masonry = "";
+    ro.observe(grid);
+    grid.querySelectorAll(".card").forEach(c => ro.observe(c));
+    grid.querySelectorAll("img").forEach(img => {
+      if (!img.complete) {
+        img.addEventListener("load", () => scheduleLayout(grid), { once: true });
+        img.addEventListener("error", () => scheduleLayout(grid), { once: true });
+      }
+    });
+    layoutGrid(grid);
+  });
+  window.addEventListener("resize", () => grids.forEach(scheduleLayout));
+}
+
+const _pending = new WeakSet();
+function scheduleLayout(grid) {
+  if (_pending.has(grid)) return;
+  _pending.add(grid);
+  requestAnimationFrame(() => { _pending.delete(grid); layoutGrid(grid); });
+}
+
+function layoutGrid(grid) {
+  const cards = [...grid.querySelectorAll(":scope > .card")];
+  if (!cards.length) { grid.style.height = ""; return; }
+  const w = grid.clientWidth;
+  if (w <= 0) return;
+  const cs = getComputedStyle(grid);
+  const minW = parseFloat(cs.getPropertyValue("--masonry-min")) || 280;
+  const gap = parseFloat(cs.getPropertyValue("--masonry-gap")) || 14;
+  const numCols = Math.max(1, Math.floor((w + gap) / (minW + gap)));
+  const colWidth = (w - gap * (numCols - 1)) / numCols;
+  const colHeights = new Array(numCols).fill(0);
+  cards.forEach(card => {
+    card.style.width = colWidth + "px";
+    let minIdx = 0;
+    for (let i = 1; i < numCols; i++) {
+      if (colHeights[i] < colHeights[minIdx]) minIdx = i;
+    }
+    card.style.left = (minIdx * (colWidth + gap)) + "px";
+    card.style.top = colHeights[minIdx] + "px";
+    colHeights[minIdx] += card.offsetHeight + gap;
+  });
+  grid.style.height = Math.max(0, Math.max(...colHeights) - gap) + "px";
+}

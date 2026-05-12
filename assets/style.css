@@ -29,9 +29,11 @@ header { padding: 24px 20px 8px; max-width: 1200px; margin: 0 auto; }
 .tab { display: inline-block; padding: 8px 14px; border-radius: 8px 8px 0 0; cursor: pointer; background: transparent; color: var(--muted); border: 1px solid transparent; border-bottom: none; font-size: 13px; text-decoration: none; }
 .tab[aria-selected="true"], .tab[aria-current="page"] { background: var(--panel); color: var(--fg); border-color: var(--line); }
 
-.grid-wrap { padding: 18px 20px 40px; max-width: 1200px; margin: 0 auto; }
+.grid-wrap { padding: 18px 20px 40px; max-width: 1200px; margin: 0 auto; --masonry-min: 280px; --masonry-gap: 14px; }
 .grid { columns: 280px; column-gap: 14px; }
 .card { display: inline-block; width: 100%; margin: 0 0 14px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; break-inside: avoid; -webkit-column-break-inside: avoid; page-break-inside: avoid; }
+.grid[data-masonry] { columns: unset; column-gap: 0; position: relative; width: 100%; }
+.grid[data-masonry] > .card { position: absolute; top: 0; left: 0; margin: 0; display: block; transition: top .2s cubic-bezier(.2,.7,.2,1), left .2s cubic-bezier(.2,.7,.2,1), border-color .15s; }
 .card.no-thumb { padding: 14px 16px; }
 .card:hover { border-color: #3a4452; }
 .thumb { display: block; position: relative; aspect-ratio: 16/9; background: #000; }
@@ -54,7 +56,7 @@ footer a { color: var(--accent); text-decoration: none; margin-right: 8px; }
 .section-head .sub-label { color: var(--muted); font-size: 12px; margin-left: 6px; font-weight: 400; }
 .section-head .more { color: var(--accent); text-decoration: none; font-size: 13px; white-space: nowrap; }
 .section-head .more:hover { text-decoration: underline; }
-.hub-grid-wrap { padding: 0 20px; max-width: 1200px; margin: 0 auto 12px; }
+.hub-grid-wrap { padding: 0 20px; max-width: 1200px; margin: 0 auto 12px; --masonry-min: 320px; --masonry-gap: 14px; }
 .hub-grid-wrap .grid { columns: 320px; }
 @media (max-width: 480px) {
   .brand h1 { font-size: 22px; }
