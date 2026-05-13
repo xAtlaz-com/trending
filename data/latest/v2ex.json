@@ -1,146 +1,146 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-13T00:03:21+00:00",
+  "updated_at": "2026-05-13T04:30:27+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "马上要休婚假，想去日本玩，大家有没有攻略推荐~",
-      "url": "https://www.v2ex.com/t/1212066",
-      "description": "预期 6 月份休婚假，9 天的假期，预期 7-8 天在日本；\n第一次去日本，还没有做任何准备",
-      "metric": "134 回复",
-      "metric_value": 134,
-      "extra": {
-        "node": "旅行",
-        "node_name": "travel",
-        "author": "skyfeipp",
-        "last_touched": 1778615306
-      }
-    },
-    {
-      "rank": 2,
-      "title": "卖房差点被骗了",
-      "url": "https://www.v2ex.com/t/1212035",
-      "description": "前两天中介 C 火急火燎找我，说有客户要做“零首付”，问我要不要卖房。我跑过去聊了，收了定金签了购房协议\n回家感觉不对，网上搜了搜，感觉骗局太大了。\n先理一下人物：\n\n我：房东\n客户 A：表面上的买房人\n二道贩子 B：操盘手，躲在后面\n中介 C：穿针引线\n\n1. 正常交易应该是怎样的？\n\n假设我的房子实际成交价 100 万。\n买家 A 首付：15 万\n银行贷款：85 万（最高贷款 85%）\n我最终到手：100 万\n\n2. 他们想怎么玩？\n目标是：阴阳合同+零首付+额外套现。\n具体操作：高评高贷——把评估价做高，让银行按评估价的 85%放贷，多出来的部分套现。\n\n实际成交价 100 万\n评估价做",
-      "metric": "120 回复",
-      "metric_value": 120,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "qqbb",
-        "last_touched": 1778595904
-      }
-    },
-    {
-      "rank": 3,
       "title": "被多梦困扰的十几年",
       "url": "https://www.v2ex.com/t/1212140",
       "description": "今年 23 岁，从我记事开始，每天晚上睡觉都会做好几个梦，最少也是三个起步。\n梦里有各种维度、各种场景：异世界探险、年老后的生活，还有各种乱七八糟、无厘头的剧情。\n早上醒来，最少也能记住一两个。有时候普通的梦还好，最怕遇到被追赶、s 人，或是各种感官体验特别真实清晰的场景。\n这种梦醒来之后会特别累，感觉跟没睡一样。身边朋友总说自己从来不做梦，我都完全体会不到不做梦睡醒是什么状态。\n之前也喝过半年中药调理，一点作用都没有。\n但有时候又会有点期待晚上会做什么梦，像开启一场未知冒险一样。\n很好奇有没有和我一样的人，大家都是怎么缓解、调整这种状态的？\n除此之外，我总觉得自己的大脑过度活跃，很难真正静下",
-      "metric": "93 回复",
-      "metric_value": 93,
+      "metric": "121 回复",
+      "metric_value": 121,
       "extra": {
         "node": "梦",
         "node_name": "dream",
         "author": "izzzz",
-        "last_touched": 1778605233
+        "last_touched": 1778644978
+      }
+    },
+    {
+      "rank": 2,
+      "title": "我身边同事也在用的满血中转 codex ：发放福利分组名额 数量有限，先到先得",
+      "url": "https://www.v2ex.com/t/1212296",
+      "description": "之前发完福利帖后，前 200-300 多位用户都已顺利发放额度。但后续在后台发现，大量临时邮箱批量注册刷额度，导致赠送额度很快被刷空，真正需要的用户反而受影响。\n因此我调整了福利方式，改为特价分组的形式，更公平、更可持续。群里的朋友也知道，我们一直坚持质量第一，每天定期将号池状态截图转发群里查看，保持透明。群里不定时搞抽奖活动，欢迎进群参加。\n平台支持按量付费 + 高性价比订阅，今天给大家开一波特价福利分组：倍率 ×0.075 ，官网可对照模型原价，性价比拉满。本组总额度 2000 刀，先到先得，送完即止，留下 ID 拉你进组。\n直达链接： https://shunfen6.win\n如果账号触",
+      "metric": "87 回复",
+      "metric_value": 87,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "2452920748c",
+        "last_touched": 1778645781
+      }
+    },
+    {
+      "rank": 3,
+      "title": "mihomo 接入 tailscale",
+      "url": "https://www.v2ex.com/t/1212152",
+      "description": "自己改了下 mihomo 内核,支持接入 tailscale 网络了,链接:https://github.com/cyenxchen/mihomo\n如果你用的安卓可以使用我改过的 clashmi,这样就可以同时翻墙+访问家里网络了,链接:https://github.com/cyenxchen/clashmi\n我个人自用了几天,没发现什么大问题,当然有问题了也欢迎带日志反馈.\n配置示例:\nproxies:\n  - name: ts-mihomo\n    type: tailscale\n    auth-key: tskey-auth-xxxxx\n    hostname: ts-mihomo\n",
+      "metric": "66 回复",
+      "metric_value": 66,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "MoGeJiEr",
+        "last_touched": 1778645697
       }
     },
     {
       "rank": 4,
-      "title": "自用 Codex 站（今天继续福利分组--5.12）",
-      "url": "https://www.v2ex.com/t/1212045",
-      "description": "plus+free 号池（现基本都是 plus 号池，上新渠道），自用不了，推出来略微回收一下成本。\n模型支持有 GPT 全家桶\n价格如下：\n按量付费：0.08 元/刀，随充随用，日/周不限。\n自己注册的号池，没有任何映射，无虚标不掺水。有问题及时处理，属实包退款。\nhttps://www.loomex.top\n今天福利分组升级到 1500 刀了熬\n评论留 邮箱或者 ID ，今天继续分享福利分组共用 1500 刀，先到先得，用完删除分组不进行通知熬（自用哈）",
-      "metric": "83 回复",
-      "metric_value": 83,
+      "title": "感觉 AI Coding 比古法编程累多了",
+      "url": "https://www.v2ex.com/t/1212128",
+      "description": "上午的一个需求排期，本来评估的 5 天，产品一句：“这个用 AI 几个小时就能生成吧”，排期当场被砍到 2 天。\n有了 AI 开发确实是快了，但问题也变多了。如：边界、权限、脏数据、线上兼容...... 最后还是得靠人来兜底。\n之前用 cc opus4.6 + codex gpt5.5 ，cc 负责做，codex 负责审核，还勉强能顶住，现在不让用了，统一采购了 qoder + 百炼 coding plan (qwen3.5-plus)，用起来真的一言难尽......\n从古法编程进化到 AI 分析需求、架构设计、生成代码、review 、AI 测试和上线，到现在前端、后端、移动端一个人包圆，感",
+      "metric": "64 回复",
+      "metric_value": 64,
       "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "yang1395592280",
-        "last_touched": 1778584203
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "midsolo",
+        "last_touched": 1778645053
       }
     },
     {
       "rank": 5,
-      "title": "AI API 公益站免费 100 个 100$额度兑换码赠送，众多模型免费用！",
-      "url": "https://www.v2ex.com/t/1212025",
-      "description": "最近站内看到很多的 AI 中转站一直都在发放福利，我们的 VoAPI 公益站已经存活了 2 年多了，帮助了很多人解决了短暂性的 tokens 不足问题，所以今日再发放一波余额兑换码（而且也可以每日签到获取余额，基本上正常使用是用不完的）\n而且可直接用于我们的 AQBot AI 客户端，进行无缝集成使用：https://github.com/AQBot-Desktop/AQBot\n\n\n公益站链接：https://demo.voapi.top\n100$兑换码（每个用户只可以领取一次）：\n\n4c251800a91567f516dcebfcb576787e\nc5238125bdbefe6a8b4790",
-      "metric": "76 回复",
-      "metric_value": 76,
+      "title": "NET 已死",
+      "url": "https://www.v2ex.com/t/1212251",
+      "description": "这么好的语言 这么优雅的语言，在这片土地上 打不过 JAVA 唉",
+      "metric": "54 回复",
+      "metric_value": 54,
       "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "licoycn",
-        "last_touched": 1778515852
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "duwenink248",
+        "last_touched": 1778641504
       }
     },
     {
       "rank": 6,
-      "title": "为啥最近爆发这么多中转站？",
-      "url": "https://www.v2ex.com/t/1212033",
-      "description": "是有什么活动了吗  感觉四月底开始到现在  被刷屏了  之前没有这么多呀",
-      "metric": "75 回复",
-      "metric_value": 75,
+      "title": "给 V2EX 加了个「主题关键词屏蔽」，大家不用天天看中转站广告了",
+      "url": "https://www.v2ex.com/t/1212300",
+      "description": "看到几个帖子吐槽首页全是各种中转站的推广，说实话我也忍了很久了。每天打开 V2EX ，首页靠前几条就是“机场推荐”、“XXX 中转站”。这些帖子发得还特别勤，今天发明天发，换个标题继续发。\n所以给 V2EX Polish 加了一个主题屏蔽功能，你可以自己定义关键词和规则，匹配到的主题直接隐藏。\n怎么用\n打开插件的设置页，找到「主题屏蔽」这块，有两个模式可以选。\n简单模式就是填关键词，一行一个。比如你填上「中转站」，首页、节点页、热议列表里所有标题带这三个字的帖子就自动没了。也可以直接屏蔽某个节点，比如把 promotions （推广节点）整个屏蔽掉，这个节点下面的帖子一个都不会出现。\n被隐藏的",
+      "metric": "52 回复",
+      "metric_value": 52,
       "extra": {
-        "node": "互联网",
-        "node_name": "internet",
-        "author": "zfyime",
-        "last_touched": 1778609777
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "coolpace",
+        "last_touched": 1778645930
       }
     },
     {
       "rank": 7,
-      "title": "上周末共享单车骑了 55km，当晚咸鱼入手了大行 P8",
-      "url": "https://www.v2ex.com/t/1212031",
-      "description": "广州黄埔有推荐骑行的路线吗？或者群？",
-      "metric": "72 回复",
-      "metric_value": 72,
+      "title": "做了个赛博斗蛐蛐：让 AI 写坦克逻辑，然后看它上战场",
+      "url": "https://www.v2ex.com/t/1212167",
+      "description": "大家好，最近做了一个小产品，叫 AgenTank。\n这是一个浏览器里的 AI 坦克大战游戏。不同的是，玩家不是手动开坦克，而是让 Agent 写坦克的战斗逻辑。\n每个坦克出生都自带一个技能，也有独一无二的外观，战场公开一系列参数和函数，可以用于写坦克的逻辑。\n你要做的是观察自己的坦克在战场上的表现，看看它为什么赢、为什么输，然后告诉 Agent 想要改进的策略方向。Agent 会修改坦克代码，再把它送回战场继续打。\n我自己已经跑了 1000 多场战斗，也花了不少 Claude 额度去迭代我的坦克。这个过程有点像赛博斗蛐蛐：看它打架，发现问题，改策略，再看它有没有变聪明。\n\n地址： https:",
+      "metric": "51 回复",
+      "metric_value": 51,
       "extra": {
-        "node": "广州",
-        "node_name": "guangzhou",
-        "author": "Sercheif",
-        "last_touched": 1778604731
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "graetdk",
+        "last_touched": 1778601014
       }
     },
     {
       "rank": 8,
-      "title": "免五要绝迹了，且行且珍惜～抽董宇辉推荐的酱牛肉 3 包～",
-      "url": "https://www.v2ex.com/t/1212026",
-      "description": "半导体疯了，但我们要冷静...笑脸大保健都上来了，逼着也来点新花样，就为了热榜 TOP10 。。。\n本周抽董宇辉食乐康推荐的，我也买过几次的酱牛肉 3 份，一份 150*5 包，当主食当零食都好吃...\n\n老规矩，回复即可参与！\n\n昨天可靠消息，某券商本周内全部要停，这段时候都靠他撑着，开免五越来越难，且行且珍惜！\n\n\n免五低佣低两融开户，找老倔驴，靠谱！ 开户选择多还靠谱，聚合几十家券商优惠，连接 100+家营业部，已帮助 2000 人+。\n\n只玩 ETF 的聪明钱、银河 ETF 万 0.5 1 毛起，适合大多数散户，宽指 ETF+逆回购+打新。\n国 T 最低 11 万可开，50 万费率更低",
-      "metric": "67 回复",
-      "metric_value": 67,
+      "title": "原来追觅做了这么多，是想崩地方国资的钱。",
+      "url": "https://www.v2ex.com/t/1212295",
+      "description": "https://i.imgur.com/2h2Gfbw.png\n搞了很多和科技沾点边的东西，拿到三四线小城市就是一顿忽悠，这些地方的国资委正愁没有项目投资，是个辣鸡都要，追觅老板前期这些暴论也是为了博流量扩大知名度。",
+      "metric": "48 回复",
+      "metric_value": 48,
       "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "laojuelv",
-        "last_touched": 1778613905
+        "node": "商业模式",
+        "node_name": "business",
+        "author": "tactac",
+        "last_touched": 1778645389
       }
     },
     {
       "rank": 9,
-      "title": "老妈想买个平板看看视频，我对平板也不是很懂，希望大家推荐一下，二手的也行",
-      "url": "https://www.v2ex.com/t/1212075",
-      "description": "",
-      "metric": "65 回复",
-      "metric_value": 65,
+      "title": "目前仓位多少？心态咋样",
+      "url": "https://www.v2ex.com/t/1212318",
+      "description": "目前 3 层仓位，有点恐高了。大伙今年收益多少，下一步准备怎么操作",
+      "metric": "47 回复",
+      "metric_value": 47,
       "extra": {
-        "node": "硬件",
-        "node_name": "hardware",
-        "author": "diantongren",
-        "last_touched": 1778630199
+        "node": "投资",
+        "node_name": "invest",
+        "author": "zhenthy",
+        "last_touched": 1778646263
       }
     },
     {
       "rank": 10,
-      "title": "gap 太久，感觉找工作简历被歧视了",
-      "url": "https://www.v2ex.com/t/1212043",
-      "description": "两年前 gap 了 10 个月都没事。上家被裁，现在还没那么久感觉都被歧视了。广州市智慧农业服务股份有限公司 HR 因我上一份工作距离现在太久，都不考虑了。希望今年还能找到双休，正常的工作吧。",
-      "metric": "58 回复",
-      "metric_value": 58,
+      "title": "小米路由器 AX3000T 两年半使用体验(差一点就成为米粉了，换华为路由器了！)",
+      "url": "https://www.v2ex.com/t/1212259",
+      "description": "2023 年 11 月中旬花 180 在京东自营购买的小米 AX3000T 路由器，到手使用的前两年确实很惊艳，感觉符合小米物美价廉的映像，差点成为米粉了!!!结果 2025 年 11 月过保，2026 年 4 月份开始不间断的打游戏会突然延迟巨高，然后掉线. 一直以为是公寓的宽带不行(恰逢公寓宽带升级，所以一直没有怀疑是路由器的问题).于是我每次打游戏都会让电脑连手机热点，就这样坚持了一个月.然后五月份开始，不仅打游戏卡顿，看视频也开始突然卡，然后后面恢复正常，感觉像抽风了一样.然后五月初公寓宽带升级完成之后，还是一样卡顿.最后用电脑直连有线网络，发现一点都不卡(我的真的是绝了)然后今天换了",
+      "metric": "45 回复",
+      "metric_value": 45,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "tty0",
-        "last_touched": 1778599361
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "wuyiccc",
+        "last_touched": 1778645095
       }
     }
   ]
