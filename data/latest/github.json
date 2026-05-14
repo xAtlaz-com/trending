@@ -1,110 +1,110 @@
 {
   "source": "github",
-  "updated_at": "2026-05-14T08:09:23+00:00",
-  "count": 18,
+  "updated_at": "2026-05-14T10:57:20+00:00",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "metric": "★ 6,615",
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "metric": "★ 54,949",
       "extra": {
         "language": "Rust",
-        "stars": "6,615",
-        "forks": "532",
-        "stars_today": "1,696 stars today"
+        "stars": "54,949",
+        "forks": "7,316",
+        "stars_today": "1,757 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "rohitg00 / agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "metric": "★ 8,304",
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "metric": "★ 7,050",
       "extra": {
-        "language": "TypeScript",
-        "stars": "8,304",
-        "forks": "700",
-        "stars_today": "1,379 stars today"
+        "language": "Rust",
+        "stars": "7,050",
+        "forks": "560",
+        "stars_today": "1,696 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 190,171",
+      "title": "rohitg00 / agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "metric": "★ 8,537",
       "extra": {
-        "language": "Shell",
-        "stars": "190,171",
-        "forks": "16,931",
-        "stars_today": "1,401 stars today"
+        "language": "TypeScript",
+        "stars": "8,537",
+        "forks": "707",
+        "stars_today": "1,379 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "yikart / AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "metric": "★ 13,363",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 190,475",
       "extra": {
-        "language": "TypeScript",
-        "stars": "13,363",
-        "forks": "2,282",
-        "stars_today": "981 stars today"
+        "language": "Shell",
+        "stars": "190,475",
+        "forks": "16,943",
+        "stars_today": "1,401 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "influxdata / telegraf",
-      "url": "https://github.com/influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "metric": "★ 17,077",
-      "extra": {
-        "language": "Go",
-        "stars": "17,077",
-        "forks": "5,786",
-        "stars_today": "13 stars today"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "millionco / react-doctor",
-      "url": "https://github.com/millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "metric": "★ 9,438",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "9,438",
-        "forks": "296",
-        "stars_today": "604 stars today"
-      }
-    },
-    {
-      "rank": 7,
       "title": "K-Dense-AI / scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "metric": "★ 21,357",
+      "metric": "★ 21,446",
       "extra": {
         "language": "Python",
-        "stars": "21,357",
-        "forks": "2,346",
+        "stars": "21,446",
+        "forks": "2,350",
         "stars_today": "99 stars today"
       }
     },
     {
-      "rank": 8,
-      "title": "danielmiessler / Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "metric": "★ 13,562",
+      "rank": 6,
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "metric": "★ 24,557",
       "extra": {
-        "language": "TypeScript",
-        "stars": "13,562",
-        "forks": "1,878",
-        "stars_today": "435 stars today"
+        "language": "Python",
+        "stars": "24,557",
+        "forks": "4,305",
+        "stars_today": "359 stars today"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "roboflow / supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "metric": "★ 38,694",
+      "extra": {
+        "language": "Python",
+        "stars": "38,694",
+        "forks": "3,474",
+        "stars_today": "59 stars today"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "influxdata / telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "metric": "★ 17,093",
+      "extra": {
+        "language": "Go",
+        "stars": "17,093",
+        "forks": "5,787",
+        "stars_today": "13 stars today"
       }
     },
     {
@@ -112,129 +112,90 @@
       "title": "supertone-inc / supertonic",
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "metric": "★ 4,762",
+      "metric": "★ 4,902",
       "extra": {
         "language": "Swift",
-        "stars": "4,762",
-        "forks": "474",
+        "stars": "4,902",
+        "forks": "480",
         "stars_today": "859 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "CloakHQ / CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "metric": "★ 9,992",
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "metric": "★ 140,975",
       "extra": {
-        "language": "Python",
-        "stars": "9,992",
-        "forks": "751",
-        "stars_today": "1,835 stars today"
+        "language": "C",
+        "stars": "140,975",
+        "forks": "13,030",
+        "stars_today": "589 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "metric": "★ 80,067",
+      "title": "NVIDIA-AI-Blueprints / video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "metric": "★ 670",
       "extra": {
-        "language": "Shell",
-        "stars": "80,067",
-        "forks": "6,907",
-        "stars_today": "3,392 stars today"
+        "language": "Python",
+        "stars": "670",
+        "forks": "239",
+        "stars_today": "28 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "ArthurBrussee / brush",
-      "url": "https://github.com/ArthurBrussee/brush",
-      "description": "3D Reconstruction for all",
-      "metric": "★ 4,442",
+      "title": "CloakHQ / CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "metric": "★ 10,176",
       "extra": {
-        "language": "Rust",
-        "stars": "4,442",
-        "forks": "240",
-        "stars_today": "81 stars today"
+        "language": "Python",
+        "stars": "10,176",
+        "forks": "769",
+        "stars_today": "1,835 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "imthenachoman / How-To-Secure-A-Linux-Server",
-      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-      "description": "An evolving how-to guide for securing a Linux server.",
-      "metric": "★ 27,245",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "metric": "★ 80,579",
       "extra": {
-        "language": null,
-        "stars": "27,245",
-        "forks": "1,782",
-        "stars_today": "234 stars today"
+        "language": "Shell",
+        "stars": "80,579",
+        "forks": "6,953",
+        "stars_today": "3,392 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "apernet / hysteria",
-      "url": "https://github.com/apernet/hysteria",
-      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-      "metric": "★ 20,701",
+      "title": "github / spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "metric": "★ 98,911",
       "extra": {
-        "language": "Go",
-        "stars": "20,701",
-        "forks": "2,141",
-        "stars_today": "485 stars today"
+        "language": "Python",
+        "stars": "98,911",
+        "forks": "8,608",
+        "stars_today": "1,120 stars today"
       }
     },
     {
       "rank": 15,
-      "title": "rasbt / LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "metric": "★ 94,650",
+      "title": "garrytan / gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "metric": "★ 96,135",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "94,650",
-        "forks": "14,499",
-        "stars_today": "821 stars today"
-      }
-    },
-    {
-      "rank": 16,
-      "title": "ton-blockchain / acton",
-      "url": "https://github.com/ton-blockchain/acton",
-      "description": "Toolchain for TON smart contract development and beyond",
-      "metric": "★ 273",
-      "extra": {
-        "language": "Rust",
-        "stars": "273",
-        "forks": "37",
-        "stars_today": "18 stars today"
-      }
-    },
-    {
-      "rank": 17,
-      "title": "trycua / cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "metric": "★ 16,657",
-      "extra": {
-        "language": "HTML",
-        "stars": "16,657",
-        "forks": "1,049",
-        "stars_today": "245 stars today"
-      }
-    },
-    {
-      "rank": 18,
-      "title": "github / spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "metric": "★ 98,771",
-      "extra": {
-        "language": "Python",
-        "stars": "98,771",
-        "forks": "8,600",
-        "stars_today": "1,120 stars today"
+        "language": "TypeScript",
+        "stars": "96,135",
+        "forks": "14,300",
+        "stars_today": "1,083 stars today"
       }
     }
   ]
