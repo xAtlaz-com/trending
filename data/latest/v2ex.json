@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-16T21:24:39+00:00",
+  "updated_at": "2026-05-16T22:12:42+00:00",
   "count": 9,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "58 元买断的软件，希望可以终生维护，为什么 58 元买的衣服，吃的快餐，没有同样的要求呢？",
       "url": "https://www.v2ex.com/t/1213183",
       "description": "研究了一下国内独立开发的作品，看了很多用户评论得出这个疑问\n这是一种什么样的心理，同样价格的商品，为什么对付费软件的要求，会显著高于其它同价格的产品\n这种市场认知下，软件产品如何定价更合理",
-      "metric": "67 回复",
-      "metric_value": 67,
+      "metric": "68 回复",
+      "metric_value": 68,
       "extra": {
         "node": "软件",
         "node_name": "software",
         "author": "quicknight",
-        "last_touched": 1778964392
+        "last_touched": 1778968164
       }
     },
     {
@@ -75,6 +75,20 @@
     },
     {
       "rank": 6,
+      "title": "一个稍稍严肃的 Infra 开发， 200 刀 Codex 周消耗量",
+      "url": "https://www.v2ex.com/t/1213114",
+      "description": "5 月 12 日下午 3 时刷新了一周用量，到 5 月 15 日下午用完，下次刷新要等到 5 月 19 日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast 。\nInfra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session ，token 使用量已经有 3.3B 左右），然后另开两个 Codex Review ，再加两个 Claude Code Review(100 刀套餐)。偶尔零散单开，忽略之。\n按下面的统计来看，周用量如果跑标准 5.5API 大概是 1200 刀，fast 走 Priority ，也就是 2.5 倍是 3000",
+      "metric": "32 回复",
+      "metric_value": 32,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "Had",
+        "last_touched": 1778967188
+      }
+    },
+    {
+      "rank": 7,
       "title": "小项目的作者不回邮件还挺打击用户信心的",
       "url": "https://www.v2ex.com/t/1213146",
       "description": "前阵子使用了一个个人开发者做的浏览器插件。这个项目在站内还有广告，所以就不说名字了。实测下来发现，这个插件比同类竞品做得还是差了一些，有些明显 bug 和不成熟的地方。于是我发了一封邮件，希望和作者交流一下，因为我本身还是觉得这个插件挺有意思的，希望它能变好。然而邮件发了一周多了也没有见到回复，感觉应该等不到回复了。我感觉他这个项目的咨询量级应该不会特别大，看到对方不回邮件，我就也有点不是很想使用这个插件了。项目不成熟、有 bug 都是可以理解的。如果开发者热情很高的话，其实用户也愿意陪着成长，但是直接不回邮件就挺丧失用户信心的。",
@@ -85,20 +99,6 @@
         "node_name": "random",
         "author": "roccaplover",
         "last_touched": 1778961579
-      }
-    },
-    {
-      "rank": 7,
-      "title": "一个稍稍严肃的 Infra 开发， 200 刀 Codex 周消耗量",
-      "url": "https://www.v2ex.com/t/1213114",
-      "description": "5 月 12 日下午 3 时刷新了一周用量，到 5 月 15 日下午用完，下次刷新要等到 5 月 19 日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast 。\nInfra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session ，token 使用量已经有 3.3B 左右），然后另开两个 Codex Review ，再加两个 Claude Code Review(100 刀套餐)。偶尔零散单开，忽略之。\n按下面的统计来看，周用量如果跑标准 5.5API 大概是 1200 刀，fast 走 Priority ，也就是 2.5 倍是 3000",
-      "metric": "31 回复",
-      "metric_value": 31,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "Had",
-        "last_touched": 1778962326
       }
     },
     {
