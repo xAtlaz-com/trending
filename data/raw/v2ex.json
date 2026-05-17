@@ -4,13 +4,13 @@
     "title": "0 元购，听书阅读器 Aurader 征集新功能",
     "url": "https://www.v2ex.com/t/1213307",
     "description": "各位佬，大家好！\n两个多月前，我上线了一款名为 Aurader 的听书应用。它是一款 AI 驱动的文本转语音（ TTS ）工具，核心定位是让用户用自然的声音去“听”电子书、PDF 、文档和网页。\n除了上线初期的限免活动，应用基本没做过推广，目前在全球积累了大约 8 万用户。这两个月里，全靠用户的真实反馈在修 BUG 和迭代。深知自己才疏智浅，今天发帖的核心目的，就是希望能听到各位佬的反馈和建议！\n核心功能亮点\n\n多格式支持： 兼容 EPUB （支持最好） / PDF / TXT / MP3 。额外支持纸质文档扫描和网页链接提取。\n背景音乐： 支持在听书时播放舒缓的背景音乐（支持自定义上传），营",
-    "metric": "87 回复",
-    "metric_value": 87,
+    "metric": "88 回复",
+    "metric_value": 88,
     "extra": {
       "node": "Apple",
       "node_name": "apple",
       "author": "jobives2023",
-      "last_touched": 1779042469
+      "last_touched": 1779054884
     }
   },
   {
@@ -46,13 +46,13 @@
     "title": "deepseek 值得入手吗",
     "url": "https://www.v2ex.com/t/1213287",
     "description": "这个月底 deepseek 值得入手吗。\n大家都拿他的 api 做的什么任务？",
-    "metric": "45 回复",
-    "metric_value": 45,
+    "metric": "46 回复",
+    "metric_value": 46,
     "extra": {
       "node": "DeepSeek",
       "node_name": "deepseek",
       "author": "YangJiLei",
-      "last_touched": 1779033239
+      "last_touched": 1779036839
     }
   },
   {
@@ -85,6 +85,20 @@
   },
   {
     "rank": 7,
+    "title": "急！有没有能愉快使用 codex 的梯子，在线等！",
+    "url": "https://www.v2ex.com/t/1213299",
+    "description": "已经有 2 个梯子换的用，现在都不太好用，太影响效率了",
+    "metric": "33 回复",
+    "metric_value": 33,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "orcx",
+      "last_touched": 1779055417
+    }
+  },
+  {
+    "rank": 8,
     "title": "当你离开这个世界的时候，你愿意作为数字生命继续存在吗？",
     "url": "https://www.v2ex.com/t/1213313",
     "description": "最近看了两个视频，这个两个视频下面的评论区对这个问题的反响截然不同。一个是李沐大神，最新的一期视频：https://www.bilibili.com/video/BV1pB586fEap/这个视频是李沐老师最新项目技术展示另外一个是影视剧风，上个月拍的一条视频：https://www.bilibili.com/video/BV1g29UB9E7C/这个视频有着明显的批判立意我觉得这是一个很有意思的问题，其实流浪地球二也探讨过。我们感觉这一代应该是无法避免这个问题的。",
@@ -98,7 +112,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "我做了一个把网文自动变成动漫短视频的工具，但不确定有没有人真的需要",
     "url": "https://www.v2ex.com/t/1213256",
     "description": "它做什么\n一句话：网文作者上传小说章节 → 自动生成 3-5 分钟的日系动漫风格短视频。\n具体 pipeline：\n\n豆包 LLM 解析文本 → 提取角色、场景、对话、自动分镜\nSeedream 按分镜生成动漫画面（参考图保持角色一致性）\nSeedance 2.0 图生视频 + 环境音效\n火山引擎 TTS 多角色配音\nFFmpeg 合成字幕 → 导出 1080p MP4\n\n整套跑下来一集成本约 ¥9-19（用户自备火山方舟 API Key ），不需要 GPU ，纯编排代码。\n跟现有方案的区别\n\n即梦/可灵/Vidu：通用视频生成，没有角色一致性概念，理解不了长篇叙事\nNovelAI：能出图但需",
@@ -112,7 +126,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "我自学编程上架了一款无广告、本地优先的 App「破己行动」",
     "url": "https://www.v2ex.com/t/1213257",
     "description": "大家好！\n我是一名自学成才的“野路子”程序员。在经历了十多年的创业折腾后，我决定回归内心的平静，自学了 Swift/SwiftUI 和 Rust 。今天想向大家分享我独立开发并刚刚上架的一款 iOS App —— 「破己行动」(英文名: Ougle)。\n在开发这款产品时，我坚持了两个自己绝对不妥协的原则：\nLocal-first (本地优先)： 数据全部留在你的设备上，不强制依赖云端，极致保护隐私，断网也能丝滑使用。\nApple 式极简与无障碍： 我们花了很多精力去优化视听障碍辅助功能，希望不管是交互还是视觉，都能做到克制、几何、清爽。\nApp 没有任何强制付费和恶心的弹窗广告，只保留了纯自愿",
@@ -123,20 +137,6 @@
       "node_name": "promotions",
       "author": "Ehzuiq",
       "last_touched": 1779002916
-    }
-  },
-  {
-    "rank": 10,
-    "title": "急！有没有能愉快使用 codex 的梯子，在线等！",
-    "url": "https://www.v2ex.com/t/1213299",
-    "description": "已经有 2 个梯子换的用，现在都不太好用，太影响效率了",
-    "metric": "28 回复",
-    "metric_value": 28,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "orcx",
-      "last_touched": 1779035308
     }
   }
 ]
