@@ -1,201 +1,240 @@
 {
   "source": "github",
-  "updated_at": "2026-05-19T09:53:07+00:00",
-  "count": 15,
+  "updated_at": "2026-05-19T12:43:02+00:00",
+  "count": 18,
   "items": [
     {
       "rank": 1,
       "title": "tinyhumansai / openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "metric": "★ 19,069",
+      "metric": "★ 19,552",
       "extra": {
         "language": "Rust",
-        "stars": "19,069",
-        "forks": "1,674",
-        "stars_today": "3,941 stars today"
+        "stars": "19,552",
+        "forks": "1,708",
+        "stars_today": "3,991 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "Imbad0202 / academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "metric": "★ 13,208",
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "metric": "★ 37,324",
       "extra": {
         "language": "Python",
-        "stars": "13,208",
-        "forks": "1,274",
-        "stars_today": "1,439 stars today"
+        "stars": "37,324",
+        "forks": "3,585",
+        "stars_today": "1,027 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "HKUDS / CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "metric": "★ 37,188",
+      "title": "Imbad0202 / academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "metric": "★ 13,526",
       "extra": {
         "language": "Python",
-        "stars": "37,188",
-        "forks": "3,580",
-        "stars_today": "1,049 stars today"
+        "stars": "13,526",
+        "forks": "1,292",
+        "stars_today": "3,184 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "metric": "★ 24,673",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 197,746",
       "extra": {
-        "language": "Python",
-        "stars": "24,673",
-        "forks": "2,595",
-        "stars_today": "609 stars today"
+        "language": "Shell",
+        "stars": "197,746",
+        "forks": "17,647",
+        "stars_today": "1,620 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "supertone-inc / supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "metric": "★ 8,582",
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "metric": "★ 19,835",
       "extra": {
-        "language": "Swift",
-        "stars": "8,582",
-        "forks": "873",
-        "stars_today": "715 stars today"
+        "language": "Python",
+        "stars": "19,835",
+        "forks": "2,489",
+        "stars_today": "127 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "metric": "★ 111,286",
-      "extra": {
-        "language": "C++",
-        "stars": "111,286",
-        "forks": "18,409",
-        "stars_today": "213 stars today"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "metric": "★ 60,307",
-      "extra": {
-        "language": "Rust",
-        "stars": "60,307",
-        "forks": "7,858",
-        "stars_today": "700 stars today"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "CloakHQ / CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "metric": "★ 15,860",
-      "extra": {
-        "language": "Python",
-        "stars": "15,860",
-        "forks": "1,243",
-        "stars_today": "1,420 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "tech-leads-club / agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "metric": "★ 4,246",
+      "title": "rohitg00 / agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "metric": "★ 13,616",
       "extra": {
         "language": "TypeScript",
-        "stars": "4,246",
-        "forks": "362",
+        "stars": "13,616",
+        "forks": "1,145",
         "stars_today": "1,244 stars today"
       }
     },
     {
-      "rank": 10,
-      "title": "BigBodyCobain / Shadowbroker",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "metric": "★ 7,994",
+      "rank": 7,
+      "title": "CloakHQ / CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "metric": "★ 16,028",
       "extra": {
         "language": "Python",
-        "stars": "7,994",
-        "forks": "1,213",
-        "stars_today": "767 stars today"
+        "stars": "16,028",
+        "forks": "1,245",
+        "stars_today": "1,466 stars today"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "metric": "★ 50,389",
+      "extra": {
+        "language": "Rust",
+        "stars": "50,389",
+        "forks": "3,080",
+        "stars_today": "667 stars today"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "metric": "★ 100,708",
+      "extra": {
+        "language": "Shell",
+        "stars": "100,708",
+        "forks": "16,697",
+        "stars_today": "983 stars today"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "metric": "★ 5,782",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "5,782",
+        "forks": "392",
+        "stars_today": "952 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "humanlayer / 12-factor-agents",
-      "url": "https://github.com/humanlayer/12-factor-agents",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "metric": "★ 20,905",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "metric": "★ 137,156",
       "extra": {
-        "language": "TypeScript",
-        "stars": "20,905",
-        "forks": "1,583",
-        "stars_today": "399 stars today"
+        "language": null,
+        "stars": "137,156",
+        "forks": "14,062",
+        "stars_today": "2,014 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "NVlabs / Sana",
-      "url": "https://github.com/NVlabs/Sana",
-      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
-      "metric": "★ 6,828",
+      "title": "humanlayer / 12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "metric": "★ 20,965",
       "extra": {
-        "language": "Python",
-        "stars": "6,828",
-        "forks": "490",
-        "stars_today": "387 stars today"
+        "language": "TypeScript",
+        "stars": "20,965",
+        "forks": "1,584",
+        "stars_today": "733 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "microsoft / ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "metric": "★ 63,825",
+      "title": "Diolinux / PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "metric": "★ 10,438",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "63,825",
-        "forks": "21,222",
-        "stars_today": "1,012 stars today"
+        "language": "CSS",
+        "stars": "10,438",
+        "forks": "365",
+        "stars_today": "930 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "metric": "★ 37,608",
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "metric": "★ 25,965",
       "extra": {
         "language": "Python",
-        "stars": "37,608",
-        "forks": "36,399",
-        "stars_today": "310 stars today"
+        "stars": "25,965",
+        "forks": "3,876",
+        "stars_today": "543 stars today"
       }
     },
     {
       "rank": 15,
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "metric": "★ 26,139",
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "metric": "★ 15,723",
       "extra": {
-        "language": "Elixir",
-        "stars": "26,139",
-        "forks": "1,500",
-        "stars_today": "638 stars today"
+        "language": "TypeScript",
+        "stars": "15,723",
+        "forks": "2,075",
+        "stars_today": "88 stars today"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "frappe / erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "metric": "★ 34,066",
+      "extra": {
+        "language": "Python",
+        "stars": "34,066",
+        "forks": "11,301",
+        "stars_today": "65 stars today"
+      }
+    },
+    {
+      "rank": 17,
+      "title": "microsoft / ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "metric": "★ 63,925",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "stars": "63,925",
+        "forks": "21,234",
+        "stars_today": "820 stars today"
+      }
+    },
+    {
+      "rank": 18,
+      "title": "HKUDS / ViMax",
+      "url": "https://github.com/HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "metric": "★ 5,120",
+      "extra": {
+        "language": "Python",
+        "stars": "5,120",
+        "forks": "897",
+        "stars_today": "504 stars today"
       }
     }
   ]
