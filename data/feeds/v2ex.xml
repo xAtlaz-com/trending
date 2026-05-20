@@ -4,14 +4,44 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Wed, 20 May 2026 06:12:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 10:01:20 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
+<item>
+<title>HyperAPI 又来了，废话不多说直接开送</title>
+<link>https://www.v2ex.com/t/1214001</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1214001</guid>
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#1 | 246 回复 | 留 ID ，加 20 刀
+https://hyperapi.cc</description>
+</item>
+<item>
+<title>自用 OpenAI API 中转，邀 同行分摊成本 🤡 🤡 🤡</title>
+<link>https://www.v2ex.com/t/1214094</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1214094</guid>
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#2 | 166 回复 | 基本情况
+
+
+基于 sub2api 搭建，代码层面可验证, 有问题都是走 PR 等作者合并，无私自改动
+Pro + Plus 账号池，有状态监控页
+提供 OpenAI 接口，暂不含 Anthropic
+东京节点，延迟友好
+适合已有接入经验的程序员，不提供手摸手教学
+
+
+试用
+
+aHR0cHM6Ly81ODUwMTZkMy51M3UuZGV2
+注册后评论留邮箱（ base64 编码），手动送 $30 额度
+之前做过自动发放，被批量薅了，现在手动，见谅 😭 😭 😭
+有疑问可以翻我之前的相关帖子 👋</description>
+</item>
 <item>
 <title>自用 Codex 站（今天继续福利分组--5.20）</title>
 <link>https://www.v2ex.com/t/1213981</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1213981</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#1 | 139 回复 | plus+free 号池（现基本都是 plus 号池，上新渠道），自用不了，推出来略微回收一下成本。
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#3 | 156 回复 | plus+free 号池（现基本都是 plus 号池，上新渠道），自用不了，推出来略微回收一下成本。
 模型支持有 GPT 全家桶
 价格如下：
 按量付费：0.08 元/刀，随充随用，日/周不限。
@@ -20,26 +50,18 @@ https://www.loomex.top
 今天继续送出 1000 刀，请 v 友留下邮箱，我挨个添加订阅分组。</description>
 </item>
 <item>
-<title>HyperAPI 又来了，废话不多说直接开送</title>
-<link>https://www.v2ex.com/t/1214001</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1214001</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#2 | 117 回复 | 留 ID ，加 20 刀
-https://hyperapi.cc</description>
-</item>
-<item>
 <title>你吃过哪些零食是爱不释手的？来分享一下！</title>
 <link>https://www.v2ex.com/t/1213980</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1213980</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#3 | 98 回复 | 我先来，从小到大也吃了不少膨化类食品，浪味仙蔬菜味 感觉是我吃过最好吃的了！</description>
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#4 | 134 回复 | 我先来，从小到大也吃了不少膨化类食品，浪味仙蔬菜味 感觉是我吃过最好吃的了！</description>
 </item>
 <item>
 <title>继续推广我的 gpt 中转站，注册就送 28.8$余额</title>
 <link>https://www.v2ex.com/t/1214019</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1214019</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#4 | 86 回复 | 小站稳定运营，满血 gpt plus pro 号池，开通五种套餐订阅：
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#5 | 121 回复 | 小站稳定运营，满血 gpt plus pro 号池，开通五种套餐订阅：
 
 
 
@@ -90,18 +112,11 @@ https://hyperapi.cc</description>
 V 站用户专属福利：新用户注册即赠送$18,8 ，在</description>
 </item>
 <item>
-<title>Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了</title>
-<link>https://www.v2ex.com/t/1213965</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1213965</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#5 | 67 回复 | Version 2.0.0</description>
-</item>
-<item>
 <title>分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]</title>
 <link>https://www.v2ex.com/t/1213996</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1213996</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#6 | 63 回复 | 大家好，我做了一个桌面端 SSH 终端管理工具，叫 Termark。
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#6 | 88 回复 | 大家好，我做了一个桌面端 SSH 终端管理工具，叫 Termark。
 官网：https://www.termark.app
 简单说，它是给经常连服务器的人用的。平时要找机器、找账号、找密钥、开终端、传文件、做端口转发、批量查几台机器状态、看日志、问 AI 报错原因，这些事情单独看都不复杂，但每天重复很多次就很烦。
 Termark 想解决的就是这些碎事。
@@ -116,8 +131,8 @@ Termark 想解决的就是这些碎事。
 <title>[Relay AI] ChatGPT / Codex API 网关试运营开放：注册 $10 + 回帖 $10 + 加群 $10</title>
 <link>https://www.v2ex.com/t/1213914</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1213914</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#7 | 61 回复 | 做了一个 AI API 网关 Relay AI ，目前是早期试运营阶段，今天开放注册并发放限时额度。
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#7 | 82 回复 | 做了一个 AI API 网关 Relay AI ，目前是早期试运营阶段，今天开放注册并发放限时额度。
 背景
 最近想稳定调用 ChatGPT / Codex API 做一些个人项目，调研了一圈现有的第三方中转后发现几个常见痛点：
 
@@ -132,11 +147,27 @@ Termark 想解决的就是这些碎事。
 支</description>
 </item>
 <item>
+<title>Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了</title>
+<link>https://www.v2ex.com/t/1213965</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1213965</guid>
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#8 | 81 回复 | Version 2.0.0</description>
+</item>
+<item>
+<title>外科专硕毕业，看不到希望</title>
+<link>https://www.v2ex.com/t/1213948</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1213948</guid>
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#9 | 69 回复 | 本人在江苏一个很有名的医院骨科读完硕士，读的时候才发现以前以为的科研氛围、学术氛围都是扯淡，大家都是草台班子，为了发文章不择手段，数据不理想都可以随意优化。
+而且我同时还要规培，就是当临床医生用，要写很多病历，上很多夜班，夜班那个床一个星期才换一次床单被套，而且我个子比较高，睡在值班床上很难睡着。
+我不想上班上一辈子，没办法享受人生，之前也考虑过出国发展，但是又下不了决心，因为有一个谈了 5 年的女朋友，6 月份毕业了，打算转行，但是不知道转去做什么，考虑过外贸、自媒体。有没有过来人指点迷津，感谢</description>
+</item>
+<item>
 <title>大家都是怎么判断中转站安全性呢？</title>
 <link>https://www.v2ex.com/t/1213987</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1213987</guid>
-<pubDate>Wed, 20 May 2026 06:12:29 +0000</pubDate>
-<description>#8 | 53 回复 | 如题，我也用了很多中转站，也充了钱，确实比订阅要便宜一些。我知道中转站可能会有安全风险，数据窃取，中间人攻击等。但是它便宜啊！现在大家伙有有没有好的办法可以检测中转站是否安全？让我可以放心的用。</description>
+<pubDate>Wed, 20 May 2026 10:01:20 +0000</pubDate>
+<description>#10 | 68 回复 | 如题，我也用了很多中转站，也充了钱，确实比订阅要便宜一些。我知道中转站可能会有安全风险，数据窃取，中间人攻击等。但是它便宜啊！现在大家伙有有没有好的办法可以检测中转站是否安全？让我可以放心的用。</description>
 </item>
 </channel>
 </rss>
