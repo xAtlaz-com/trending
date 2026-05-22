@@ -4,13 +4,13 @@
     "title": "大家都用的什么代理软件",
     "url": "https://www.v2ex.com/t/1214608",
     "description": "我自己的情况：\n\nWindows 、Ubuntu 、macOS 电脑都是用的clash verge：存在不稳定，占用资源多的问题，切轻量模式经常连接不上\niOS 端：shadowrocket ，常开也挺耗电，不过作者挺良心的，对比 surge 简直一个天一个地\n旁路由 istoreOS：一直用的 openclash ，也存在偶尔不稳定，偶尔需要重启一下，不知道是软件问题还是硬件问题\n\n现在想换掉 clash-verge-rev ，感觉最好是没有 ui 的，占用资源少的。现在反正配置很多时候都是 AI 写了，感觉 UI 没那么重要了。",
-    "metric": "168 回复",
-    "metric_value": 168,
+    "metric": "169 回复",
+    "metric_value": 169,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "haonanaaaaaa",
-      "last_touched": 1779470736
+      "last_touched": 1779475974
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "腾讯文档裁员这么猛真的假的？",
     "url": "https://www.v2ex.com/t/1214594",
     "description": "取消北京办公地点，全员沟通 7.18 离职。无商量余地，孕妇也不例外。法务已经准备好。其余深圳同学投奔 wb 怀抱",
-    "metric": "110 回复",
-    "metric_value": 110,
+    "metric": "111 回复",
+    "metric_value": 111,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "Amazing10086",
-      "last_touched": 1779470912
+      "last_touched": 1779475129
     }
   },
   {
@@ -43,6 +43,34 @@
   },
   {
     "rank": 4,
+    "title": "用过马应龙的湿厕纸后，无法忍受普通的厕纸了",
+    "url": "https://www.v2ex.com/t/1214566",
+    "description": "不是广告哈，马应龙应该用不着打广告。这个湿厕纸太牛逼了，早买早享受。",
+    "metric": "90 回复",
+    "metric_value": 90,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "anlitechnet",
+      "last_touched": 1779473895
+    }
+  },
+  {
+    "rank": 5,
+    "title": "自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！",
+    "url": "https://www.v2ex.com/t/1214609",
+    "description": "小站基于 sub2api 搭建，无需任何代码改动！绝不出售用户信息，完全为开发小组自用，诚邀同行分摊成本！支持 OpenAI 、Anthropic 使用，文档清晰可查 [帮助文档] 。本站使用的全部为 Pro 号池，享 0.3 倍率。在本帖回复注册邮箱(base 64 编码)，即可免费获赠 $5 额度。限时推出超值 Pro 号池套餐：仅 20 元到账 80 刀 + 专属 0.3 倍率，相当于实际 266 刀使用价值！ 1 元仅 13.33 刀官方额度，低至 0.075 元/刀！小站地址： https://api.nerverun.com",
+    "metric": "90 回复",
+    "metric_value": 90,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "Zhcgo",
+      "last_touched": 1779472971
+    }
+  },
+  {
+    "rank": 6,
     "title": "蔚来换电讨论",
     "url": "https://www.v2ex.com/t/1214689",
     "description": "最近在买电车，了解到蔚来换电以及最近的锁电门事件。\n理性分析下，蔚来换电是不是非常有优势的赛道，也是比较好的选择，虽然 baas 每个月会有对应的换电费用，也就是永续贷。\n电车最有价值，风险最大的就是电池，通过 bass 买入，把这部分风险交给蔚来公司，不需要担心电池老化，锁电等恶心人操作，同时出远门时可以申请 100 度电池，跑个 400 公里也没啥大问题。\n有点想入手蔚来 es6 ，虽然是 400v 平台。",
@@ -53,34 +81,6 @@
       "node_name": "ev",
       "author": "he123",
       "last_touched": 1779471250
-    }
-  },
-  {
-    "rank": 5,
-    "title": "用过马应龙的湿厕纸后，无法忍受普通的厕纸了",
-    "url": "https://www.v2ex.com/t/1214566",
-    "description": "不是广告哈，马应龙应该用不着打广告。这个湿厕纸太牛逼了，早买早享受。",
-    "metric": "88 回复",
-    "metric_value": 88,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "anlitechnet",
-      "last_touched": 1779469393
-    }
-  },
-  {
-    "rank": 6,
-    "title": "自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！",
-    "url": "https://www.v2ex.com/t/1214609",
-    "description": "小站基于 sub2api 搭建，无需任何代码改动！绝不出售用户信息，完全为开发小组自用，诚邀同行分摊成本！支持 OpenAI 、Anthropic 使用，文档清晰可查 [帮助文档] 。本站使用的全部为 Pro 号池，享 0.3 倍率。在本帖回复注册邮箱(base 64 编码)，即可免费获赠 $5 额度。限时推出超值 Pro 号池套餐：仅 20 元到账 80 刀 + 专属 0.3 倍率，相当于实际 266 刀使用价值！ 1 元仅 13.33 刀官方额度，低至 0.075 元/刀！小站地址： https://api.nerverun.com",
-    "metric": "88 回复",
-    "metric_value": 88,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "Zhcgo",
-      "last_touched": 1779469523
     }
   },
   {
@@ -116,13 +116,13 @@
     "title": "时代落幕了，拉勾网主动申请破产了",
     "url": "https://www.v2ex.com/t/1214578",
     "description": "爱企查信息显示拉勾网主体公司\"北京拉勾网络技术有限公司”于 2026 年 4 月 29 日进入破产审查程序\n5 月 15 日正式被裁定进入破产重整，且为公司主动申请自身破产",
-    "metric": "77 回复",
-    "metric_value": 77,
+    "metric": "78 回复",
+    "metric_value": 78,
     "extra": {
       "node": "分享发现",
       "node_name": "share",
       "author": "Venlenter",
-      "last_touched": 1779471177
+      "last_touched": 1779474710
     }
   },
   {
@@ -130,13 +130,13 @@
     "title": "继续继续推广我的 gpt 中转站，注册就送 28.8$余额",
     "url": "https://www.v2ex.com/t/1214665",
     "description": "小站稳定运营，满血 gpt plus pro 号池，开通五种套餐订阅：\n\n日限额随时会改，目前是表格中日限的 2 倍 \n\n\n\n\n套餐名\n价格\n余额\n日限额\n汇率\n\n\n\n\n日卡\n3 元\n50 刀\n日限额 50\n3/50 = 0.06\n\n\n周卡\n19 元\n400 刀\n日限额 100\n20/400 = 0.05\n\n\n月卡\n49 元\n1200 刀\n日限额 200\n49/1200 = 0.04\n\n\n月卡（大杯）\n89 元\n3000 刀\n日限额 400\n89/3000 = 0.03\n\n\n月卡（超大杯）\n199 元\n8888 刀\n日限额 888\n199/8888 = 0.0223\n\nV 站用户专属福利：新用",
-    "metric": "74 回复",
-    "metric_value": 74,
+    "metric": "76 回复",
+    "metric_value": 76,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "zhlsk",
-      "last_touched": 1779467593
+      "last_touched": 1779478038
     }
   }
 ]
