@@ -1,146 +1,132 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-23T00:10:29+00:00",
-  "count": 10,
+  "updated_at": "2026-05-23T04:26:03+00:00",
+  "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "大家都用的什么代理软件",
-      "url": "https://www.v2ex.com/t/1214608",
-      "description": "我自己的情况：\n\nWindows 、Ubuntu 、macOS 电脑都是用的clash verge：存在不稳定，占用资源多的问题，切轻量模式经常连接不上\niOS 端：shadowrocket ，常开也挺耗电，不过作者挺良心的，对比 surge 简直一个天一个地\n旁路由 istoreOS：一直用的 openclash ，也存在偶尔不稳定，偶尔需要重启一下，不知道是软件问题还是硬件问题\n\n现在想换掉 clash-verge-rev ，感觉最好是没有 ui 的，占用资源少的。现在反正配置很多时候都是 AI 写了，感觉 UI 没那么重要了。",
-      "metric": "173 回复",
-      "metric_value": 173,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "haonanaaaaaa",
-        "last_touched": 1779494517
-      }
-    },
-    {
-      "rank": 2,
-      "title": "腾讯文档裁员这么猛真的假的？",
-      "url": "https://www.v2ex.com/t/1214594",
-      "description": "取消北京办公地点，全员沟通 7.18 离职。无商量余地，孕妇也不例外。法务已经准备好。其余深圳同学投奔 wb 怀抱",
-      "metric": "111 回复",
-      "metric_value": 111,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "Amazing10086",
-        "last_touched": 1779475129
-      }
-    },
-    {
-      "rank": 3,
-      "title": "怎么没人讨论昨晚小米的 YU7 GT",
-      "url": "https://www.v2ex.com/t/1214634",
-      "description": "偷偷订了一辆顶配",
-      "metric": "97 回复",
-      "metric_value": 97,
-      "extra": {
-        "node": "小米",
-        "node_name": "xiaomi",
-        "author": "Rainwater",
-        "last_touched": 1779474778
-      }
-    },
-    {
-      "rank": 4,
       "title": "蔚来换电讨论",
       "url": "https://www.v2ex.com/t/1214689",
       "description": "最近在买电车，了解到蔚来换电以及最近的锁电门事件。\n理性分析下，蔚来换电是不是非常有优势的赛道，也是比较好的选择，虽然 baas 每个月会有对应的换电费用，也就是永续贷。\n电车最有价值，风险最大的就是电池，通过 bass 买入，把这部分风险交给蔚来公司，不需要担心电池老化，锁电等恶心人操作，同时出远门时可以申请 100 度电池，跑个 400 公里也没啥大问题。\n有点想入手蔚来 es6 ，虽然是 400v 平台。",
-      "metric": "93 回复",
-      "metric_value": 93,
+      "metric": "104 回复",
+      "metric_value": 104,
       "extra": {
         "node": "电动汽车",
         "node_name": "ev",
         "author": "he123",
-        "last_touched": 1779488627
+        "last_touched": 1779507758
       }
     },
     {
-      "rank": 5,
-      "title": "用过马应龙的湿厕纸后，无法忍受普通的厕纸了",
-      "url": "https://www.v2ex.com/t/1214566",
-      "description": "不是广告哈，马应龙应该用不着打广告。这个湿厕纸太牛逼了，早买早享受。",
-      "metric": "91 回复",
-      "metric_value": 91,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "anlitechnet",
-        "last_touched": 1779477495
-      }
-    },
-    {
-      "rank": 6,
-      "title": "自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！",
-      "url": "https://www.v2ex.com/t/1214609",
-      "description": "小站基于 sub2api 搭建，无需任何代码改动！绝不出售用户信息，完全为开发小组自用，诚邀同行分摊成本！支持 OpenAI 、Anthropic 使用，文档清晰可查 [帮助文档] 。本站使用的全部为 Pro 号池，享 0.3 倍率。在本帖回复注册邮箱(base 64 编码)，即可免费获赠 $5 额度。限时推出超值 Pro 号池套餐：仅 20 元到账 80 刀 + 专属 0.3 倍率，相当于实际 266 刀使用价值！ 1 元仅 13.33 刀官方额度，低至 0.075 元/刀！小站地址： https://api.nerverun.com",
-      "metric": "90 回复",
-      "metric_value": 90,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "Zhcgo",
-        "last_touched": 1779472971
-      }
-    },
-    {
-      "rank": 7,
-      "title": "深圳电瓶车最近频繁被拍照罚款",
-      "url": "https://www.v2ex.com/t/1214638",
-      "description": "周末走了机动车道，载人，两个罚单\n昨晚又被拍机动车道\n这些路以前我经常走都不会被拍，现在应该是新装了很多感应设备拍照开单\n现在在考虑要不要把牌拆了，听说用口罩挡住车牌就不会被拍，希望大家来讨论一下应该怎么搞",
-      "metric": "81 回复",
-      "metric_value": 81,
-      "extra": {
-        "node": "深圳",
-        "node_name": "shenzhen",
-        "author": "luufan",
-        "last_touched": 1779414488
-      }
-    },
-    {
-      "rank": 8,
-      "title": "时代落幕了，拉勾网主动申请破产了",
-      "url": "https://www.v2ex.com/t/1214578",
-      "description": "爱企查信息显示拉勾网主体公司\"北京拉勾网络技术有限公司”于 2026 年 4 月 29 日进入破产审查程序\n5 月 15 日正式被裁定进入破产重整，且为公司主动申请自身破产",
-      "metric": "78 回复",
-      "metric_value": 78,
-      "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "Venlenter",
-        "last_touched": 1779474710
-      }
-    },
-    {
-      "rank": 9,
-      "title": "继续继续推广我的 gpt 中转站，注册就送 28.8$余额",
-      "url": "https://www.v2ex.com/t/1214665",
-      "description": "小站稳定运营，满血 gpt plus pro 号池，开通五种套餐订阅：\n\n日限额随时会改，目前是表格中日限的 2 倍 \n\n\n\n\n套餐名\n价格\n余额\n日限额\n汇率\n\n\n\n\n日卡\n3 元\n50 刀\n日限额 50\n3/50 = 0.06\n\n\n周卡\n19 元\n400 刀\n日限额 100\n20/400 = 0.05\n\n\n月卡\n49 元\n1200 刀\n日限额 200\n49/1200 = 0.04\n\n\n月卡（大杯）\n89 元\n3000 刀\n日限额 400\n89/3000 = 0.03\n\n\n月卡（超大杯）\n199 元\n8888 刀\n日限额 888\n199/8888 = 0.0223\n\nV 站用户专属福利：新用",
-      "metric": "77 回复",
-      "metric_value": 77,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "zhlsk",
-        "last_touched": 1779489530
-      }
-    },
-    {
-      "rank": 10,
+      "rank": 2,
       "title": "今天我生日,可以薅 V 友一句生日快乐吗?",
       "url": "https://www.v2ex.com/t/1214784",
       "description": "",
-      "metric": "72 回复",
-      "metric_value": 72,
+      "metric": "94 回复",
+      "metric_value": 94,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "NASK",
-        "last_touched": 1779494564
+        "last_touched": 1779510197
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Surge 作者将 𝕏 个人简介修改为已退休",
+      "url": "https://www.v2ex.com/t/1214693",
+      "description": "Surge 作者将𝕏个人简介修改为已退休\nhttps://x.com/blankwonder\nSurge 在 macOS 上的体验确实不错，稳定性很好，我这边基本没遇到过什么问题，作为网关使用也很方便。它的 Dashboard 和整体 UI 设计也很直观，这部分体验明显优于不少同类产品，用起来确实更顺手，Mac 平台上整体完成度很高。\n最近更新加入的 Agent Skill 支持，以及按住 Option 键点击 Surge 主菜单后显示隐藏策略组这些细节功能，我觉得都非常实用。这类偏效率和可维护性的设计，确实能看出来产品在长期使用体验上的打磨。\n不过如果只是单纯作为代理工具使用，其实很多免费的",
+      "metric": "60 回复",
+      "metric_value": 60,
+      "extra": {
+        "node": "Apple",
+        "node_name": "apple",
+        "author": "adaashili",
+        "last_touched": 1779509872
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Codex 新站点 HappyCode 推广，纯 Plus 号池（0.04 倍率）活动送 75 刀额度",
+      "url": "https://www.v2ex.com/t/1214791",
+      "description": "自己的渠道稳定开号，所以成本和价格都比较可控。新站活动期间，当前倍率为 0.04，欢迎 V 友体验。\n定价计费\n\n使用倍率：当前倍率 0.04，即 1 元 ≈ 25 美元额度\n计费方式：按量计费，用多少扣多少，余额长期有效不过期\n\n站点地址\nhappycode.vip\n新站运营 3 重福利\n注册即送额度\n新用户注册即送 1 元 试用额度，折合约 25 美元 使用额度。\nV 友专属福利\n在本帖留言，并附上注册邮箱或自行加密邮箱，可额外赠送 1 元 试用额度，折合约 25 美元 使用额度。\n加 QQ 群领额度\n扫码进群后，私聊群主或管理员，可领取价值 1 元 的试用额度，折合约 25 美元 使用额",
+      "metric": "59 回复",
+      "metric_value": 59,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "qili36585009",
+        "last_touched": 1779510215
+      }
+    },
+    {
+      "rank": 5,
+      "title": "我要不要买 MacBook Pro？",
+      "url": "https://www.v2ex.com/t/1214677",
+      "description": "现状：目前有一台 Windows 台式机（ i7-12700K 、64GB 内存、1TB SSD + 16TB 机械硬盘，没独显），另外有一台公司发的联想 ThinkBook 基本闲置而且无法出售。\nMacbook Pro 14 寸 M5 Pro 48GB+1TB 存储（教育优惠+国补后 17999 ），预算在可承受范围。\n想买的理由：\nWindows 主机上 WSL 经常出现内存泄漏卡顿问题（或许不是 wsl 的问题，总之 24 小时开机的情况下使用一两天后经常卡顿，暂没明确是什么问题，清理下内存或者重启就好了）\nAI 工具在 Mac 系统上更友好；\n有些 FOMO ，现在 AI 发展太快了",
+      "metric": "51 回复",
+      "metric_value": 51,
+      "extra": {
+        "node": "MacBook Pro",
+        "node_name": "mbp",
+        "author": "Cestbonmmm",
+        "last_touched": 1779494747
+      }
+    },
+    {
+      "rank": 6,
+      "title": "明天就要软考了，我发现了数据库三范式之第一范式好像过时了",
+      "url": "https://www.v2ex.com/t/1214684",
+      "description": "第一范式（ 1NF ）要求数据库表中的每个列都是不可再分的原子值，即每个列都不能包含多个值或值的列表。\n\n现在使用 pg 的时候经常用 json 格式了，是不是违反了第一范式？",
+      "metric": "48 回复",
+      "metric_value": 48,
+      "extra": {
+        "node": "数据库",
+        "node_name": "db",
+        "author": "dushixiang",
+        "last_touched": 1779451953
+      }
+    },
+    {
+      "rank": 7,
+      "title": "家宽这么不稳定，有没有 NAS 托管服务么？",
+      "url": "https://www.v2ex.com/t/1214722",
+      "description": "NAS 放家也经常不稳定，人在家里当然无所谓，没有网络都可以直接对拷\n对 NAS 是希望能在外面也能随时稳定的访问，才是真正实用。\n实际上，家宽总是隔三岔五的不稳定\n如果有类似 NAS 托管的服务，这个不怎么耗电，商业网络能稳定很多\n也许纯粹是监管问题，不允许开展这类业务吗？",
+      "metric": "40 回复",
+      "metric_value": 40,
+      "extra": {
+        "node": "NAS",
+        "node_name": "nas",
+        "author": "jacketma",
+        "last_touched": 1779473978
+      }
+    },
+    {
+      "rank": 8,
+      "title": "AI 蓬勃发展，各种资讯满天飞，大家都是从哪里获取 AI 资讯",
+      "url": "https://www.v2ex.com/t/1214741",
+      "description": "AI 发展太快了，几乎每天，每小时都有各种新的东西出现，不关注吧，感觉过几天就会落伍。关注吧，又不知道从哪里能获取，现在的资讯零零散散，分布在各种地方。\n或者说我这个命题是不存在的，我们根本不需要非常实时的每天关注 AI 资讯。\n又或者用 AI 能帮我解决这个问题吗，AI 自动搜集信息对于英文网站感觉还行，但是对于中文环境，各自平台又很封闭，很难用 AI 自动爬，各种反爬机制。\n真是怀念当初的 RSS 时代，可以定制自己喜欢的资讯。",
+      "metric": "36 回复",
+      "metric_value": 36,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "gongfuxiongmao",
+        "last_touched": 1779467312
+      }
+    },
+    {
+      "rank": 9,
+      "title": "ChatGPT Pro 额度怎么蹬满?",
+      "url": "https://www.v2ex.com/t/1214772",
+      "description": "公司报销了 100 刀的额度 正好用在 ChatGPT 的 PRO 会员上了, 但是似乎很难蹬满 , 已经让 codex 在给项目每个接口生成对应文档了 ....大家都是怎么蹬的? 没需求我就创造需求!必须蹬冒烟",
+      "metric": "33 回复",
+      "metric_value": 33,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "InkAndBanner",
+        "last_touched": 1779478182
       }
     }
   ]
