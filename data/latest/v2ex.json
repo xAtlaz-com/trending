@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-23T14:09:53+00:00",
+  "updated_at": "2026-05-23T15:42:58+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "作为程序员，你愿意为“0 AI 代码介入”的汽车支付溢价吗？",
       "url": "https://www.v2ex.com/t/1214894",
       "description": "大家好，我是做嵌入式开发的。先给纯软方向的同学铺垫个背景：基本上现在能通电的设备都会带 MCU ，也都有代码在上面运行。\n结合目前的行业现状，我想和大家探讨一个细思极恐的问题：\n现状：防不胜防，汽车底层代码正被 AI 全面渗透\n我可以很肯定地说，只要是今年新出的车，100% 已经包含了 AI 生成的代码。而且很多时候，这已经是避无可避的：\n\n上游污染（被动使用）： 现在的 AI 渗透是全方位的，很多 MCU 原厂提供的 SDK 源码里，本身就已经混入了 AI 生成的代码。哪怕下游车企的程序员完全不用 AI ，只要基于官方库做开发，就已经“被动”使用了 AI 代码。\n下游外包（主动使用）： 汽车",
-      "metric": "55 回复",
-      "metric_value": 55,
+      "metric": "60 回复",
+      "metric_value": 60,
       "extra": {
         "node": "汽车",
         "node_name": "car",
         "author": "Tilie",
-        "last_touched": 1779544457
+        "last_touched": 1779550281
       }
     },
     {
@@ -22,17 +22,31 @@
       "title": "萌新的第一台软路由上 N5105 是不是有点奢侈？",
       "url": "https://www.v2ex.com/t/1214855",
       "description": "看到很多人在推 N5105 这款软路由\n对于使用场景主要就是网络环境来说是否有点奢侈了？\n毕竟我后面肯定是还要单独配一台 NAS 的\n还是说即使有了 NAS ，软路由也有可以用来拓展的和 NAS 互补的玩法？",
-      "metric": "50 回复",
-      "metric_value": 50,
+      "metric": "54 回复",
+      "metric_value": 54,
       "extra": {
         "node": "宽带症候群",
         "node_name": "bb",
         "author": "adz1181014499",
-        "last_touched": 1779544799
+        "last_touched": 1779550775
       }
     },
     {
       "rank": 3,
+      "title": "有没有不用买车也能让新手熟练掌握开车驾驶的办法？",
+      "url": "https://www.v2ex.com/t/1214887",
+      "description": "10 年驾照从未上过路，迫切地想开车自驾，但是处于没啥经验，心中胆怯。\n家里本来计划过继一辆旧车给我，但是考虑到必要性和后续使用成本，没有要。\n其实用车的场景有限，后续还是想租车玩，所以就面临一个问题，租车之前怎么熟练的掌握驾驶\n\n有没有同样经历的朋友",
+      "metric": "47 回复",
+      "metric_value": 47,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "shanex",
+        "last_touched": 1779549781
+      }
+    },
+    {
+      "rank": 4,
       "title": "春风若有怜花意 可否许我再少年",
       "url": "https://www.v2ex.com/t/1214856",
       "description": "青丝白发一瞬间，\n年华老去向谁言。\n春风若有怜花意，\n可否许我再少年？",
@@ -46,26 +60,12 @@
       }
     },
     {
-      "rank": 4,
-      "title": "有没有不用买车也能让新手熟练掌握开车驾驶的办法？",
-      "url": "https://www.v2ex.com/t/1214887",
-      "description": "10 年驾照从未上过路，迫切地想开车自驾，但是处于没啥经验，心中胆怯。\n家里本来计划过继一辆旧车给我，但是考虑到必要性和后续使用成本，没有要。\n其实用车的场景有限，后续还是想租车玩，所以就面临一个问题，租车之前怎么熟练的掌握驾驶\n\n有没有同样经历的朋友",
-      "metric": "41 回复",
-      "metric_value": 41,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "shanex",
-        "last_touched": 1779539219
-      }
-    },
-    {
       "rank": 5,
       "title": "阿里云 tokenplan 和 百度 codingplan 慎买",
       "url": "https://www.v2ex.com/t/1214866",
       "description": "百度的问题，价格便宜但限流非常严重，40 块的可以买一个体验看看。\n刚到公司一点额度都还没用的情况下，一直请求失败，不是断断续续的失败，是直接无法访问了，只有早上可能稍微好一点。\n阿里云 tokenplan 的问题，积分制，199 买了 25000 积分，但是具体这个积分怎么算没有找到，然后我接入后就发了一个 1 ， 扣了我 160 积分，所以我只能发 150 个 1.。。。。\n然后我测试写了一个很简单的用户卡包的列表和查询功能，扣了我 1000 积分，25000 估计只能用 1 天。。 慎买慎买",
-      "metric": "38 回复",
-      "metric_value": 38,
+      "metric": "39 回复",
+      "metric_value": 39,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
@@ -78,13 +78,13 @@
       "title": "你们有没有觉得，用了 AI 后，收入没增长，开销却变大了？",
       "url": "https://www.v2ex.com/t/1214875",
       "description": "你们各种 AI 工具订阅费加起来多少了？",
-      "metric": "33 回复",
-      "metric_value": 33,
+      "metric": "35 回复",
+      "metric_value": 35,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "kurthumburgmtz97",
-        "last_touched": 1779542455
+        "last_touched": 1779547750
       }
     },
     {
@@ -92,13 +92,13 @@
       "title": "qwen3.7-max 的代码能力提升非常大",
       "url": "https://www.v2ex.com/t/1214878",
       "description": "高强度用了一天，体感上和 glm-5.1 不相上下了。相对于 3.6 自主分析和解决能力飞跃如果各位只有国内的稳定接入源的话，可以试试看。",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "cubecube",
-        "last_touched": 1779545163
+        "last_touched": 1779546000
       }
     },
     {
@@ -106,17 +106,31 @@
       "title": "做了第一款 iOS 小游戏：用 SwiftUI 写了个水墨麻将连连看，送 50 个内购码",
       "url": "https://www.v2ex.com/t/1214874",
       "description": "各位佬，大家好。\n最近把第一款 iOS 小游戏上架了，叫 Sumi Mahjong Solitaire 。中文我自己叫它「禅艺麻将 / 水墨连连看」。它不是四人麻将，是麻将牌面的连连看 / Mahjong Solitaire：点两张相同的自由牌，如果能连起来就消掉。\nApp Store：\nhttps://apps.apple.com/us/app/sumi-mahjong-solitaire/id6770823912?uo=4\n这次做它其实不是想一上来做一个特别大的游戏，而是想完整跑一遍 iPhone 小游戏从开发、性能优化、内购、审核到上架的流程。因为是第一款游戏，我刻意没有选特别大的项目，",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "metric": "32 回复",
+      "metric_value": 32,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "hashtome",
-        "last_touched": 1779532462
+        "last_touched": 1779547980
       }
     },
     {
       "rank": 9,
+      "title": "颈椎病有啥办法吗？",
+      "url": "https://www.v2ex.com/t/1214938",
+      "description": "坐标天津 24  \n半个月前确认颈椎曲度消失，头晕，只是简单拍了个 DR\n西医就开了一堆止疼药  \n之后可能是受凉了，右侧肩胛骨和后颈连接处开始疼\n简单动作都会牵着疼\n去看中医，开了刮痧、拔罐、放血，还有中药外敷\n效果不好说，不确定是自己恢复了还是有用\n四五天以后基本没什么反应了  \n昨天突然又开始疼，今天开始头晕、手麻\n明天约了天津医科大学总医院骨外科  \n真的好折磨人\nV 友有同样情况的吗？有什么好办法吗？",
+      "metric": "29 回复",
+      "metric_value": 29,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "lzaske9",
+        "last_touched": 1779549574
+      }
+    },
+    {
+      "rank": 10,
       "title": "有 WeChat 换微信的吗？",
       "url": "https://www.v2ex.com/t/1214869",
       "description": "用（+1 的） WeChat 得有八九年了吧，现在在国内使用体验越来越差，十几 MB 的视频 loading 半天，甚至有些图片都要加载很久才可以打开。现在看除了 pyq 没广告外，剩下都是缺点了。不管 WeChat 服务器在哪，也懒得折腾代理规则，也是有误伤的可能性。所以考虑要不要换下。",
@@ -127,20 +141,6 @@
         "node_name": "qna",
         "author": "ethusdt",
         "last_touched": 1778663368
-      }
-    },
-    {
-      "rank": 10,
-      "title": "颈椎病有啥办法吗？",
-      "url": "https://www.v2ex.com/t/1214938",
-      "description": "坐标天津 24  \n半个月前确认颈椎曲度消失，头晕，只是简单拍了个 DR\n西医就开了一堆止疼药  \n之后可能是受凉了，右侧肩胛骨和后颈连接处开始疼\n简单动作都会牵着疼\n去看中医，开了刮痧、拔罐、放血，还有中药外敷\n效果不好说，不确定是自己恢复了还是有用\n四五天以后基本没什么反应了  \n昨天突然又开始疼，今天开始头晕、手麻\n明天约了天津医科大学总医院骨外科  \n真的好折磨人\nV 友有同样情况的吗？有什么好办法吗？",
-      "metric": "24 回复",
-      "metric_value": 24,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "lzaske9",
-        "last_touched": 1779543604
       }
     }
   ]
