@@ -1,48 +1,48 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-23T10:54:17+00:00",
-  "count": 9,
+  "updated_at": "2026-05-23T12:01:48+00:00",
+  "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Codex 新站点 HappyCode 推广，纯 Plus 号池（0.04 倍率）活动送 75 刀额度",
-      "url": "https://www.v2ex.com/t/1214791",
-      "description": "自己的渠道稳定开号，所以成本和价格都比较可控。新站活动期间，当前倍率为 0.04，欢迎 V 友体验。\n定价计费\n\n使用倍率：当前倍率 0.04，即 1 元 ≈ 25 美元额度\n计费方式：按量计费，用多少扣多少，余额长期有效不过期\n\n站点地址\nhappycode.vip\n新站运营 3 重福利\n注册即送额度\n新用户注册即送 1 元 试用额度，折合约 25 美元 使用额度。\nV 友专属福利\n在本帖留言，并附上注册邮箱或自行加密邮箱，可额外赠送 1 元 试用额度，折合约 25 美元 使用额度。\n加 QQ 群领额度\n扫码进群后，私聊群主或管理员，可领取价值 1 元 的试用额度，折合约 25 美元 使用额",
-      "metric": "98 回复",
-      "metric_value": 98,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "qili36585009",
-        "last_touched": 1779533606
-      }
-    },
-    {
-      "rank": 2,
       "title": "作为程序员，你愿意为“0 AI 代码介入”的汽车支付溢价吗？",
       "url": "https://www.v2ex.com/t/1214894",
       "description": "大家好，我是做嵌入式开发的。先给纯软方向的同学铺垫个背景：基本上现在能通电的设备都会带 MCU ，也都有代码在上面运行。\n结合目前的行业现状，我想和大家探讨一个细思极恐的问题：\n现状：防不胜防，汽车底层代码正被 AI 全面渗透\n我可以很肯定地说，只要是今年新出的车，100% 已经包含了 AI 生成的代码。而且很多时候，这已经是避无可避的：\n\n上游污染（被动使用）： 现在的 AI 渗透是全方位的，很多 MCU 原厂提供的 SDK 源码里，本身就已经混入了 AI 生成的代码。哪怕下游车企的程序员完全不用 AI ，只要基于官方库做开发，就已经“被动”使用了 AI 代码。\n下游外包（主动使用）： 汽车",
-      "metric": "46 回复",
-      "metric_value": 46,
+      "metric": "51 回复",
+      "metric_value": 51,
       "extra": {
         "node": "汽车",
         "node_name": "car",
         "author": "Tilie",
-        "last_touched": 1779529671
+        "last_touched": 1779536387
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "萌新的第一台软路由上 N5105 是不是有点奢侈？",
       "url": "https://www.v2ex.com/t/1214855",
       "description": "看到很多人在推 N5105 这款软路由\n对于使用场景主要就是网络环境来说是否有点奢侈了？\n毕竟我后面肯定是还要单独配一台 NAS 的\n还是说即使有了 NAS ，软路由也有可以用来拓展的和 NAS 互补的玩法？",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "metric": "45 回复",
+      "metric_value": 45,
       "extra": {
         "node": "宽带症候群",
         "node_name": "bb",
         "author": "adz1181014499",
-        "last_touched": 1779533304
+        "last_touched": 1779535967
+      }
+    },
+    {
+      "rank": 3,
+      "title": "春风若有怜花意 可否许我再少年",
+      "url": "https://www.v2ex.com/t/1214856",
+      "description": "青丝白发一瞬间，\n年华老去向谁言。\n春风若有怜花意，\n可否许我再少年？",
+      "metric": "35 回复",
+      "metric_value": 35,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "jonathan001",
+        "last_touched": 1779536531
       }
     },
     {
@@ -61,30 +61,30 @@
     },
     {
       "rank": 5,
-      "title": "春风若有怜花意 可否许我再少年",
-      "url": "https://www.v2ex.com/t/1214856",
-      "description": "青丝白发一瞬间，\n年华老去向谁言。\n春风若有怜花意，\n可否许我再少年？",
-      "metric": "32 回复",
-      "metric_value": 32,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "jonathan001",
-        "last_touched": 1779533577
-      }
-    },
-    {
-      "rank": 6,
       "title": "有没有不用买车也能让新手熟练掌握开车驾驶的办法？",
       "url": "https://www.v2ex.com/t/1214887",
       "description": "10 年驾照从未上过路，迫切地想开车自驾，但是处于没啥经验，心中胆怯。\n家里本来计划过继一辆旧车给我，但是考虑到必要性和后续使用成本，没有要。\n其实用车的场景有限，后续还是想租车玩，所以就面临一个问题，租车之前怎么熟练的掌握驾驶\n\n有没有同样经历的朋友",
-      "metric": "32 回复",
-      "metric_value": 32,
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "shanex",
-        "last_touched": 1779531831
+        "last_touched": 1779535833
+      }
+    },
+    {
+      "rank": 6,
+      "title": "你们有没有觉得，用了 AI 后，收入没增长，开销却变大了？",
+      "url": "https://www.v2ex.com/t/1214875",
+      "description": "你们各种 AI 工具订阅费加起来多少了？",
+      "metric": "32 回复",
+      "metric_value": 32,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "kurthumburgmtz97",
+        "last_touched": 1779536805
       }
     },
     {
@@ -103,20 +103,6 @@
     },
     {
       "rank": 8,
-      "title": "你们有没有觉得，用了 AI 后，收入没增长，开销却变大了？",
-      "url": "https://www.v2ex.com/t/1214875",
-      "description": "你们各种 AI 工具订阅费加起来多少了？",
-      "metric": "30 回复",
-      "metric_value": 30,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "kurthumburgmtz97",
-        "last_touched": 1779531371
-      }
-    },
-    {
-      "rank": 9,
       "title": "qwen3.7-max 的代码能力提升非常大",
       "url": "https://www.v2ex.com/t/1214878",
       "description": "高强度用了一天，体感上和 glm-5.1 不相上下了。相对于 3.6 自主分析和解决能力飞跃如果各位只有国内的稳定接入源的话，可以试试看。",
@@ -127,6 +113,34 @@
         "node_name": "programmer",
         "author": "cubecube",
         "last_touched": 1779533430
+      }
+    },
+    {
+      "rank": 9,
+      "title": "用 Google 礼品卡订阅 Claude 方案可行吗？",
+      "url": "https://www.v2ex.com/t/1214857",
+      "description": "用 Google 礼品卡订阅 Claude 方案可行吗？毕竟苹果机成本比安卓机高太多了，而且还对 IOS 版本有要求，iphone11 之前手机型号根本安装不了 Claude",
+      "metric": "21 回复",
+      "metric_value": 21,
+      "extra": {
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "ldy619354397",
+        "last_touched": 1779532206
+      }
+    },
+    {
+      "rank": 10,
+      "title": "有 WeChat 换微信的吗？",
+      "url": "https://www.v2ex.com/t/1214869",
+      "description": "用（+1 的） WeChat 得有八九年了吧，现在在国内使用体验越来越差，十几 MB 的视频 loading 半天，甚至有些图片都要加载很久才可以打开。现在看除了 pyq 没广告外，剩下都是缺点了。不管 WeChat 服务器在哪，也懒得折腾代理规则，也是有误伤的可能性。所以考虑要不要换下。",
+      "metric": "21 回复",
+      "metric_value": 21,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "ethusdt",
+        "last_touched": 1778663368
       }
     }
   ]
