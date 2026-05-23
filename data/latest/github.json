@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-05-23T15:42:58+00:00",
+  "updated_at": "2026-05-23T17:04:04+00:00",
   "count": 16,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "Lum1104 / Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "metric": "★ 20,348",
+      "metric": "★ 20,617",
       "extra": {
         "language": "TypeScript",
-        "stars": "20,348",
-        "forks": "1,833",
+        "stars": "20,617",
+        "forks": "1,850",
         "stars_today": "2,331 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "anthropics / claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "metric": "★ 26,071",
+      "metric": "★ 26,149",
       "extra": {
         "language": "Python",
-        "stars": "26,071",
-        "forks": "2,835",
+        "stars": "26,149",
+        "forks": "2,840",
         "stars_today": "2,172 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "colbymchenry / codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "metric": "★ 18,503",
+      "metric": "★ 18,754",
       "extra": {
         "language": "TypeScript",
-        "stars": "18,503",
-        "forks": "1,016",
+        "stars": "18,754",
+        "forks": "1,028",
         "stars_today": "2,434 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "rohitg00 / ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "metric": "★ 13,105",
+      "metric": "★ 13,237",
       "extra": {
         "language": "Python",
-        "stars": "13,105",
-        "forks": "2,456",
+        "stars": "13,237",
+        "forks": "2,484",
         "stars_today": "1,523 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "Fincept-Corporation / FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "metric": "★ 22,969",
+      "metric": "★ 23,004",
       "extra": {
         "language": "Python",
-        "stars": "22,969",
-        "forks": "3,173",
+        "stars": "23,004",
+        "forks": "3,178",
         "stars_today": "537 stars today"
       }
     },
@@ -73,12 +73,12 @@
       "title": "multica-ai / andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "metric": "★ 148,914",
+      "metric": "★ 149,102",
       "extra": {
         "language": null,
-        "stars": "148,914",
-        "forks": "15,266",
-        "stars_today": "3,152 stars today"
+        "stars": "149,102",
+        "forks": "15,288",
+        "stars_today": "3,372 stars today"
       }
     },
     {
@@ -86,10 +86,10 @@
       "title": "dotnet / skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "metric": "★ 2,687",
+      "metric": "★ 2,696",
       "extra": {
         "language": "C#",
-        "stars": "2,687",
+        "stars": "2,696",
         "forks": "207",
         "stars_today": "262 stars today"
       }
@@ -99,10 +99,10 @@
       "title": "ChromeDevTools / chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
-      "metric": "★ 41,227",
+      "metric": "★ 41,252",
       "extra": {
         "language": "TypeScript",
-        "stars": "41,227",
+        "stars": "41,252",
         "forks": "2,622",
         "stars_today": "437 stars today"
       }
@@ -112,11 +112,11 @@
       "title": "mukul975 / Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "metric": "★ 7,066",
+      "metric": "★ 7,118",
       "extra": {
         "language": "Python",
-        "stars": "7,066",
-        "forks": "988",
+        "stars": "7,118",
+        "forks": "992",
         "stars_today": "238 stars today"
       }
     },
@@ -125,11 +125,11 @@
       "title": "presenton / presenton",
       "url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "metric": "★ 6,150",
+      "metric": "★ 6,194",
       "extra": {
         "language": "TypeScript",
-        "stars": "6,150",
-        "forks": "1,104",
+        "stars": "6,194",
+        "forks": "1,110",
         "stars_today": "302 stars today"
       }
     },
@@ -138,11 +138,11 @@
       "title": "multica-ai / multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "metric": "★ 31,736",
+      "metric": "★ 31,770",
       "extra": {
         "language": "TypeScript",
-        "stars": "31,736",
-        "forks": "3,845",
+        "stars": "31,770",
+        "forks": "3,849",
         "stars_today": "429 stars today"
       }
     },
@@ -151,11 +151,11 @@
       "title": "trimstray / the-book-of-secret-knowledge",
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "metric": "★ 223,627",
+      "metric": "★ 223,673",
       "extra": {
         "language": null,
-        "stars": "223,627",
-        "forks": "13,413",
+        "stars": "223,673",
+        "forks": "13,415",
         "stars_today": "628 stars today"
       }
     },
@@ -164,11 +164,11 @@
       "title": "odoo / odoo",
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "metric": "★ 51,356",
+      "metric": "★ 51,377",
       "extra": {
         "language": "Python",
-        "stars": "51,356",
-        "forks": "32,524",
+        "stars": "51,377",
+        "forks": "32,525",
         "stars_today": "386 stars today"
       }
     },
@@ -177,10 +177,10 @@
       "title": "NVlabs / LongLive",
       "url": "https://github.com/NVlabs/LongLive",
       "description": "LongLive 2.0: Infra - Long Video Gen",
-      "metric": "★ 1,718",
+      "metric": "★ 1,738",
       "extra": {
         "language": "Python",
-        "stars": "1,718",
+        "stars": "1,738",
         "forks": "164",
         "stars_today": "79 stars today"
       }
@@ -190,11 +190,11 @@
       "title": "yt-dlp / yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
-      "metric": "★ 164,764",
+      "metric": "★ 164,801",
       "extra": {
         "language": "Python",
-        "stars": "164,764",
-        "forks": "13,851",
+        "stars": "164,801",
+        "forks": "13,854",
         "stars_today": "745 stars today"
       }
     },
@@ -203,11 +203,11 @@
       "title": "janestreet / magic-trace",
       "url": "https://github.com/janestreet/magic-trace",
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
-      "metric": "★ 5,719",
+      "metric": "★ 5,745",
       "extra": {
         "language": "OCaml",
-        "stars": "5,719",
-        "forks": "176",
+        "stars": "5,745",
+        "forks": "177",
         "stars_today": "70 stars today"
       }
     }
