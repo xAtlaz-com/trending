@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-24T09:29:27+00:00",
+  "updated_at": "2026-05-24T10:57:36+00:00",
   "count": 9,
   "items": [
     {
@@ -19,6 +19,20 @@
     },
     {
       "rank": 2,
+      "title": "我开发了这么多游戏，也没啥热度，不知道我做错了什么",
+      "url": "https://www.v2ex.com/t/1215087",
+      "description": "你们都知道，我是一个独立游戏开发者，开发过不少独立游戏：\n第一个，这是 WarChess：East West Conflict ，中文名叫做《战棋：东西方冲突》，是以 21 世纪现代战争为背景的六边形回合制策略游戏\n这个是游戏中的中国战役，武统台湾的战役：  \n\n地址： https://www.moddb.com/games/war-chess-east-west-conflict \n第二个，这是 OperationDMZ: Fall of Edestan Republic ，中文名叫《非军事区行动：艾德斯坦共和国的陨落》，这是一个 2D 战术射击游戏  \n\n地址： https://www.m",
+      "metric": "40 回复",
+      "metric_value": 40,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "Srande",
+        "last_touched": 1779619657
+      }
+    },
+    {
+      "rank": 3,
       "title": "技术不值钱 想法和流量才值钱",
       "url": "https://www.v2ex.com/t/1215046",
       "description": "经常可以看到一些 OPC 做了很多东西,但是好像最终也没有成功转化为一个商业的产品,然后就会有很多 OPC 发那些文字,说技术路线,或者说产品已跑通,找流量运营合伙人之类的,果然还是流量为王啊。",
@@ -32,31 +46,17 @@
       }
     },
     {
-      "rank": 3,
-      "title": "小区有人高空抛物，差点砸到人。是不是无解？",
-      "url": "https://www.v2ex.com/t/1214958",
-      "description": "有人晚上从楼上扔了一个瓷碗，差点把业主砸到了。然后这个业主打了多次 110 电话，居然打不通。看业主群里面说物业后面打了电话，说是转给派出所处理了。也不知真假。\n这个小区去年就已经安装了对上的摄像头，物业也没有把监控视频发出来。我个人猜测可能这个摄像头只是一个样子，可能连电都没有通。\n这几天想了想，一个人要想做坏事，有一万种办法，防不胜防。另外，似乎大家对不发生在自己身上的事情都不关心。估计已经不了了之了。",
-      "metric": "33 回复",
-      "metric_value": 33,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "hahade",
-        "last_touched": 1779584887
-      }
-    },
-    {
       "rank": 4,
       "title": "打工 15 年，存的所有积蓄买的房子，我得到了什么？",
       "url": "https://www.v2ex.com/t/1215030",
       "description": "某新一线三环内，泥巴色的高楼密集，看天气都得看手机。当初买这里，也是因为家人希望买这里，毕竟是省会，我自从毕业后就直接去了一线城市，我深知这个城市和一线城市没得比。但最终只能妥协，看房和买房我都不在场，也不想关心，就只出钱。\n后面年纪大了，一线城市买房无望，就回来了，回来之后，我就看这里不顺眼那里不顺眼，但还凑合。\n后来，发生了一件事：小区外墙大片脱落，把路边的车砸了，所幸没伤到人。物业催当年的物业费，我问：“外墙什么时候弄好，我就什么时候交，还好没砸到人，砸到人了还得我们业主赔”，答曰：“砸到人了我们有保险的，你不用担心。”，我问：“你们自己在楼下走，不怕吗？”，答曰：“我们不住这里”。至此",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "metric": "36 回复",
+      "metric_value": 36,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "hahade",
-        "last_touched": 1779613149
+        "last_touched": 1779619374
       }
     },
     {
@@ -64,13 +64,13 @@
       "title": "你们都在用什么机器跑 hermes",
       "url": "https://www.v2ex.com/t/1215014",
       "description": "问下大家现在都在用什么机器跑 hermes ？\n想收一台二手 macbook 跑 hermes\n不知道什么配置性能不会溢出？\nm1 8+256 的 macbook air 如何？",
-      "metric": "28 回复",
-      "metric_value": 28,
+      "metric": "30 回复",
+      "metric_value": 30,
       "extra": {
         "node": "Hermes Agent",
         "node_name": "hermes-agent",
         "author": "adz1181014499",
-        "last_touched": 1779614870
+        "last_touched": 1779617419
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "吐槽京东自营的罗技售后问题",
       "url": "https://www.v2ex.com/t/1214960",
       "description": "不到一年前在京东买的 MX Master 3s ，最近出现了右键失灵+双击的问题，因为还在保修期内，遂找京东客服。\n在京东上提交售后之后，接到 025-5207-6007 打来的电话，要求我把鼠标寄到当地的罗技售后，并且客服那边把京东的服务单关闭了。另外还要求给京东的服务单好评，才能返寄出的邮费。\n正常的流程不应该是提交服务单之后京东直接上门取件吗，不是很懂为什么需要这么操作。",
-      "metric": "28 回复",
-      "metric_value": 28,
+      "metric": "30 回复",
+      "metric_value": 30,
       "extra": {
         "node": "京东",
         "node_name": "jd",
         "author": "kierankihn",
-        "last_touched": 1779594863
+        "last_touched": 1779602063
       }
     },
     {
@@ -92,17 +92,31 @@
       "title": "让 AI 写产品官网还蛮困难，很磨时间，默认出的文案和样式都不太行，有什么技巧么？ 或者有啥神奇的 skill、prompt 可以提高效率？",
       "url": "https://www.v2ex.com/t/1214996",
       "description": "陆陆续续花了接近 3 天时间才改了一版本。之前是改完现在是最初的版本是，AI 直出的文案和样式，文案不说人话，样式也看着着就别扭。新版是，每一幕和 AI 描述自己的想法然后定制调出来的，个人感官上舒服了很多。然后想着未来可能会用 AI 做更多新产品，手动调也太麻烦了，大家是套模板还是有啥神奇的 skill 或 prompt 可以提高效率么？求分享。另外自荐产品名字：叙野 Lorewild 网址： https://lorewild.com推特： https://x.com/ethan180953定位是“用 AI 故事学外语”和“AI 角色对话学外语”，支持中文、英语、日语、韩语、德语、西班牙语六",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "29 回复",
+      "metric_value": 29,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "wwk",
-        "last_touched": 1779612619
+        "last_touched": 1779617493
       }
     },
     {
       "rank": 8,
+      "title": "抖音上有人推菲律宾线上 1 对 1 小朋友的外教，靠谱吗？",
+      "url": "https://www.v2ex.com/t/1215047",
+      "description": "rt ，小朋友 7 岁多，有经验的吗？感觉价格比较便宜，好像挺不错的，😂",
+      "metric": "22 回复",
+      "metric_value": 22,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "justtokankan",
+        "last_touched": 1779618760
+      }
+    },
+    {
+      "rank": 9,
       "title": "你们多少人是自己付费买 token 干公司的工作任务了？",
       "url": "https://www.v2ex.com/t/1214981",
       "description": "最近花了几十块钱，充的中转站，确实自己省了不少事。不过有点焦虑。一是每次发出任务后的开销，自己似乎也没法预估，有时候感觉要改一个小样式，咔咔咔给你跑了那么多 token ，有时候一个自我感觉很复杂的功能，ai 很快给你搞出来了。二是担忧这样下去，自己也不会写代码了，但是这是自己安身立命的技能啊。",
@@ -113,20 +127,6 @@
         "node_name": "career",
         "author": "libasten",
         "last_touched": 1779597025
-      }
-    },
-    {
-      "rank": 9,
-      "title": "抖音上有人推菲律宾线上 1 对 1 小朋友的外教，靠谱吗？",
-      "url": "https://www.v2ex.com/t/1215047",
-      "description": "rt ，小朋友 7 岁多，有经验的吗？感觉价格比较便宜，好像挺不错的，😂",
-      "metric": "17 回复",
-      "metric_value": 17,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "justtokankan",
-        "last_touched": 1779614523
       }
     }
   ]
