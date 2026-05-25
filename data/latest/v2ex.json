@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-24T22:36:01+00:00",
+  "updated_at": "2026-05-25T00:03:51+00:00",
   "count": 10,
   "items": [
     {
@@ -61,6 +61,20 @@
     },
     {
       "rank": 5,
+      "title": "最近感觉叫陌生人老师挺好的",
+      "url": "https://www.v2ex.com/t/1215112",
+      "description": "以前感觉山东兄弟叫老师比较多，最近和公司对接的陌生人比较多，发现很多人都叫对方老师，也挺好",
+      "metric": "44 回复",
+      "metric_value": 44,
+      "extra": {
+        "node": "随想",
+        "node_name": "random",
+        "author": "zhoudaiyu",
+        "last_touched": 1779666118
+      }
+    },
+    {
+      "rank": 6,
       "title": "你们都在用什么机器跑 hermes",
       "url": "https://www.v2ex.com/t/1215014",
       "description": "问下大家现在都在用什么机器跑 hermes ？\n想收一台二手 macbook 跑 hermes\n不知道什么配置性能不会溢出？\nm1 8+256 的 macbook air 如何？",
@@ -71,20 +85,6 @@
         "node_name": "hermes-agent",
         "author": "adz1181014499",
         "last_touched": 1779643746
-      }
-    },
-    {
-      "rank": 6,
-      "title": "最近感觉叫陌生人老师挺好的",
-      "url": "https://www.v2ex.com/t/1215112",
-      "description": "以前感觉山东兄弟叫老师比较多，最近和公司对接的陌生人比较多，发现很多人都叫对方老师，也挺好",
-      "metric": "39 回复",
-      "metric_value": 39,
-      "extra": {
-        "node": "随想",
-        "node_name": "random",
-        "author": "zhoudaiyu",
-        "last_touched": 1779657056
       }
     },
     {
@@ -106,11 +106,11 @@
       "title": "转弯不让直行有感",
       "url": "https://www.v2ex.com/t/1215108",
       "description": "骑了电动车最近上下班，有些路转弯车比较多，大巴，小汽车，电摩托，基本没让过直行车辆，有几次还有抢跑的，如果不是直行车速极慢，就是一场事故各位对现在交通有啥感想",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "metric": "27 回复",
+      "metric_value": 27,
       "extra": {
-        "node": "随想",
-        "node_name": "random",
+        "node": "生活",
+        "node_name": "life",
         "author": "yifangtongxing28",
         "last_touched": 1779661439
       }
@@ -131,16 +131,16 @@
     },
     {
       "rank": 10,
-      "title": "想问一下🌹花在微信里是表示成功、勿忧的黑话吗？",
-      "url": "https://www.v2ex.com/t/1215039",
-      "description": "周五下午投个标，竞争家数挺多的。忐忑的很。\n甲方评委是同学，但是只是参加（被授权），其实他本身不能做主（听领导的）\n说白了，是领导跟他一起参加，他负责打分，领导线下指挥，出了事儿他背锅，不出事皆大欢喜。\n傍晚 6 点多，还没有结果，我问他结束了吗？没回。\n7 点钟忍不住给他打了微信电话，给掐了。\n8 点钟他回了个  “才到家明天还加班，累啊🌹”\n我感觉，这应该是“黑话”，他知道我关照结果，又受限于纪律不该透露，就放了个小花花\n但是又不敢十分确定\n马上要写周报了，如何跟领导汇报这个呢？ \n是“等待结果”还是“初步是好消息”\nxdm 帮我诊断一下呢？",
-      "metric": "22 回复",
-      "metric_value": 22,
+      "title": "你们都是 plus、pro，但是程序需要用 api 在哪里买？",
+      "url": "https://www.v2ex.com/t/1215096",
+      "description": "也许不应该说哪里买，是怎么买官方的 gpt 和 gemini 的 api ，不是聊天或者 coding plan",
+      "metric": "23 回复",
+      "metric_value": 23,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "intoext",
-        "last_touched": 1779630617
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "mapleisaac",
+        "last_touched": 1779650295
       }
     }
   ]
