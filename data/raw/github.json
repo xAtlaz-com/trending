@@ -4,25 +4,25 @@
     "title": "Lum1104 / Understand-Anything",
     "url": "https://github.com/Lum1104/Understand-Anything",
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "metric": "★ 33,007",
+    "metric": "★ 34,758",
     "extra": {
       "language": "TypeScript",
-      "stars": "33,007",
-      "forks": "2,683",
-      "stars_today": "5,604 stars today"
+      "stars": "34,758",
+      "forks": "2,808",
+      "stars_today": "4,721 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "anthropics / knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "metric": "★ 16,093",
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "metric": "★ 193,857",
     "extra": {
-      "language": "Python",
-      "stars": "16,093",
-      "forks": "1,908",
-      "stars_today": "1,441 stars today"
+      "language": "JavaScript",
+      "stars": "193,857",
+      "forks": "29,925",
+      "stars_today": "1,912 stars today"
     }
   },
   {
@@ -30,25 +30,25 @@
     "title": "rohitg00 / ai-engineering-from-scratch",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
-    "metric": "★ 19,504",
+    "metric": "★ 20,285",
     "extra": {
       "language": "Python",
-      "stars": "19,504",
-      "forks": "3,267",
-      "stars_today": "3,154 stars today"
+      "stars": "20,285",
+      "forks": "3,393",
+      "stars_today": "2,169 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "affaan-m / ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "metric": "★ 193,136",
+    "title": "anthropics / knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "metric": "★ 16,463",
     "extra": {
-      "language": "JavaScript",
-      "stars": "193,136",
-      "forks": "29,853",
-      "stars_today": "2,025 stars today"
+      "language": "Python",
+      "stars": "16,463",
+      "forks": "1,935",
+      "stars_today": "1,698 stars today"
     }
   },
   {
@@ -56,168 +56,129 @@
     "title": "mukul975 / Anthropic-Cybersecurity-Skills",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
     "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-    "metric": "★ 9,563",
+    "metric": "★ 9,853",
     "extra": {
       "language": "Python",
-      "stars": "9,563",
-      "forks": "1,153",
-      "stars_today": "1,004 stars today"
+      "stars": "9,853",
+      "forks": "1,171",
+      "stars_today": "871 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "colbymchenry / codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-    "metric": "★ 26,405",
+    "title": "hardikpandya / stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "metric": "★ 4,826",
     "extra": {
-      "language": "TypeScript",
-      "stars": "26,405",
-      "forks": "1,473",
-      "stars_today": "3,161 stars today"
+      "language": null,
+      "stars": "4,826",
+      "forks": "398",
+      "stars_today": "547 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "manaflow-ai / cmux",
-    "url": "https://github.com/manaflow-ai/cmux",
-    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-    "metric": "★ 19,654",
+    "title": "Leonxlnx / taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "metric": "★ 20,907",
     "extra": {
-      "language": "Swift",
-      "stars": "19,654",
-      "forks": "1,480",
-      "stars_today": "603 stars today"
+      "language": "Shell",
+      "stars": "20,907",
+      "forks": "1,707",
+      "stars_today": "1,440 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "multica-ai / andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "metric": "★ 155,920",
+    "title": "DigitalPlatDev / FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+    "metric": "★ 166,758",
     "extra": {
-      "language": null,
-      "stars": "155,920",
-      "forks": "15,985",
-      "stars_today": "2,749 stars today"
+      "language": "HTML",
+      "stars": "166,758",
+      "forks": "3,048",
+      "stars_today": "1,127 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "Fincept-Corporation / FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-    "metric": "★ 24,054",
+    "title": "jellyfin / jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "metric": "★ 52,296",
     "extra": {
-      "language": "Python",
-      "stars": "24,054",
-      "forks": "3,300",
-      "stars_today": "317 stars today"
+      "language": "C#",
+      "stars": "52,296",
+      "forks": "4,866",
+      "stars_today": "91 stars today"
     }
   },
   {
     "rank": 10,
-    "title": "paperless-ngx / paperless-ngx",
-    "url": "https://github.com/paperless-ngx/paperless-ngx",
-    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-    "metric": "★ 41,479",
+    "title": "Axorax / awesome-free-apps",
+    "url": "https://github.com/Axorax/awesome-free-apps",
+    "description": "Curated list of the best free apps for PC and mobile",
+    "metric": "★ 5,064",
     "extra": {
-      "language": "Python",
-      "stars": "41,479",
-      "forks": "2,749",
-      "stars_today": "176 stars today"
+      "language": "JavaScript",
+      "stars": "5,064",
+      "forks": "255",
+      "stars_today": "738 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "anthropics / claude-cookbooks",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "metric": "★ 44,199",
+    "title": "twentyhq / twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "metric": "★ 46,672",
     "extra": {
-      "language": "Jupyter Notebook",
-      "stars": "44,199",
-      "forks": "5,057",
-      "stars_today": "141 stars today"
+      "language": "TypeScript",
+      "stars": "46,672",
+      "forks": "6,627",
+      "stars_today": "237 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "Leonxlnx / taste-skill",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-    "metric": "★ 20,248",
+    "title": "Open-Dev-Society / OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "metric": "★ 11,909",
     "extra": {
-      "language": "Shell",
-      "stars": "20,248",
-      "forks": "1,668",
-      "stars_today": "264 stars today"
+      "language": "TypeScript",
+      "stars": "11,909",
+      "forks": "1,620",
+      "stars_today": "128 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "moeru-ai / airi",
-    "url": "https://github.com/moeru-ai/airi",
-    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "metric": "★ 39,922",
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "metric": "★ 78,447",
     "extra": {
       "language": "TypeScript",
-      "stars": "39,922",
-      "forks": "4,026",
-      "stars_today": "62 stars today"
+      "stars": "78,447",
+      "forks": "6,758",
+      "stars_today": "319 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "shiyu-coder / Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "metric": "★ 26,234",
+    "title": "st-tech / ppf-contact-solver",
+    "url": "https://github.com/st-tech/ppf-contact-solver",
+    "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+    "metric": "★ 3,352",
     "extra": {
       "language": "Python",
-      "stars": "26,234",
-      "forks": "4,555",
-      "stars_today": "245 stars today"
-    }
-  },
-  {
-    "rank": 15,
-    "title": "Axorax / awesome-free-apps",
-    "url": "https://github.com/Axorax/awesome-free-apps",
-    "description": "Curated list of the best free apps for PC and mobile",
-    "metric": "★ 4,802",
-    "extra": {
-      "language": "JavaScript",
-      "stars": "4,802",
-      "forks": "243",
-      "stars_today": "192 stars today"
-    }
-  },
-  {
-    "rank": 16,
-    "title": "hardikpandya / stop-slop",
-    "url": "https://github.com/hardikpandya/stop-slop",
-    "description": "A skill file for removing AI tells from prose",
-    "metric": "★ 4,616",
-    "extra": {
-      "language": null,
-      "stars": "4,616",
-      "forks": "389",
-      "stars_today": "345 stars today"
-    }
-  },
-  {
-    "rank": 17,
-    "title": "garrytan / gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "metric": "★ 102,826",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "102,826",
-      "forks": "15,330",
-      "stars_today": "640 stars today"
+      "stars": "3,352",
+      "forks": "244",
+      "stars_today": "207 stars today"
     }
   }
 ]
