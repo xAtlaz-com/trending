@@ -1,100 +1,100 @@
 [
   {
     "rank": 1,
-    "title": "Claude Opus 4.8 来了，但它说它是 qwen",
-    "url": "https://www.v2ex.com/t/1216494",
-    "description": "今天 Claude Opus 4.8 发布了，又一次升级，说现在已经支持在一次会话里调度几百个子 agent 同时干活了。\n虽然听起来又是一个新的 token 绞肉机，但是。。。利好一人公司！哈哈。\n但是我在评论区下面刷到了一个瓜，说 4.8 蒸馏了太多 qwen 等开源模型，导致自我认知出了问题，你现在问它是谁，它基本认为自己是千问，哈哈。\nhttps://imgur.com/a/b3gfH8A\n不过它吹任它吹，别把 4.6 下了就行，我看他们说非编程感受还不如 4.6 ，不如等之后传说中更聪明的 Mythos 吧。",
-    "metric": "74 回复",
-    "metric_value": 74,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
-      "author": "cxd8190102",
-      "last_touched": 1780126270
-    }
-  },
-  {
-    "rank": 2,
     "title": "AI 把我调教了，从 0 消费，到月消费 1200 元。",
     "url": "https://www.v2ex.com/t/1216578",
     "description": "AI 把我调教了。\n一路走下来的订阅路程：\n\n最早用国产 Kimi\n订阅 minimax 2.5 （¥25 还是 ¥35 不记得了）\n用 opencode （内部跑的也是 minimax ）\n阿里百炼的订阅（¥20 、¥30 一个业务）\n咸鱼上买 antigravity 家庭组（¥157/月）+ codex pro （当时 ¥20/月）\n全面转 codex 20 倍，2 人拼车，相当于 10 倍（¥650/月）\n加上 claude Pro （¥85 左右一个人）\n现在：codex 20 倍拼车（¥650/月） + claude Pro 5 倍（¥575/月）\n\n从今年 3 月中到现在 5 月底",
-    "metric": "44 回复",
-    "metric_value": 44,
+    "metric": "45 回复",
+    "metric_value": 45,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "liandro",
-      "last_touched": 1780126074
+      "last_touched": 1780130268
     }
   },
   {
-    "rank": 3,
-    "title": "热死人了，你们都喝什么保命",
-    "url": "https://www.v2ex.com/t/1216505",
-    "description": "气温显示 36°，但实际难受得一批，像发烧了一样，食欲不振，精神萎靡，大量喝水还是口渴。AI 推荐\n1：喝淡盐+糖水；\n2：水煮米+姜片+盐\n3：水煮绿豆+盐\n1 替代茶； 2 和 3 感觉比较麻烦点，要煮 20 分钟。。",
-    "metric": "37 回复",
-    "metric_value": 37,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "sosme",
-      "last_touched": 1780111174
-    }
-  },
-  {
-    "rank": 4,
+    "rank": 2,
     "title": "跟北航的弟弟聊了下人生规划，聊完我 emo 了",
     "url": "https://www.v2ex.com/t/1216587",
     "description": "起因是表弟找我有杭州有没有实习推荐\n我难为情的告诉他，今天是 5.30 ，我正式失业了，也在找工作\n然后反应过来，你才研一，这么早就找实习吗\n他扭扭捏捏，问半天才套出话\n原来他导师管的严，他想趁着导师外出交流，找个实习方便以后找工作\n我叹了口气，告诉他先别做急急国王\n首先，双 95,058400 ，这个背景找份实习不难\n其次，导师就是老板，她要学生发论文，校招也看论文，争取多发几篇\n最后，导师不放人，找实习也没用，如果有时间可以考个雅思，以后用得上\n聊完反而心里堵得慌，要是我有个 985 学历早就找到下家了\n当前 ai 冲击下，编程差距早就被抹平，学历事实上成了硬性区分条件\n大环境是差，但高学",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "tenserG",
-      "last_touched": 1780123829
+      "last_touched": 1780133913
     }
   },
   {
-    "rank": 5,
+    "rank": 3,
     "title": "陪老大加班能否成为嫡系？",
     "url": "https://www.v2ex.com/t/1216555",
     "description": "几个厉害的几个一般的 我是一般的老大和几个厉害的加班一般的不加那如果我也加呢",
-    "metric": "29 回复",
-    "metric_value": 29,
+    "metric": "30 回复",
+    "metric_value": 30,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "loverorser",
-      "last_touched": 1780102948
+      "last_touched": 1780106548
     }
   },
   {
-    "rank": 6,
+    "rank": 4,
     "title": "需要二次接码了有什么解法吗？",
     "url": "https://www.v2ex.com/t/1216598",
     "description": "就是之前一次性接码接完能登，现在直接弹出来之前那个手机号让接码了。之前用的接码平台本来就是一次性的，现在又不能修改手机号重新验证",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "john46",
+      "last_touched": 1780131502
+    }
+  },
+  {
+    "rank": 5,
+    "title": "电话号码怎么解决？",
+    "url": "https://www.v2ex.com/t/1216568",
+    "description": "已经试了很多接码平台了，搞不定怎么办各位大神？",
     "metric": "24 回复",
     "metric_value": 24,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
-      "author": "john46",
-      "last_touched": 1780126042
+      "author": "Achao1121",
+      "last_touched": 1780110503
+    }
+  },
+  {
+    "rank": 6,
+    "title": "开发转运维，是否是一条不归路",
+    "url": "https://www.v2ex.com/t/1216610",
+    "description": "背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。\n开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。\n入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。",
+    "metric": "20 回复",
+    "metric_value": 20,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "Carver9527",
+      "last_touched": 1780121551
     }
   },
   {
     "rank": 7,
-    "title": "电话号码怎么解决？",
-    "url": "https://www.v2ex.com/t/1216568",
-    "description": "已经试了很多接码平台了，搞不定怎么办各位大神？",
-    "metric": "23 回复",
-    "metric_value": 23,
+    "title": "有没有大佬知道如何获取安卓唯一标识",
+    "url": "https://www.v2ex.com/t/1216634",
+    "description": "如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。系统为 11 、12 。设备需要经常刷机。在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？",
+    "metric": "20 回复",
+    "metric_value": 20,
     "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "Achao1121",
-      "last_touched": 1780106903
+      "node": "Android",
+      "node_name": "android",
+      "author": "YaNanGe",
+      "last_touched": 1780135268
     }
   },
   {
@@ -113,30 +113,30 @@
   },
   {
     "rank": 9,
-    "title": "开发转运维，是否是一条不归路",
-    "url": "https://www.v2ex.com/t/1216610",
-    "description": "背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。\n开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。\n入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。",
-    "metric": "19 回复",
-    "metric_value": 19,
+    "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
+    "url": "https://www.v2ex.com/t/1216615",
+    "description": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI ",
+    "metric": "17 回复",
+    "metric_value": 17,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "Carver9527",
-      "last_touched": 1780121551
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "GG5332",
+      "last_touched": 1780131704
     }
   },
   {
     "rank": 10,
-    "title": "一念成仙：在一个窄门赛道里，把日活熬到了 3 万+，聊点真实的运营感受",
-    "url": "https://www.v2ex.com/t/1216532",
-    "description": "各位 V 站的老哥好，我是耄耋。\n最近大环境挺冷的，看一些节点里大家都有点焦虑。我好久没发帖子了，也想碎碎念一下，\n上次我发帖吐槽的微信支付被拒绝问题，后来我找到了抖音支付，顺利的接入了，目前越来越多的支付通过抖音支付去进行，未来磨合以后，可能会作为主要的一个方式了。\n今天就是单纯作为个干了十几年的草根独立开发，草根创业者，分享点自己这几年的折腾经历和碎碎念。希望能给准备起步，或者正在单干煎熬期的新人朋友，提供一个不太一样的破局视角。\n先简单交代一下背景。我是在 QQ 生态里做独立开发的，写群机器人。估计论坛里不少 V 友看到这就笑了，觉得这就是个上不了台面的边缘玩具，不如搞个高大上的小程序或",
-    "metric": "16 回复",
-    "metric_value": 16,
+    "title": "安卓用户终于等到了！《巴比伦富翁家庭理财助手》Google Play 正式上线",
+    "url": "https://www.v2ex.com/t/1216632",
+    "description": "从 iOS 到 Android ，这款让家庭财务一目了然的 App ，现在全面覆盖两大平台。\n\n\n2018 年，一款名为《巴比伦富翁家庭理财助手》的 App 悄然登陆 Apple App Store 。它没有华丽的广告，没有铺天盖地的投放，却凭借「银行级安全 + 极简操作 + 深度分析」的产品理念，收获了一批忠实用户。\n8 年过去了。\n今天，我们郑重宣布：\n《巴比伦富翁家庭理财助手》 Android 版，正式上线 Google Play ！\n\n\n扫描下方二维码，或点击文末「阅读原文」直达 Google Play 下载页。\n\n\n一、你是否也有这样的困扰？\n月底翻看钱包，发现钱又花光了，却想不起来",
+    "metric": "17 回复",
+    "metric_value": 17,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
-      "author": "darkway",
-      "last_touched": 1780064910
+      "author": "pengdw",
+      "last_touched": 1780134756
     }
   }
 ]
