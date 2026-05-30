@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-30T19:49:25+00:00",
+  "updated_at": "2026-05-30T21:02:39+00:00",
   "count": 10,
   "items": [
     {
@@ -19,6 +19,20 @@
     },
     {
       "rank": 2,
+      "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
+      "url": "https://www.v2ex.com/t/1216615",
+      "description": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI ",
+      "metric": "33 回复",
+      "metric_value": 33,
+      "extra": {
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "GG5332",
+        "last_touched": 1780174552
+      }
+    },
+    {
+      "rank": 3,
       "title": "和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间",
       "url": "https://www.v2ex.com/t/1216703",
       "description": "其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）\n今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，\n一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱\n一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和",
@@ -32,31 +46,17 @@
       }
     },
     {
-      "rank": 3,
-      "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
-      "url": "https://www.v2ex.com/t/1216615",
-      "description": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI ",
-      "metric": "32 回复",
-      "metric_value": 32,
-      "extra": {
-        "node": "Claude",
-        "node_name": "claude",
-        "author": "GG5332",
-        "last_touched": 1780163656
-      }
-    },
-    {
       "rank": 4,
       "title": "各位大佬们，固态硬盘到底分不分区？",
       "url": "https://www.v2ex.com/t/1216669",
       "description": "记得之前看到过，有人说固态盘不建议分区，到底要不要分区？分区影响整体寿命吗？还是说不分区使用更好？",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "metric": "32 回复",
+      "metric_value": 32,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "jumkey",
-        "last_touched": 1780162465
+        "last_touched": 1780171524
       }
     },
     {
@@ -64,13 +64,13 @@
       "title": "HP 打印机没有 mac 驱动怎么办？",
       "url": "https://www.v2ex.com/t/1216672",
       "description": "买了个 hp 的打印机，比较便宜的那种。hp 105w 激光打印机。\n官网没有 mac 系统的驱动，windows 倒是正常。\n苹果官网好像也没找到这种打印机的解决方案。\n不知道大家有没有过类似的经验，该怎么处理？",
-      "metric": "27 回复",
-      "metric_value": 27,
+      "metric": "28 回复",
+      "metric_value": 28,
       "extra": {
         "node": "macOS",
         "node_name": "macos",
         "author": "leon912",
-        "last_touched": 1780162876
+        "last_touched": 1780172808
       }
     },
     {
@@ -92,13 +92,13 @@
       "title": "给大二的小孩买了 GPT Go",
       "url": "https://www.v2ex.com/t/1216664",
       "description": "前几天抱怨免费的不够用\n今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了",
-      "metric": "24 回复",
-      "metric_value": 24,
+      "metric": "25 回复",
+      "metric_value": 25,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "wuruxu",
-        "last_touched": 1780149192
+        "last_touched": 1780152792
       }
     },
     {

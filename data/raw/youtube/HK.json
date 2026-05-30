@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#video",
-    "etag": "PnTZ33-uyNvZlQmGf_XD-Tagmjk",
+    "etag": "ZbPQmkWZvc4LAVApM7qr7sXK6n4",
     "id": "g1GBE8eeNyM",
     "snippet": {
       "publishedAt": "2026-05-28T13:00:06Z",
@@ -55,10 +55,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "246357",
-      "likeCount": "7677",
+      "viewCount": "260912",
+      "likeCount": "7770",
       "favoriteCount": "0",
-      "commentCount": "314"
+      "commentCount": "319"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/g1GBE8eeNyM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -73,7 +73,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "h-nDCnqBHwowojgb7sx03NjZvk0",
+    "etag": "3-acOO5lvK1c_FKd3OcWCMsacNw",
     "id": "95PftHrX5VU",
     "snippet": {
       "publishedAt": "2026-05-27T16:58:01Z",
@@ -147,10 +147,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "83525",
-      "likeCount": "1285",
+      "viewCount": "86498",
+      "likeCount": "1297",
       "favoriteCount": "0",
-      "commentCount": "242"
+      "commentCount": "243"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/95PftHrX5VU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -164,7 +164,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YBSnwt9-tGcrV70uTwoUxFLfjtU",
+    "etag": "0dk3fhcBJnCvZBwgf1Z-N6-zBhU",
     "id": "NGpjr59biN0",
     "snippet": {
       "publishedAt": "2026-05-30T12:37:08Z",
@@ -226,10 +226,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "451778",
-      "likeCount": "1974",
+      "viewCount": "468634",
+      "likeCount": "2024",
       "favoriteCount": "0",
-      "commentCount": "33"
+      "commentCount": "39"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NGpjr59biN0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -244,7 +244,216 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YyJW6hudDoQQF5Mo0_WN_rxeZcs",
+    "etag": "Iggo4tv0HtrMcxDl4Vbf3mH-IR0",
+    "id": "83C3TZ4Zm_o",
+    "snippet": {
+      "publishedAt": "2026-05-29T04:00:16Z",
+      "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+      "title": "aespa 에스파 'LEMONADE' MV",
+      "description": "aespa's 2nd album \"LEMONADE\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/LEMONADE\n\n🧬 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV https://youtu.be/iTJSbJtS8MU\n\n[Tracklist]\n01 WDA (Whole Different Animal) (Feat. G-DRAGON)\n02 LEMONADE\n03 SHAKIN‘\n04 Can‘t Help Myself\n05 Camouflage\n06 Bite\n07 Switchblade (Feat. Ty Dolla $ign)\n08 Roll\n09 My Plan\n10 ’Til We Die\n11 LEMONADE (Feat. Becky G)\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #에스파 #LEMONADE \n#aespaLEMONADE #æspa\naespa 에스파 'LEMONADE' MV ℗ SM Entertainment",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SMTOWN",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "aespa 에스파 'LEMONADE' MV",
+        "description": "aespa's 2nd album \"LEMONADE\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/LEMONADE\n\n🧬 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV https://youtu.be/iTJSbJtS8MU\n\n[Tracklist]\n01 WDA (Whole Different Animal) (Feat. G-DRAGON)\n02 LEMONADE\n03 SHAKIN‘\n04 Can‘t Help Myself\n05 Camouflage\n06 Bite\n07 Switchblade (Feat. Ty Dolla $ign)\n08 Roll\n09 My Plan\n10 ’Til We Die\n11 LEMONADE (Feat. Becky G)\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #에스파 #LEMONADE \n#aespaLEMONADE #æspa\naespa 에스파 'LEMONADE' MV ℗ SM Entertainment"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT3M12S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10703604",
+      "likeCount": "481296",
+      "favoriteCount": "0",
+      "commentCount": "28807"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/83C3TZ4Zm_o\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Electronic_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "mJHqQUSah-_I_zQmkr10YINFgaI",
+    "id": "g-KlfZuIzQs",
+    "snippet": {
+      "publishedAt": "2026-05-27T03:28:32Z",
+      "channelId": "UCxOXYny2PDQYrS3QGSzFosg",
+      "title": "【正式預告】《九龍城寨之圍城》谷垣健治X《樹大招風》許學文︱《火遮眼》The Furious 6月12日 打爆全球",
+      "description": "極限刺激場面「衝擊眼球」，5大武術高手展開生死戰🔥《火遮眼》6月12日全球開打，一同踏上復仇之旅‼️\n\n《#火遮眼》#TheFurious 6月12日 打爆全球👊🏻 \n\n導演：#谷垣健治︱《九龍城寨之圍城》金像獎最佳動作設計\n監製/編劇：#許學文︱《樹大招風》金像獎最佳導演\n編劇：\n#麥天樞︱《神探大戰》《樹大招風》金像編劇\n#岑君茜︱《九龍城寨之圍城》《智齒》金像編劇\n\n主演：\n#謝苗︱《洪熙官》《給爸爸的信》\n#林科燈 Joe Taslim︱《真人快打》《突擊死亡塔》\n#楊恩又 Yang Enyou︱《目中無人：以眼還眼》\n#黎唯 Brian Le︱《奇異女俠玩救宇宙》\n#岩永丞威 Joey Iwanaga︱《浪客劍心最終章：The Final》《肥龍過江》\n#雅彥魯伊安 Yayan Ruhian︱《殺神John Wick 3》《突擊死亡塔》\n\n故事大綱 Synopsis：\n《九龍城寨之圍城》金像武指谷垣健治導演 x《樹大招風》金像導演許學文監製，雲集5大世界級武術高手，港產武打動作電影衝出香港，進擊荷里活，獲外媒Variety大讚：「武打片重登巔峰！」，更獲權威影評網站Rotten Tomatoes 100%滿分好評！\n\n王偉（謝苗 飾）的女兒雨晴（楊恩又 飾）被走私兒童組織擄走，面對腐敗的警察及兇悍的黑幫，王偉尋獲女兒的機會愈見渺茫。直至遇上急於調查自己妻子失蹤案的記者納文（林科燈 飾），他們聯手拼死查出地下組織巢穴，「火遮眼」的二人直搗黃龍，使出渾身解數步步殺入最邪惡的罪惡温床。面對各路全員惡人，二人拳拳到肉、招招絕殺，為正義展開極限復仇戰！\n\nIn a small Southeast Asian country, skilled martial artist Wang Wei’s daughter Rainy is abducted by a child trafficking ring. Wang Wei sets out on a rampage, confronting both the corrupt police and the criminals. Determined to rescue his kidnapped daughter, he encounters Navin, a journalist tirelessly trying to solve his wife’s recent disappearance. Together, the two unleash their formidable combat skills, fighting their way through determined opponents and dangerous obstacles to unravel crucial clues. Just in time, they successfully rescue Rainy and a group of innocent children, dismantling the notorious human trafficking syndicate and bringing justice to the exploited and vulnerable.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "安樂影片 Edko Films Ltd.",
+      "categoryId": "1",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "zh-Hant",
+      "localized": {
+        "title": "【正式預告】《九龍城寨之圍城》谷垣健治X《樹大招風》許學文︱《火遮眼》The Furious 6月12日 打爆全球",
+        "description": "極限刺激場面「衝擊眼球」，5大武術高手展開生死戰🔥《火遮眼》6月12日全球開打，一同踏上復仇之旅‼️\n\n《#火遮眼》#TheFurious 6月12日 打爆全球👊🏻 \n\n導演：#谷垣健治︱《九龍城寨之圍城》金像獎最佳動作設計\n監製/編劇：#許學文︱《樹大招風》金像獎最佳導演\n編劇：\n#麥天樞︱《神探大戰》《樹大招風》金像編劇\n#岑君茜︱《九龍城寨之圍城》《智齒》金像編劇\n\n主演：\n#謝苗︱《洪熙官》《給爸爸的信》\n#林科燈 Joe Taslim︱《真人快打》《突擊死亡塔》\n#楊恩又 Yang Enyou︱《目中無人：以眼還眼》\n#黎唯 Brian Le︱《奇異女俠玩救宇宙》\n#岩永丞威 Joey Iwanaga︱《浪客劍心最終章：The Final》《肥龍過江》\n#雅彥魯伊安 Yayan Ruhian︱《殺神John Wick 3》《突擊死亡塔》\n\n故事大綱 Synopsis：\n《九龍城寨之圍城》金像武指谷垣健治導演 x《樹大招風》金像導演許學文監製，雲集5大世界級武術高手，港產武打動作電影衝出香港，進擊荷里活，獲外媒Variety大讚：「武打片重登巔峰！」，更獲權威影評網站Rotten Tomatoes 100%滿分好評！\n\n王偉（謝苗 飾）的女兒雨晴（楊恩又 飾）被走私兒童組織擄走，面對腐敗的警察及兇悍的黑幫，王偉尋獲女兒的機會愈見渺茫。直至遇上急於調查自己妻子失蹤案的記者納文（林科燈 飾），他們聯手拼死查出地下組織巢穴，「火遮眼」的二人直搗黃龍，使出渾身解數步步殺入最邪惡的罪惡温床。面對各路全員惡人，二人拳拳到肉、招招絕殺，為正義展開極限復仇戰！\n\nIn a small Southeast Asian country, skilled martial artist Wang Wei’s daughter Rainy is abducted by a child trafficking ring. Wang Wei sets out on a rampage, confronting both the corrupt police and the criminals. Determined to rescue his kidnapped daughter, he encounters Navin, a journalist tirelessly trying to solve his wife’s recent disappearance. Together, the two unleash their formidable combat skills, fighting their way through determined opponents and dangerous obstacles to unravel crucial clues. Just in time, they successfully rescue Rainy and a group of innocent children, dismantling the notorious human trafficking syndicate and bringing justice to the exploited and vulnerable."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1M27S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "37573",
+      "likeCount": "599",
+      "favoriteCount": "0",
+      "commentCount": "66"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/g-KlfZuIzQs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "leY-EQQVLOjgPiOF6WD-Zg_F10c",
+    "id": "7U2WQx45xdw",
+    "snippet": {
+      "publishedAt": "2026-05-28T18:16:39Z",
+      "channelId": "UC3aipgNToMvs2pFaQyaM_hg",
+      "title": "[JFFLIVE]多人線上跑步活動-跑online",
+      "description": "序號: JFFT2605\n\n角色兌換券 1張\n選擇商店硬幣 10個\nTR 300000 UP\n海嘯之箱 2個\nNew.1變更券箱子 2個\n\n到期日: 6月14日\n\n兌換序號網址:https://trevent.funtown.hk/serial/app/serial_code.php\n\n5/29-31日的每晚20:00-24:00 有遊戲幣「TR」同經驗5倍活動\n\n即做白卡英雄會員!!!!!!一齊睇JFFT歌謠祭2024!!!!! \n   / @jfflivechannel  \n------------------------------------------------------------------------------------------------------------------",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "JFFLive",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "zh-Hant",
+      "localized": {
+        "title": "[JFFLIVE]多人線上跑步活動-跑online",
+        "description": "序號: JFFT2605\n\n角色兌換券 1張\n選擇商店硬幣 10個\nTR 300000 UP\n海嘯之箱 2個\nNew.1變更券箱子 2個\n\n到期日: 6月14日\n\n兌換序號網址:https://trevent.funtown.hk/serial/app/serial_code.php\n\n5/29-31日的每晚20:00-24:00 有遊戲幣「TR」同經驗5倍活動\n\n即做白卡英雄會員!!!!!!一齊睇JFFT歌謠祭2024!!!!! \n   / @jfflivechannel  \n------------------------------------------------------------------------------------------------------------------"
+      },
+      "defaultAudioLanguage": "zh-HK"
+    },
+    "contentDetails": {
+      "duration": "PT4H7M52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "93074",
+      "likeCount": "957",
+      "favoriteCount": "0",
+      "commentCount": "22"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7U2WQx45xdw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Role-playing_video_game",
+        "https://en.wikipedia.org/wiki/Video_game_culture"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "nCxaDqJLhyg1nC_X2dIUj4YHYcc",
     "id": "gMxAUI35O-g",
     "snippet": {
       "publishedAt": "2026-05-19T10:00:48Z",
@@ -427,8 +636,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "1588774",
-      "likeCount": "24304",
+      "viewCount": "1604311",
+      "likeCount": "24359",
       "favoriteCount": "0",
       "commentCount": "326"
     },
@@ -444,216 +653,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1Qzt4xtgQ2oIr-LvaaZvVTsiUKs",
-    "id": "g-KlfZuIzQs",
-    "snippet": {
-      "publishedAt": "2026-05-27T03:28:32Z",
-      "channelId": "UCxOXYny2PDQYrS3QGSzFosg",
-      "title": "【正式預告】《九龍城寨之圍城》谷垣健治X《樹大招風》許學文︱《火遮眼》The Furious 6月12日 打爆全球",
-      "description": "極限刺激場面「衝擊眼球」，5大武術高手展開生死戰🔥《火遮眼》6月12日全球開打，一同踏上復仇之旅‼️\n\n《#火遮眼》#TheFurious 6月12日 打爆全球👊🏻 \n\n導演：#谷垣健治︱《九龍城寨之圍城》金像獎最佳動作設計\n監製/編劇：#許學文︱《樹大招風》金像獎最佳導演\n編劇：\n#麥天樞︱《神探大戰》《樹大招風》金像編劇\n#岑君茜︱《九龍城寨之圍城》《智齒》金像編劇\n\n主演：\n#謝苗︱《洪熙官》《給爸爸的信》\n#林科燈 Joe Taslim︱《真人快打》《突擊死亡塔》\n#楊恩又 Yang Enyou︱《目中無人：以眼還眼》\n#黎唯 Brian Le︱《奇異女俠玩救宇宙》\n#岩永丞威 Joey Iwanaga︱《浪客劍心最終章：The Final》《肥龍過江》\n#雅彥魯伊安 Yayan Ruhian︱《殺神John Wick 3》《突擊死亡塔》\n\n故事大綱 Synopsis：\n《九龍城寨之圍城》金像武指谷垣健治導演 x《樹大招風》金像導演許學文監製，雲集5大世界級武術高手，港產武打動作電影衝出香港，進擊荷里活，獲外媒Variety大讚：「武打片重登巔峰！」，更獲權威影評網站Rotten Tomatoes 100%滿分好評！\n\n王偉（謝苗 飾）的女兒雨晴（楊恩又 飾）被走私兒童組織擄走，面對腐敗的警察及兇悍的黑幫，王偉尋獲女兒的機會愈見渺茫。直至遇上急於調查自己妻子失蹤案的記者納文（林科燈 飾），他們聯手拼死查出地下組織巢穴，「火遮眼」的二人直搗黃龍，使出渾身解數步步殺入最邪惡的罪惡温床。面對各路全員惡人，二人拳拳到肉、招招絕殺，為正義展開極限復仇戰！\n\nIn a small Southeast Asian country, skilled martial artist Wang Wei’s daughter Rainy is abducted by a child trafficking ring. Wang Wei sets out on a rampage, confronting both the corrupt police and the criminals. Determined to rescue his kidnapped daughter, he encounters Navin, a journalist tirelessly trying to solve his wife’s recent disappearance. Together, the two unleash their formidable combat skills, fighting their way through determined opponents and dangerous obstacles to unravel crucial clues. Just in time, they successfully rescue Rainy and a group of innocent children, dismantling the notorious human trafficking syndicate and bringing justice to the exploited and vulnerable.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/g-KlfZuIzQs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "安樂影片 Edko Films Ltd.",
-      "categoryId": "1",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "zh-Hant",
-      "localized": {
-        "title": "【正式預告】《九龍城寨之圍城》谷垣健治X《樹大招風》許學文︱《火遮眼》The Furious 6月12日 打爆全球",
-        "description": "極限刺激場面「衝擊眼球」，5大武術高手展開生死戰🔥《火遮眼》6月12日全球開打，一同踏上復仇之旅‼️\n\n《#火遮眼》#TheFurious 6月12日 打爆全球👊🏻 \n\n導演：#谷垣健治︱《九龍城寨之圍城》金像獎最佳動作設計\n監製/編劇：#許學文︱《樹大招風》金像獎最佳導演\n編劇：\n#麥天樞︱《神探大戰》《樹大招風》金像編劇\n#岑君茜︱《九龍城寨之圍城》《智齒》金像編劇\n\n主演：\n#謝苗︱《洪熙官》《給爸爸的信》\n#林科燈 Joe Taslim︱《真人快打》《突擊死亡塔》\n#楊恩又 Yang Enyou︱《目中無人：以眼還眼》\n#黎唯 Brian Le︱《奇異女俠玩救宇宙》\n#岩永丞威 Joey Iwanaga︱《浪客劍心最終章：The Final》《肥龍過江》\n#雅彥魯伊安 Yayan Ruhian︱《殺神John Wick 3》《突擊死亡塔》\n\n故事大綱 Synopsis：\n《九龍城寨之圍城》金像武指谷垣健治導演 x《樹大招風》金像導演許學文監製，雲集5大世界級武術高手，港產武打動作電影衝出香港，進擊荷里活，獲外媒Variety大讚：「武打片重登巔峰！」，更獲權威影評網站Rotten Tomatoes 100%滿分好評！\n\n王偉（謝苗 飾）的女兒雨晴（楊恩又 飾）被走私兒童組織擄走，面對腐敗的警察及兇悍的黑幫，王偉尋獲女兒的機會愈見渺茫。直至遇上急於調查自己妻子失蹤案的記者納文（林科燈 飾），他們聯手拼死查出地下組織巢穴，「火遮眼」的二人直搗黃龍，使出渾身解數步步殺入最邪惡的罪惡温床。面對各路全員惡人，二人拳拳到肉、招招絕殺，為正義展開極限復仇戰！\n\nIn a small Southeast Asian country, skilled martial artist Wang Wei’s daughter Rainy is abducted by a child trafficking ring. Wang Wei sets out on a rampage, confronting both the corrupt police and the criminals. Determined to rescue his kidnapped daughter, he encounters Navin, a journalist tirelessly trying to solve his wife’s recent disappearance. Together, the two unleash their formidable combat skills, fighting their way through determined opponents and dangerous obstacles to unravel crucial clues. Just in time, they successfully rescue Rainy and a group of innocent children, dismantling the notorious human trafficking syndicate and bringing justice to the exploited and vulnerable."
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1M27S",
-      "dimension": "2d",
-      "definition": "hd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "statistics": {
-      "viewCount": "35753",
-      "likeCount": "592",
-      "favoriteCount": "0",
-      "commentCount": "66"
-    },
-    "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/g-KlfZuIzQs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    "topicDetails": {
-      "topicCategories": [
-        "https://en.wikipedia.org/wiki/Entertainment",
-        "https://en.wikipedia.org/wiki/Film"
-      ]
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "zo0cVdsyYeOhHGzRpakWqqv3A1g",
-    "id": "7U2WQx45xdw",
-    "snippet": {
-      "publishedAt": "2026-05-28T18:16:39Z",
-      "channelId": "UC3aipgNToMvs2pFaQyaM_hg",
-      "title": "[JFFLIVE]多人線上跑步活動-跑online",
-      "description": "序號: JFFT2605\n\n角色兌換券 1張\n選擇商店硬幣 10個\nTR 300000 UP\n海嘯之箱 2個\nNew.1變更券箱子 2個\n\n到期日: 6月14日\n\n兌換序號網址:https://trevent.funtown.hk/serial/app/serial_code.php\n\n5/29-31日的每晚20:00-24:00 有遊戲幣「TR」同經驗5倍活動\n\n即做白卡英雄會員!!!!!!一齊睇JFFT歌謠祭2024!!!!! \n   / @jfflivechannel  \n------------------------------------------------------------------------------------------------------------------",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/7U2WQx45xdw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        }
-      },
-      "channelTitle": "JFFLive",
-      "categoryId": "24",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "zh-Hant",
-      "localized": {
-        "title": "[JFFLIVE]多人線上跑步活動-跑online",
-        "description": "序號: JFFT2605\n\n角色兌換券 1張\n選擇商店硬幣 10個\nTR 300000 UP\n海嘯之箱 2個\nNew.1變更券箱子 2個\n\n到期日: 6月14日\n\n兌換序號網址:https://trevent.funtown.hk/serial/app/serial_code.php\n\n5/29-31日的每晚20:00-24:00 有遊戲幣「TR」同經驗5倍活動\n\n即做白卡英雄會員!!!!!!一齊睇JFFT歌謠祭2024!!!!! \n   / @jfflivechannel  \n------------------------------------------------------------------------------------------------------------------"
-      },
-      "defaultAudioLanguage": "zh-HK"
-    },
-    "contentDetails": {
-      "duration": "PT4H7M52S",
-      "dimension": "2d",
-      "definition": "hd",
-      "caption": "false",
-      "licensedContent": false,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "statistics": {
-      "viewCount": "92198",
-      "likeCount": "956",
-      "favoriteCount": "0",
-      "commentCount": "22"
-    },
-    "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7U2WQx45xdw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    "topicDetails": {
-      "topicCategories": [
-        "https://en.wikipedia.org/wiki/Role-playing_video_game",
-        "https://en.wikipedia.org/wiki/Video_game_culture"
-      ]
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "x6AKClqv04kuVxUTfmYAgm_gZIY",
-    "id": "83C3TZ4Zm_o",
-    "snippet": {
-      "publishedAt": "2026-05-29T04:00:16Z",
-      "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-      "title": "aespa 에스파 'LEMONADE' MV",
-      "description": "aespa's 2nd album \"LEMONADE\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/LEMONADE\n\n🧬 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV https://youtu.be/iTJSbJtS8MU\n\n[Tracklist]\n01 WDA (Whole Different Animal) (Feat. G-DRAGON)\n02 LEMONADE\n03 SHAKIN‘\n04 Can‘t Help Myself\n05 Camouflage\n06 Bite\n07 Switchblade (Feat. Ty Dolla $ign)\n08 Roll\n09 My Plan\n10 ’Til We Die\n11 LEMONADE (Feat. Becky G)\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #에스파 #LEMONADE \n#aespaLEMONADE #æspa\naespa 에스파 'LEMONADE' MV ℗ SM Entertainment",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/83C3TZ4Zm_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "SMTOWN",
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "en",
-      "localized": {
-        "title": "aespa 에스파 'LEMONADE' MV",
-        "description": "aespa's 2nd album \"LEMONADE\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/LEMONADE\n\n🧬 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV https://youtu.be/iTJSbJtS8MU\n\n[Tracklist]\n01 WDA (Whole Different Animal) (Feat. G-DRAGON)\n02 LEMONADE\n03 SHAKIN‘\n04 Can‘t Help Myself\n05 Camouflage\n06 Bite\n07 Switchblade (Feat. Ty Dolla $ign)\n08 Roll\n09 My Plan\n10 ’Til We Die\n11 LEMONADE (Feat. Becky G)\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #에스파 #LEMONADE \n#aespaLEMONADE #æspa\naespa 에스파 'LEMONADE' MV ℗ SM Entertainment"
-      },
-      "defaultAudioLanguage": "ko"
-    },
-    "contentDetails": {
-      "duration": "PT3M12S",
-      "dimension": "2d",
-      "definition": "hd",
-      "caption": "true",
-      "licensedContent": true,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "statistics": {
-      "viewCount": "10150963",
-      "likeCount": "469904",
-      "favoriteCount": "0",
-      "commentCount": "28357"
-    },
-    "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/83C3TZ4Zm_o\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    "topicDetails": {
-      "topicCategories": [
-        "https://en.wikipedia.org/wiki/Electronic_music",
-        "https://en.wikipedia.org/wiki/Music",
-        "https://en.wikipedia.org/wiki/Music_of_Asia",
-        "https://en.wikipedia.org/wiki/Pop_music"
-      ]
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "jGjK_-9p0vaQDsLowPfyRKIqsv0",
+    "etag": "4QhK1cZrce6-oY075lmAwJqZugY",
     "id": "jLbst85USN8",
     "snippet": {
       "publishedAt": "2026-05-28T14:53:06Z",
@@ -715,10 +715,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "27514515",
-      "likeCount": "184870",
+      "viewCount": "27714770",
+      "likeCount": "188263",
       "favoriteCount": "0",
-      "commentCount": "19740"
+      "commentCount": "20029"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/jLbst85USN8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -733,7 +733,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "bM8uhjtYoqzrPctc932rX90hst8",
+    "etag": "l8lNe-b_EYwj2eOITM-VOlPUztc",
     "id": "bxZE0WnIZIQ",
     "snippet": {
       "publishedAt": "2026-05-29T11:22:55Z",
@@ -873,10 +873,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "251930",
-      "likeCount": "9233",
+      "viewCount": "260666",
+      "likeCount": "9319",
       "favoriteCount": "0",
-      "commentCount": "660"
+      "commentCount": "664"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/bxZE0WnIZIQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -890,7 +890,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "J8c0WADxZR4wN-lpifZjDynghH0",
+    "etag": "NEc8AEqNpswtpwxPumYXdITxCKo",
     "id": "SlQR9iu09bQ",
     "snippet": {
       "publishedAt": "2026-05-28T13:00:06Z",
@@ -967,10 +967,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "16930995",
-      "likeCount": "1080804",
+      "viewCount": "17313176",
+      "likeCount": "1085033",
       "favoriteCount": "0",
-      "commentCount": "145127"
+      "commentCount": "146140"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/SlQR9iu09bQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -987,7 +987,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jx5VIaYQ7oLrhWeIGYPNX_Nu0PY",
+    "etag": "DCjFpFgVmJccL9Hxb5lUHX2fnD8",
     "id": "TjQRxbIMU4s",
     "snippet": {
       "publishedAt": "2026-05-26T06:56:16Z",
@@ -1040,8 +1040,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "58219",
-      "likeCount": "794",
+      "viewCount": "59522",
+      "likeCount": "802",
       "favoriteCount": "0",
       "commentCount": "57"
     },
@@ -1057,7 +1057,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "C8c0KVi7sWVCUVDJRyRae3iuf1s",
+    "etag": "g4jlK_8Q8-P2tXDCc0n4_osRRRk",
     "id": "X_7V5oZVwp0",
     "snippet": {
       "publishedAt": "2026-05-27T04:00:36Z",
@@ -1111,8 +1111,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "31661",
-      "likeCount": "682",
+      "viewCount": "31882",
+      "likeCount": "685",
       "favoriteCount": "0",
       "commentCount": "68"
     },
@@ -1129,7 +1129,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qDwLmOsx0UJzUSP9rgzpyfRvij8",
+    "etag": "NAap_bGEJChmYPYcIBSq1H23trQ",
     "id": "x2fAnFXDj9Q",
     "snippet": {
       "publishedAt": "2026-05-22T13:00:06Z",
@@ -1187,8 +1187,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "289103",
-      "likeCount": "10184",
+      "viewCount": "294168",
+      "likeCount": "10206",
       "favoriteCount": "0",
       "commentCount": "986"
     },
@@ -1205,7 +1205,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-7dOz6UnuZbLzmemH2g0n51ndzY",
+    "etag": "4_UluL4syKiXjU2gN3x5etMpVU4",
     "id": "b1u1kUdDOys",
     "snippet": {
       "publishedAt": "2026-05-25T13:00:28Z",
@@ -1278,8 +1278,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "628157",
-      "likeCount": "21254",
+      "viewCount": "628969",
+      "likeCount": "21264",
       "favoriteCount": "0",
       "commentCount": "1263"
     },
@@ -1297,7 +1297,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "B_BO_UAWU4v-GqS9GktXgOJNeLI",
+    "etag": "blSCbbuS1nQ_JpjKlMnWcys9oVA",
     "id": "QApnjLpWbDU",
     "snippet": {
       "publishedAt": "2026-05-28T11:31:54Z",
@@ -1379,8 +1379,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "24586",
-      "likeCount": "931",
+      "viewCount": "24919",
+      "likeCount": "935",
       "favoriteCount": "0",
       "commentCount": "33"
     },
@@ -1396,7 +1396,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "AhnMJ_SO5ScrUv-YpONyiCbcKew",
+    "etag": "HvUkGwRubTIW7zlEIFdst4u5CH8",
     "id": "eqta6JT_Vfc",
     "snippet": {
       "publishedAt": "2026-05-28T13:00:06Z",
@@ -1450,10 +1450,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "68334",
-      "likeCount": "2605",
+      "viewCount": "72636",
+      "likeCount": "2814",
       "favoriteCount": "0",
-      "commentCount": "303"
+      "commentCount": "309"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/eqta6JT_Vfc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -1468,7 +1468,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "njqM2VGeR3s33pZiH7cyGy98Az8",
+    "etag": "vxLrVeqxzAMSnpUctsfK7TIo80o",
     "id": "mfUtseK27pc",
     "snippet": {
       "publishedAt": "2026-05-27T16:00:01Z",
@@ -1526,10 +1526,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "2956729",
-      "likeCount": "136989",
+      "viewCount": "2972652",
+      "likeCount": "137299",
       "favoriteCount": "0",
-      "commentCount": "8408"
+      "commentCount": "8428"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/mfUtseK27pc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -1544,7 +1544,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hywy4_MolIIJGbmdISo56WaZGBE",
+    "etag": "bQ7mOsR_FxgHCg3GU7OLYu65z3Y",
     "id": "2E-a9WcUtQ4",
     "snippet": {
       "publishedAt": "2026-05-27T08:40:09Z",
@@ -1598,8 +1598,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "33835",
-      "likeCount": "906",
+      "viewCount": "34668",
+      "likeCount": "917",
       "favoriteCount": "0",
       "commentCount": "54"
     },
@@ -1617,7 +1617,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jER_P0nFQZ0TQhTqLaWRIUEtseI",
+    "etag": "HJhfOzhAkkzHc4Dw7fuW1ll4j7A",
     "id": "LBhcqYqeu0U",
     "snippet": {
       "publishedAt": "2026-05-29T04:02:48Z",
@@ -1928,10 +1928,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "1181577",
-      "likeCount": "32042",
+      "viewCount": "1267679",
+      "likeCount": "33621",
       "favoriteCount": "0",
-      "commentCount": "820"
+      "commentCount": "834"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/LBhcqYqeu0U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -1946,7 +1946,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "TKLV9RJOy-BKBNy0FD95ijRK6no",
+    "etag": "nfcucVJ_T9j6zD1qS4kpcs1sgZ0",
     "id": "V276Pu7NVMM",
     "snippet": {
       "publishedAt": "2026-05-28T13:00:18Z",
@@ -2020,10 +2020,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "293583",
-      "likeCount": "73451",
+      "viewCount": "306914",
+      "likeCount": "74379",
       "favoriteCount": "0",
-      "commentCount": "3195"
+      "commentCount": "3209"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/V276Pu7NVMM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -2038,140 +2038,84 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Hljwp77CYuSi41k6JiiZatHSUnY",
-    "id": "LOc0xqQIzUE",
+    "etag": "p7erdrWcevyVXfhbGQLYSMeEU90",
+    "id": "eaXl8bjW7V4",
     "snippet": {
-      "publishedAt": "2026-05-24T09:12:24Z",
-      "channelId": "UCOOzVNnAm0z6v1ImCftzWnw",
-      "title": "【Forza Horizon 6 / 極限競速 地平線6】值得買嗎? | 伏Game評",
-      "description": "除左Youtube仲有其他野睇!!!\nIG: https://www.instagram.com/ogs_yuki/\nFB: https://www.facebook.com/ordinarygamingstudio/\nDiscord: https://discord.gg/tU6a3YpWKR\n\n平民遊戲需要你的支援QAQ\nhttps://www.patreon.com/ordinarygamingstudio\nhttps://www.paypal.com/paypalme/OrdinaryGaming\nhttps://streamlabs.com/ordinarygamingstudio",
+      "publishedAt": "2026-05-30T12:43:05Z",
+      "channelId": "UCDRa_KGb76XByUt-ndbHQdA",
+      "title": "BFX vs T1 鎖定前二！Peyz梅爾18顆頭殺瘋了！Doran賽恩與Oner先鋒兩臺車極為殘忍！Game 2 | 2026 LCK常規賽第二輪",
+      "description": "如果您喜歡呆夢demo的影片，歡迎訂閱支持，您的支持就是我前進的動力！\n如果您有任何感想或疑問，歡迎私訊呆夢demo以及在留言區留言！\n\n———— 正在進行的賽事  ————\n2026LCK常规赛（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgtqnLY4Xn4B7TgjIbeJbnE\n\n2026LCK常规赛（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37Xklvqijf-hgjRVGlvNS7I-g47sQ\n\n2026EWC預選賽（LCK）：https://www.youtube.com/playlist?list=PLYtj37XklvqjKPrWz08KxnIu56yrUELAi\n\n2026EWC（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqiHYaGv_bUS84sjHa87kupe\n\n2026LPL第二赛段（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgrEDIvSogJ6FbsG2QCuHbw\n\n2026LPL第二赛段（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqgTuGzF8S2QMtV316amTCzI",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LOc0xqQIzUE/default.jpg",
+          "url": "https://i.ytimg.com/vi/eaXl8bjW7V4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LOc0xqQIzUE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eaXl8bjW7V4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LOc0xqQIzUE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eaXl8bjW7V4/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/LOc0xqQIzUE/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/eaXl8bjW7V4/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/LOc0xqQIzUE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eaXl8bjW7V4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "channelTitle": "平民遊戲工作室 | Ordinary Gaming Studio",
+      "channelTitle": "呆梦demo官方频道",
       "tags": [
-        "Forza Horizon 6",
-        "極限競速地平線6",
-        "FH6",
-        "Forza6",
-        "極限競速6",
-        "地平線6",
-        "Forza Horizon 6評價",
-        "極限競速地平線6評測",
-        "伏Game評",
-        "伏Game",
-        "劣評",
-        "負評",
-        "避雷",
-        "值得買嗎",
-        "買不買",
-        "遊戲評價",
-        "遊戲評測",
-        "災情",
-        "退款",
-        "失望之作",
-        "首發災情",
-        "缺點分析",
-        "遊戲實測",
-        "賽車遊戲",
-        "開放世界賽車",
-        "競速遊戲",
-        "Playground Games",
-        "微軟",
-        "Xbox Series X",
-        "Xbox Game Pass",
-        "XGP",
-        "PC遊戲",
-        "Steam",
-        "JDM",
-        "飄移",
-        "甩尾",
-        "汽車改裝",
-        "駕駛手感",
-        "軚盤設定",
-        "優化問題",
-        "伺服器斷線",
-        "遊戲BUG",
-        "平民遊戲工作室",
-        "阿雪",
-        "廣東話",
-        "粵語",
-        "繁體中文",
-        "香港遊戲頻道",
-        "阿雪遊戲",
-        "2026遊戲",
-        "2026大作",
-        "買game指南",
-        "避坑指南",
-        "遊戲解說",
-        "賽車迷",
-        "賽車模擬",
-        "街頭賽車",
-        "遊戲圈熱話",
-        "賽車大作",
-        "F1"
+        "#LOL",
+        "#LeagueofLegends",
+        "#英雄联盟"
       ],
       "categoryId": "20",
       "liveBroadcastContent": "none",
-      "defaultLanguage": "zh",
+      "defaultLanguage": "zh-Hant",
       "localized": {
-        "title": "【Forza Horizon 6 / 極限競速 地平線6】值得買嗎? | 伏Game評",
-        "description": "除左Youtube仲有其他野睇!!!\nIG: https://www.instagram.com/ogs_yuki/\nFB: https://www.facebook.com/ordinarygamingstudio/\nDiscord: https://discord.gg/tU6a3YpWKR\n\n平民遊戲需要你的支援QAQ\nhttps://www.patreon.com/ordinarygamingstudio\nhttps://www.paypal.com/paypalme/OrdinaryGaming\nhttps://streamlabs.com/ordinarygamingstudio"
+        "title": "BFX vs T1 鎖定前二！Peyz梅爾18顆頭殺瘋了！Doran賽恩與Oner先鋒兩臺車極為殘忍！Game 2 | 2026 LCK常規賽第二輪",
+        "description": "如果您喜歡呆夢demo的影片，歡迎訂閱支持，您的支持就是我前進的動力！\n如果您有任何感想或疑問，歡迎私訊呆夢demo以及在留言區留言！\n\n———— 正在進行的賽事  ————\n2026LCK常规赛（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgtqnLY4Xn4B7TgjIbeJbnE\n\n2026LCK常规赛（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37Xklvqijf-hgjRVGlvNS7I-g47sQ\n\n2026EWC預選賽（LCK）：https://www.youtube.com/playlist?list=PLYtj37XklvqjKPrWz08KxnIu56yrUELAi\n\n2026EWC（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqiHYaGv_bUS84sjHa87kupe\n\n2026LPL第二赛段（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgrEDIvSogJ6FbsG2QCuHbw\n\n2026LPL第二赛段（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqgTuGzF8S2QMtV316amTCzI"
       },
-      "defaultAudioLanguage": "zh"
+      "defaultAudioLanguage": "en"
     },
     "contentDetails": {
-      "duration": "PT9M56S",
+      "duration": "PT13M17S",
       "dimension": "2d",
       "definition": "hd",
-      "caption": "false",
+      "caption": "true",
       "licensedContent": true,
       "contentRating": {},
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "89686",
-      "likeCount": "3056",
+      "viewCount": "27526",
+      "likeCount": "305",
       "favoriteCount": "0",
-      "commentCount": "292"
+      "commentCount": "87"
     },
     "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/LOc0xqQIzUE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/eaXl8bjW7V4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     "topicDetails": {
       "topicCategories": [
-        "https://en.wikipedia.org/wiki/Racing_video_game",
+        "https://en.wikipedia.org/wiki/Action_game",
+        "https://en.wikipedia.org/wiki/Strategy_video_game",
         "https://en.wikipedia.org/wiki/Video_game_culture"
       ]
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Pw439-J3aNRfkJLKs7xLkM3_l7U",
+    "etag": "3Aq2yQh-dEizk6bZmDFQph0YF1o",
     "id": "ulw7MPdwy7s",
     "snippet": {
       "publishedAt": "2026-05-29T04:00:06Z",
@@ -2528,10 +2472,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "49997",
-      "likeCount": "1790",
+      "viewCount": "53950",
+      "likeCount": "1809",
       "favoriteCount": "0",
-      "commentCount": "102"
+      "commentCount": "103"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ulw7MPdwy7s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -2546,7 +2490,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "25PpBFhDOMHQ25XRiDlPtE9CK78",
+    "etag": "lOk9x2A1g4Je4x-Sm4FOllonekY",
     "id": "g1fq327snPU",
     "snippet": {
       "publishedAt": "2026-05-27T12:00:00Z",
@@ -2621,10 +2565,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "2124497",
-      "likeCount": "66803",
+      "viewCount": "2186802",
+      "likeCount": "67923",
       "favoriteCount": "0",
-      "commentCount": "2555"
+      "commentCount": "2584"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/g1fq327snPU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -2638,7 +2582,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PkNsaeARTmvtZ1z3oSt9YP-BN04",
+    "etag": "xoA_rFPpceO9dGWfEMgrfr_jrFc",
     "id": "n4KIQ7nwvFM",
     "snippet": {
       "publishedAt": "2026-05-27T04:00:06Z",
@@ -2722,10 +2666,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "58080",
-      "likeCount": "2616",
+      "viewCount": "58331",
+      "likeCount": "2623",
       "favoriteCount": "0",
-      "commentCount": "139"
+      "commentCount": "140"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/n4KIQ7nwvFM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -2739,7 +2683,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "HfO6Lv7AAo9NP9n3VyoZ3LggkM8",
+    "etag": "w0FaqAw5AFiTaDrfd84KoCT5_wE",
     "id": "MMF5jliWvaw",
     "snippet": {
       "publishedAt": "2026-05-20T12:00:06Z",
@@ -2793,10 +2737,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "277261",
-      "likeCount": "5611",
+      "viewCount": "285247",
+      "likeCount": "5613",
       "favoriteCount": "0",
-      "commentCount": "2045"
+      "commentCount": "2050"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/MMF5jliWvaw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -2811,116 +2755,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KhL6qPbHBePZwYMvrrFUUsJZwkA",
-    "id": "j6C_m0elFfI",
-    "snippet": {
-      "publishedAt": "2026-05-28T15:00:01Z",
-      "channelId": "UCQdq-lqPEq_yZ_wP_kuVB9Q",
-      "title": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 Concept Trailer",
-      "description": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 Concept Trailer\n\n2026. 06. 26 1PM RELEASE\n\nPre-save/add : https://ateez.sng.to/golden-hour-part-5\n\n▶ ATEEZ Official Platform:\nhttp://ateez.kqent.com\n▶ ATEEZ Official X:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n▶ ATEEZ Official TikTok:\nhttps://www.tiktok.com/@ateez_official_\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n\n▶ KQ Official Homepage: \nhttp://kqent.com\n▶ KQ Official Facebook: \nhttps://facebook.com/kqent\n▶ KQ Official Twitter: \nhttps://twitter.com/kqent\n▶ KQ Official Instagram:\nhttps://instagram.com/kqent\n\n#ATEEZ #에이티즈 #DAZED\n#GOLDENHOUR #GOLDENHOUR_Part5 #BAD",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/j6C_m0elFfI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/j6C_m0elFfI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/j6C_m0elFfI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/j6C_m0elFfI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/j6C_m0elFfI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "KQ ENTERTAINMENT",
-      "tags": [
-        "KQ",
-        "케이큐",
-        "ATEEZ",
-        "에이티즈",
-        "홍중",
-        "HONGJOONG",
-        "성화",
-        "SEONGHWA",
-        "윤호",
-        "YUNHO",
-        "여상",
-        "YEOSANG",
-        "산",
-        "SAN",
-        "민기",
-        "MINGI",
-        "우영",
-        "WOOYOUNG",
-        "종호",
-        "JONGHO",
-        "KPOP",
-        "남돌",
-        "IDOL",
-        "케이팝",
-        "GOLDENHOUR",
-        "골든아워",
-        "goldenhourpt5",
-        "골든아워파트파이브",
-        "BAD",
-        "배드",
-        "ATEEZ BAD",
-        "에이티즈 배드",
-        "에이티즈 미니 14집",
-        "미니 14집",
-        "트레일러",
-        "Trailer"
-      ],
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "en",
-      "localized": {
-        "title": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 Concept Trailer",
-        "description": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 Concept Trailer\n\n2026. 06. 26 1PM RELEASE\n\nPre-save/add : https://ateez.sng.to/golden-hour-part-5\n\n▶ ATEEZ Official Platform:\nhttp://ateez.kqent.com\n▶ ATEEZ Official X:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n▶ ATEEZ Official TikTok:\nhttps://www.tiktok.com/@ateez_official_\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n\n▶ KQ Official Homepage: \nhttp://kqent.com\n▶ KQ Official Facebook: \nhttps://facebook.com/kqent\n▶ KQ Official Twitter: \nhttps://twitter.com/kqent\n▶ KQ Official Instagram:\nhttps://instagram.com/kqent\n\n#ATEEZ #에이티즈 #DAZED\n#GOLDENHOUR #GOLDENHOUR_Part5 #BAD"
-      },
-      "defaultAudioLanguage": "ko"
-    },
-    "contentDetails": {
-      "duration": "PT48S",
-      "dimension": "2d",
-      "definition": "hd",
-      "caption": "false",
-      "licensedContent": true,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "statistics": {
-      "viewCount": "173845",
-      "likeCount": "39291",
-      "favoriteCount": "0",
-      "commentCount": "2127"
-    },
-    "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/j6C_m0elFfI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    "topicDetails": {
-      "topicCategories": [
-        "https://en.wikipedia.org/wiki/Music",
-        "https://en.wikipedia.org/wiki/Music_of_Asia"
-      ]
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "_KC95OyN8NEhT8xVHsrSC3FpFfs",
+    "etag": "m8zP_RvjSMc4edclws0q95yFU8s",
     "id": "6e7SDK_hc5Y",
     "snippet": {
       "publishedAt": "2026-05-27T07:31:57Z",
@@ -2973,8 +2808,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "17678",
-      "likeCount": "254",
+      "viewCount": "18300",
+      "likeCount": "255",
       "favoriteCount": "0",
       "commentCount": "23"
     },
@@ -2992,7 +2827,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "d47YQ-yg85VcehAUi5D3HFcaFGo",
+    "etag": "RAdtDHOB-BtJ-2AjmNaExmQihPs",
     "id": "7ud7dGyM3fM",
     "snippet": {
       "publishedAt": "2026-05-22T05:00:10Z",
@@ -3302,8 +3137,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "95537",
-      "likeCount": "1383",
+      "viewCount": "96376",
+      "likeCount": "1384",
       "favoriteCount": "0",
       "commentCount": "119"
     },
@@ -3319,7 +3154,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "HGgAxtPEAEpKVR5MY3Hl5Cx18eQ",
+    "etag": "KWfrTpKQDsVOHWaUPobk83mkqac",
     "id": "HHJEKVsPLRc",
     "snippet": {
       "publishedAt": "2026-05-26T12:14:13Z",
@@ -3395,10 +3230,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "34831",
-      "likeCount": "1335",
+      "viewCount": "35546",
+      "likeCount": "1349",
       "favoriteCount": "0",
-      "commentCount": "138"
+      "commentCount": "140"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HHJEKVsPLRc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -3412,7 +3247,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4vllUeONHj4RWnDYDCdT6qC43BQ",
+    "etag": "opcE8ebFl8NIKJXW7pnnGuUvtvE",
     "id": "V1Lr-_AxeR8",
     "snippet": {
       "publishedAt": "2026-05-22T03:58:06Z",
@@ -3472,10 +3307,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "12285974",
-      "likeCount": "444274",
+      "viewCount": "12403859",
+      "likeCount": "446838",
       "favoriteCount": "0",
-      "commentCount": "23701"
+      "commentCount": "23762"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/V1Lr-_AxeR8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -3491,7 +3326,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hdPFm5ULPn2N9RloMm0mpDo6T4o",
+    "etag": "CzAqdCoDWm3jG-Z0SibHKqGCFxA",
     "id": "Z-0dPdVxZaE",
     "snippet": {
       "publishedAt": "2026-05-29T12:30:06Z",
@@ -3554,10 +3389,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "12732",
-      "likeCount": "729",
+      "viewCount": "14165",
+      "likeCount": "742",
       "favoriteCount": "0",
-      "commentCount": "109"
+      "commentCount": "111"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Z-0dPdVxZaE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -3570,7 +3405,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dD7DTSkPolruQziSDcqAMgFqFS0",
+    "etag": "6KFsCaZsAPCiKAYfMpiYS6cQA9E",
     "id": "7CUz7Ec7cWc",
     "snippet": {
       "publishedAt": "2026-05-29T04:01:20Z",
@@ -3755,10 +3590,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "1676284",
-      "likeCount": "87455",
+      "viewCount": "1830074",
+      "likeCount": "92079",
       "favoriteCount": "0",
-      "commentCount": "2824"
+      "commentCount": "2901"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/7CUz7Ec7cWc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -3772,7 +3607,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OoSs_Mw8c7c3P2O1bINxEJlX4WY",
+    "etag": "5vMwOXmMdm9ZemTCKtd1D6vnMd8",
     "id": "FO9kMeIQI7M",
     "snippet": {
       "publishedAt": "2026-05-23T16:00:13Z",
@@ -3826,10 +3661,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "29092204",
-      "likeCount": "624027",
+      "viewCount": "29330027",
+      "likeCount": "627221",
       "favoriteCount": "0",
-      "commentCount": "23235"
+      "commentCount": "23292"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/FO9kMeIQI7M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -3846,7 +3681,152 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YzMJsYJDqapZ_K8_SGduHTzfIsI",
+    "etag": "naJYQ-odrj2SfXew1x28j4GokMQ",
+    "id": "OFCMUwqw8Qo",
+    "snippet": {
+      "publishedAt": "2026-05-27T14:30:32Z",
+      "channelId": "UCgKWfVL9nbU3tHjhICV8IZw",
+      "title": "moon tang - 月亮代表我 (official video)",
+      "description": "follow me:  http://instagram.com/moonstyles_\nstream my song: https://moontang.lnk.to/darksideofthemoon\n----------\n\n很多畫 很多書\n以為 能偷窺 明月背面 \n月亮 不忍心反駁 其實你 未看穿\n\n很多歌 代發言      \n明明是 失焦的臉\n大概他們 針孔所見 \n純直覺 沒缺點                                      \n\n這一顆 被月亮 代表的心 幾千個 騒客 曾探問\n這粒砂 代代人 亦遙望過 看出要點 還未有人\n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n為何 沒有感應 也可伴我坐 \n他猜 不穿 謎底～ 但是真的愛我 \n\n幾首詩 幾幅相\n月亮最終 不過是 人心的投影\n容易愛 但看不清\n\n不小心 現了形\n凡人 未必懂反應\n但我都曾 相當掙扎 \n求被愛 被看清～\n\n知不知 寂寞是 被他喜歡 \n心傷卻 沒人曾 發現 \n他即使 盡力來 扮明白我\n錯失了 極柔弱那點 \n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n然而 又有幾個 會這樣縱我\n即使 他不明解～ 但是仍然 捍衞我\n\n假使 只得到 錯的人\n要是能陪我 \n也別太嚴苛～ Woo～\n----------\n\na song of moon tang \na film crafted by ZAIN & Kidney\n\ncomposed by：moon tang, Nic Tsui, musicbyAP, Eason YH Chan, Daniel Toh\nlyrics by：Wyman Wong\narranged by：Nic Tsui, Justin Yau\nproduced by：moon tang, Nic Tsui\n\n#moontang #月亮代表我 #darksideofthemoon",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "moon tang",
+      "tags": [
+        "#moooon #moontong #moonzi"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "zh-Hant",
+      "localized": {
+        "title": "moon tang - 月亮代表我 (official video)",
+        "description": "follow me:  http://instagram.com/moonstyles_\nstream my song: https://moontang.lnk.to/darksideofthemoon\n----------\n\n很多畫 很多書\n以為 能偷窺 明月背面 \n月亮 不忍心反駁 其實你 未看穿\n\n很多歌 代發言      \n明明是 失焦的臉\n大概他們 針孔所見 \n純直覺 沒缺點                                      \n\n這一顆 被月亮 代表的心 幾千個 騒客 曾探問\n這粒砂 代代人 亦遙望過 看出要點 還未有人\n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n為何 沒有感應 也可伴我坐 \n他猜 不穿 謎底～ 但是真的愛我 \n\n幾首詩 幾幅相\n月亮最終 不過是 人心的投影\n容易愛 但看不清\n\n不小心 現了形\n凡人 未必懂反應\n但我都曾 相當掙扎 \n求被愛 被看清～\n\n知不知 寂寞是 被他喜歡 \n心傷卻 沒人曾 發現 \n他即使 盡力來 扮明白我\n錯失了 極柔弱那點 \n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n然而 又有幾個 會這樣縱我\n即使 他不明解～ 但是仍然 捍衞我\n\n假使 只得到 錯的人\n要是能陪我 \n也別太嚴苛～ Woo～\n----------\n\na song of moon tang \na film crafted by ZAIN & Kidney\n\ncomposed by：moon tang, Nic Tsui, musicbyAP, Eason YH Chan, Daniel Toh\nlyrics by：Wyman Wong\narranged by：Nic Tsui, Justin Yau\nproduced by：moon tang, Nic Tsui\n\n#moontang #月亮代表我 #darksideofthemoon"
+      },
+      "defaultAudioLanguage": "zh-HK"
+    },
+    "contentDetails": {
+      "duration": "PT4M3S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "31782",
+      "likeCount": "1311",
+      "favoriteCount": "0",
+      "commentCount": "52"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OFCMUwqw8Qo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "kk9jtDGejjuzfX8H04Px7etBrpo",
+    "id": "ngBOKko5xjQ",
+    "snippet": {
+      "publishedAt": "2026-05-23T05:02:06Z",
+      "channelId": "UC4nsi0oM9WBNFv1RdLh3c2g",
+      "title": "【開箱】超平民模擬賽車組合！沉浸感一流！！",
+      "description": "========📱社交平臺 Social Media📱========\nFacebook ▶ http://facebook.com/HUNGGY816\nInstagram ▶ http://instagram.com/hunggy9527\nMai-san的Instagram ▶ http://instagram.com/mai.journal\n\n🎮你訂閲了我新的遊戲頻道了嗎？\nHunggyGames▶ https://www.youtube.com/channel/UCqBMuXxkjded936sAf_znpg\n🎮加入我的Discord群組！參加討論吧！▶ https://discord.gg/hunggy\n\n========業務聯絡========\n工作聯絡請發電郵到 info@hunggy.com\n\n日本語のお問い合わせも対応しております mai@hunggy.com までご連絡ください。",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JASON",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "zh-HK",
+      "localized": {
+        "title": "【開箱】超平民模擬賽車組合！沉浸感一流！！",
+        "description": "========📱社交平臺 Social Media📱========\nFacebook ▶ http://facebook.com/HUNGGY816\nInstagram ▶ http://instagram.com/hunggy9527\nMai-san的Instagram ▶ http://instagram.com/mai.journal\n\n🎮你訂閲了我新的遊戲頻道了嗎？\nHunggyGames▶ https://www.youtube.com/channel/UCqBMuXxkjded936sAf_znpg\n🎮加入我的Discord群組！參加討論吧！▶ https://discord.gg/hunggy\n\n========業務聯絡========\n工作聯絡請發電郵到 info@hunggy.com\n\n日本語のお問い合わせも対応しております mai@hunggy.com までご連絡ください。"
+      },
+      "defaultAudioLanguage": "yue-HK"
+    },
+    "contentDetails": {
+      "duration": "PT11M18S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "74294",
+      "likeCount": "2875",
+      "favoriteCount": "0",
+      "commentCount": "101"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ngBOKko5xjQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Video_game_culture"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "-bQpBIRV0ekDowenTsU3UwZWeQo",
     "id": "MgLPRnU2s2s",
     "snippet": {
       "publishedAt": "2026-05-28T16:01:13Z",
@@ -4157,8 +4137,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "18283",
-      "likeCount": "379",
+      "viewCount": "19569",
+      "likeCount": "389",
       "favoriteCount": "0",
       "commentCount": "0"
     },
@@ -4174,57 +4154,52 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tjfx12611VT18Xkh_x2nDdReTvs",
-    "id": "KE3uFcyrkTI",
+    "etag": "S9HwftWZ0uM2tqrGzFwooVbBD_0",
+    "id": "vkVhrB_nX3k",
     "snippet": {
-      "publishedAt": "2026-05-28T12:57:10Z",
-      "channelId": "UCDRa_KGb76XByUt-ndbHQdA",
-      "title": "T1 vs KT 恐怖世一輔！Keria瑟菈紛R閃四人震撼全場！T1落後5000完成不可思議大翻盤！Game 2 | 2026 LCK常規賽第二輪",
-      "description": "如果您喜歡呆夢demo的影片，歡迎訂閱支持，您的支持就是我前進的動力！\n如果您有任何感想或疑問，歡迎私訊呆夢demo以及在留言區留言！\n\n———— 正在進行的賽事  ————\n2026LCK常规赛（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgtqnLY4Xn4B7TgjIbeJbnE\n\n2026LCK常规赛（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37Xklvqijf-hgjRVGlvNS7I-g47sQ\n\n2026EWC預選賽（LCK）：https://www.youtube.com/playlist?list=PLYtj37XklvqjKPrWz08KxnIu56yrUELAi\n\n2026EWC（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqiHYaGv_bUS84sjHa87kupe\n\n2026LPL第二赛段（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgrEDIvSogJ6FbsG2QCuHbw\n\n2026LPL第二赛段（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqgTuGzF8S2QMtV316amTCzI",
+      "publishedAt": "2026-05-29T11:49:33Z",
+      "channelId": "UCKPflKAE2Y1tm8VSi32iboQ",
+      "title": "人類比惡魔更強悍！在英雄無敵3裡玩城堡陣營有多爽？",
+      "description": "人類在很多遊戲裡都是弱小的代名詞，但在英雄無敵3裡顯然不是......\n\n1999年3DO發行的回合策略遊戲《魔法門英雄無敵3》及資料片",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KE3uFcyrkTI/default.jpg",
+          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KE3uFcyrkTI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KE3uFcyrkTI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/KE3uFcyrkTI/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/KE3uFcyrkTI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "channelTitle": "呆梦demo官方频道",
-      "tags": [
-        "#LOL",
-        "#LeagueofLegends",
-        "#英雄联盟"
-      ],
+      "channelTitle": "老孫聊遊戲",
       "categoryId": "20",
       "liveBroadcastContent": "none",
-      "defaultLanguage": "zh-Hant",
+      "defaultLanguage": "zh-CN",
       "localized": {
-        "title": "T1 vs KT 恐怖世一輔！Keria瑟菈紛R閃四人震撼全場！T1落後5000完成不可思議大翻盤！Game 2 | 2026 LCK常規賽第二輪",
-        "description": "如果您喜歡呆夢demo的影片，歡迎訂閱支持，您的支持就是我前進的動力！\n如果您有任何感想或疑問，歡迎私訊呆夢demo以及在留言區留言！\n\n———— 正在進行的賽事  ————\n2026LCK常规赛（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgtqnLY4Xn4B7TgjIbeJbnE\n\n2026LCK常规赛（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37Xklvqijf-hgjRVGlvNS7I-g47sQ\n\n2026EWC預選賽（LCK）：https://www.youtube.com/playlist?list=PLYtj37XklvqjKPrWz08KxnIu56yrUELAi\n\n2026EWC（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqiHYaGv_bUS84sjHa87kupe\n\n2026LPL第二赛段（賽事速看）：https://www.youtube.com/playlist?list=PLYtj37XklvqgrEDIvSogJ6FbsG2QCuHbw\n\n2026LPL第二赛段（銳評高光）：https://www.youtube.com/playlist?list=PLYtj37XklvqgTuGzF8S2QMtV316amTCzI"
+        "title": "人類比惡魔更強悍！在英雄無敵3裡玩城堡陣營有多爽？",
+        "description": "人類在很多遊戲裡都是弱小的代名詞，但在英雄無敵3裡顯然不是......\n\n1999年3DO發行的回合策略遊戲《魔法門英雄無敵3》及資料片"
       },
-      "defaultAudioLanguage": "en"
+      "defaultAudioLanguage": "zh-CN"
     },
     "contentDetails": {
-      "duration": "PT11M59S",
+      "duration": "PT15M19S",
       "dimension": "2d",
       "definition": "hd",
       "caption": "true",
@@ -4233,17 +4208,17 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "71030",
-      "likeCount": "742",
+      "viewCount": "92744",
+      "likeCount": "2486",
       "favoriteCount": "0",
-      "commentCount": "248"
+      "commentCount": "134"
     },
     "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/KE3uFcyrkTI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vkVhrB_nX3k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     "topicDetails": {
       "topicCategories": [
-        "https://en.wikipedia.org/wiki/Action_game",
+        "https://en.wikipedia.org/wiki/Role-playing_video_game",
         "https://en.wikipedia.org/wiki/Strategy_video_game",
         "https://en.wikipedia.org/wiki/Video_game_culture"
       ]
@@ -4251,152 +4226,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rHBiYLOwVUpBxEv9QMlnslccXHk",
-    "id": "OFCMUwqw8Qo",
-    "snippet": {
-      "publishedAt": "2026-05-27T14:30:32Z",
-      "channelId": "UCgKWfVL9nbU3tHjhICV8IZw",
-      "title": "moon tang - 月亮代表我 (official video)",
-      "description": "follow me:  http://instagram.com/moonstyles_\nstream my song: https://moontang.lnk.to/darksideofthemoon\n----------\n\n很多畫 很多書\n以為 能偷窺 明月背面 \n月亮 不忍心反駁 其實你 未看穿\n\n很多歌 代發言      \n明明是 失焦的臉\n大概他們 針孔所見 \n純直覺 沒缺點                                      \n\n這一顆 被月亮 代表的心 幾千個 騒客 曾探問\n這粒砂 代代人 亦遙望過 看出要點 還未有人\n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n為何 沒有感應 也可伴我坐 \n他猜 不穿 謎底～ 但是真的愛我 \n\n幾首詩 幾幅相\n月亮最終 不過是 人心的投影\n容易愛 但看不清\n\n不小心 現了形\n凡人 未必懂反應\n但我都曾 相當掙扎 \n求被愛 被看清～\n\n知不知 寂寞是 被他喜歡 \n心傷卻 沒人曾 發現 \n他即使 盡力來 扮明白我\n錯失了 極柔弱那點 \n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n然而 又有幾個 會這樣縱我\n即使 他不明解～ 但是仍然 捍衞我\n\n假使 只得到 錯的人\n要是能陪我 \n也別太嚴苛～ Woo～\n----------\n\na song of moon tang \na film crafted by ZAIN & Kidney\n\ncomposed by：moon tang, Nic Tsui, musicbyAP, Eason YH Chan, Daniel Toh\nlyrics by：Wyman Wong\narranged by：Nic Tsui, Justin Yau\nproduced by：moon tang, Nic Tsui\n\n#moontang #月亮代表我 #darksideofthemoon",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/OFCMUwqw8Qo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "moon tang",
-      "tags": [
-        "#moooon #moontong #moonzi"
-      ],
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "zh-Hant",
-      "localized": {
-        "title": "moon tang - 月亮代表我 (official video)",
-        "description": "follow me:  http://instagram.com/moonstyles_\nstream my song: https://moontang.lnk.to/darksideofthemoon\n----------\n\n很多畫 很多書\n以為 能偷窺 明月背面 \n月亮 不忍心反駁 其實你 未看穿\n\n很多歌 代發言      \n明明是 失焦的臉\n大概他們 針孔所見 \n純直覺 沒缺點                                      \n\n這一顆 被月亮 代表的心 幾千個 騒客 曾探問\n這粒砂 代代人 亦遙望過 看出要點 還未有人\n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n為何 沒有感應 也可伴我坐 \n他猜 不穿 謎底～ 但是真的愛我 \n\n幾首詩 幾幅相\n月亮最終 不過是 人心的投影\n容易愛 但看不清\n\n不小心 現了形\n凡人 未必懂反應\n但我都曾 相當掙扎 \n求被愛 被看清～\n\n知不知 寂寞是 被他喜歡 \n心傷卻 沒人曾 發現 \n他即使 盡力來 扮明白我\n錯失了 極柔弱那點 \n\n人們 這麼喜歡 為月亮作歌               \n為何 寫幾多首 亦未代表我\n天底 幾億個人\n無人 真的 懂得 我麽～\n人從 心底相通 實在沒太多   \n然而 又有幾個 會這樣縱我\n即使 他不明解～ 但是仍然 捍衞我\n\n假使 只得到 錯的人\n要是能陪我 \n也別太嚴苛～ Woo～\n----------\n\na song of moon tang \na film crafted by ZAIN & Kidney\n\ncomposed by：moon tang, Nic Tsui, musicbyAP, Eason YH Chan, Daniel Toh\nlyrics by：Wyman Wong\narranged by：Nic Tsui, Justin Yau\nproduced by：moon tang, Nic Tsui\n\n#moontang #月亮代表我 #darksideofthemoon"
-      },
-      "defaultAudioLanguage": "zh-HK"
-    },
-    "contentDetails": {
-      "duration": "PT4M3S",
-      "dimension": "2d",
-      "definition": "hd",
-      "caption": "true",
-      "licensedContent": true,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "statistics": {
-      "viewCount": "30527",
-      "likeCount": "1305",
-      "favoriteCount": "0",
-      "commentCount": "52"
-    },
-    "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OFCMUwqw8Qo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    "topicDetails": {
-      "topicCategories": [
-        "https://en.wikipedia.org/wiki/Music",
-        "https://en.wikipedia.org/wiki/Music_of_Asia",
-        "https://en.wikipedia.org/wiki/Pop_music"
-      ]
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "U--9gDuQhrDYk04U3QXDyy9215k",
-    "id": "ngBOKko5xjQ",
-    "snippet": {
-      "publishedAt": "2026-05-23T05:02:06Z",
-      "channelId": "UC4nsi0oM9WBNFv1RdLh3c2g",
-      "title": "【開箱】超平民模擬賽車組合！沉浸感一流！！",
-      "description": "========📱社交平臺 Social Media📱========\nFacebook ▶ http://facebook.com/HUNGGY816\nInstagram ▶ http://instagram.com/hunggy9527\nMai-san的Instagram ▶ http://instagram.com/mai.journal\n\n🎮你訂閲了我新的遊戲頻道了嗎？\nHunggyGames▶ https://www.youtube.com/channel/UCqBMuXxkjded936sAf_znpg\n🎮加入我的Discord群組！參加討論吧！▶ https://discord.gg/hunggy\n\n========業務聯絡========\n工作聯絡請發電郵到 info@hunggy.com\n\n日本語のお問い合わせも対応しております mai@hunggy.com までご連絡ください。",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ngBOKko5xjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "JASON",
-      "categoryId": "22",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "zh-HK",
-      "localized": {
-        "title": "【開箱】超平民模擬賽車組合！沉浸感一流！！",
-        "description": "========📱社交平臺 Social Media📱========\nFacebook ▶ http://facebook.com/HUNGGY816\nInstagram ▶ http://instagram.com/hunggy9527\nMai-san的Instagram ▶ http://instagram.com/mai.journal\n\n🎮你訂閲了我新的遊戲頻道了嗎？\nHunggyGames▶ https://www.youtube.com/channel/UCqBMuXxkjded936sAf_znpg\n🎮加入我的Discord群組！參加討論吧！▶ https://discord.gg/hunggy\n\n========業務聯絡========\n工作聯絡請發電郵到 info@hunggy.com\n\n日本語のお問い合わせも対応しております mai@hunggy.com までご連絡ください。"
-      },
-      "defaultAudioLanguage": "yue-HK"
-    },
-    "contentDetails": {
-      "duration": "PT11M18S",
-      "dimension": "2d",
-      "definition": "hd",
-      "caption": "false",
-      "licensedContent": true,
-      "contentRating": {},
-      "projection": "rectangular"
-    },
-    "statistics": {
-      "viewCount": "73838",
-      "likeCount": "2869",
-      "favoriteCount": "0",
-      "commentCount": "101"
-    },
-    "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ngBOKko5xjQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    "topicDetails": {
-      "topicCategories": [
-        "https://en.wikipedia.org/wiki/Video_game_culture"
-      ]
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "eMK3CnyzELF-o16GvR49jOtIyz0",
+    "etag": "nSfQFM1Bq8C-usimzERG0jzPmYk",
     "id": "7KoDZkSCTh8",
     "snippet": {
       "publishedAt": "2026-05-26T13:00:06Z",
@@ -4450,8 +4280,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "37672",
-      "likeCount": "1233",
+      "viewCount": "39148",
+      "likeCount": "1243",
       "favoriteCount": "0",
       "commentCount": "144"
     },
@@ -4468,7 +4298,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mNQOL6IycaeSUu_zbFPxcGVucsQ",
+    "etag": "1ZdDsUlPNbPvC6ZuSrZdRX0f21g",
     "id": "YK4G3dxYDfs",
     "snippet": {
       "publishedAt": "2026-05-25T11:54:15Z",
@@ -4522,8 +4352,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "128524",
-      "likeCount": "1215",
+      "viewCount": "128679",
+      "likeCount": "1216",
       "favoriteCount": "0",
       "commentCount": "215"
     },
@@ -4540,7 +4370,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Dq33oegDHUq4bb8wCwcRSQkPP7w",
+    "etag": "uNzd8xGHdujv4jfhiGXtBCGMQRY",
     "id": "R5By6ms2a3Y",
     "snippet": {
       "publishedAt": "2026-05-19T09:00:25Z",
@@ -4726,8 +4556,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "5679554",
-      "likeCount": "45465",
+      "viewCount": "5725012",
+      "likeCount": "45794",
       "favoriteCount": "0",
       "commentCount": "0"
     },
@@ -4744,7 +4574,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "D-qkgGJMnPnwA_iuxS5QHG9HmPw",
+    "etag": "22_RLTFhSEpi8L4halqiONi7DiE",
     "id": "7HgnekhoeRw",
     "snippet": {
       "publishedAt": "2026-05-29T04:00:01Z",
@@ -4825,10 +4655,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "45941",
-      "likeCount": "591",
+      "viewCount": "46461",
+      "likeCount": "593",
       "favoriteCount": "0",
-      "commentCount": "132"
+      "commentCount": "133"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7HgnekhoeRw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -4844,7 +4674,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3C41DyBnE3m2ZA3bNTav2R2ihos",
+    "etag": "Lshz0_AWWIAuSRriImCXPuDJq0g",
     "id": "Jxgbfc89hNI",
     "snippet": {
       "publishedAt": "2026-05-19T09:00:32Z",
@@ -4911,10 +4741,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "4856335",
-      "likeCount": "246291",
+      "viewCount": "4895870",
+      "likeCount": "247087",
       "favoriteCount": "0",
-      "commentCount": "10889"
+      "commentCount": "10909"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Jxgbfc89hNI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -4929,7 +4759,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "y6DZud5VtFJaFKGFMStu8-zzong",
+    "etag": "NjWCjXRLRoZNLJjmCgZ0nxxI2oQ",
     "id": "N7Uu_OiQmws",
     "snippet": {
       "publishedAt": "2026-05-27T14:33:34Z",
@@ -5031,8 +4861,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "956141",
-      "likeCount": "4286",
+      "viewCount": "956528",
+      "likeCount": "4292",
       "favoriteCount": "0",
       "commentCount": "49"
     },
@@ -5050,7 +4880,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Iz0uIZDrWF8xbMq6gxW_-eVl_84",
+    "etag": "4KZp2h_1iRVrqPaA5YfID1tOnmk",
     "id": "KPrbO6Cs7HM",
     "snippet": {
       "publishedAt": "2026-05-28T13:00:06Z",
@@ -5104,10 +4934,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "15055",
-      "likeCount": "898",
+      "viewCount": "15705",
+      "likeCount": "909",
       "favoriteCount": "0",
-      "commentCount": "423"
+      "commentCount": "427"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/KPrbO6Cs7HM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -5122,79 +4952,92 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Nsncw-IINc0WRHLVtT1wcgZ4J_c",
-    "id": "vkVhrB_nX3k",
+    "etag": "u9rWMB0sKE3lv5gFPjRR1NSsSxs",
+    "id": "UfbCbAWT0mc",
     "snippet": {
-      "publishedAt": "2026-05-29T11:49:33Z",
-      "channelId": "UCKPflKAE2Y1tm8VSi32iboQ",
-      "title": "人類比惡魔更強悍！在英雄無敵3裡玩城堡陣營有多爽？",
-      "description": "人類在很多遊戲裡都是弱小的代名詞，但在英雄無敵3裡顯然不是......\n\n1999年3DO發行的回合策略遊戲《魔法門英雄無敵3》及資料片",
+      "publishedAt": "2026-05-25T11:00:22Z",
+      "channelId": "UCmtmIF-u0ojej0y9i9STuIw",
+      "title": "騰訊猛砸40億的新作竟大翻車？連王者榮耀IP也救不了？上線熱度低迷的【王者榮耀世界 Honor of Kings World】事件",
+      "description": "👇🏻紳士們 $1 加入我們的 P站，觀看獨家的紳士游戲介紹\nhttps://bit.ly/3oVJJSa\n\n想觀看更多有趣資訊和新聞，不妨贊和關注我們 👇🏻\nTwitter 👉🏻 https://www.twitter.com/GamerSecretTV\nBiliBili 👉🏻 https://space.bilibili.com/669239450\nFacebook 👉🏻 https://www.facebook.com/GamerSecret.GET\nInstagram 👉🏻 https://www.instagram.com/GamerSecret.GET\n\n👇🏻加入會員支持玩家機密 \nhttps://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw/join",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/default.jpg",
+          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/vkVhrB_nX3k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "channelTitle": "老孫聊遊戲",
+      "channelTitle": "GamerSecret 玩家機密",
+      "tags": [
+        "Game",
+        "News",
+        "Review",
+        "History",
+        "遊戲",
+        "新聞",
+        "Top 10",
+        "game review",
+        "遊戲評測",
+        "bug",
+        "giveaway"
+      ],
       "categoryId": "20",
       "liveBroadcastContent": "none",
-      "defaultLanguage": "zh-CN",
+      "defaultLanguage": "zh",
       "localized": {
-        "title": "人類比惡魔更強悍！在英雄無敵3裡玩城堡陣營有多爽？",
-        "description": "人類在很多遊戲裡都是弱小的代名詞，但在英雄無敵3裡顯然不是......\n\n1999年3DO發行的回合策略遊戲《魔法門英雄無敵3》及資料片"
+        "title": "騰訊猛砸40億的新作竟大翻車？連王者榮耀IP也救不了？上線熱度低迷的【王者榮耀世界 Honor of Kings World】事件",
+        "description": "👇🏻紳士們 $1 加入我們的 P站，觀看獨家的紳士游戲介紹\nhttps://bit.ly/3oVJJSa\n\n想觀看更多有趣資訊和新聞，不妨贊和關注我們 👇🏻\nTwitter 👉🏻 https://www.twitter.com/GamerSecretTV\nBiliBili 👉🏻 https://space.bilibili.com/669239450\nFacebook 👉🏻 https://www.facebook.com/GamerSecret.GET\nInstagram 👉🏻 https://www.instagram.com/GamerSecret.GET\n\n👇🏻加入會員支持玩家機密 \nhttps://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw/join"
       },
-      "defaultAudioLanguage": "zh-CN"
+      "defaultAudioLanguage": "zh"
     },
     "contentDetails": {
-      "duration": "PT15M19S",
+      "duration": "PT11M58S",
       "dimension": "2d",
       "definition": "hd",
-      "caption": "true",
+      "caption": "false",
       "licensedContent": true,
       "contentRating": {},
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "84699",
-      "likeCount": "2401",
+      "viewCount": "262858",
+      "likeCount": "3286",
       "favoriteCount": "0",
-      "commentCount": "132"
+      "commentCount": "945"
     },
     "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vkVhrB_nX3k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/UfbCbAWT0mc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     "topicDetails": {
       "topicCategories": [
+        "https://en.wikipedia.org/wiki/Action_game",
         "https://en.wikipedia.org/wiki/Role-playing_video_game",
-        "https://en.wikipedia.org/wiki/Strategy_video_game",
         "https://en.wikipedia.org/wiki/Video_game_culture"
       ]
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "raaUtuBjZZv9vkGICZn4TmPmQfQ",
+    "etag": "05gR1yHMXgJUMKhLuYR4Ve1HLFg",
     "id": "Gy32XOFT2ww",
     "snippet": {
       "publishedAt": "2026-05-22T04:00:12Z",
@@ -5505,10 +5348,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "3575685",
-      "likeCount": "75179",
+      "viewCount": "3630536",
+      "likeCount": "76286",
       "favoriteCount": "0",
-      "commentCount": "1167"
+      "commentCount": "1168"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/Gy32XOFT2ww\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -5523,65 +5366,138 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2pvDCxIa9T4Ec6aHxKjwzHYdfb0",
-    "id": "UfbCbAWT0mc",
+    "etag": "1DY_SDZ6iHnw4CG94BtFKutH5po",
+    "id": "7LoWNkJVbww",
     "snippet": {
-      "publishedAt": "2026-05-25T11:00:22Z",
-      "channelId": "UCmtmIF-u0ojej0y9i9STuIw",
-      "title": "騰訊猛砸40億的新作竟大翻車？連王者榮耀IP也救不了？上線熱度低迷的【王者榮耀世界 Honor of Kings World】事件",
-      "description": "👇🏻紳士們 $1 加入我們的 P站，觀看獨家的紳士游戲介紹\nhttps://bit.ly/3oVJJSa\n\n想觀看更多有趣資訊和新聞，不妨贊和關注我們 👇🏻\nTwitter 👉🏻 https://www.twitter.com/GamerSecretTV\nBiliBili 👉🏻 https://space.bilibili.com/669239450\nFacebook 👉🏻 https://www.facebook.com/GamerSecret.GET\nInstagram 👉🏻 https://www.instagram.com/GamerSecret.GET\n\n👇🏻加入會員支持玩家機密 \nhttps://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw/join",
+      "publishedAt": "2026-05-29T09:33:20Z",
+      "channelId": "UCGQMbfDGFFInMzFDUA_9fww",
+      "title": "我不應該玩這款怪怪的遊戲...【Dark Pals: The 1st Floor】",
+      "description": "喜歡這個系列的記得按個喜歡👍 \n歡迎大家訂閱📢 https://bit.ly/2QZH6u8 \n\n故事系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaSFmEnOQsfdi8bHej7SbLhn\nROBLOX全系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRkpsJZgqDXq05XzMhK2IeJ\n手機遊戲撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRz1ynIZTuYv53aEFoQkrde\nTeardown 系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRMdZzyqTyaEyB-jAcsZ10t",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/default.jpg",
+          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/UfbCbAWT0mc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "channelTitle": "GamerSecret 玩家機密",
+      "channelTitle": "Yuan2020",
       "tags": [
-        "Game",
-        "News",
-        "Review",
-        "History",
+        "搞笑遊戲",
+        "Minecraft",
+        "yuan2020",
+        "yuan",
+        "源",
+        "元",
+        "原",
+        "冒險",
+        "生存",
+        "死亡",
+        "熱門",
+        "好看",
+        "有趣",
         "遊戲",
-        "新聞",
-        "Top 10",
-        "game review",
-        "遊戲評測",
-        "bug",
-        "giveaway"
+        "奇怪",
+        "yuan2200",
+        "yuan20",
+        "yuna2020",
+        "yaun2020",
+        "小遊戲",
+        "小品遊戲",
+        "網頁遊戲",
+        "神",
+        "等級1",
+        "等級99",
+        "等級999",
+        "神級",
+        "成長遊戲",
+        "可怕人頭",
+        "惡搞地圖",
+        "整人地圖",
+        "逃離",
+        "成長",
+        "脫逃成功",
+        "逃脫地圖",
+        "逃脫",
+        "被關",
+        "逃出",
+        "跑酷",
+        "跑庫",
+        "結果",
+        "整人",
+        "鬼",
+        "嚇人",
+        "整人遊戲",
+        "糞GAME",
+        "GAME",
+        "耍人",
+        "恐怖故事",
+        "奇怪遊戲",
+        "爆炸",
+        "超爆笑",
+        "爆笑",
+        "搞笑",
+        "搞笑地圖",
+        "恐怖地圖",
+        "爆笑遊戲",
+        "爆笑地圖",
+        "生存地圖",
+        "ROBLOX YUAN",
+        "機械方塊",
+        "garten of banban",
+        "banban",
+        "Rainbow Friends",
+        "BANBAN幼兒園",
+        "poppy playtime",
+        "波比",
+        "波比的遊戲時間",
+        "結局",
+        "第三章",
+        "第二章",
+        "第一章",
+        "Deep sleep",
+        "Huggy Wuggy",
+        "長腿媽咪",
+        "Kissy Missy",
+        "LILY LOVEBRAIDS",
+        "poppy playtime chapter 5",
+        "第5章",
+        "原型體",
+        "1006",
+        "roblox",
+        "Dark Pals",
+        "黑暗夥伴"
       ],
       "categoryId": "20",
       "liveBroadcastContent": "none",
-      "defaultLanguage": "zh",
+      "defaultLanguage": "zh-Hant",
       "localized": {
-        "title": "騰訊猛砸40億的新作竟大翻車？連王者榮耀IP也救不了？上線熱度低迷的【王者榮耀世界 Honor of Kings World】事件",
-        "description": "👇🏻紳士們 $1 加入我們的 P站，觀看獨家的紳士游戲介紹\nhttps://bit.ly/3oVJJSa\n\n想觀看更多有趣資訊和新聞，不妨贊和關注我們 👇🏻\nTwitter 👉🏻 https://www.twitter.com/GamerSecretTV\nBiliBili 👉🏻 https://space.bilibili.com/669239450\nFacebook 👉🏻 https://www.facebook.com/GamerSecret.GET\nInstagram 👉🏻 https://www.instagram.com/GamerSecret.GET\n\n👇🏻加入會員支持玩家機密 \nhttps://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw/join"
+        "title": "我不應該玩這款怪怪的遊戲...【Dark Pals: The 1st Floor】",
+        "description": "喜歡這個系列的記得按個喜歡👍 \n歡迎大家訂閱📢 https://bit.ly/2QZH6u8 \n\n故事系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaSFmEnOQsfdi8bHej7SbLhn\nROBLOX全系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRkpsJZgqDXq05XzMhK2IeJ\n手機遊戲撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRz1ynIZTuYv53aEFoQkrde\nTeardown 系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRMdZzyqTyaEyB-jAcsZ10t"
       },
-      "defaultAudioLanguage": "zh"
+      "defaultAudioLanguage": "zh-TW"
     },
     "contentDetails": {
-      "duration": "PT11M58S",
+      "duration": "PT37M21S",
       "dimension": "2d",
       "definition": "hd",
       "caption": "false",
@@ -5590,25 +5506,24 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "261004",
-      "likeCount": "3279",
+      "viewCount": "168520",
+      "likeCount": "1357",
       "favoriteCount": "0",
-      "commentCount": "941"
+      "commentCount": "122"
     },
     "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/UfbCbAWT0mc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7LoWNkJVbww\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     "topicDetails": {
       "topicCategories": [
-        "https://en.wikipedia.org/wiki/Action_game",
-        "https://en.wikipedia.org/wiki/Role-playing_video_game",
+        "https://en.wikipedia.org/wiki/Action-adventure_game",
         "https://en.wikipedia.org/wiki/Video_game_culture"
       ]
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "454_H2tpR2KvUrLmwc8nr_H9rVs",
+    "etag": "04yq5jkL0mlWfD7-E97ONTHv7y8",
     "id": "k3VwwLeorsU",
     "snippet": {
       "publishedAt": "2026-05-26T18:11:59Z",
@@ -5915,10 +5830,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "4829743",
-      "likeCount": "167334",
+      "viewCount": "4990432",
+      "likeCount": "169354",
       "favoriteCount": "0",
-      "commentCount": "7396"
+      "commentCount": "7462"
     },
     "player": {
       "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/k3VwwLeorsU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -5934,138 +5849,52 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tgRV71RIWbO3kaDZhlqDvG7RuWE",
-    "id": "7LoWNkJVbww",
+    "etag": "feTTxkLDNE9RGwnncIn-qXgbHF0",
+    "id": "c88D6ypvLZo",
     "snippet": {
-      "publishedAt": "2026-05-29T09:33:20Z",
-      "channelId": "UCGQMbfDGFFInMzFDUA_9fww",
-      "title": "我不應該玩這款怪怪的遊戲...【Dark Pals: The 1st Floor】",
-      "description": "喜歡這個系列的記得按個喜歡👍 \n歡迎大家訂閱📢 https://bit.ly/2QZH6u8 \n\n故事系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaSFmEnOQsfdi8bHej7SbLhn\nROBLOX全系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRkpsJZgqDXq05XzMhK2IeJ\n手機遊戲撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRz1ynIZTuYv53aEFoQkrde\nTeardown 系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRMdZzyqTyaEyB-jAcsZ10t",
+      "publishedAt": "2026-05-30T10:42:32Z",
+      "channelId": "UCn-6eqEIz9Dye0mTfC-iPlQ",
+      "title": "我訓練野獸先生老婆 VS 我兒子 (Rivals 競爭者)",
+      "description": "訂閱我的頻道:  @SlingshotBwai彈弓男孩 \n主頻道: @SlingshotBwaii \n加入我的社群：\nRoblox群組：https://www.roblox.com/communities/382403271/Bwai-Gang\nDiscord：https://discord.gg/bwai\n\nRoblox帳號：\nhttps://www.roblox.com/users/719253194/profile?friendshipSourceType=PlayerSearch\n\n#競爭者 #Rivals #Roblox #SlingshotBwai #robloxrivals",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/default.jpg",
+          "url": "https://i.ytimg.com/vi/c88D6ypvLZo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/c88D6ypvLZo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/c88D6ypvLZo/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/c88D6ypvLZo/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/7LoWNkJVbww/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/c88D6ypvLZo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "channelTitle": "Yuan2020",
-      "tags": [
-        "搞笑遊戲",
-        "Minecraft",
-        "yuan2020",
-        "yuan",
-        "源",
-        "元",
-        "原",
-        "冒險",
-        "生存",
-        "死亡",
-        "熱門",
-        "好看",
-        "有趣",
-        "遊戲",
-        "奇怪",
-        "yuan2200",
-        "yuan20",
-        "yuna2020",
-        "yaun2020",
-        "小遊戲",
-        "小品遊戲",
-        "網頁遊戲",
-        "神",
-        "等級1",
-        "等級99",
-        "等級999",
-        "神級",
-        "成長遊戲",
-        "可怕人頭",
-        "惡搞地圖",
-        "整人地圖",
-        "逃離",
-        "成長",
-        "脫逃成功",
-        "逃脫地圖",
-        "逃脫",
-        "被關",
-        "逃出",
-        "跑酷",
-        "跑庫",
-        "結果",
-        "整人",
-        "鬼",
-        "嚇人",
-        "整人遊戲",
-        "糞GAME",
-        "GAME",
-        "耍人",
-        "恐怖故事",
-        "奇怪遊戲",
-        "爆炸",
-        "超爆笑",
-        "爆笑",
-        "搞笑",
-        "搞笑地圖",
-        "恐怖地圖",
-        "爆笑遊戲",
-        "爆笑地圖",
-        "生存地圖",
-        "ROBLOX YUAN",
-        "機械方塊",
-        "garten of banban",
-        "banban",
-        "Rainbow Friends",
-        "BANBAN幼兒園",
-        "poppy playtime",
-        "波比",
-        "波比的遊戲時間",
-        "結局",
-        "第三章",
-        "第二章",
-        "第一章",
-        "Deep sleep",
-        "Huggy Wuggy",
-        "長腿媽咪",
-        "Kissy Missy",
-        "LILY LOVEBRAIDS",
-        "poppy playtime chapter 5",
-        "第5章",
-        "原型體",
-        "1006",
-        "roblox",
-        "Dark Pals",
-        "黑暗夥伴"
-      ],
+      "channelTitle": "SlingshotBwai 彈弓男孩",
       "categoryId": "20",
       "liveBroadcastContent": "none",
       "defaultLanguage": "zh-Hant",
       "localized": {
-        "title": "我不應該玩這款怪怪的遊戲...【Dark Pals: The 1st Floor】",
-        "description": "喜歡這個系列的記得按個喜歡👍 \n歡迎大家訂閱📢 https://bit.ly/2QZH6u8 \n\n故事系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaSFmEnOQsfdi8bHej7SbLhn\nROBLOX全系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRkpsJZgqDXq05XzMhK2IeJ\n手機遊戲撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRz1ynIZTuYv53aEFoQkrde\nTeardown 系列撥放清單網址🔻\nhttps://youtube.com/playlist?list=PLZP9SvKJTDaRMdZzyqTyaEyB-jAcsZ10t"
+        "title": "我訓練野獸先生老婆 VS 我兒子 (Rivals 競爭者)",
+        "description": "訂閱我的頻道:  @SlingshotBwai彈弓男孩 \n主頻道: @SlingshotBwaii \n加入我的社群：\nRoblox群組：https://www.roblox.com/communities/382403271/Bwai-Gang\nDiscord：https://discord.gg/bwai\n\nRoblox帳號：\nhttps://www.roblox.com/users/719253194/profile?friendshipSourceType=PlayerSearch\n\n#競爭者 #Rivals #Roblox #SlingshotBwai #robloxrivals"
       },
-      "defaultAudioLanguage": "zh-TW"
+      "defaultAudioLanguage": "zh"
     },
     "contentDetails": {
-      "duration": "PT37M21S",
+      "duration": "PT17M7S",
       "dimension": "2d",
       "definition": "hd",
       "caption": "false",
@@ -6074,24 +5903,25 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "164980",
-      "likeCount": "1353",
+      "viewCount": "99100",
+      "likeCount": "2571",
       "favoriteCount": "0",
-      "commentCount": "120"
+      "commentCount": "1040"
     },
     "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7LoWNkJVbww\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/c88D6ypvLZo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     "topicDetails": {
       "topicCategories": [
-        "https://en.wikipedia.org/wiki/Action-adventure_game",
+        "https://en.wikipedia.org/wiki/Action_game",
+        "https://en.wikipedia.org/wiki/Role-playing_video_game",
         "https://en.wikipedia.org/wiki/Video_game_culture"
       ]
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "chHXFByhv1Ewq9h_hqdLbhXvAUk",
+    "etag": "KubHuRlCMjWvQzu91if3gTpMmsY",
     "id": "zZ9_eoFnVJU",
     "snippet": {
       "publishedAt": "2026-05-28T12:00:36Z",
@@ -6180,8 +6010,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "63135",
-      "likeCount": "1121",
+      "viewCount": "67619",
+      "likeCount": "1141",
       "favoriteCount": "0",
       "commentCount": "43"
     },
@@ -6192,6 +6022,94 @@
       "topicCategories": [
         "https://en.wikipedia.org/wiki/Music",
         "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "8dbl9DWdBpjLeL3iz6F21ROg0Bc",
+    "id": "uC2kldU7gGM",
+    "snippet": {
+      "publishedAt": "2026-05-30T14:49:22Z",
+      "channelId": "UC0uDpQfU-FwY571UEhgd87Q",
+      "title": "2026 LPL Split 2 Play-offs | AL vs EDG | BLG vs WE | !casters !production",
+      "description": "LPL English brings you the LPL action with attention to casting and story-telling.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uC2kldU7gGM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uC2kldU7gGM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uC2kldU7gGM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uC2kldU7gGM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "LPL_English",
+      "tags": [
+        "lpl",
+        "wbg",
+        "lng",
+        "tt",
+        "omg",
+        "edg",
+        "nip",
+        "rng",
+        "we",
+        "ig",
+        "tes",
+        "blg",
+        "jdg",
+        "up",
+        "lgd",
+        "al",
+        "fpx"
+      ],
+      "categoryId": "20",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "2026 LPL Split 2 Play-offs | AL vs EDG | BLG vs WE | !casters !production",
+        "description": "LPL English brings you the LPL action with attention to casting and story-telling."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8H44M7S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "124375",
+      "likeCount": "545",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/uC2kldU7gGM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Action_game",
+        "https://en.wikipedia.org/wiki/Role-playing_video_game",
+        "https://en.wikipedia.org/wiki/Sports_game",
+        "https://en.wikipedia.org/wiki/Strategy_video_game",
+        "https://en.wikipedia.org/wiki/Video_game_culture"
       ]
     }
   }
