@@ -1,34 +1,20 @@
 [
   {
     "rank": 1,
-    "title": "跟北航的弟弟聊了下人生规划，聊完我 emo 了",
-    "url": "https://www.v2ex.com/t/1216587",
-    "description": "起因是表弟找我有杭州有没有实习推荐\n我难为情的告诉他，今天是 5.30 ，我正式失业了，也在找工作\n然后反应过来，你才研一，这么早就找实习吗\n他扭扭捏捏，问半天才套出话\n原来他导师管的严，他想趁着导师外出交流，找个实习方便以后找工作\n我叹了口气，告诉他先别做急急国王\n首先，双 95,058400 ，这个背景找份实习不难\n其次，导师就是老板，她要学生发论文，校招也看论文，争取多发几篇\n最后，导师不放人，找实习也没用，如果有时间可以考个雅思，以后用得上\n聊完反而心里堵得慌，要是我有个 985 学历早就找到下家了\n当前 ai 冲击下，编程差距早就被抹平，学历事实上成了硬性区分条件\n大环境是差，但高学",
-    "metric": "38 回复",
-    "metric_value": 38,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "tenserG",
-      "last_touched": 1780150616
-    }
-  },
-  {
-    "rank": 2,
     "title": "大佬们 vibe coding 的项目怎么样了",
     "url": "https://www.v2ex.com/t/1216679",
     "description": "从 4 月 16 日到今天（ 2026 年 5 月 30 日），一共是 44 天\n以上是我 vibe coding 的访问量\n大佬们的怎么样了\n欢迎分享，学习，交流\n地址在这：nodebits",
-    "metric": "36 回复",
-    "metric_value": 36,
+    "metric": "39 回复",
+    "metric_value": 39,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "huluwa561",
-      "last_touched": 1780152992
+      "last_touched": 1780158554
     }
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "需要二次接码了有什么解法吗？",
     "url": "https://www.v2ex.com/t/1216598",
     "description": "就是之前一次性接码接完能登，现在直接弹出来之前那个手机号让接码了。之前用的接码平台本来就是一次性的，现在又不能修改手机号重新验证",
@@ -42,12 +28,26 @@
     }
   },
   {
+    "rank": 3,
+    "title": "和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间",
+    "url": "https://www.v2ex.com/t/1216703",
+    "description": "其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）\n今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，\n一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱\n一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和",
+    "metric": "28 回复",
+    "metric_value": 28,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "hairenjun",
+      "last_touched": 1780157988
+    }
+  },
+  {
     "rank": 4,
     "title": "各位大佬们，固态硬盘到底分不分区？",
     "url": "https://www.v2ex.com/t/1216669",
     "description": "记得之前看到过，有人说固态盘不建议分区，到底要不要分区？分区影响整体寿命吗？还是说不分区使用更好？",
-    "metric": "25 回复",
-    "metric_value": 25,
+    "metric": "26 回复",
+    "metric_value": 26,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
@@ -60,17 +60,45 @@
     "title": "HP 打印机没有 mac 驱动怎么办？",
     "url": "https://www.v2ex.com/t/1216672",
     "description": "买了个 hp 的打印机，比较便宜的那种。hp 105w 激光打印机。\n官网没有 mac 系统的驱动，windows 倒是正常。\n苹果官网好像也没找到这种打印机的解决方案。\n不知道大家有没有过类似的经验，该怎么处理？",
-    "metric": "25 回复",
-    "metric_value": 25,
+    "metric": "26 回复",
+    "metric_value": 26,
     "extra": {
       "node": "macOS",
       "node_name": "macos",
       "author": "leon912",
-      "last_touched": 1780153191
+      "last_touched": 1780157610
     }
   },
   {
     "rank": 6,
+    "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
+    "url": "https://www.v2ex.com/t/1216615",
+    "description": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI ",
+    "metric": "25 回复",
+    "metric_value": 25,
+    "extra": {
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "GG5332",
+      "last_touched": 1780142894
+    }
+  },
+  {
+    "rank": 7,
+    "title": "有没有大佬知道如何获取安卓唯一标识",
+    "url": "https://www.v2ex.com/t/1216634",
+    "description": "如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。系统为 11 、12 。设备需要经常刷机。在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？",
+    "metric": "24 回复",
+    "metric_value": 24,
+    "extra": {
+      "node": "Android",
+      "node_name": "android",
+      "author": "YaNanGe",
+      "last_touched": 1780158076
+    }
+  },
+  {
+    "rank": 8,
     "title": "给大二的小孩买了 GPT Go",
     "url": "https://www.v2ex.com/t/1216664",
     "description": "前几天抱怨免费的不够用\n今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了",
@@ -84,45 +112,17 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 9,
     "title": "开发转运维，是否是一条不归路",
     "url": "https://www.v2ex.com/t/1216610",
     "description": "背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。\n开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。\n入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。",
-    "metric": "22 回复",
-    "metric_value": 22,
+    "metric": "23 回复",
+    "metric_value": 23,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "Carver9527",
-      "last_touched": 1780146367
-    }
-  },
-  {
-    "rank": 8,
-    "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
-    "url": "https://www.v2ex.com/t/1216615",
-    "description": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI ",
-    "metric": "22 回复",
-    "metric_value": 22,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
-      "author": "GG5332",
-      "last_touched": 1780142894
-    }
-  },
-  {
-    "rank": 9,
-    "title": "有没有大佬知道如何获取安卓唯一标识",
-    "url": "https://www.v2ex.com/t/1216634",
-    "description": "如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。系统为 11 、12 。设备需要经常刷机。在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？",
-    "metric": "22 回复",
-    "metric_value": 22,
-    "extra": {
-      "node": "Android",
-      "node_name": "android",
-      "author": "YaNanGe",
-      "last_touched": 1780153425
+      "last_touched": 1780156161
     }
   },
   {
