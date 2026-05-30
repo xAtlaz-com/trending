@@ -4,17 +4,31 @@
     "title": "AI 把我调教了，从 0 消费，到月消费 1200 元。",
     "url": "https://www.v2ex.com/t/1216578",
     "description": "AI 把我调教了。\n一路走下来的订阅路程：\n\n最早用国产 Kimi\n订阅 minimax 2.5 （¥25 还是 ¥35 不记得了）\n用 opencode （内部跑的也是 minimax ）\n阿里百炼的订阅（¥20 、¥30 一个业务）\n咸鱼上买 antigravity 家庭组（¥157/月）+ codex pro （当时 ¥20/月）\n全面转 codex 20 倍，2 人拼车，相当于 10 倍（¥650/月）\n加上 claude Pro （¥85 左右一个人）\n现在：codex 20 倍拼车（¥650/月） + claude Pro 5 倍（¥575/月）\n\n从今年 3 月中到现在 5 月底",
-    "metric": "45 回复",
-    "metric_value": 45,
+    "metric": "46 回复",
+    "metric_value": 46,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "liandro",
-      "last_touched": 1780130268
+      "last_touched": 1780139148
     }
   },
   {
     "rank": 2,
+    "title": "陪老大加班能否成为嫡系？",
+    "url": "https://www.v2ex.com/t/1216555",
+    "description": "几个厉害的几个一般的 我是一般的老大和几个厉害的加班一般的不加那如果我也加呢",
+    "metric": "32 回复",
+    "metric_value": 32,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "loverorser",
+      "last_touched": 1780113748
+    }
+  },
+  {
+    "rank": 3,
     "title": "跟北航的弟弟聊了下人生规划，聊完我 emo 了",
     "url": "https://www.v2ex.com/t/1216587",
     "description": "起因是表弟找我有杭州有没有实习推荐\n我难为情的告诉他，今天是 5.30 ，我正式失业了，也在找工作\n然后反应过来，你才研一，这么早就找实习吗\n他扭扭捏捏，问半天才套出话\n原来他导师管的严，他想趁着导师外出交流，找个实习方便以后找工作\n我叹了口气，告诉他先别做急急国王\n首先，双 95,058400 ，这个背景找份实习不难\n其次，导师就是老板，她要学生发论文，校招也看论文，争取多发几篇\n最后，导师不放人，找实习也没用，如果有时间可以考个雅思，以后用得上\n聊完反而心里堵得慌，要是我有个 985 学历早就找到下家了\n当前 ai 冲击下，编程差距早就被抹平，学历事实上成了硬性区分条件\n大环境是差，但高学",
@@ -28,26 +42,12 @@
     }
   },
   {
-    "rank": 3,
-    "title": "陪老大加班能否成为嫡系？",
-    "url": "https://www.v2ex.com/t/1216555",
-    "description": "几个厉害的几个一般的 我是一般的老大和几个厉害的加班一般的不加那如果我也加呢",
-    "metric": "30 回复",
-    "metric_value": 30,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "loverorser",
-      "last_touched": 1780106548
-    }
-  },
-  {
     "rank": 4,
     "title": "需要二次接码了有什么解法吗？",
     "url": "https://www.v2ex.com/t/1216598",
     "description": "就是之前一次性接码接完能登，现在直接弹出来之前那个手机号让接码了。之前用的接码平台本来就是一次性的，现在又不能修改手机号重新验证",
-    "metric": "26 回复",
-    "metric_value": 26,
+    "metric": "27 回复",
+    "metric_value": 27,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
@@ -74,13 +74,13 @@
     "title": "开发转运维，是否是一条不归路",
     "url": "https://www.v2ex.com/t/1216610",
     "description": "背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。\n开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。\n入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。",
-    "metric": "20 回复",
-    "metric_value": 20,
+    "metric": "22 回复",
+    "metric_value": 22,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "Carver9527",
-      "last_touched": 1780121551
+      "last_touched": 1780139167
     }
   },
   {
@@ -116,27 +116,27 @@
     "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
     "url": "https://www.v2ex.com/t/1216615",
     "description": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI ",
-    "metric": "17 回复",
-    "metric_value": 17,
+    "metric": "19 回复",
+    "metric_value": 19,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "GG5332",
-      "last_touched": 1780131704
+      "last_touched": 1780140345
     }
   },
   {
     "rank": 10,
-    "title": "安卓用户终于等到了！《巴比伦富翁家庭理财助手》Google Play 正式上线",
-    "url": "https://www.v2ex.com/t/1216632",
-    "description": "从 iOS 到 Android ，这款让家庭财务一目了然的 App ，现在全面覆盖两大平台。\n\n\n2018 年，一款名为《巴比伦富翁家庭理财助手》的 App 悄然登陆 Apple App Store 。它没有华丽的广告，没有铺天盖地的投放，却凭借「银行级安全 + 极简操作 + 深度分析」的产品理念，收获了一批忠实用户。\n8 年过去了。\n今天，我们郑重宣布：\n《巴比伦富翁家庭理财助手》 Android 版，正式上线 Google Play ！\n\n\n扫描下方二维码，或点击文末「阅读原文」直达 Google Play 下载页。\n\n\n一、你是否也有这样的困扰？\n月底翻看钱包，发现钱又花光了，却想不起来",
-    "metric": "17 回复",
-    "metric_value": 17,
+    "title": "穿越，带着 Codex 回到互联网的黄金时代",
+    "url": "https://www.v2ex.com/t/1216640",
+    "description": "",
+    "metric": "19 回复",
+    "metric_value": 19,
     "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "pengdw",
-      "last_touched": 1780134756
+      "node": "阅读",
+      "node_name": "reading",
+      "author": "chaoziCoder",
+      "last_touched": 1780138678
     }
   }
 ]
