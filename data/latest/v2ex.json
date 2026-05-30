@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-29T22:39:09+00:00",
+  "updated_at": "2026-05-30T00:11:41+00:00",
   "count": 6,
   "items": [
     {
@@ -50,8 +50,8 @@
       "title": "干，好烦这种领导",
       "url": "https://www.v2ex.com/t/1216381",
       "description": "公司请了腾讯系的不干事大佬来当 CTO ，大力推动 AI （年龄 40+），说老板下了死命令要求全研发提效要达到 100%，因这个事，4 月份原本的普调，全公司其他部门照常调，就研发没有，说要等 Q2 季度结束，看看每个研发使用 AI 的情况再去调薪。\n每天开会时间多了两三个，大半时间都在开会开会开会，全是无效会议，单独给我们研发设立一个月度 OKR （其他部门照常季度 OKR ），还要求周末过来提升 AI 技能，当天要给日报\n关键是来了不作为，只会指挥，\n经常丢个链接， [新出了这个工具，去试试，看看能不能解决我们目前的问题，回头给我个报告] \n\n还时不时来一句 [吧你们的几月份到几月份的 ",
-      "metric": "75 回复",
-      "metric_value": 75,
+      "metric": "76 回复",
+      "metric_value": 76,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
@@ -61,6 +61,20 @@
     },
     {
       "rank": 5,
+      "title": "[开源自荐] 烧了几百亿 token，我写了一个能在浏览器运行的安卓系统",
+      "url": "https://www.v2ex.com/t/1216344",
+      "description": "MobileGym (不是移动健身房)\n有点标题党了，但是真烧了几百亿 Token ，纯前端 TypeScript + React，实现了 28 个仿真 APP——微信、支付宝、小红书、bilibili 、X 、Reddit 、微信读书、12306 、腾讯会议、Spotify 、eBay， 外加桌面、设置、通讯录、短信、相册、日历、文件、浏览器等系统应用。 桌面兼容小米主题包、支持自定义小组件，Activity 栈、Intent 、手势返回、键盘适配这些 Android 系统机制全部在浏览器里重写了一遍。\n虽然本来是为了研究 GUI Agent 打造的，但是 V 友们也完全欢迎来玩啊——可以顺",
+      "metric": "72 回复",
+      "metric_value": 72,
+      "extra": {
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "HarvexARC",
+        "last_touched": 1780099205
+      }
+    },
+    {
+      "rank": 6,
       "title": "求推荐个 opus 的中转站",
       "url": "https://www.v2ex.com/t/1216364",
       "description": "求推荐个靠谱的",
@@ -71,20 +85,6 @@
         "node_name": "programmer",
         "author": "jedeft",
         "last_touched": 1780066553
-      }
-    },
-    {
-      "rank": 6,
-      "title": "[开源自荐] 烧了几百亿 token，我写了一个能在浏览器运行的安卓系统",
-      "url": "https://www.v2ex.com/t/1216344",
-      "description": "MobileGym (不是移动健身房)\n有点标题党了，但是真烧了几百亿 Token ，纯前端 TypeScript + React，实现了 28 个仿真 APP——微信、支付宝、小红书、bilibili 、X 、Reddit 、微信读书、12306 、腾讯会议、Spotify 、eBay， 外加桌面、设置、通讯录、短信、相册、日历、文件、浏览器等系统应用。 桌面兼容小米主题包、支持自定义小组件，Activity 栈、Intent 、手势返回、键盘适配这些 Android 系统机制全部在浏览器里重写了一遍。\n虽然本来是为了研究 GUI Agent 打造的，但是 V 友们也完全欢迎来玩啊——可以顺",
-      "metric": "69 回复",
-      "metric_value": 69,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "HarvexARC",
-        "last_touched": 1780089832
       }
     }
   ]
