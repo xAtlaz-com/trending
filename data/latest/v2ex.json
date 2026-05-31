@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-05-30T22:31:14+00:00",
+  "updated_at": "2026-05-31T00:03:56+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "大佬们 vibe coding 的项目怎么样了",
       "url": "https://www.v2ex.com/t/1216679",
       "description": "从 4 月 16 日到今天（ 2026 年 5 月 30 日），一共是 44 天\n以上是我 vibe coding 的访问量\n大佬们的怎么样了\n欢迎分享，学习，交流\n地址在这：nodebits",
-      "metric": "44 回复",
-      "metric_value": 44,
+      "metric": "46 回复",
+      "metric_value": 46,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "huluwa561",
-        "last_touched": 1780169754
+        "last_touched": 1780182570
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间",
       "url": "https://www.v2ex.com/t/1216703",
       "description": "其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）\n今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，\n一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱\n一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和",
-      "metric": "35 回复",
-      "metric_value": 35,
+      "metric": "36 回复",
+      "metric_value": 36,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "hairenjun",
-        "last_touched": 1780180268
+        "last_touched": 1780185561
       }
     },
     {
@@ -61,6 +61,20 @@
     },
     {
       "rank": 5,
+      "title": "求救，这样的婚姻，还有必要坚持吗？从来没有对谁倾诉过，实在内耗得不行了。",
+      "url": "https://www.v2ex.com/t/1216728",
+      "description": "关于感情生活的事情，我一直觉得冷暖自知是最好的处理方式，但奈何情感经历实在单薄（婚前有一次恋爱经历），有些问题实在想不明白，所以也走到了发帖求助的地步。\n背景：\n\n一线城市有房贷和小孩，结婚7年，妻子家庭主妇，我某大厂员工，经常加班，不远的将来甚至最近可能被裁。\n\n\n和妻子是通过共同好友引荐认识，起初欣赏她独立自主，性格爽快，觉得比较成熟简单，结果在一起之后，除了最开始甜蜜的半年，后面日常矛盾不断，但也通过磨合不断走了这么多年。\n\n问题：\n\n一直以来，我觉得吵架嘛，再正常不过的事情了，我作为男人，识大体知进退，哄一哄老婆，还有什么事情是解决不了的呢？\n\n\n但一切都有一个阈值，我们现在就来到了这",
+      "metric": "30 回复",
+      "metric_value": 30,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "RAHJK",
+        "last_touched": 1780184885
+      }
+    },
+    {
+      "rank": 6,
       "title": "HP 打印机没有 mac 驱动怎么办？",
       "url": "https://www.v2ex.com/t/1216672",
       "description": "买了个 hp 的打印机，比较便宜的那种。hp 105w 激光打印机。\n官网没有 mac 系统的驱动，windows 倒是正常。\n苹果官网好像也没找到这种打印机的解决方案。\n不知道大家有没有过类似的经验，该怎么处理？",
@@ -74,7 +88,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "给大二的小孩买了 GPT Go",
       "url": "https://www.v2ex.com/t/1216664",
       "description": "前几天抱怨免费的不够用\n今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了",
@@ -88,7 +102,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "有没有大佬知道如何获取安卓唯一标识",
       "url": "https://www.v2ex.com/t/1216634",
       "description": "如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。系统为 11 、12 。设备需要经常刷机。在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？",
@@ -102,7 +116,21 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Kimi Code 用起来感觉还行，就是很容易达到限额",
+      "url": "https://www.v2ex.com/t/1216645",
+      "description": "公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用",
+      "metric": "24 回复",
+      "metric_value": 24,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "hubianluanma",
+        "last_touched": 1780153125
+      }
+    },
+    {
+      "rank": 10,
       "title": "开发转运维，是否是一条不归路",
       "url": "https://www.v2ex.com/t/1216610",
       "description": "背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。\n开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。\n入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。",
@@ -113,34 +141,6 @@
         "node_name": "career",
         "author": "Carver9527",
         "last_touched": 1780156161
-      }
-    },
-    {
-      "rank": 9,
-      "title": "Kimi Code 用起来感觉还行，就是很容易达到限额",
-      "url": "https://www.v2ex.com/t/1216645",
-      "description": "公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用",
-      "metric": "23 回复",
-      "metric_value": 23,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "hubianluanma",
-        "last_touched": 1780149525
-      }
-    },
-    {
-      "rank": 10,
-      "title": "求救，这样的婚姻，还有必要坚持吗？从来没有对谁倾诉过，实在内耗得不行了。",
-      "url": "https://www.v2ex.com/t/1216728",
-      "description": "关于感情生活的事情，我一直觉得冷暖自知是最好的处理方式，但奈何情感经历实在单薄（婚前有一次恋爱经历），有些问题实在想不明白，所以也走到了发帖求助的地步。\n背景：\n\n一线城市有房贷和小孩，结婚7年，妻子家庭主妇，我某大厂员工，经常加班，不远的将来甚至最近可能被裁。\n\n\n和妻子是通过共同好友引荐认识，起初欣赏她独立自主，性格爽快，觉得比较成熟简单，结果在一起之后，除了最开始甜蜜的半年，后面日常矛盾不断，但也通过磨合不断走了这么多年。\n\n问题：\n\n一直以来，我觉得吵架嘛，再正常不过的事情了，我作为男人，识大体知进退，哄一哄老婆，还有什么事情是解决不了的呢？\n\n\n但一切都有一个阈值，我们现在就来到了这",
-      "metric": "23 回复",
-      "metric_value": 23,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "RAHJK",
-        "last_touched": 1780177318
       }
     }
   ]
