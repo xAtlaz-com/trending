@@ -1,227 +1,149 @@
 {
   "source": "github",
-  "updated_at": "2026-06-02T08:53:41+00:00",
-  "count": 17,
+  "updated_at": "2026-06-02T12:45:15+00:00",
+  "count": 11,
   "items": [
     {
       "rank": 1,
-      "title": "microsoft / markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "metric": "★ 139,745",
+      "title": "chopratejas / headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "metric": "★ 4,837",
       "extra": {
         "language": "Python",
-        "stars": "139,745",
-        "forks": "9,507",
-        "stars_today": "3,034 stars today"
+        "stars": "4,837",
+        "forks": "376",
+        "stars_today": "1,266 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "nesquena / hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "metric": "★ 11,934",
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "metric": "★ 140,389",
       "extra": {
         "language": "Python",
-        "stars": "11,934",
-        "forks": "1,495",
-        "stars_today": "945 stars today"
+        "stars": "140,389",
+        "forks": "9,549",
+        "stars_today": "3,616 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "supermemoryai / supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "metric": "★ 24,247",
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "metric": "★ 202,909",
       "extra": {
-        "language": "TypeScript",
-        "stars": "24,247",
-        "forks": "2,159",
-        "stars_today": "647 stars today"
+        "language": "JavaScript",
+        "stars": "202,909",
+        "forks": "31,119",
+        "stars_today": "1,842 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "metric": "★ 77,420",
+      "title": "D4Vinci / Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "metric": "★ 58,720",
       "extra": {
         "language": "Python",
-        "stars": "77,420",
-        "forks": "10,990",
-        "stars_today": "3,375 stars today"
+        "stars": "58,720",
+        "forks": "5,682",
+        "stars_today": "1,196 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "D4Vinci / Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "metric": "★ 58,527",
+      "title": "nesquena / hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "metric": "★ 12,215",
       "extra": {
         "language": "Python",
-        "stars": "58,527",
-        "forks": "5,672",
-        "stars_today": "1,486 stars today"
+        "stars": "12,215",
+        "forks": "1,513",
+        "stars_today": "1,725 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "metric": "★ 33,135",
+      "title": "reconurge / flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "metric": "★ 4,271",
       "extra": {
-        "language": "JavaScript",
-        "stars": "33,135",
-        "forks": "1,797",
-        "stars_today": "485 stars today"
+        "language": "TypeScript",
+        "stars": "4,271",
+        "forks": "569",
+        "stars_today": "319 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "p-e-w / heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "metric": "★ 23,173",
+      "title": "OpenBMB / VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "metric": "★ 24,763",
       "extra": {
         "language": "Python",
-        "stars": "23,173",
-        "forks": "2,474",
-        "stars_today": "249 stars today"
+        "stars": "24,763",
+        "forks": "2,848",
+        "stars_today": "779 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "EveryInc / compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "metric": "★ 19,240",
+      "title": "stefan-jansen / machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "metric": "★ 18,157",
       "extra": {
-        "language": "TypeScript",
-        "stars": "19,240",
-        "forks": "1,433",
-        "stars_today": "417 stars today"
+        "language": "Jupyter Notebook",
+        "stars": "18,157",
+        "forks": "5,203",
+        "stars_today": "570 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "TauricResearch / TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "metric": "★ 82,072",
+      "title": "jamwithai / production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "metric": "★ 6,228",
       "extra": {
         "language": "Python",
-        "stars": "82,072",
-        "forks": "15,944",
-        "stars_today": "299 stars today"
+        "stars": "6,228",
+        "forks": "1,477",
+        "stars_today": "31 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "revfactory / harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "metric": "★ 5,340",
+      "title": "supermemoryai / supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "metric": "★ 24,366",
       "extra": {
-        "language": "HTML",
-        "stars": "5,340",
-        "forks": "710",
-        "stars_today": "524 stars today"
+        "language": "TypeScript",
+        "stars": "24,366",
+        "forks": "2,164",
+        "stars_today": "677 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "metric": "★ 111,829",
-      "extra": {
-        "language": "C++",
-        "stars": "111,829",
-        "forks": "25,525",
-        "stars_today": "77 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "can1357 / oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "metric": "★ 9,717",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "9,717",
-        "forks": "790",
-        "stars_today": "335 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "OpenBMB / VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "metric": "★ 24,614",
+      "title": "Open-LLM-VTuber / Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "metric": "★ 8,036",
       "extra": {
         "language": "Python",
-        "stars": "24,614",
-        "forks": "2,835",
-        "stars_today": "888 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "FareedKhan-dev / train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "metric": "★ 3,920",
-      "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "3,920",
-        "forks": "531",
-        "stars_today": "861 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "stefan-jansen / machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "metric": "★ 18,075",
-      "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "18,075",
-        "forks": "5,199",
-        "stars_today": "93 stars today"
-      }
-    },
-    {
-      "rank": 16,
-      "title": "dmtrKovalenko / fff",
-      "url": "https://github.com/dmtrKovalenko/fff",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "metric": "★ 7,329",
-      "extra": {
-        "language": "Rust",
-        "stars": "7,329",
-        "forks": "299",
-        "stars_today": "135 stars today"
-      }
-    },
-    {
-      "rank": 17,
-      "title": "codecrafters-io / build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "metric": "★ 510,746",
-      "extra": {
-        "language": "Markdown",
-        "stars": "510,746",
-        "forks": "48,423",
-        "stars_today": "1,212 stars today"
+        "stars": "8,036",
+        "forks": "1,058",
+        "stars_today": "65 stars today"
       }
     }
   ]
