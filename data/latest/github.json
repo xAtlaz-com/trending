@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-06-04T14:06:04+00:00",
-  "count": 14,
+  "updated_at": "2026-06-04T17:29:13+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "chopratejas / headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "metric": "★ 11,610",
+      "metric": "★ 11,960",
       "extra": {
         "language": "Python",
-        "stars": "11,610",
-        "forks": "758",
+        "stars": "11,960",
+        "forks": "781",
         "stars_today": "3,139 stars today"
       }
     },
@@ -21,12 +21,12 @@
       "title": "NousResearch / hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "metric": "★ 180,327",
+      "metric": "★ 180,602",
       "extra": {
         "language": "Python",
-        "stars": "180,327",
-        "forks": "30,908",
-        "stars_today": "1,735 stars today"
+        "stars": "180,602",
+        "forks": "30,970",
+        "stars_today": "1,951 stars today"
       }
     },
     {
@@ -34,11 +34,11 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 206,696",
+      "metric": "★ 206,909",
       "extra": {
         "language": "JavaScript",
-        "stars": "206,696",
-        "forks": "31,732",
+        "stars": "206,909",
+        "forks": "31,762",
         "stars_today": "1,736 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "PaddlePaddle / PaddleOCR",
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "metric": "★ 79,617",
+      "metric": "★ 79,725",
       "extra": {
         "language": "Python",
-        "stars": "79,617",
-        "forks": "10,588",
+        "stars": "79,725",
+        "forks": "10,591",
         "stars_today": "105 stars today"
       }
     },
@@ -60,128 +60,115 @@
       "title": "github / spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "metric": "★ 108,316",
+      "metric": "★ 108,420",
       "extra": {
         "language": "Python",
-        "stars": "108,316",
-        "forks": "9,582",
+        "stars": "108,420",
+        "forks": "9,588",
         "stars_today": "311 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "NVIDIA / cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "metric": "★ 8,824",
+      "title": "lfnovo / open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "metric": "★ 24,729",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "8,824",
-        "forks": "572",
-        "stars_today": "138 stars today"
+        "language": "TypeScript",
+        "stars": "24,729",
+        "forks": "2,886",
+        "stars_today": "482 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "lfnovo / open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "metric": "★ 24,514",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "24,514",
-        "forks": "2,862",
-        "stars_today": "227 stars today"
-      }
-    },
-    {
-      "rank": 8,
       "title": "Open-LLM-VTuber / Open-LLM-VTuber",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "metric": "★ 9,327",
+      "metric": "★ 9,467",
       "extra": {
         "language": "Python",
-        "stars": "9,327",
-        "forks": "1,134",
+        "stars": "9,467",
+        "forks": "1,142",
         "stars_today": "583 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "jwasham / coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
-      "metric": "★ 349,489",
+      "metric": "★ 349,590",
       "extra": {
         "language": null,
-        "stars": "349,489",
-        "forks": "83,203",
-        "stars_today": "330 stars today"
+        "stars": "349,590",
+        "forks": "83,208",
+        "stars_today": "740 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "github / copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "metric": "★ 8,841",
+      "metric": "★ 8,883",
       "extra": {
         "language": "Java",
-        "stars": "8,841",
+        "stars": "8,883",
         "forks": "1,204",
         "stars_today": "25 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "aquasecurity / trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "metric": "★ 35,574",
+      "metric": "★ 35,612",
       "extra": {
         "language": "Go",
-        "stars": "35,574",
-        "forks": "428",
+        "stars": "35,612",
+        "forks": "429",
         "stars_today": "255 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "openclaw / openclaw-windows-node",
       "url": "https://github.com/openclaw/openclaw-windows-node",
       "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "metric": "★ 1,186",
+      "metric": "★ 1,244",
       "extra": {
         "language": "C#",
-        "stars": "1,186",
-        "forks": "157",
-        "stars_today": "331 stars today"
+        "stars": "1,244",
+        "forks": "162",
+        "stars_today": "358 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "reconurge / flowsint",
       "url": "https://github.com/reconurge/flowsint",
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "metric": "★ 5,115",
+      "metric": "★ 5,183",
       "extra": {
         "language": "TypeScript",
-        "stars": "5,115",
-        "forks": "627",
+        "stars": "5,183",
+        "forks": "631",
         "stars_today": "308 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "mvanhorn / last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "metric": "★ 27,329",
+      "metric": "★ 27,428",
       "extra": {
         "language": "Python",
-        "stars": "27,329",
-        "forks": "2,332",
+        "stars": "27,428",
+        "forks": "2,337",
         "stars_today": "173 stars today"
       }
     }
