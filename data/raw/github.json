@@ -4,194 +4,181 @@
     "title": "chopratejas / headroom",
     "url": "https://github.com/chopratejas/headroom",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-    "metric": "★ 11,224",
+    "metric": "★ 11,610",
     "extra": {
       "language": "Python",
-      "stars": "11,224",
-      "forks": "731",
-      "stars_today": "3,530 stars today"
+      "stars": "11,610",
+      "forks": "758",
+      "stars_today": "3,139 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "affaan-m / ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "metric": "★ 206,481",
-    "extra": {
-      "language": "JavaScript",
-      "stars": "206,481",
-      "forks": "31,702",
-      "stars_today": "2,141 stars today"
-    }
-  },
-  {
-    "rank": 3,
-    "title": "JuliusBrussee / caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "metric": "★ 68,630",
-    "extra": {
-      "language": "JavaScript",
-      "stars": "68,630",
-      "forks": "3,858",
-      "stars_today": "471 stars today"
-    }
-  },
-  {
-    "rank": 4,
-    "title": "aquasecurity / trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "metric": "★ 35,539",
-    "extra": {
-      "language": "Go",
-      "stars": "35,539",
-      "forks": "424",
-      "stars_today": "24 stars today"
-    }
-  },
-  {
-    "rank": 5,
     "title": "NousResearch / hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "metric": "★ 180,046",
+    "metric": "★ 180,327",
     "extra": {
       "language": "Python",
-      "stars": "180,046",
-      "forks": "30,851",
+      "stars": "180,327",
+      "forks": "30,908",
       "stars_today": "1,735 stars today"
     }
   },
   {
-    "rank": 6,
-    "title": "microsoft / markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Python tool for converting files and office documents to Markdown.",
-    "metric": "★ 143,581",
+    "rank": 3,
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "metric": "★ 206,696",
+    "extra": {
+      "language": "JavaScript",
+      "stars": "206,696",
+      "forks": "31,732",
+      "stars_today": "1,736 stars today"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "PaddlePaddle / PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "metric": "★ 79,617",
     "extra": {
       "language": "Python",
-      "stars": "143,581",
-      "forks": "9,817",
-      "stars_today": "1,984 stars today"
+      "stars": "79,617",
+      "forks": "10,588",
+      "stars_today": "105 stars today"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "github / spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "metric": "★ 108,316",
+    "extra": {
+      "language": "Python",
+      "stars": "108,316",
+      "forks": "9,582",
+      "stars_today": "311 stars today"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "NVIDIA / cosmos",
+    "url": "https://github.com/NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "metric": "★ 8,824",
+    "extra": {
+      "language": "Jupyter Notebook",
+      "stars": "8,824",
+      "forks": "572",
+      "stars_today": "138 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "nesquena / hermes-webui",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "metric": "★ 13,306",
+    "title": "lfnovo / open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "metric": "★ 24,514",
     "extra": {
-      "language": "Python",
-      "stars": "13,306",
-      "forks": "1,622",
-      "stars_today": "719 stars today"
+      "language": "TypeScript",
+      "stars": "24,514",
+      "forks": "2,862",
+      "stars_today": "227 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "D4Vinci / Scrapling",
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-    "metric": "★ 60,752",
+    "title": "Open-LLM-VTuber / Open-LLM-VTuber",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "metric": "★ 9,327",
     "extra": {
       "language": "Python",
-      "stars": "60,752",
-      "forks": "5,855",
-      "stars_today": "1,067 stars today"
+      "stars": "9,327",
+      "forks": "1,134",
+      "stars_today": "583 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "opendataloader-project / opendataloader-pdf",
-    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-    "metric": "★ 23,590",
-    "extra": {
-      "language": "Java",
-      "stars": "23,590",
-      "forks": "2,203",
-      "stars_today": "570 stars today"
-    }
-  },
-  {
-    "rank": 10,
-    "title": "odoo / odoo",
-    "url": "https://github.com/odoo/odoo",
-    "description": "Odoo. Open Source Apps To Grow Your Business.",
-    "metric": "★ 52,121",
-    "extra": {
-      "language": "Python",
-      "stars": "52,121",
-      "forks": "32,661",
-      "stars_today": "29 stars today"
-    }
-  },
-  {
-    "rank": 11,
-    "title": "Open-LLM-VTuber / Open-LLM-VTuber",
-    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-    "metric": "★ 9,259",
-    "extra": {
-      "language": "Python",
-      "stars": "9,259",
-      "forks": "1,130",
-      "stars_today": "693 stars today"
-    }
-  },
-  {
-    "rank": 12,
     "title": "jwasham / coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
-    "metric": "★ 349,382",
+    "metric": "★ 349,489",
     "extra": {
       "language": null,
-      "stars": "349,382",
-      "forks": "83,196",
+      "stars": "349,489",
+      "forks": "83,203",
       "stars_today": "330 stars today"
     }
   },
   {
-    "rank": 13,
-    "title": "lyogavin / airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "description": "AirLLM 70B inference with single 4GB GPU",
-    "metric": "★ 19,170",
+    "rank": 10,
+    "title": "github / copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "metric": "★ 8,841",
     "extra": {
-      "language": "Jupyter Notebook",
-      "stars": "19,170",
-      "forks": "2,096",
-      "stars_today": "208 stars today"
+      "language": "Java",
+      "stars": "8,841",
+      "forks": "1,204",
+      "stars_today": "25 stars today"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "aquasecurity / trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "metric": "★ 35,574",
+    "extra": {
+      "language": "Go",
+      "stars": "35,574",
+      "forks": "428",
+      "stars_today": "255 stars today"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "openclaw / openclaw-windows-node",
+    "url": "https://github.com/openclaw/openclaw-windows-node",
+    "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+    "metric": "★ 1,186",
+    "extra": {
+      "language": "C#",
+      "stars": "1,186",
+      "forks": "157",
+      "stars_today": "331 stars today"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "reconurge / flowsint",
+    "url": "https://github.com/reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "metric": "★ 5,115",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "5,115",
+      "forks": "627",
+      "stars_today": "308 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "supermemoryai / supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-    "metric": "★ 25,408",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "25,408",
-      "forks": "2,225",
-      "stars_today": "600 stars today"
-    }
-  },
-  {
-    "rank": 15,
-    "title": "HKUDS / Vibe-Trading",
-    "url": "https://github.com/HKUDS/Vibe-Trading",
-    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-    "metric": "★ 10,474",
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "metric": "★ 27,329",
     "extra": {
       "language": "Python",
-      "stars": "10,474",
-      "forks": "2,050",
-      "stars_today": "197 stars today"
+      "stars": "27,329",
+      "forks": "2,332",
+      "stars_today": "173 stars today"
     }
   }
 ]
