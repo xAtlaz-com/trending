@@ -1,146 +1,132 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-04T07:06:36+00:00",
-  "count": 10,
+  "updated_at": "2026-06-04T10:48:08+00:00",
+  "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "L 站真有这么神？",
-      "url": "https://www.v2ex.com/t/1217784",
-      "description": "最近在申請 linuxdo 社區，因為有些 AI 問題得到解決方案。是公開的帖子，然後我覺得社區裡未公開帖子會更有含金量一些，就想著去申請，昨天拿了三個邀請碼，申請了三次，一次沒過。我就想知道，真有必要一直卡著嗎？不理解還有就是想問下 L 站的大神，裡面貼文還有必要讓我繼續申請下去嗎？已經有點崩潰了",
-      "metric": "128 回复",
-      "metric_value": 128,
-      "extra": {
-        "node": "互联网",
-        "node_name": "internet",
-        "author": "wei417739",
-        "last_touched": 1780556607
-      }
-    },
-    {
-      "rank": 2,
-      "title": "年龄越来越大 找不到老婆怎么办",
-      "url": "https://www.v2ex.com/t/1217656",
-      "description": "91 年的，现在虚岁已经 36 了，自大学谈了一个分了后，就没谈过恋爱。原来越觉得累，但是年龄大了，家里又是各种给压力，每次回家就要面对一次。好烦，怎么办，兄弟们有什么好办法吗？",
-      "metric": "109 回复",
-      "metric_value": 109,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "kjmuamua",
-        "last_touched": 1780555607
-      }
-    },
-    {
-      "rank": 3,
       "title": "断掉牛奶后感觉免疫力变强了",
       "url": "https://www.v2ex.com/t/1217768",
       "description": "个人非科学统计学吗？之前喝鲜奶，有时晚上喝，有时早上喝，200 ～ 300ml 不等但是基本上两三月一次口腔溃疡今年元旦后，就断掉了，改成吃茶叶蛋了，自己做的，每天早上两个然后直到现在，也没有口腔溃疡有科学依据吗？",
-      "metric": "81 回复",
-      "metric_value": 81,
+      "metric": "95 回复",
+      "metric_value": 95,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "ShowYourPrompt",
-        "last_touched": 1780555764
+        "last_touched": 1780565304
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "中转站纯 pro 号池注册送体验额度",
+      "url": "https://www.v2ex.com/t/1217877",
+      "description": "API 长期稳定中转，注册送额度。\n地址： https://api.vllmproxy.com\n主打满血稳定、快速接入、开发测试方便用。 新用户注册即送测试额度，支持多模型 API 调用，个人开发者和小团队都可以用。\n欢迎 V 友体验\n价格如下:\nGPT Plus 号池：0.08\nGPT Pro 号池：0.26\nClaude Kiro：0.25\nClaude Bedrock 逆向：0.96 ，推荐使用，智商非常高\nClaude Max：1.3\n10 元开通永久会员价格如下：\nGPT Plus 号池：0.08\nGPT Pro 号池：0.22\nClaude Kiro：0.2\nClaude Bedr",
+      "metric": "92 回复",
+      "metric_value": 92,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "yunxuanzhang22",
+        "last_touched": 1780569783
+      }
+    },
+    {
+      "rank": 3,
       "title": "大家现在个人服务器一般怎么管理比较合适？",
       "url": "https://www.v2ex.com/t/1217789",
       "description": "我最近靠着 AI 辅助写了一些小项目，想部署到自己的服务器上跑起来。\n原本想着装个管理面板会省事很多，因为 ai 也这么推荐我操作来着，毕竟改 Nginx 配置、看日志、管理数据库、上传文件这些都有图形界面，对我这种新手运维可能比较友好。但后来翻了一些帖子，发现很多人对面板比较谨慎，原因大多是权限太高、暴露面变大，万一面板本身出问题，整台机器都可能受影响，而且我也害怕面板偷偷在背后把我服务器的东西传输出去。\n所以现在有点纠结了，对于像我这种新手运维来说，管理服务器是用面板还是用什么其他方法啊！",
-      "metric": "67 回复",
-      "metric_value": 67,
+      "metric": "86 回复",
+      "metric_value": 86,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Lcy0128",
-        "last_touched": 1780556749
+        "last_touched": 1780568487
       }
     },
     {
-      "rank": 5,
-      "title": "网上聊了个总裁助理的相亲对象，刚聊了几句，问了个问题，她就毛了",
-      "url": "https://www.v2ex.com/t/1217714",
-      "description": "内容前面无非就是寒暄，晚上好啥的。\n然后我看到她的资料写的总裁助理。\n我就说：你做总裁助理的啊，好厉害\n她回：有什么厉害的，也是搬砖\n我说：那不是离权力中心很近吗\n她回：没啥用\n我说：哈哈哈为啥啊，我也不太懂这个\n她回：没事，也没那么多为啥\n————这时候我看她好像不想聊工作，我就看他学历是 985/211\n我说：你学历好高啊，学霸来的\n她回：你在考虑什么\n我回：啊？就聊天啊，学历咋了吗\n——————\n然后就没有任何回复了。\n奇怪的人真多啊。",
-      "metric": "59 回复",
-      "metric_value": 59,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "0xnycth",
-        "last_touched": 1780275895
-      }
-    },
-    {
-      "rank": 6,
-      "title": "[自荐] 做了个纯 SSH 的服务器管理 App —— Caret,iOS 已上线",
-      "url": "https://www.v2ex.com/t/1217750",
-      "description": "分享个自己做的小工具 Caret:用手机或 Mac,纯标准 SSH 管 Linux 服务器,服务器端零安装。\n能干啥:\n完整 SSH 终端(xterm,能跑 vim/htop/tail -f,多标签、断线重连、命令片段)\n实时监控:CPU/内存/磁盘/网络/负载 曲线,多机聚合一屏\nDocker 管理、Pod 部署模板、SFTP 文件传输\n隐私(最想强调的): 纯客户端,没有我的服务器,流量直达你的机器、不上报遥测;凭据只进系统\nKeychain/Keystore;同步可选,走你自己的 iCloud / Google Drive(Drive 上端到端加密)。\niOS 已上线 App Store",
-      "metric": "58 回复",
-      "metric_value": 58,
-      "extra": {
-        "node": "App推荐",
-        "node_name": "app",
-        "author": "JakeLaoyu",
-        "last_touched": 1780555364
-      }
-    },
-    {
-      "rank": 7,
-      "title": "有重置了兄弟们",
-      "url": "https://www.v2ex.com/t/1217762",
-      "description": "codex 周额度又又又重置了",
-      "metric": "53 回复",
-      "metric_value": 53,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "laoyutang",
-        "last_touched": 1780556025
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "兄弟们， 5 月总计用了多少 token？我用了 34 亿，做了 3 个项目，主用 deepseek v4 pro",
       "url": "https://www.v2ex.com/t/1217791",
       "description": "",
-      "metric": "53 回复",
-      "metric_value": 53,
+      "metric": "73 回复",
+      "metric_value": 73,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "lynn1su",
-        "last_touched": 1780556675
+        "last_touched": 1780569485
+      }
+    },
+    {
+      "rank": 5,
+      "title": "[自荐] 做了个纯 SSH 的服务器管理 App —— Caret,iOS 已上线",
+      "url": "https://www.v2ex.com/t/1217750",
+      "description": "分享个自己做的小工具 Caret:用手机或 Mac,纯标准 SSH 管 Linux 服务器,服务器端零安装。\n能干啥:\n完整 SSH 终端(xterm,能跑 vim/htop/tail -f,多标签、断线重连、命令片段)\n实时监控:CPU/内存/磁盘/网络/负载 曲线,多机聚合一屏\nDocker 管理、Pod 部署模板、SFTP 文件传输\n隐私(最想强调的): 纯客户端,没有我的服务器,流量直达你的机器、不上报遥测;凭据只进系统\nKeychain/Keystore;同步可选,走你自己的 iCloud / Google Drive(Drive 上端到端加密)。\niOS 已上线 App Store",
+      "metric": "66 回复",
+      "metric_value": 66,
+      "extra": {
+        "node": "App推荐",
+        "node_name": "app",
+        "author": "JakeLaoyu",
+        "last_touched": 1780561621
+      }
+    },
+    {
+      "rank": 6,
+      "title": "网上聊了个总裁助理的相亲对象，刚聊了几句，问了个问题，她就毛了",
+      "url": "https://www.v2ex.com/t/1217714",
+      "description": "内容前面无非就是寒暄，晚上好啥的。\n然后我看到她的资料写的总裁助理。\n我就说：你做总裁助理的啊，好厉害\n她回：有什么厉害的，也是搬砖\n我说：那不是离权力中心很近吗\n她回：没啥用\n我说：哈哈哈为啥啊，我也不太懂这个\n她回：没事，也没那么多为啥\n————这时候我看她好像不想聊工作，我就看他学历是 985/211\n我说：你学历好高啊，学霸来的\n她回：你在考虑什么\n我回：啊？就聊天啊，学历咋了吗\n——————\n然后就没有任何回复了。\n奇怪的人真多啊。",
+      "metric": "64 回复",
+      "metric_value": 64,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "0xnycth",
+        "last_touched": 1780495211
+      }
+    },
+    {
+      "rank": 7,
+      "title": "罗技 MX Master 3 是最适合 mac 的鼠标了吗",
+      "url": "https://www.v2ex.com/t/1217753",
+      "description": "准备给自己的 MacBook 配一个鼠标？\n看到推这款的比较多\n想问问万能的 V2 们对这款鼠标的评价如何？\n这是否是最佳选择？\n之前用过妙控，并不是很喜欢",
+      "metric": "64 回复",
+      "metric_value": 64,
+      "extra": {
+        "node": "硬件",
+        "node_name": "hardware",
+        "author": "adz1181014499",
+        "last_touched": 1780569846
+      }
+    },
+    {
+      "rank": 8,
+      "title": "注册送免费额度 支持 gpt5.5 5.4 pro20x 号池",
+      "url": "https://www.v2ex.com/t/1217843",
+      "description": "wanlai.ai 注册送免费额度，软件支持免费的 deepseek V4pro 免费用\n欢迎来体验\n留下 id 额外送额度",
+      "metric": "63 回复",
+      "metric_value": 63,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "uppppppp1",
+        "last_touched": 1780568497
       }
     },
     {
       "rank": 9,
-      "title": "v 友们 windows 电脑用 codex/claude code 一般用什么终端？感觉系统原生终端/powershell 有点难用",
-      "url": "https://www.v2ex.com/t/1217746",
-      "description": "因为在 windows 上有 codex/claude code 需求，但又没有一个类似 tmux 的，打算用 wezterm 试试，死活解决不了这个问题 wezterm 用 codex 的时候用中文输入法就闪退（ QQ 输入法，随便输入什么都闪退，系统输入法没问题，但我其中一个不想用系统原生终端的原因就是渲染不出来第三方中文输入法的习惯，但我的习惯数据都已经在第三方输入法里面了）btw 想问下 v 友们 windows 开发一般用什么终端，我个人会有一些需求1. 重启会恢复原本我在开发的目录，最好的话是能恢复到那个进程（我原本开了多少个 tab 就恢复回来多少个 tab ）2. 对第三方中文",
-      "metric": "47 回复",
-      "metric_value": 47,
+      "title": "有重置了兄弟们",
+      "url": "https://www.v2ex.com/t/1217762",
+      "description": "codex 周额度又又又重置了",
+      "metric": "58 回复",
+      "metric_value": 58,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "SeleiXi",
-        "last_touched": 1780553314
-      }
-    },
-    {
-      "rank": 10,
-      "title": "老罗思想还是太超前了",
-      "url": "https://www.v2ex.com/t/1217612",
-      "description": "他的 TNT 产品真是生不逢时，一句“安静！吵到我用 TNT 了”成了一个经典的梗。最近 AI 用多了，天天写提示词，码字又累又慢，不如直接嘴说来的快，而且现在语音识别率是真的高，一句话解释不清，多说几句就好啦，TNT 产品搁到现在估计都成爆款了",
-      "metric": "44 回复",
-      "metric_value": 44,
-      "extra": {
-        "node": "互联网",
-        "node_name": "internet",
-        "author": "ljkgpxs",
-        "last_touched": 1780518742
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "laoyutang",
+        "last_touched": 1780566166
       }
     }
   ]

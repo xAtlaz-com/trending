@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-06-04T07:06:36+00:00",
-  "count": 14,
+  "updated_at": "2026-06-04T10:48:08+00:00",
+  "count": 15,
   "items": [
     {
       "rank": 1,
       "title": "chopratejas / headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "metric": "★ 10,673",
+      "metric": "★ 11,224",
       "extra": {
         "language": "Python",
-        "stars": "10,673",
-        "forks": "699",
+        "stars": "11,224",
+        "forks": "731",
         "stars_today": "3,530 stars today"
       }
     },
@@ -21,167 +21,180 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 206,196",
+      "metric": "★ 206,481",
       "extra": {
         "language": "JavaScript",
-        "stars": "206,196",
-        "forks": "31,656",
+        "stars": "206,481",
+        "forks": "31,702",
         "stars_today": "2,141 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "metric": "★ 35,496",
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "metric": "★ 68,630",
       "extra": {
-        "language": "Go",
-        "stars": "35,496",
-        "forks": "423",
-        "stars_today": "24 stars today"
+        "language": "JavaScript",
+        "stars": "68,630",
+        "forks": "3,858",
+        "stars_today": "471 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "metric": "★ 179,693",
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "metric": "★ 35,539",
       "extra": {
-        "language": "Python",
-        "stars": "179,693",
-        "forks": "30,796",
-        "stars_today": "1,735 stars today"
+        "language": "Go",
+        "stars": "35,539",
+        "forks": "424",
+        "stars_today": "24 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "microsoft / markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "metric": "★ 143,297",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "metric": "★ 180,046",
       "extra": {
         "language": "Python",
-        "stars": "143,297",
-        "forks": "9,792",
-        "stars_today": "1,984 stars today"
+        "stars": "180,046",
+        "forks": "30,851",
+        "stars_today": "1,735 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "nesquena / hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "metric": "★ 13,224",
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "metric": "★ 143,581",
       "extra": {
         "language": "Python",
-        "stars": "13,224",
-        "forks": "1,610",
-        "stars_today": "719 stars today"
+        "stars": "143,581",
+        "forks": "9,817",
+        "stars_today": "1,984 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "D4Vinci / Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "metric": "★ 60,570",
+      "title": "nesquena / hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "metric": "★ 13,306",
       "extra": {
         "language": "Python",
-        "stars": "60,570",
-        "forks": "5,838",
-        "stars_today": "1,067 stars today"
+        "stars": "13,306",
+        "forks": "1,622",
+        "stars_today": "719 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "opendataloader-project / opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "metric": "★ 23,485",
+      "title": "D4Vinci / Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "metric": "★ 60,752",
       "extra": {
-        "language": "Java",
-        "stars": "23,485",
-        "forks": "2,198",
-        "stars_today": "570 stars today"
+        "language": "Python",
+        "stars": "60,752",
+        "forks": "5,855",
+        "stars_today": "1,067 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "odoo / odoo",
-      "url": "https://github.com/odoo/odoo",
-      "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "metric": "★ 52,060",
+      "title": "opendataloader-project / opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "metric": "★ 23,590",
       "extra": {
-        "language": "Python",
-        "stars": "52,060",
-        "forks": "32,654",
-        "stars_today": "29 stars today"
+        "language": "Java",
+        "stars": "23,590",
+        "forks": "2,203",
+        "stars_today": "570 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "Open-LLM-VTuber / Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "metric": "★ 9,146",
+      "title": "odoo / odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "metric": "★ 52,121",
       "extra": {
         "language": "Python",
-        "stars": "9,146",
-        "forks": "1,119",
-        "stars_today": "693 stars today"
+        "stars": "52,121",
+        "forks": "32,661",
+        "stars_today": "29 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "jwasham / coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "metric": "★ 349,246",
+      "title": "Open-LLM-VTuber / Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "metric": "★ 9,259",
       "extra": {
-        "language": null,
-        "stars": "349,246",
-        "forks": "83,181",
-        "stars_today": "330 stars today"
+        "language": "Python",
+        "stars": "9,259",
+        "forks": "1,130",
+        "stars_today": "693 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "metric": "★ 19,073",
+      "title": "jwasham / coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "metric": "★ 349,382",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "19,073",
-        "forks": "2,086",
-        "stars_today": "208 stars today"
+        "language": null,
+        "stars": "349,382",
+        "forks": "83,196",
+        "stars_today": "330 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "supermemoryai / supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "metric": "★ 25,333",
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "metric": "★ 19,170",
       "extra": {
-        "language": "TypeScript",
-        "stars": "25,333",
-        "forks": "2,222",
-        "stars_today": "600 stars today"
+        "language": "Jupyter Notebook",
+        "stars": "19,170",
+        "forks": "2,096",
+        "stars_today": "208 stars today"
       }
     },
     {
       "rank": 14,
+      "title": "supermemoryai / supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "metric": "★ 25,408",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "25,408",
+        "forks": "2,225",
+        "stars_today": "600 stars today"
+      }
+    },
+    {
+      "rank": 15,
       "title": "HKUDS / Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "metric": "★ 10,271",
+      "metric": "★ 10,474",
       "extra": {
         "language": "Python",
-        "stars": "10,271",
-        "forks": "2,041",
+        "stars": "10,474",
+        "forks": "2,050",
         "stars_today": "197 stars today"
       }
     }
