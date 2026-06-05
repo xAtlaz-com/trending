@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-05T22:17:41+00:00",
+  "updated_at": "2026-06-05T23:46:50+00:00",
   "count": 9,
   "items": [
     {
@@ -22,13 +22,13 @@
       "title": "你相信有阿飘吗？",
       "url": "https://www.v2ex.com/t/1218086",
       "description": "",
-      "metric": "129 回复",
-      "metric_value": 129,
+      "metric": "130 回复",
+      "metric_value": 130,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "mode171",
-        "last_touched": 1780642620
+        "last_touched": 1780646220
       }
     },
     {
@@ -64,13 +64,13 @@
       "title": "大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。",
       "url": "https://www.v2ex.com/t/1218201",
       "description": "经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。\n目前我使用 AI 的方式还是局限于写点业务无关的辅助类，还有就是代码 review 功能（感觉最有用的功能就这个了），使用的是 codex gpt5.5 high 。\n最近尝试使用 mattpocock/skills 的 grill-with-docs ，就是一直针对你的需求提问问题，和 AI 对齐颗粒度，然后 AI 会针对该需求生成 prd 文档，issues 等。但是几天下来我发现这些文档好像没什么用，AI 还是会忘记需求，忘记文档，偶尔左右脑互搏。最典的是它需求实现错了，我指出错误的地方让",
-      "metric": "97 回复",
-      "metric_value": 97,
+      "metric": "100 回复",
+      "metric_value": 100,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "AItsuki",
-        "last_touched": 1780690843
+        "last_touched": 1780702267
       }
     },
     {
