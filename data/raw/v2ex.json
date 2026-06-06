@@ -4,13 +4,13 @@
     "title": "现在在国内还有办法注册 Google 账号吗？",
     "url": "https://www.v2ex.com/t/1218362",
     "description": "现在 Google 注册风控越来越严了，要求手机号验证（不是接验证码），但是在国内根本验证不了，大家有没比较好的法子绕过这个手机号验证，或者可以跳过这个验证？网上看了说和 IP 干净度有关，我也试过了，静态住宅 IP 也要求手机号验证",
-    "metric": "72 回复",
-    "metric_value": 72,
+    "metric": "73 回复",
+    "metric_value": 73,
     "extra": {
       "node": "Google",
       "node_name": "google",
       "author": "ldy619354397",
-      "last_touched": 1780771330
+      "last_touched": 1780781414
     }
   },
   {
@@ -46,17 +46,31 @@
     "title": "[公测第三期] GPT API 平台开放测试｜支持 GPT-5.5 / Codex",
     "url": "https://www.v2ex.com/t/1218367",
     "description": "之前在 V2EX 发过一次帖子，感谢不少 V 友帮忙测试和反馈。\n这段时间主要做了：\n优化模型稳定性 增加自动故障切换 完善监控告警 优化响应速度 调整计费系统 修复部分兼容性问题\n目前准备开启第三期公测，希望邀请更多开发者参与体验和压力测试。\n支持模型 GPT-5.5 GPT-5.4 公测福利\n🎁 新用户注册并完成微信认证\n赠送 5 $体验金 受邀人获取 1$\n💰 邀请用户充值返利\n用户充值金额返利 10%\n例如：\n用户充值 100 刀返利 10 刀 用户充值 500 刀返利 50 刀 用户充值 1000 刀返利 100 刀 官网\n本帖留言用户额外送 5 刀请留下 base64 编码的注册邮",
-    "metric": "44 回复",
-    "metric_value": 44,
+    "metric": "45 回复",
+    "metric_value": 45,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "WinX",
-      "last_touched": 1780769682
+      "last_touched": 1780778678
     }
   },
   {
     "rank": 5,
+    "title": "想买一个移动机械硬盘做时间机器备份，有什么推荐的吗",
+    "url": "https://www.v2ex.com/t/1218345",
+    "description": "出现过几次删错文件找不回的问题，再加上 MacBookPro 的存储只有 120G 了，想买一个移动机械硬盘做备份，大佬们有什么推荐的机械硬盘吗，容量 2t 的",
+    "metric": "36 回复",
+    "metric_value": 36,
+    "extra": {
+      "node": "macOS",
+      "node_name": "macos",
+      "author": "azhu1990",
+      "last_touched": 1780769587
+    }
+  },
+  {
+    "rank": 6,
     "title": "求推荐工位风扇",
     "url": "https://www.v2ex.com/t/1218366",
     "description": "最好噪音小点，可以 USB 持续供电的",
@@ -67,20 +81,6 @@
       "node_name": "shopping",
       "author": "DejavuMoe",
       "last_touched": 1780761128
-    }
-  },
-  {
-    "rank": 6,
-    "title": "想买一个移动机械硬盘做时间机器备份，有什么推荐的吗",
-    "url": "https://www.v2ex.com/t/1218345",
-    "description": "出现过几次删错文件找不回的问题，再加上 MacBookPro 的存储只有 120G 了，想买一个移动机械硬盘做备份，大佬们有什么推荐的机械硬盘吗，容量 2t 的",
-    "metric": "34 回复",
-    "metric_value": 34,
-    "extra": {
-      "node": "macOS",
-      "node_name": "macos",
-      "author": "azhu1990",
-      "last_touched": 1780762387
     }
   },
   {
