@@ -4,73 +4,87 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Fri, 05 Jun 2026 23:46:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 03:50:08 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
-<item>
-<title>纯吐槽公司技术团队现状</title>
-<link>https://www.v2ex.com/t/1218058</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218058</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#1 | 183 回复 | 个人入职公司 5 年, 一直担任爬虫工程师, 兼职网管.去年年底, 我开始向 ai 方面转型, 技术领导也看出来我的意思, 从年初开始让我负责公司新项目的 agent 开发, 到上个月底 agent 基本完成, 也做了很多评估测试.至少完成度有个 80%.从年初开始基本不写代码,全部结合 ai 做 vibe-coding.  上周领导让我参加了一个后端开发提效率的会, 会上前端同事建议后端从 php 转 nodejs.  其实我个人是没有任何意见,毕竟 php 确实不太适合我们新项目(web3+ai), 同时我也觉得结合 ai, 更换技术栈可能没有想象中</description>
-</item>
-<item>
-<title>你相信有阿飘吗？</title>
-<link>https://www.v2ex.com/t/1218086</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218086</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#2 | 130 回复</description>
-</item>
 <item>
 <title>美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。</title>
 <link>https://www.v2ex.com/t/1218155</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1218155</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#3 | 110 回复 | ChatGPT 被封了，很无语， 到底要怎么用。自己使用多年的邮箱，自己注册的 ChatGPT 账号， 使用了几个月网页免费版都没有问题，多年的 apple 账号， 正价美区内购，支付宝 PockytShop 美区礼品卡，全程使用的美国家庭宽带 ip (购买 plus 后才开始， 购买前没有使用家宽)没有使用任何第三方客户端或 api 反代调用行为，之前 codex 弹过验证， 使用我自己的英国手机卡进行的验证。这是 plus 第 20 天，使用量从来没有超过周限量一半。都说 gpt 不容易封号，为了安全，我自认为避过了风险， 为何还是被封了。难道是识别</description>
-</item>
-<item>
-<title>被裁了</title>
-<link>https://www.v2ex.com/t/1218162</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218162</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#4 | 104 回复 | Leader 5 分钟语音，HR 20 分钟…程序员，没犯过什么大错。上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”HR 聊了 20 分钟，签字，交工牌。不是能力的原因工作七八年，按部就班。读书、结婚、生子现在发现，努力不是重点走出公司，不知道去哪。也没给家里人说</description>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#1 | 117 回复 | ChatGPT 被封了，很无语， 到底要怎么用。自己使用多年的邮箱，自己注册的 ChatGPT 账号， 使用了几个月网页免费版都没有问题，多年的 apple 账号， 正价美区内购，支付宝 PockytShop 美区礼品卡，全程使用的美国家庭宽带 ip (购买 plus 后才开始， 购买前没有使用家宽)没有使用任何第三方客户端或 api 反代调用行为，之前 codex 弹过验证， 使用我自己的英国手机卡进行的验证。这是 plus 第 20 天，使用量从来没有超过周限量一半。都说 gpt 不容易封号，为了安全，我自认为避过了风险， 为何还是被封了。难道是识别</description>
 </item>
 <item>
 <title>大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。</title>
 <link>https://www.v2ex.com/t/1218201</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1218201</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#5 | 100 回复 | 经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#2 | 109 回复 | 经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。
 目前我使用 AI 的方式还是局限于写点业务无关的辅助类，还有就是代码 review 功能（感觉最有用的功能就这个了），使用的是 codex gpt5.5 high 。
 最近尝试使用 mattpocock/skills 的 grill-with-docs ，就是一直针对你的需求提问问题，和 AI 对齐颗粒度，然后 AI 会针对该需求生成 prd 文档，issues 等。但是几天下来我发现这些文档好像没什么用，AI 还是会忘记需求，忘记文档，偶尔左右脑互搏。最</description>
 </item>
 <item>
-<title>我把英语学习变成了看小说，感谢 Vibe Coding</title>
-<link>https://www.v2ex.com/t/1218088</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218088</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#6 | 75 回复 | 有了 Vibe Coding 后，搞了小说的阅读翻译站点 https://novel.febug.com/ ，数据源来自笔趣阁。目前 token 还够免费。
-大家伙可以先白嫖，后面 token 不够了，再考虑加一个广告 or 限制免费使用阅读章数。</description>
+<title>被裁了</title>
+<link>https://www.v2ex.com/t/1218162</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218162</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#3 | 107 回复 | Leader 5 分钟语音，HR 20 分钟…程序员，没犯过什么大错。上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”HR 聊了 20 分钟，签字，交工牌。不是能力的原因工作七八年，按部就班。读书、结婚、生子现在发现，努力不是重点走出公司，不知道去哪。也没给家里人说</description>
 </item>
 <item>
-<title>有人还玩 QQ 三国吗</title>
-<link>https://www.v2ex.com/t/1218068</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218068</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#7 | 74 回复 | 上周看了 b 站 up 主老芒果 OL 玩 QQ 三国的视频，看了之后特别想玩，上次还是上初中暑假玩的，那时候天天跟着同学去网吧，练级，做任务，刷棋赚三国币，每一级都是靠打小怪一点一点累计的。但是现在 QQ 三国不氪真玩不下去，上周六开始回归，一开始充了 14 ，买了新手礼包，当天就升到了三十多级，后来又氪了 27 买了 1 千万三国币，走到哪里都得花钱，好多任务也得花钱，而且好多任务必须得组队，逼你多开。幸运的是找到一个好师父，免费给了我一双 5 级鞋，终于可以弯腰跑了，目前已经升 59 级了。</description>
+<title>找一个程序员搭子，互相鼓励</title>
+<link>https://www.v2ex.com/t/1218189</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218189</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#4 | 46 回复 | 坐标独立开发，离职一个月，一个人租了办公室干活。最近发现一个问题：没人监督之后，执行力直线下降，总是用舒服的工程任务逃避真正重要的事。
+想找一个也在独立做项目的人，做最简单的互相监督：每天早上发三件今天要做的事，晚上发完成情况。不需要深度交流，也不需要点评对方的项目，就是"有个人知道我今天该干什么"这件事本身就够了。
+我的方向：游戏工具站 + SEO ，技术栈 Next.js / Claude Code / AI 自动化建站。如果你也是一个人在扛，来聊。</description>
 </item>
 <item>
-<title>你失业多久家庭矛盾就开始了？</title>
-<link>https://www.v2ex.com/t/1218061</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218061</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#8 | 64 回复 | 目前失业五个月，做点兼职，拿时间换钱，暂时还没啥矛盾</description>
+<title>看很多人用 codex 被封号的，想统计一下原因</title>
+<link>https://www.v2ex.com/t/1218212</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218212</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#5 | 35 回复 | 我先说的的情况，目前正常使用,没有要求用手机号接验证码验证。
+最早一批美国苹果手机 id 注册的，美国手机号，礼品卡在苹果官网 visa 卡买的激活然后充值的，20 刀一个月 plus ，ip 在日本区域乱跳，只用官方 codex app 和 codex cli</description>
 </item>
 <item>
-<title>一天三款新车?</title>
-<link>https://www.v2ex.com/t/1218080</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1218080</guid>
-<pubDate>Fri, 05 Jun 2026 23:46:50 +0000</pubDate>
-<description>#9 | 64 回复 | 据懂车帝数据显示，今年 1-5 月，国内上市新车数量高达 544 款，平均每月超 108 款，平均每天至少有 3 款新车上市。其中，1 月上市新车 113 款，2 月为 37 款，3 月为 133 款，4 月为 174 款，5 月为 87 款。然而，在新车扎堆上市的大背景下，车市销量却出现整体下滑。</description>
+<title>为什么 AI 现在这么火，却很少有行业真的铺开呢？</title>
+<link>https://www.v2ex.com/t/1218246</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218246</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#6 | 35 回复 | 有人说，AI 是新东西，应该去赚新世界的钱。新世界有没有钱我不知道，但传统行业我是很少见有大范围铺开的，至少中老登行业的钱就赚不了。我个人觉得有几点原因：1 、传统行业他们更倾向于维持现在的体系，然后让 AI 去做一些优化的、锦上添花的工作，而不是让 AI 来一场重构。首先拿到一个 AI 产品，他们会下意识地把它当成一个纯工具，希望它能嵌入到现有的工作流当中，而不希望围绕 AI 来一场升级。2 、AI 本身也有局限，现在大部分还在理想的实验阶段，距离现实场景中的工作，还有很大的 gap 。也就是它能帮你思考，但真要帮你干活的话是不靠谱的。举个例子，你要给</description>
+</item>
+<item>
+<title>windows 终将成为最好的 Linux</title>
+<link>https://www.v2ex.com/t/1218268</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218268</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#7 | 29 回复 | 微软将大多数 Linux 命令移植到了 Windows 上
+microsoft/coreutils - github
+在本周举行的微软年度 Build 2026 开发者大会上，微软发布了一款名为“coreutils”的工具，这是一个 Windows 多调用二进制文件，它可以直接在 Windows CMD 和 PowerShell 命令行中使用超过 75 个 Linux/Unix 命令。
+其中包括 ls 、grep 、cat 、cp 及 rm 等常用的 Linux 命令。微软说了，这不叫“抄”，这叫做“致敬”。
+这一步非常棒！！！</description>
+</item>
+<item>
+<title>三十多了，自己以后养老怎么办</title>
+<link>https://www.v2ex.com/t/1218169</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218169</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#8 | 25 回复 | 这两天想着媳妇、孩子、房子，车子，顺着往下想，想到等自己六十岁了，如何养老？
+是不是从现在开始，就要每年攒点钱，作为养老钱？供六十到七十岁花费</description>
+</item>
+<item>
+<title>现在在国内还有办法注册 Google 账号吗？</title>
+<link>https://www.v2ex.com/t/1218362</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218362</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#9 | 24 回复 | 现在 Google 注册风控越来越严了，要求手机号验证（不是接验证码），但是在国内根本验证不了，大家有没比较好的法子绕过这个手机号验证，或者可以跳过这个验证？网上看了说和 IP 干净度有关，我也试过了，静态住宅 IP 也要求手机号验证</description>
+</item>
+<item>
+<title>Google 秒收录，秀一秀欢迎提交您的 vibe coding 作品</title>
+<link>https://www.v2ex.com/t/1218305</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1218305</guid>
+<pubDate>Sat, 06 Jun 2026 03:50:08 +0000</pubDate>
+<description>#10 | 22 回复 | 秀一秀 https://show1show.com在全民 Vibe Coding 的时代，敲出几行代码生成一个“能跑”的软件原型确实变得轻而易举。但这种低门槛带来的副作用也日益凸显：产品同质化严重，且冷启动获客极其困难。很多优秀的创意在生成后，往往因为缺乏曝光而迅速沉寂，导致开发者无法获取真实用户反馈，产品迭代陷入死循环。为了解决这一痛点，我通过 Vibe Coding 开发了 “秀一秀” —— 一个专注于 Vibe Coding 作品的展示与发现平台。秀一秀 旨在降低开发者分享作品的摩擦力，无需注册和登录即可直接提交你的网站、App 、游戏或 AI 工</description>
 </item>
 </channel>
 </rss>
