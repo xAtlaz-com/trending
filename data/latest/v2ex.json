@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-06T22:05:50+00:00",
+  "updated_at": "2026-06-06T23:36:18+00:00",
   "count": 10,
   "items": [
     {
@@ -22,13 +22,13 @@
       "title": "人过 30 岁真的不是为自己而活了",
       "url": "https://www.v2ex.com/t/1218371",
       "description": "生活实在是太现实了",
-      "metric": "54 回复",
-      "metric_value": 54,
+      "metric": "55 回复",
+      "metric_value": 55,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "sport123",
-        "last_touched": 1780773287
+        "last_touched": 1780787178
       }
     },
     {
@@ -117,6 +117,20 @@
     },
     {
       "rank": 9,
+      "title": "不相信灵魂转世",
+      "url": "https://www.v2ex.com/t/1218447",
+      "description": "地球上累计已经死亡 1000 多亿人了，活人才是少数。如果真有灵魂，早就有数不清的案例了，事实上就是没有\n所以大概率不存在灵魂，死了就是没了\n如果你用佛学的观点解释，那么当代佛学大部分内容都是后人加的，原始佛教没那么多东西，可以去了解一下",
+      "metric": "28 回复",
+      "metric_value": 28,
+      "extra": {
+        "node": "玄学",
+        "node_name": "mysticism",
+        "author": "beasnail",
+        "last_touched": 1780787698
+      }
+    },
+    {
+      "rank": 10,
       "title": "vue3 史诗级更新",
       "url": "https://www.v2ex.com/t/1218375",
       "description": "子组件可以用const { foo = 'hello' } = defineProps&lt;{ foo?: string }&gt;()",
@@ -127,20 +141,6 @@
         "node_name": "programmer",
         "author": "crocoBaby",
         "last_touched": 1780748869
-      }
-    },
-    {
-      "rank": 10,
-      "title": "天猫国际退货退款纠纷，商家称少收 35 件，顺丰又找回 10 件，我该起诉谁？",
-      "url": "https://www.v2ex.com/t/1218403",
-      "description": "遇到一个比较头疼的问题，想请教下大家。\n我在天猫国际买了 75 个订单的科颜氏面霜，总金额 15 万多。当天签收核对商品因为版本问题申请 7 退货退款。（货没有离开过菜鸟驿站）\n退货后商家只退了 65 单（每单 10 盒），总计 750 盒，剩余 10 单（ 21000 元）一直不退。\n商家理由是：\n应收到 750 件商品，但仓库只收到 715 件，差 35 件。\n我这边有顺丰运单和称重记录，总重量基本能对上退货数量。\n期间：\n\n天猫介入失败\n12315 调解失败\n\n已经申请起诉了。\n结果这两天继续投诉顺丰后，顺丰站点又找到了此前遗漏的 10 件商品，目前正在让顺丰出书面说明。\n现在有点懵：\n",
-      "metric": "27 回复",
-      "metric_value": 27,
-      "extra": {
-        "node": "淘宝",
-        "node_name": "taobao",
-        "author": "Z2",
-        "last_touched": 1780764708
       }
     }
   ]
