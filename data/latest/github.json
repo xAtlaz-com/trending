@@ -1,71 +1,71 @@
 {
   "source": "github",
-  "updated_at": "2026-06-06T11:06:02+00:00",
-  "count": 17,
+  "updated_at": "2026-06-06T12:52:00+00:00",
+  "count": 18,
   "items": [
     {
       "rank": 1,
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "metric": "★ 184,126",
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "metric": "★ 28,436",
       "extra": {
         "language": "Python",
-        "stars": "184,126",
-        "forks": "31,550",
-        "stars_today": "1,845 stars today"
+        "stars": "28,436",
+        "forks": "2,408",
+        "stars_today": "731 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "chopratejas / headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "metric": "★ 15,081",
+      "title": "CopilotKit / CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "metric": "★ 32,959",
       "extra": {
-        "language": "Python",
-        "stars": "15,081",
-        "forks": "964",
-        "stars_today": "2,473 stars today"
+        "language": "TypeScript",
+        "stars": "32,959",
+        "forks": "4,215",
+        "stars_today": "613 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "CopilotKit / CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-      "metric": "★ 32,933",
+      "title": "MemPalace / mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "metric": "★ 54,074",
       "extra": {
-        "language": "TypeScript",
-        "stars": "32,933",
-        "forks": "4,213",
-        "stars_today": "366 stars today"
+        "language": "Python",
+        "stars": "54,074",
+        "forks": "7,095",
+        "stars_today": "227 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "lfnovo / open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "metric": "★ 26,303",
+      "title": "danielmiessler / Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "metric": "★ 14,792",
       "extra": {
         "language": "TypeScript",
-        "stars": "26,303",
-        "forks": "3,019",
-        "stars_today": "1,152 stars today"
+        "stars": "14,792",
+        "forks": "2,109",
+        "stars_today": "63 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 208,710",
+      "title": "openai / plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "metric": "★ 1,643",
       "extra": {
         "language": "JavaScript",
-        "stars": "208,710",
-        "forks": "32,012",
-        "stars_today": "1,361 stars today"
+        "stars": "1,643",
+        "forks": "252",
+        "stars_today": "49 stars today"
       }
     },
     {
@@ -73,155 +73,168 @@
       "title": "Panniantong / Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 21,906",
+      "metric": "★ 21,964",
       "extra": {
         "language": "Python",
-        "stars": "21,906",
+        "stars": "21,964",
         "forks": "1,885",
         "stars_today": "148 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "NVIDIA / cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "metric": "★ 9,540",
+      "title": "sveltejs / svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "metric": "★ 86,863",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "9,540",
-        "forks": "606",
-        "stars_today": "479 stars today"
+        "language": "JavaScript",
+        "stars": "86,863",
+        "forks": "4,930",
+        "stars_today": "158 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "666ghj / MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "metric": "★ 64,921",
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "metric": "★ 30,601",
       "extra": {
-        "language": "Python",
-        "stars": "64,921",
-        "forks": "10,097",
-        "stars_today": "320 stars today"
+        "language": "C",
+        "stars": "30,601",
+        "forks": "7,953",
+        "stars_today": "39 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "mvanhorn / last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "metric": "★ 28,399",
-      "extra": {
-        "language": "Python",
-        "stars": "28,399",
-        "forks": "2,406",
-        "stars_today": "731 stars today"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "PaddlePaddle / PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "metric": "★ 80,712",
-      "extra": {
-        "language": "Python",
-        "stars": "80,712",
-        "forks": "10,641",
-        "stars_today": "747 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "openai / plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "metric": "★ 1,624",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "1,624",
-        "forks": "252",
-        "stars_today": "49 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "MemPalace / mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "metric": "★ 54,038",
-      "extra": {
-        "language": "Python",
-        "stars": "54,038",
-        "forks": "7,092",
-        "stars_today": "227 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "withastro / flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "metric": "★ 4,652",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "4,652",
-        "forks": "247",
-        "stars_today": "126 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "openclaw / openclaw-windows-node",
-      "url": "https://github.com/openclaw/openclaw-windows-node",
-      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "metric": "★ 1,663",
-      "extra": {
-        "language": "C#",
-        "stars": "1,663",
-        "forks": "187",
-        "stars_today": "326 stars today"
-      }
-    },
-    {
-      "rank": 15,
       "title": "aquasecurity / trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "metric": "★ 35,908",
+      "metric": "★ 35,920",
       "extra": {
         "language": "Go",
-        "stars": "35,908",
+        "stars": "35,920",
         "forks": "449",
         "stars_today": "207 stars today"
       }
     },
     {
-      "rank": 16,
-      "title": "jwasham / coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "metric": "★ 350,576",
+      "rank": 10,
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "metric": "★ 134,433",
       "extra": {
-        "language": null,
-        "stars": "350,576",
-        "forks": "83,309",
-        "stars_today": "745 stars today"
+        "language": "Go",
+        "stars": "134,433",
+        "forks": "19,108",
+        "stars_today": "24 stars today"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "lfnovo / open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "metric": "★ 26,346",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "26,346",
+        "forks": "3,019",
+        "stars_today": "783 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 219,277",
+      "extra": {
+        "language": "Shell",
+        "stars": "219,277",
+        "forks": "19,506",
+        "stars_today": "1,008 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "santifer / career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "metric": "★ 48,966",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "48,966",
+        "forks": "10,170",
+        "stars_today": "186 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "openai / whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "metric": "★ 101,692",
+      "extra": {
+        "language": "Python",
+        "stars": "101,692",
+        "forks": "12,433",
+        "stars_today": "116 stars today"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "vitejs / vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "metric": "★ 81,080",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "81,080",
+        "forks": "8,270",
+        "stars_today": "71 stars today"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "microsoft / mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "metric": "★ 454",
+      "extra": {
+        "language": "Rust",
+        "stars": "454",
+        "forks": "20",
+        "stars_today": "57 stars today"
       }
     },
     {
       "rank": 17,
-      "title": "github / copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "metric": "★ 9,341",
+      "title": "PaddlePaddle / PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "metric": "★ 80,750",
       "extra": {
-        "language": "Java",
-        "stars": "9,341",
-        "forks": "1,233",
-        "stars_today": "309 stars today"
+        "language": "Python",
+        "stars": "80,750",
+        "forks": "10,641",
+        "stars_today": "747 stars today"
+      }
+    },
+    {
+      "rank": 18,
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "metric": "★ 48,313",
+      "extra": {
+        "language": "Python",
+        "stars": "48,313",
+        "forks": "5,381",
+        "stars_today": "219 stars today"
       }
     }
   ]
