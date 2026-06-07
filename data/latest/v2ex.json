@@ -1,146 +1,146 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-06T23:36:18+00:00",
+  "updated_at": "2026-06-07T04:15:43+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "现在在国内还有办法注册 Google 账号吗？",
-      "url": "https://www.v2ex.com/t/1218362",
-      "description": "现在 Google 注册风控越来越严了，要求手机号验证（不是接验证码），但是在国内根本验证不了，大家有没比较好的法子绕过这个手机号验证，或者可以跳过这个验证？网上看了说和 IP 干净度有关，我也试过了，静态住宅 IP 也要求手机号验证",
-      "metric": "73 回复",
-      "metric_value": 73,
-      "extra": {
-        "node": "Google",
-        "node_name": "google",
-        "author": "ldy619354397",
-        "last_touched": 1780781414
-      }
-    },
-    {
-      "rank": 2,
-      "title": "人过 30 岁真的不是为自己而活了",
-      "url": "https://www.v2ex.com/t/1218371",
-      "description": "生活实在是太现实了",
-      "metric": "55 回复",
-      "metric_value": 55,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "sport123",
-        "last_touched": 1780787178
-      }
-    },
-    {
-      "rank": 3,
-      "title": "美股要回调了，还能相信光吗",
-      "url": "https://www.v2ex.com/t/1218364",
-      "description": "",
-      "metric": "46 回复",
-      "metric_value": 46,
-      "extra": {
-        "node": "股票",
-        "node_name": "stock",
-        "author": "YoungKing6",
-        "last_touched": 1780762237
-      }
-    },
-    {
-      "rank": 4,
-      "title": "[公测第三期] GPT API 平台开放测试｜支持 GPT-5.5 / Codex",
-      "url": "https://www.v2ex.com/t/1218367",
-      "description": "之前在 V2EX 发过一次帖子，感谢不少 V 友帮忙测试和反馈。\n这段时间主要做了：\n优化模型稳定性 增加自动故障切换 完善监控告警 优化响应速度 调整计费系统 修复部分兼容性问题\n目前准备开启第三期公测，希望邀请更多开发者参与体验和压力测试。\n支持模型 GPT-5.5 GPT-5.4 公测福利\n🎁 新用户注册并完成微信认证\n赠送 5 $体验金 受邀人获取 1$\n💰 邀请用户充值返利\n用户充值金额返利 10%\n例如：\n用户充值 100 刀返利 10 刀 用户充值 500 刀返利 50 刀 用户充值 1000 刀返利 100 刀 官网\n本帖留言用户额外送 5 刀请留下 base64 编码的注册邮",
-      "metric": "45 回复",
-      "metric_value": 45,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "WinX",
-        "last_touched": 1780778678
-      }
-    },
-    {
-      "rank": 5,
-      "title": "想买一个移动机械硬盘做时间机器备份，有什么推荐的吗",
-      "url": "https://www.v2ex.com/t/1218345",
-      "description": "出现过几次删错文件找不回的问题，再加上 MacBookPro 的存储只有 120G 了，想买一个移动机械硬盘做备份，大佬们有什么推荐的机械硬盘吗，容量 2t 的",
-      "metric": "36 回复",
-      "metric_value": 36,
-      "extra": {
-        "node": "macOS",
-        "node_name": "macos",
-        "author": "azhu1990",
-        "last_touched": 1780769587
-      }
-    },
-    {
-      "rank": 6,
-      "title": "求推荐工位风扇",
-      "url": "https://www.v2ex.com/t/1218366",
-      "description": "最好噪音小点，可以 USB 持续供电的",
-      "metric": "36 回复",
-      "metric_value": 36,
-      "extra": {
-        "node": "购物",
-        "node_name": "shopping",
-        "author": "DejavuMoe",
-        "last_touched": 1780761128
-      }
-    },
-    {
-      "rank": 7,
-      "title": "你是一名退伍人员，有手艺在身，长得也很帅，面对两个女人，如何选择？",
-      "url": "https://www.v2ex.com/t/1218422",
-      "description": "环境是农村。\n一个是村长的侄女，未婚，长得有点磕馋。没有女人味，不温柔。\n一个是寡妇，长得美丽且性格温柔，知书达理。只不过刚嫁了一天，就死了丈夫。有人说她克夫。\n作为一名退伍人员，如何选择呢？",
-      "metric": "33 回复",
-      "metric_value": 33,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "intoext",
-        "last_touched": 1780764124
-      }
-    },
-    {
-      "rank": 8,
-      "title": "佬们，安克充电头推荐吗？ 100w 还是 140w",
-      "url": "https://www.v2ex.com/t/1218398",
-      "description": "目前需求 14 寸 mac ，iphone16pro ，酷态科 15air 充电宝，airpodpro3 。",
-      "metric": "30 回复",
-      "metric_value": 30,
-      "extra": {
-        "node": "配件",
-        "node_name": "accessory",
-        "author": "schen1027a1",
-        "last_touched": 1780775013
-      }
-    },
-    {
-      "rank": 9,
       "title": "不相信灵魂转世",
       "url": "https://www.v2ex.com/t/1218447",
       "description": "地球上累计已经死亡 1000 多亿人了，活人才是少数。如果真有灵魂，早就有数不清的案例了，事实上就是没有\n所以大概率不存在灵魂，死了就是没了\n如果你用佛学的观点解释，那么当代佛学大部分内容都是后人加的，原始佛教没那么多东西，可以去了解一下",
-      "metric": "28 回复",
-      "metric_value": 28,
+      "metric": "53 回复",
+      "metric_value": 53,
       "extra": {
         "node": "玄学",
         "node_name": "mysticism",
         "author": "beasnail",
-        "last_touched": 1780787698
+        "last_touched": 1780804960
+      }
+    },
+    {
+      "rank": 2,
+      "title": "iPhone air 和 iPhone17 同价，都是 5000 元，你会选哪一个",
+      "url": "https://www.v2ex.com/t/1218442",
+      "description": "",
+      "metric": "40 回复",
+      "metric_value": 40,
+      "extra": {
+        "node": "Apple",
+        "node_name": "apple",
+        "author": "wweerrgtc",
+        "last_touched": 1780802647
+      }
+    },
+    {
+      "rank": 3,
+      "title": "佬们，安克充电头推荐吗？ 100w 还是 140w",
+      "url": "https://www.v2ex.com/t/1218398",
+      "description": "目前需求 14 寸 mac ，iphone16pro ，酷态科 15air 充电宝，airpodpro3 。",
+      "metric": "39 回复",
+      "metric_value": 39,
+      "extra": {
+        "node": "配件",
+        "node_name": "accessory",
+        "author": "schen1027a1",
+        "last_touched": 1780805568
+      }
+    },
+    {
+      "rank": 4,
+      "title": "你是一名退伍人员，有手艺在身，长得也很帅，面对两个女人，如何选择？",
+      "url": "https://www.v2ex.com/t/1218422",
+      "description": "环境是农村。\n一个是村长的侄女，未婚，长得有点磕馋。没有女人味，不温柔。\n一个是寡妇，长得美丽且性格温柔，知书达理。只不过刚嫁了一天，就死了丈夫。有人说她克夫。\n作为一名退伍人员，如何选择呢？",
+      "metric": "39 回复",
+      "metric_value": 39,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "intoext",
+        "last_touched": 1780785724
+      }
+    },
+    {
+      "rank": 5,
+      "title": "pdd 商家真是把我当脑残耍，能装 1l 水的杯子装不了 1l 牛奶",
+      "url": "https://www.v2ex.com/t/1218471",
+      "description": "最近想要自己做酸奶，于是在 pdd 上买了杯子和酸奶机，没有一个容量对得上的，最牛的是商家，跟我说能放",
+      "metric": "32 回复",
+      "metric_value": 32,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "rick13",
+        "last_touched": 1780802366
+      }
+    },
+    {
+      "rank": 6,
+      "title": "天猫国际退货退款纠纷，商家称少收 35 件，顺丰又找回 10 件，我该起诉谁？",
+      "url": "https://www.v2ex.com/t/1218403",
+      "description": "遇到一个比较头疼的问题，想请教下大家。\n我在天猫国际买了 75 个订单的科颜氏面霜，总金额 15 万多。当天签收核对商品因为版本问题申请 7 退货退款。（货没有离开过菜鸟驿站）\n退货后商家只退了 65 单（每单 10 盒），总计 750 盒，剩余 10 单（ 21000 元）一直不退。\n商家理由是：\n应收到 750 件商品，但仓库只收到 715 件，差 35 件。\n我这边有顺丰运单和称重记录，总重量基本能对上退货数量。\n期间：\n\n天猫介入失败\n12315 调解失败\n\n已经申请起诉了。\n结果这两天继续投诉顺丰后，顺丰站点又找到了此前遗漏的 10 件商品，目前正在让顺丰出书面说明。\n现在有点懵：\n",
+      "metric": "30 回复",
+      "metric_value": 30,
+      "extra": {
+        "node": "淘宝",
+        "node_name": "taobao",
+        "author": "Z2",
+        "last_touched": 1780764708
+      }
+    },
+    {
+      "rank": 7,
+      "title": "为啥中国景区的门票普遍比较贵？",
+      "url": "https://www.v2ex.com/t/1218428",
+      "description": "",
+      "metric": "26 回复",
+      "metric_value": 26,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "momo2023",
+        "last_touched": 1780805133
+      }
+    },
+    {
+      "rank": 8,
+      "title": "想减少风控，固定出口 IP，有推荐的 vps 吗？",
+      "url": "https://www.v2ex.com/t/1218426",
+      "description": "搜了一圈 Linode / Akamai / Vultr 好像不错。有没有合适的？",
+      "metric": "25 回复",
+      "metric_value": 25,
+      "extra": {
+        "node": "VPS",
+        "node_name": "vps",
+        "author": "xiaoxiannv",
+        "last_touched": 1780772043
+      }
+    },
+    {
+      "rank": 9,
+      "title": "月底去法国出差一周，有什么好买的",
+      "url": "https://www.v2ex.com/t/1218396",
+      "description": "只看了一下当地的纪念品，买包包奢侈品什么的感觉也不能搞太多。除此以外还有什么可以考虑的？",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "旅行",
+        "node_name": "travel",
+        "author": "idlerlestat",
+        "last_touched": 1780793658
       }
     },
     {
       "rank": 10,
-      "title": "vue3 史诗级更新",
-      "url": "https://www.v2ex.com/t/1218375",
-      "description": "子组件可以用const { foo = 'hello' } = defineProps&lt;{ foo?: string }&gt;()",
-      "metric": "27 回复",
-      "metric_value": 27,
+      "title": "谈下 ios 端的 surge 相比 loon 不足的一些地方",
+      "url": "https://www.v2ex.com/t/1218483",
+      "description": "op 之前在手机上一直是用的 loon ，最近这几天才开始使用 ios 端的 surge （以前只用 mac 版的 surge ）。\n作为老牌代理软件，surge 有很多强项，比如 smart 、ponte 等等，不过这次不说这些，只简单的分享一下我从 loon 切换到 surge 这几天发现的一些 surge 的不足，汇总如下：\n（纯主观感受分享，请不要随意人身攻击，不要随意开战）\n1 、不支持 vless 协议。\n2 、去广告模块比不上 loon 插件省心，很难及时同步可莉的 loon 插件，而且转换之后还可能会没效果，需要自己花很多时间抓包和分析解决。\n3 、没办法原生的直接在 ui 上",
+      "metric": "22 回复",
+      "metric_value": 22,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "crocoBaby",
-        "last_touched": 1780748869
+        "node": "Apple",
+        "node_name": "apple",
+        "author": "luoxmc",
+        "last_touched": 1780805560
       }
     }
   ]
