@@ -1,240 +1,201 @@
 {
   "source": "github",
-  "updated_at": "2026-06-07T10:41:17+00:00",
-  "count": 18,
+  "updated_at": "2026-06-07T12:22:50+00:00",
+  "count": 15,
   "items": [
     {
       "rank": 1,
       "title": "mvanhorn / last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "metric": "★ 29,407",
+      "metric": "★ 29,530",
       "extra": {
         "language": "Python",
-        "stars": "29,407",
-        "forks": "2,492",
-        "stars_today": "439 stars today"
+        "stars": "29,530",
+        "forks": "2,502",
+        "stars_today": "1,097 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "CopilotKit / CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "metric": "★ 33,500",
+      "title": "opencv / opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "metric": "★ 87,887",
       "extra": {
-        "language": "TypeScript",
-        "stars": "33,500",
-        "forks": "4,263",
-        "stars_today": "631 stars today"
+        "language": "C++",
+        "stars": "87,887",
+        "forks": "56,588",
+        "stars_today": "58 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "MemPalace / mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "metric": "★ 54,512",
+      "title": "Leonxlnx / taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "metric": "★ 35,799",
       "extra": {
-        "language": "Python",
-        "stars": "54,512",
-        "forks": "7,126",
-        "stars_today": "446 stars today"
+        "language": "Shell",
+        "stars": "35,799",
+        "forks": "2,604",
+        "stars_today": "1,104 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "danielmiessler / Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "metric": "★ 15,136",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "metric": "★ 185,304",
       "extra": {
-        "language": "TypeScript",
-        "stars": "15,136",
-        "forks": "2,134",
-        "stars_today": "70 stars today"
+        "language": "Python",
+        "stars": "185,304",
+        "forks": "31,842",
+        "stars_today": "1,117 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "openai / plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "metric": "★ 1,882",
+      "title": "lfnovo / open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "metric": "★ 26,876",
       "extra": {
-        "language": "JavaScript",
-        "stars": "1,882",
-        "forks": "263",
-        "stars_today": "213 stars today"
+        "language": "TypeScript",
+        "stars": "26,876",
+        "forks": "3,065",
+        "stars_today": "555 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 22,839",
+      "title": "yikart / AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "metric": "★ 18,487",
       "extra": {
-        "language": "Python",
-        "stars": "22,839",
-        "forks": "1,938",
-        "stars_today": "683 stars today"
+        "language": "TypeScript",
+        "stars": "18,487",
+        "forks": "2,886",
+        "stars_today": "180 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "sveltejs / svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "metric": "★ 87,091",
+      "title": "aaif-goose / goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "metric": "★ 47,163",
       "extra": {
-        "language": "JavaScript",
-        "stars": "87,091",
-        "forks": "4,939",
-        "stars_today": "25 stars today"
+        "language": "Rust",
+        "stars": "47,163",
+        "forks": "4,968",
+        "stars_today": "262 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "nginx / nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "metric": "★ 30,745",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "metric": "★ 29,441",
       "extra": {
-        "language": "C",
-        "stars": "30,745",
-        "forks": "7,959",
-        "stars_today": "20 stars today"
+        "language": "TypeScript",
+        "stars": "29,441",
+        "forks": "2,922",
+        "stars_today": "304 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "metric": "★ 36,061",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "metric": "★ 115,087",
       "extra": {
-        "language": "Go",
-        "stars": "36,061",
-        "forks": "458",
-        "stars_today": "159 stars today"
+        "language": "C++",
+        "stars": "115,087",
+        "forks": "19,268",
+        "stars_today": "199 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "metric": "★ 134,572",
+      "title": "RyanCodrai / turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "metric": "★ 6,251",
       "extra": {
-        "language": "Go",
-        "stars": "134,572",
-        "forks": "19,087",
-        "stars_today": "30 stars today"
+        "language": "Python",
+        "stars": "6,251",
+        "forks": "614",
+        "stars_today": "1,533 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "lfnovo / open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "metric": "★ 26,844",
+      "title": "TapXWorld / ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "metric": "★ 72,283",
       "extra": {
-        "language": "TypeScript",
-        "stars": "26,844",
-        "forks": "3,057",
-        "stars_today": "794 stars today"
+        "language": "Roff",
+        "stars": "72,283",
+        "forks": "16,211",
+        "stars_today": "355 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 220,005",
+      "title": "openai / plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "metric": "★ 1,898",
       "extra": {
-        "language": "Shell",
-        "stars": "220,005",
-        "forks": "19,574",
-        "stars_today": "700 stars today"
+        "language": "JavaScript",
+        "stars": "1,898",
+        "forks": "265",
+        "stars_today": "262 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "santifer / career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "metric": "★ 49,669",
+      "title": "refactoringhq / tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "metric": "★ 12,598",
       "extra": {
-        "language": "JavaScript",
-        "stars": "49,669",
-        "forks": "10,242",
-        "stars_today": "193 stars today"
+        "language": "TypeScript",
+        "stars": "12,598",
+        "forks": "898",
+        "stars_today": "242 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "openai / whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "metric": "★ 101,987",
+      "title": "HunxByts / GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "metric": "★ 13,575",
       "extra": {
         "language": "Python",
-        "stars": "101,987",
-        "forks": "12,449",
-        "stars_today": "150 stars today"
+        "stars": "13,575",
+        "forks": "1,824",
+        "stars_today": "21 stars today"
       }
     },
     {
       "rank": 15,
-      "title": "vitejs / vite",
-      "url": "https://github.com/vitejs/vite",
-      "description": "Next generation frontend tooling. It's fast!",
-      "metric": "★ 81,264",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "81,264",
-        "forks": "8,280",
-        "stars_today": "25 stars today"
-      }
-    },
-    {
-      "rank": 16,
-      "title": "microsoft / mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
-      "metric": "★ 662",
+      "title": "microsoft / pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
+      "metric": "★ 1,272",
       "extra": {
         "language": "Rust",
-        "stars": "662",
+        "stars": "1,272",
         "forks": "26",
-        "stars_today": "64 stars today"
-      }
-    },
-    {
-      "rank": 17,
-      "title": "PaddlePaddle / PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "metric": "★ 81,146",
-      "extra": {
-        "language": "Python",
-        "stars": "81,146",
-        "forks": "10,671",
-        "stars_today": "433 stars today"
-      }
-    },
-    {
-      "rank": 18,
-      "title": "microsoft / VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "metric": "★ 48,604",
-      "extra": {
-        "language": "Python",
-        "stars": "48,604",
-        "forks": "5,399",
-        "stars_today": "216 stars today"
+        "stars_today": "314 stars today"
       }
     }
   ]
