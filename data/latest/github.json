@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-06-09T08:32:43+00:00",
+  "updated_at": "2026-06-09T12:07:48+00:00",
   "count": 16,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "mvanhorn / last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "metric": "★ 35,663",
+      "metric": "★ 36,125",
       "extra": {
         "language": "Python",
-        "stars": "35,663",
-        "forks": "2,904",
+        "stars": "36,125",
+        "forks": "2,944",
         "stars_today": "3,558 stars today"
       }
     },
@@ -21,194 +21,194 @@
       "title": "RyanCodrai / turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "metric": "★ 9,502",
+      "metric": "★ 9,735",
       "extra": {
         "language": "Python",
-        "stars": "9,502",
-        "forks": "833",
+        "stars": "9,735",
+        "forks": "841",
         "stars_today": "1,729 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "google / skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "metric": "★ 12,715",
-      "extra": {
-        "language": "Python",
-        "stars": "12,715",
-        "forks": "985",
-        "stars_today": "461 stars today"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "refactoringhq / tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "metric": "★ 13,899",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "13,899",
-        "forks": "970",
-        "stars_today": "651 stars today"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 24,848",
-      "extra": {
-        "language": "Python",
-        "stars": "24,848",
-        "forks": "2,069",
-        "stars_today": "679 stars today"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "danielmiessler / Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "metric": "★ 15,595",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "15,595",
-        "forks": "2,171",
-        "stars_today": "62 stars today"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "santifer / career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "metric": "★ 50,915",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "50,915",
-        "forks": "10,360",
-        "stars_today": "308 stars today"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "phuryn / pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "metric": "★ 13,013",
-      "extra": {
-        "language": null,
-        "stars": "13,013",
-        "forks": "1,508",
-        "stars_today": "164 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "openai / plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "metric": "★ 2,424",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "2,424",
-        "forks": "294",
-        "stars_today": "296 stars today"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "Andyyyy64 / whichllm",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "metric": "★ 3,700",
-      "extra": {
-        "language": "Python",
-        "stars": "3,700",
-        "forks": "209",
-        "stars_today": "143 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "MemPalace / mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "metric": "★ 55,109",
-      "extra": {
-        "language": "Python",
-        "stars": "55,109",
-        "forks": "7,162",
-        "stars_today": "170 stars today"
-      }
-    },
-    {
-      "rank": 12,
       "title": "roboflow / supervision",
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
-      "metric": "★ 42,575",
+      "metric": "★ 42,675",
       "extra": {
         "language": "Python",
-        "stars": "42,575",
-        "forks": "3,800",
+        "stars": "42,675",
+        "forks": "3,810",
         "stars_today": "1,288 stars today"
       }
     },
     {
-      "rank": 13,
-      "title": "CopilotKit / CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "metric": "★ 34,334",
+      "rank": 4,
+      "title": "opencv / opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "metric": "★ 88,423",
       "extra": {
-        "language": "TypeScript",
-        "stars": "34,334",
-        "forks": "4,313",
-        "stars_today": "378 stars today"
+        "language": "C++",
+        "stars": "88,423",
+        "forks": "56,613",
+        "stars_today": "395 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 5,
+      "title": "refactoringhq / tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "metric": "★ 14,037",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "14,037",
+        "forks": "975",
+        "stars_today": "651 stars today"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "aaif-goose / goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "metric": "★ 48,314",
+      "extra": {
+        "language": "Rust",
+        "stars": "48,314",
+        "forks": "5,084",
+        "stars_today": "699 stars today"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Andyyyy64 / whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "metric": "★ 3,795",
+      "extra": {
+        "language": "Python",
+        "stars": "3,795",
+        "forks": "213",
+        "stars_today": "143 stars today"
+      }
+    },
+    {
+      "rank": 8,
       "title": "TapXWorld / ChinaTextbook",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
-      "metric": "★ 73,241",
+      "metric": "★ 73,345",
       "extra": {
         "language": "Roff",
-        "stars": "73,241",
-        "forks": "16,395",
+        "stars": "73,345",
+        "forks": "16,422",
         "stars_today": "592 stars today"
       }
     },
     {
-      "rank": 15,
-      "title": "luongnv89 / claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "metric": "★ 36,035",
+      "rank": 9,
+      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "metric": "★ 139,003",
+      "extra": {
+        "language": null,
+        "stars": "139,003",
+        "forks": "34,544",
+        "stars_today": "66 stars today"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "yikart / AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "metric": "★ 19,656",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "19,656",
+        "forks": "3,003",
+        "stars_today": "786 stars today"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "phuryn / pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "metric": "★ 13,151",
+      "extra": {
+        "language": null,
+        "stars": "13,151",
+        "forks": "1,511",
+        "stars_today": "164 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "santifer / career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "metric": "★ 51,087",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "51,087",
+        "forks": "10,372",
+        "stars_today": "308 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "openai / plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "metric": "★ 2,471",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "2,471",
+        "forks": "297",
+        "stars_today": "296 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "maziyarpanahi / openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "metric": "★ 1,572",
       "extra": {
         "language": "Python",
-        "stars": "36,035",
-        "forks": "4,363",
-        "stars_today": "312 stars today"
+        "stars": "1,572",
+        "forks": "195",
+        "stars_today": "165 stars today"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "francescopace / espectre",
+      "url": "https://github.com/francescopace/espectre",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "metric": "★ 7,994",
+      "extra": {
+        "language": "Python",
+        "stars": "7,994",
+        "forks": "624",
+        "stars_today": "112 stars today"
       }
     },
     {
       "rank": 16,
-      "title": "aaif-goose / goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "metric": "★ 48,245",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 49,498",
       "extra": {
-        "language": "Rust",
-        "stars": "48,245",
-        "forks": "5,075",
-        "stars_today": "699 stars today"
+        "language": "Shell",
+        "stars": "49,498",
+        "forks": "5,528",
+        "stars_today": "348 stars today"
       }
     }
   ]
