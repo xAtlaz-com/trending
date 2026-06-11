@@ -1,223 +1,249 @@
 [
   {
     "rank": 1,
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "metric": "★ 52,760",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "metric": "★ 30,761",
     "extra": {
-      "language": "Shell",
-      "stars": "52,760",
-      "forks": "5,790",
-      "stars_today": "821 stars today"
+      "language": "Swift",
+      "stars": "30,761",
+      "forks": "861",
+      "stars_today": "1,611 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "phuryn / pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-    "metric": "★ 15,508",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "metric": "★ 53,484",
     "extra": {
-      "language": null,
-      "stars": "15,508",
-      "forks": "1,652",
-      "stars_today": "804 stars today"
+      "language": "Shell",
+      "stars": "53,484",
+      "forks": "5,852",
+      "stars_today": "821 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "refactoringhq / tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "description": "Desktop app to manage markdown knowledge bases",
-    "metric": "★ 15,098",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "15,098",
-      "forks": "1,043",
-      "stars_today": "612 stars today"
-    }
-  },
-  {
-    "rank": 4,
-    "title": "mvanhorn / last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "metric": "★ 39,339",
-    "extra": {
-      "language": "Python",
-      "stars": "39,339",
-      "forks": "3,169",
-      "stars_today": "2,535 stars today"
-    }
-  },
-  {
-    "rank": 5,
-    "title": "soxoj / maigret",
-    "url": "https://github.com/soxoj/maigret",
-    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-    "metric": "★ 32,212",
-    "extra": {
-      "language": "Python",
-      "stars": "32,212",
-      "forks": "2,368",
-      "stars_today": "318 stars today"
-    }
-  },
-  {
-    "rank": 6,
-    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
-    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-    "metric": "★ 139,642",
-    "extra": {
-      "language": null,
-      "stars": "139,642",
-      "forks": "34,602",
-      "stars_today": "393 stars today"
-    }
-  },
-  {
-    "rank": 7,
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "metric": "★ 223,991",
-    "extra": {
-      "language": "Shell",
-      "stars": "223,991",
-      "forks": "19,913",
-      "stars_today": "1,104 stars today"
-    }
-  },
-  {
-    "rank": 8,
-    "title": "masterking32 / MasterDnsVPN",
-    "url": "https://github.com/masterking32/MasterDnsVPN",
-    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-    "metric": "★ 5,371",
-    "extra": {
-      "language": "Go",
-      "stars": "5,371",
-      "forks": "502",
-      "stars_today": "354 stars today"
-    }
-  },
-  {
-    "rank": 9,
-    "title": "harry0703 / MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-    "metric": "★ 85,432",
-    "extra": {
-      "language": "Python",
-      "stars": "85,432",
-      "forks": "12,192",
-      "stars_today": "1,389 stars today"
-    }
-  },
-  {
-    "rank": 10,
     "title": "maziyarpanahi / openmed",
     "url": "https://github.com/maziyarpanahi/openmed",
     "description": "open-source healthcare ai",
-    "metric": "★ 2,419",
+    "metric": "★ 2,519",
     "extra": {
       "language": "Python",
-      "stars": "2,419",
-      "forks": "249",
+      "stars": "2,519",
+      "forks": "255",
       "stars_today": "527 stars today"
     }
   },
   {
-    "rank": 11,
-    "title": "luongnv89 / claude-howto",
-    "url": "https://github.com/luongnv89/claude-howto",
-    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "metric": "★ 36,694",
+    "rank": 4,
+    "title": "phuryn / pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "metric": "★ 15,877",
+    "extra": {
+      "language": null,
+      "stars": "15,877",
+      "forks": "1,673",
+      "stars_today": "804 stars today"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "metric": "★ 2,276",
     "extra": {
       "language": "Python",
-      "stars": "36,694",
-      "forks": "4,424",
-      "stars_today": "211 stars today"
+      "stars": "2,276",
+      "forks": "193",
+      "stars_today": "308 stars today"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "soxoj / maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "metric": "★ 32,344",
+    "extra": {
+      "language": "Python",
+      "stars": "32,344",
+      "forks": "2,376",
+      "stars_today": "318 stars today"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "metric": "★ 139,730",
+    "extra": {
+      "language": null,
+      "stars": "139,730",
+      "forks": "34,608",
+      "stars_today": "393 stars today"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "refactoringhq / tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "metric": "★ 15,214",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "15,214",
+      "forks": "1,051",
+      "stars_today": "612 stars today"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "metric": "★ 224,343",
+    "extra": {
+      "language": "Shell",
+      "stars": "224,343",
+      "forks": "19,931",
+      "stars_today": "1,104 stars today"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "restic / restic",
+    "url": "https://github.com/restic/restic",
+    "description": "Fast, secure, efficient backup program",
+    "metric": "★ 34,002",
+    "extra": {
+      "language": "Go",
+      "stars": "34,002",
+      "forks": "1,780",
+      "stars_today": "33 stars today"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "msitarzewski / agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "metric": "★ 110,979",
+    "extra": {
+      "language": "Shell",
+      "stars": "110,979",
+      "forks": "18,193",
+      "stars_today": "1,434 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "activeloopai / hivemind",
-    "url": "https://github.com/activeloopai/hivemind",
-    "description": "One brain for all your agents",
-    "metric": "★ 956",
+    "title": "masterking32 / MasterDnsVPN",
+    "url": "https://github.com/masterking32/MasterDnsVPN",
+    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+    "metric": "★ 5,471",
     "extra": {
-      "language": "TypeScript",
-      "stars": "956",
-      "forks": "53",
-      "stars_today": "64 stars today"
+      "language": "Go",
+      "stars": "5,471",
+      "forks": "507",
+      "stars_today": "354 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "ruvnet / RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "metric": "★ 73,026",
+    "title": "chatwoot / chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "metric": "★ 30,126",
     "extra": {
-      "language": "Rust",
-      "stars": "73,026",
-      "forks": "9,745",
-      "stars_today": "420 stars today"
+      "language": "Ruby",
+      "stars": "30,126",
+      "forks": "7,491",
+      "stars_today": "31 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "roboflow / supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜",
-    "metric": "★ 43,707",
+    "title": "kenn-io / agentsview",
+    "url": "https://github.com/kenn-io/agentsview",
+    "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+    "metric": "★ 1,428",
     "extra": {
-      "language": "Python",
-      "stars": "43,707",
-      "forks": "3,881",
-      "stars_today": "695 stars today"
+      "language": "Go",
+      "stars": "1,428",
+      "forks": "166",
+      "stars_today": "98 stars today"
     }
   },
   {
     "rank": 15,
-    "title": "google / skills",
-    "url": "https://github.com/google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "metric": "★ 13,423",
+    "title": "alchaincyf / zhangxuefeng-skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "metric": "★ 7,854",
     "extra": {
-      "language": "Python",
-      "stars": "13,423",
-      "forks": "1,013",
-      "stars_today": "211 stars today"
+      "language": null,
+      "stars": "7,854",
+      "forks": "2,410",
+      "stars_today": "94 stars today"
     }
   },
   {
     "rank": 16,
-    "title": "FareedKhan-dev / train-llm-from-scratch",
-    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-    "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-    "metric": "★ 5,403",
+    "title": "TapXWorld / ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "metric": "★ 73,850",
     "extra": {
-      "language": "Python",
-      "stars": "5,403",
-      "forks": "724",
-      "stars_today": "247 stars today"
+      "language": "Roff",
+      "stars": "73,850",
+      "forks": "16,527",
+      "stars_today": "345 stars today"
     }
   },
   {
     "rank": 17,
-    "title": "apple / container",
-    "url": "https://github.com/apple/container",
-    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-    "metric": "★ 30,337",
+    "title": "hexo-ai / sia",
+    "url": "https://github.com/hexo-ai/sia",
+    "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+    "metric": "★ 1,021",
     "extra": {
-      "language": "Swift",
-      "stars": "30,337",
-      "forks": "846",
-      "stars_today": "1,611 stars today"
+      "language": "Python",
+      "stars": "1,021",
+      "forks": "144",
+      "stars_today": "177 stars today"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "mattermost / mattermost",
+    "url": "https://github.com/mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "metric": "★ 37,113",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "37,113",
+      "forks": "8,689",
+      "stars_today": "26 stars today"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "bannedbook / fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "metric": "★ 46,533",
+    "extra": {
+      "language": "Kotlin",
+      "stars": "46,533",
+      "forks": "7,990",
+      "stars_today": "342 stars today"
     }
   }
 ]
