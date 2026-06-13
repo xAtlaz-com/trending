@@ -1,20 +1,20 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-13T09:43:41+00:00",
-  "count": 9,
+  "updated_at": "2026-06-13T11:55:56+00:00",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限",
       "url": "https://www.v2ex.com/t/1220089",
       "description": "https://www.anthropic.com/news/fable-mythos-access\n在美国境内的外国人也不行，不知道他们要怎么识别。",
-      "metric": "62 回复",
-      "metric_value": 62,
+      "metric": "71 回复",
+      "metric_value": 71,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
         "author": "lvye",
-        "last_touched": 1781339358
+        "last_touched": 1781348730
       }
     },
     {
@@ -22,27 +22,27 @@
       "title": "iPhone 17 / iPhone Air 怎么选？",
       "url": "https://www.v2ex.com/t/1220083",
       "description": "主力机是小米 17Pro ，最近有点想研究一下 IOS 的 App 开发，顺便买个果子手机自己用一下。\n看了一下京东价格分别是 4999 和 5070 。\n大佬们推荐哪个呢？",
-      "metric": "49 回复",
-      "metric_value": 49,
+      "metric": "50 回复",
+      "metric_value": 50,
       "extra": {
         "node": "Apple",
         "node_name": "apple",
         "author": "kkchan1999",
-        "last_touched": 1781342186
+        "last_touched": 1781344078
       }
     },
     {
       "rank": 3,
-      "title": "世界第一！在全世界都不知道大模型是何物的时候华为就推出了盘古大模型！",
-      "url": "https://www.v2ex.com/t/1220015",
-      "description": "“2021 年 4 月，我当时管华为云几个月，后来我去负责车这块业务去了，我就没再管这个业务，我代表我们这个华为云去发布这个全中国的第一个大模型，当时不仅全中国，全世界，大家都不知道大模型为何物的时候，我们就发布了盘古大模型，（台下掌声），我们可以说是这个行业的大模型行业的绝对的全球的先驱者。”",
-      "metric": "44 回复",
-      "metric_value": 44,
+      "title": "大家用 codex 的时候没有觉得界面很卡吗",
+      "url": "https://www.v2ex.com/t/1220086",
+      "description": "不知道是我个人感觉还是啥，感觉整个 codex 界面非常卡顿，思考的时间也很长，经常出现 time out 的情况，这是正常情况吗？",
+      "metric": "42 回复",
+      "metric_value": 42,
       "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "distleilei",
-        "last_touched": 1781343425
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "metaquant",
+        "last_touched": 1781351700
       }
     },
     {
@@ -50,13 +50,13 @@
       "title": "分享近两个月的遭遇，顺便也给 V 友们一点小建议",
       "url": "https://www.v2ex.com/t/1220042",
       "description": "2026 年，对于我，以及我家来说，简直是灾难的一年。\n灾难之始\n今年四月下旬，就在我满心欢喜准备五一去准小舅子婚礼时，突然接到了父亲的微信。我以为只是寻常的问候，等刷完手里的娱乐视频后，点开微信，只看到一行字：“你妈的嗓子里出了个东西，医生说得去大医院看”。于是顿感不妙，紧急拨过去电话，询问缘由，说喉咙里长了个肿块，不疼不痒吃了消炎药也没变化。 在我查了以后，只觉得坏也就是做个手术切了就行。于是抓紧订票，挂号（同仁）。\n先挂的北大人民医院，大夫简单的看了一眼后直接开了住院单，排队做活检。（心里有点嘀咕），过了两天又去同仁医院，医生做了喉镜后单独给我说，不像是良心的，大概率时肿瘤转移淋巴结。（",
-      "metric": "37 回复",
-      "metric_value": 37,
+      "metric": "38 回复",
+      "metric_value": 38,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "dif",
-        "last_touched": 1781311850
+        "last_touched": 1781315450
       }
     },
     {
@@ -64,69 +64,83 @@
       "title": "c 真能比 Python 快这么多？",
       "url": "https://www.v2ex.com/t/1220070",
       "description": "事情是这样的，最近几天在接手别人的一个 python 写的仿真程序，这个程序的运行速度奇慢无比，于是 -m cProfile 看了一眼\n检查了一下之后发现程序运行一次大概 500 秒，其中大约有 170 秒都花在一个模拟用的计算函数里了，暂且称其为函数 A 吧\n函数 A 大概做了两件事，首先调用了几次函数 B ，去几个表里查表并线性插值，这个过程大概花了 40 秒，这个 40 秒也是优化过的结果了，它原本的算法能干到 500 秒去了。然后就是对大概 30 个参数进行了一系列运算，我大概统计了一下有哪些运算，列表在下面了 \n\n\n\n算符\n次数\n\n\n\n\n×\n30\n\n\n÷\n5\n\n\n+\n15\n\n\n-\n1",
-      "metric": "35 回复",
-      "metric_value": 35,
+      "metric": "38 回复",
+      "metric_value": 38,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Hhehepei",
-        "last_touched": 1781343498
+        "last_touched": 1781349293
       }
     },
     {
       "rank": 6,
-      "title": "大家用 codex 的时候没有觉得界面很卡吗",
-      "url": "https://www.v2ex.com/t/1220086",
-      "description": "不知道是我个人感觉还是啥，感觉整个 codex 界面非常卡顿，思考的时间也很长，经常出现 time out 的情况，这是正常情况吗？",
-      "metric": "34 回复",
-      "metric_value": 34,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "metaquant",
-        "last_touched": 1781342625
-      }
-    },
-    {
-      "rank": 7,
-      "title": "买 macbook pro 笔记本，跑本地模型，怎么配置性价比比较高？",
-      "url": "https://www.v2ex.com/t/1219998",
-      "description": "macbook pro 跑本地模型，64g 内存够用吗？\n64g 可以跑哪些模型呢？\n等 9 月新品还是现在呢？\n不懂 mac 的商品啊",
-      "metric": "33 回复",
-      "metric_value": 33,
-      "extra": {
-        "node": "Local LLM",
-        "node_name": "localllm",
-        "author": "sjmcefc2",
-        "last_touched": 1781329353
-      }
-    },
-    {
-      "rank": 8,
-      "title": "订阅制还能持续多久呢？ oai 和 anthropic 的订阅制都是赔本赚吆喝吧？",
-      "url": "https://www.v2ex.com/t/1220007",
-      "description": "SemiAnalysis 把 Anthropic 和 OpenAI 的每一档订阅各买了一份，跑长程编程任务，一直跑到把每周限额耗尽，再按 API 牌价折算：这些用量，值多少钱。\n得出的结论是 20 美元的 Claude Pro ，上限约 400 美元； 200 美元的 Max 20x ，约 8000 美元。OpenAI 这边更夸张——20 美元的 ChatGPT Plus 能跑出约 700 美元，200 美元的 Pro 20x ，约 14000 美元：最高一档的补贴倍数，是 70 倍。",
+      "title": "央视开始报道中转站了",
+      "url": "https://www.v2ex.com/t/1220119",
+      "description": "https://mp.weixin.qq.com/s/-s5ihFhJ9BqyYZRo7ZgwYw看起来小中转站们离死不远了",
       "metric": "33 回复",
       "metric_value": 33,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
-        "author": "haoofun",
-        "last_touched": 1781330246
+        "author": "fbu11",
+        "last_touched": 1781346773
       }
     },
     {
-      "rank": 9,
-      "title": "央视开始报道中转站了",
-      "url": "https://www.v2ex.com/t/1220119",
-      "description": "https://mp.weixin.qq.com/s/-s5ihFhJ9BqyYZRo7ZgwYw看起来小中转站们离死不远了",
+      "rank": 7,
+      "title": "有人需要换汇吗？",
+      "url": "https://www.v2ex.com/t/1220095",
+      "description": "美股不能投资了。把几万块钱现在转出到香港银行卡上了，但是转到国内比较麻烦，而且手续费也比较高，我看了下 wise 上面，基本要损失 1% 左右，想问下有老哥需要换汇吗？大概就是：你在境内（最好杭州，面对面），想转钱到香港卡，那我可以用香港卡转你，你国内再给我钱。有需要可以联系：amFtZXNqaWFuZ3g=",
+      "metric": "32 回复",
+      "metric_value": 32,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "2ruowqe9r",
+        "last_touched": 1781341397
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Kimi K2.7 Code 发布了，有人已经替换 Claude Code / Codex 了吗?",
+      "url": "https://www.v2ex.com/t/1220063",
+      "description": "刚刚看到 Kimi 发布了 K2.7 Code 。\n官方给的数据：\n\nKimi Code Bench v2 +21.8%\nProgram Bench +11.0%\nMLS Bench Lite +31.5%\n推理 Token 消耗降低 30%\n\n有没有已经体验过的大佬说说感受？",
       "metric": "31 回复",
       "metric_value": 31,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
-        "author": "fbu11",
-        "last_touched": 1781342482
+        "author": "aohan0905",
+        "last_touched": 1781337210
+      }
+    },
+    {
+      "rank": 9,
+      "title": "为何从学校出来的大概率是牛马",
+      "url": "https://www.v2ex.com/t/1220136",
+      "description": "到底是什么知识让我们觉得自己只能是牛马",
+      "metric": "25 回复",
+      "metric_value": 25,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "sport123",
+        "last_touched": 1781346344
+      }
+    },
+    {
+      "rank": 10,
+      "title": "为什么本站和 X 上有人喜欢用拼音缩写来代替国内社交媒体上可能的敏感词？",
+      "url": "https://www.v2ex.com/t/1220118",
+      "description": "包括但不限于：\n政府 -&gt; ZF\n管理局 -&gt; GLJ\n警察 -&gt; JC\n疫情 -&gt; YQ\n翻墙 -&gt; FQ\n\n...\n\n在国内社媒上某些词发不出去，为了正常交流只能用缩写代替敏感词，这个可以理解。\n但是既然已经翻墙上网了，为什么还要自我阉割来用缩写代替敏感词呢？翻墙上网不就是为了能不受限制地学习/交流/生活吗？这个时候还要自我阉割，到底是为了什么？",
+      "metric": "24 回复",
+      "metric_value": 24,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "Danswerme",
+        "last_touched": 1780759981
       }
     }
   ]
