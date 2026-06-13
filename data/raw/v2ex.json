@@ -4,13 +4,13 @@
     "title": "Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限",
     "url": "https://www.v2ex.com/t/1220089",
     "description": "https://www.anthropic.com/news/fable-mythos-access\n在美国境内的外国人也不行，不知道他们要怎么识别。",
-    "metric": "77 回复",
-    "metric_value": 77,
+    "metric": "78 回复",
+    "metric_value": 78,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "lvye",
-      "last_touched": 1781367721
+      "last_touched": 1781371321
     }
   },
   {
@@ -32,8 +32,8 @@
     "title": "# 自己搭的 AI 中转站，给 V 友送点福利$15，稳定用了半年了",
     "url": "https://www.v2ex.com/t/1220183",
     "description": "自己用的 AI 中转，用了大半年一直很稳，顺便开放给大家用用。\n不是那种赚一波就跑的野鸡站，自己开发团队天天在用，跑路是不可能跑路的。\n\nV 友专属：\n注册就送 $5 刀**，本帖留 ID 送 **$10 刀，合计 $15 刀到手直接用。\n充值就是 1 块钱 = 6 刀，没有套路，明码标价。\n支持 GPT 5.5 / Claude 4.8 / Gemini 全系，价格自己看：\n\n0.8 倍 = 0.13 倍率档（日常用足够）\n1.2 倍 = 0.2 倍 倍率档（主力推荐，稳定 速度）\n1.5  =  0.25 倍率档 （优质 不封）\n\n不限并发，个人小团队都能用，接口兼容 OpenAI 格式，",
-    "metric": "58 回复",
-    "metric_value": 58,
+    "metric": "59 回复",
+    "metric_value": 59,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
@@ -46,13 +46,13 @@
     "title": "为何从学校出来的大概率是牛马",
     "url": "https://www.v2ex.com/t/1220136",
     "description": "到底是什么知识让我们觉得自己只能是牛马",
-    "metric": "48 回复",
-    "metric_value": 48,
+    "metric": "50 回复",
+    "metric_value": 50,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "sport123",
-      "last_touched": 1781380192
+      "last_touched": 1781388263
     }
   },
   {
@@ -116,13 +116,13 @@
     "title": "PVE 主机两三天就会在早上 六点左右重启一次，尝试过各种排查方法，还是找不到原因。",
     "url": "https://www.v2ex.com/t/1220122",
     "description": "借助 GPT ，将具体的现象、配置、排查方案写出来了，会有一点长，希望 V2 上的富有经验的大佬能给点头绪：\nPVE/FnOS 固定早上 6 点附近硬重启排查记录\n这是一台家用 Proxmox VE 主机，主要跑一个 FnOS/飞牛 NAS 虚拟机。最近多次出现早上 6 点附近自动重启，表现更像硬断电/硬复位，而不是系统内正常 reboot/shutdown 。下面是目前的硬件信息、排查过程和阶段性结论，想请大家帮忙判断更像主板/BIOS/ME/ACPI 、电源、SATA 控制器/硬盘链路，还是 PVE/FnOS/驱动层的问题。\n1. 主要现象\n\nPVE 主机多次在早上 6 点附近突然重启。\n",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "metric": "28 回复",
+    "metric_value": 28,
     "extra": {
       "node": "硬件",
       "node_name": "hardware",
       "author": "YoYoLikesCiCi",
-      "last_touched": 1781365730
+      "last_touched": 1781369330
     }
   }
 ]
