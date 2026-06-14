@@ -1,128 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限",
-    "url": "https://www.v2ex.com/t/1220089",
-    "description": "https://www.anthropic.com/news/fable-mythos-access\n在美国境内的外国人也不行，不知道他们要怎么识别。",
-    "metric": "78 回复",
-    "metric_value": 78,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
-      "author": "lvye",
-      "last_touched": 1781371321
-    }
-  },
-  {
-    "rank": 2,
     "title": "# 自己搭的 AI 中转站，给 V 友送点福利$15，稳定用了半年了",
     "url": "https://www.v2ex.com/t/1220183",
     "description": "自己用的 AI 中转，用了大半年一直很稳，顺便开放给大家用用。\n不是那种赚一波就跑的野鸡站，自己开发团队天天在用，跑路是不可能跑路的。\n\nV 友专属：\n注册就送 $5 刀**，本帖留 ID 送 **$10 刀，合计 $15 刀到手直接用。\n充值就是 1 块钱 = 6 刀，没有套路，明码标价。\n支持 GPT 5.5 / Claude 4.8 / Gemini 全系，价格自己看：\n\n0.8 倍 = 0.13 倍率档（日常用足够）\n1.2 倍 = 0.2 倍 倍率档（主力推荐，稳定 速度）\n1.5  =  0.25 倍率档 （优质 不封）\n\n不限并发，个人小团队都能用，接口兼容 OpenAI 格式，",
-    "metric": "71 回复",
-    "metric_value": 71,
+    "metric": "121 回复",
+    "metric_value": 121,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "PureBlossom",
-      "last_touched": 1781394596
+      "last_touched": 1781413484
     }
   },
   {
-    "rank": 3,
-    "title": "iPhone 17 / iPhone Air 怎么选？",
-    "url": "https://www.v2ex.com/t/1220083",
-    "description": "主力机是小米 17Pro ，最近有点想研究一下 IOS 的 App 开发，顺便买个果子手机自己用一下。\n看了一下京东价格分别是 4999 和 5070 。\n大佬们推荐哪个呢？",
-    "metric": "61 回复",
-    "metric_value": 61,
-    "extra": {
-      "node": "Apple",
-      "node_name": "apple",
-      "author": "kkchan1999",
-      "last_touched": 1781363735
-    }
-  },
-  {
-    "rank": 4,
-    "title": "为何从学校出来的大概率是牛马",
-    "url": "https://www.v2ex.com/t/1220136",
-    "description": "到底是什么知识让我们觉得自己只能是牛马",
-    "metric": "53 回复",
-    "metric_value": 53,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "sport123",
-      "last_touched": 1781395277
-    }
-  },
-  {
-    "rank": 5,
-    "title": "大家用 codex 的时候没有觉得界面很卡吗",
-    "url": "https://www.v2ex.com/t/1220086",
-    "description": "不知道是我个人感觉还是啥，感觉整个 codex 界面非常卡顿，思考的时间也很长，经常出现 time out 的情况，这是正常情况吗？",
-    "metric": "47 回复",
-    "metric_value": 47,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "metaquant",
-      "last_touched": 1781371752
-    }
-  },
-  {
-    "rank": 6,
-    "title": "有人需要换汇吗？",
-    "url": "https://www.v2ex.com/t/1220095",
-    "description": "美股不能投资了。把几万块钱现在转出到香港银行卡上了，但是转到国内比较麻烦，而且手续费也比较高，我看了下 wise 上面，基本要损失 1% 左右，想问下有老哥需要换汇吗？大概就是：你在境内（最好杭州，面对面），想转钱到香港卡，那我可以用香港卡转你，你国内再给我钱。有需要可以联系：amFtZXNqaWFuZ3g=",
-    "metric": "40 回复",
-    "metric_value": 40,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "2ruowqe9r",
-      "last_touched": 1781377524
-    }
-  },
-  {
-    "rank": 7,
-    "title": "央视开始报道中转站了",
-    "url": "https://www.v2ex.com/t/1220119",
-    "description": "https://mp.weixin.qq.com/s/-s5ihFhJ9BqyYZRo7ZgwYw看起来小中转站们离死不远了",
-    "metric": "38 回复",
-    "metric_value": 38,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "fbu11",
-      "last_touched": 1781353574
-    }
-  },
-  {
-    "rank": 8,
+    "rank": 2,
     "title": "Fable 真强到那种地步了吗？",
     "url": "https://www.v2ex.com/t/1220168",
     "description": "在个人的项目上，我使用 Fable 用了几个小时的 High 模式，然后又把它降到了 Low 模式，反正感觉没有太大的差异啊。还是说在编程领域纯 coding 领域模型已经到头了，它可能强在架构设计？还是在其他的领域强？",
-    "metric": "34 回复",
-    "metric_value": 34,
+    "metric": "37 回复",
+    "metric_value": 37,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "YanSeven",
-      "last_touched": 1781371492
+      "last_touched": 1781382292
+    }
+  },
+  {
+    "rank": 3,
+    "title": "会不会有人为了跟随 AI 的 5 小时重置节奏去尝试多阶段睡眠🤔",
+    "url": "https://www.v2ex.com/t/1220217",
+    "description": "也叫做达芬奇睡眠\nhttps://zh.wikipedia.org/zh-cn/多阶段睡眠",
+    "metric": "33 回复",
+    "metric_value": 33,
+    "extra": {
+      "node": "随想",
+      "node_name": "random",
+      "author": "EyebrowsWhite",
+      "last_touched": 1781411841
+    }
+  },
+  {
+    "rank": 4,
+    "title": "[送永久会员] 手机壁纸工坊 APP，轻松制作有质感、极简壁纸",
+    "url": "https://www.v2ex.com/t/1220166",
+    "description": "又打磨了几个月，现在 APP 支持的背景效果更多了\n关于\nMakePaper 旨在让你轻松制作有质感的极简壁纸，经过最近一段时间的迭代，APP 的重心已经不再仅仅是制作文字壁纸，提供了更多的色彩组合，提供更多可能性。\n一部分成品图\n\n送码\niOS\n\nPNRTPMRJEKAH7W7TLH\n7LJWXAA7KKR4WT7TYF\nNMJ4P7HATPRXY6E8XR\nMRHE6LEYMJKKEFK3FJ\nN4A8PMR8N7AMNTN6WH\n4ATXA4A4ELL6N7WEL8\nR3MRE7FKRPK3F8J7WM\nYWTWN66FX8FNNLJFPJ\nLHTHNH6MT4TFEH86NJ\nYTFL",
+    "metric": "22 回复",
+    "metric_value": 22,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "burden7",
+      "last_touched": 1781370851
+    }
+  },
+  {
+    "rank": 5,
+    "title": "Java 确实是内存高效的",
+    "url": "https://www.v2ex.com/t/1220193",
+    "description": "TLDR:",
+    "metric": "21 回复",
+    "metric_value": 21,
+    "extra": {
+      "node": "Java",
+      "node_name": "java",
+      "author": "nc",
+      "last_touched": 1781391056
+    }
+  },
+  {
+    "rank": 6,
+    "title": "是不是大部分程序员都会被大模型替代",
+    "url": "https://www.v2ex.com/t/1220221",
+    "description": "今天突然想到，如果把程序员看作是人类语言/思维和机器语言之间的翻译官的话，人与人之间的不同语言的交流可以基于模型实现，那么是不是早晚有一天低端的翻译会被机器替代，留下的都是头部的领头人。",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "yisonyang",
+      "last_touched": 1781411569
+    }
+  },
+  {
+    "rank": 7,
+    "title": "致开发者： GLM-5.2 全量开放，前沿智能属于所有人",
+    "url": "https://www.v2ex.com/t/1220146",
+    "description": "在一些前沿模型突然变得不可用的时刻，我们选择相信另一条路：前沿智能不应只属于少数人，也不应被少数规则随时收回。它应该开放、可用、可构建，并服务于每一位开发者。GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，并在长程任务中继续保持领先。它也依旧是我们心中最强的国产 Coding 模型。今晚 5:21，GLM-5.2 将面向 GLM Coding Plan 全量用户开放，覆盖 Lite / Pro / Max / 团队版。GLM-5.2 API 将于下周上线，模型下周正式开源，遵循 MIT 协议。A step closer to frontier intelligenc",
+    "metric": "17 回复",
+    "metric_value": 17,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "aes114514gcm",
+      "last_touched": 1781374746
+    }
+  },
+  {
+    "rank": 8,
+    "title": "[送码] Mipa - clash / mihomo / Surge 远程控制软件",
+    "url": "https://www.v2ex.com/t/1220143",
+    "description": "一个通过 HTTP API 远程控制你其他设备上安装的 Clash/Mihomo/Surge 的 iOS App\n参考 Zashboard 用 Swift 原生实现\n系统要求：iOS 26.0 及以上\n国区没有，懂的都懂\nTelegram 群：Mipa\n官网：Mipa\nApp Store 链接：Mipa\n兑换码连接：Redeem",
+    "metric": "16 回复",
+    "metric_value": 16,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "x4gz",
+      "last_touched": 1781365175
     }
   },
   {
     "rank": 9,
-    "title": "PVE 主机两三天就会在早上 六点左右重启一次，尝试过各种排查方法，还是找不到原因。",
-    "url": "https://www.v2ex.com/t/1220122",
-    "description": "借助 GPT ，将具体的现象、配置、排查方案写出来了，会有一点长，希望 V2 上的富有经验的大佬能给点头绪：\nPVE/FnOS 固定早上 6 点附近硬重启排查记录\n这是一台家用 Proxmox VE 主机，主要跑一个 FnOS/飞牛 NAS 虚拟机。最近多次出现早上 6 点附近自动重启，表现更像硬断电/硬复位，而不是系统内正常 reboot/shutdown 。下面是目前的硬件信息、排查过程和阶段性结论，想请大家帮忙判断更像主板/BIOS/ME/ACPI 、电源、SATA 控制器/硬盘链路，还是 PVE/FnOS/驱动层的问题。\n1. 主要现象\n\nPVE 主机多次在早上 6 点附近突然重启。\n",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "title": "3500 买了一个 macbook pro m1 16➕256，请问怎么验货比较好？",
+    "url": "https://www.v2ex.com/t/1220180",
+    "description": "感觉这个价格还是比较划算的，整台机只有底部有一道划痕，其他地方都正常，然后电池健康 100%，走的闲鱼严选\n新手第一次买苹果，请问大家怎么验货好呢？还有平时大概开 50-80 个网页，加上 idea 写 java ，不知道这台设备的性能够不够，以及 3500 的性价比如何，谢谢大家！",
+    "metric": "16 回复",
+    "metric_value": 16,
     "extra": {
-      "node": "硬件",
-      "node_name": "hardware",
-      "author": "YoYoLikesCiCi",
-      "last_touched": 1781369330
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "WilliamColton",
+      "last_touched": 1781369071
+    }
+  },
+  {
+    "rank": 10,
+    "title": "个人开发者接入支付宝当面付！再也不用担心收款问题了～",
+    "url": "https://www.v2ex.com/t/1220206",
+    "description": "最近自己做了个 AI 绘图应用，并且成功接入支付宝当面付，感觉很赞，所以写一篇分享的文章，希望对一些独立开发者有些帮助！\n一、为什么个人开发者适合用“当面付”\n如果你是个人开发者，想给自己的网站、小工具、AI 绘图应用、会员系统、积分充值系统接入支付宝收款，常见选择有三类：\n\n电脑网站支付\n手机网站支付\n当面付扫码支付\n\n对个人开发者来说，最容易落地的一般是 支付宝当面付。它的典型支付流程是：\n用户在网页选择充值套餐 → 后端创建本地订单 → 后端调用支付宝预创建订单接口 → 支付宝返回二维码内容 → 前端展示二维码 → 用户用支付宝扫码付款 → 后端通过异步通知或主动查询确认支付成功 → 给",
+    "metric": "16 回复",
+    "metric_value": 16,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "ttkit",
+      "last_touched": 1781369924
     }
   }
 ]
