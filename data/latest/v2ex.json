@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-14T22:43:26+00:00",
+  "updated_at": "2026-06-15T00:15:39+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "想讨论一下对于 AI 付费的看法",
       "url": "https://www.v2ex.com/t/1220323",
       "description": "同行的几个前端兄弟，公司让他们用 AI 开发，他们用免费 trea 去做开发，然后说 AI 不好用，我跟他们说 codex cursor claude 这些工具，他们说公司可能不给报销，自己去弄不就付费上班了，压根都懒得去了解，最终因为公司效率被优化掉了\n我实际去问过他们的老板，因为我是给他们公司兼职的，老板明确告诉我他们就算一个月用 1000 都是小事，他们都没跟老板沟通过哪些工具好用但是收费的事情，毕竟他们人工成本对老板来说更贵，最终就是耽误了时间，老板损失的更多\n我想问问大家，自己去弄一下 AI 工具，就拿我自己来说，我充了中转站的会员，一个月也就二三百，提效好几倍\n项目上随便一点功能本",
-      "metric": "54 回复",
-      "metric_value": 54,
+      "metric": "58 回复",
+      "metric_value": 58,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "webwlx",
-        "last_touched": 1781462922
+        "last_touched": 1781481944
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "这 GLM 的 token plan 根本买不到啊",
       "url": "https://www.v2ex.com/t/1220264",
       "description": "真是要了老命了.抢了一早上跟爬虫斗智斗勇 最后也没抢到",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "metric": "46 回复",
+      "metric_value": 46,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "xiaxichen",
-        "last_touched": 1781456817
+        "last_touched": 1781467617
       }
     },
     {
@@ -61,16 +61,16 @@
     },
     {
       "rank": 5,
-      "title": "有升级 macos27 的 V 友吗，感觉发热严重啊，我的是 M2pro 芯片",
-      "url": "https://www.v2ex.com/t/1220248",
-      "description": "",
-      "metric": "33 回复",
-      "metric_value": 33,
+      "title": "做了差不多 3 个月的中转站，真的赚不到钱",
+      "url": "https://www.v2ex.com/t/1220335",
+      "description": "我是 3 月份开始做的，之前在 v 站上也发过推广，当时我的定位是：1 、正价 plus 号池2 、限定每个账号的并发数3 、只想服务少数用户，这样大家的体验都很好到现在 3 个月，中途没有停止过服务，除了那次 OpenAI 把所有账号踢下线，重新登录要绑定手机号导致上午停了半天之外，都没有停止过服务。目前注册用户数是 600 多个（中间有一段时间是关闭了注册），付费比例 3 分之一。后面 plus 收紧后，我又正价开的 Pro ，价格依然是 1 人民币等于 1 美金，使用 0.5x 的倍率。现在我就特别好奇，比如说目前一个 Pro20x ，差不多是 1400 多人民币一个月，5X 是 700",
+      "metric": "34 回复",
+      "metric_value": 34,
       "extra": {
-        "node": "macOS",
-        "node_name": "macos",
-        "author": "myTrip",
-        "last_touched": 1781454546
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "getcodex",
+        "last_touched": 1781482348
       }
     },
     {
@@ -89,34 +89,20 @@
     },
     {
       "rank": 7,
-      "title": "做了差不多 3 个月的中转站，真的赚不到钱",
-      "url": "https://www.v2ex.com/t/1220335",
-      "description": "我是 3 月份开始做的，之前在 v 站上也发过推广，当时我的定位是：1 、正价 plus 号池2 、限定每个账号的并发数3 、只想服务少数用户，这样大家的体验都很好到现在 3 个月，中途没有停止过服务，除了那次 OpenAI 把所有账号踢下线，重新登录要绑定手机号导致上午停了半天之外，都没有停止过服务。目前注册用户数是 600 多个（中间有一段时间是关闭了注册），付费比例 3 分之一。后面 plus 收紧后，我又正价开的 Pro ，价格依然是 1 人民币等于 1 美金，使用 0.5x 的倍率。现在我就特别好奇，比如说目前一个 Pro20x ，差不多是 1400 多人民币一个月，5X 是 700",
-      "metric": "30 回复",
-      "metric_value": 30,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "getcodex",
-        "last_touched": 1781460581
-      }
-    },
-    {
-      "rank": 8,
       "title": "有人的 27 系统索引完成吗？",
       "url": "https://www.v2ex.com/t/1220253",
       "description": "我已经升级已经差不多五天时间了，不论是 iPhone 还是 iPad 都还在索引，macOS 没有提示但我猜测也还在索引😂",
-      "metric": "27 回复",
-      "metric_value": 27,
+      "metric": "28 回复",
+      "metric_value": 28,
       "extra": {
         "node": "Apple",
         "node_name": "apple",
         "author": "desususula",
-        "last_touched": 1781445866
+        "last_touched": 1781449466
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "如果是转行宠物医师有什么坑吗",
       "url": "https://www.v2ex.com/t/1220306",
       "description": "目测以后宠物需求大大增加，但是宠物医师还是缺人\n如果是通过成人高考考取宠物医学的学历，然后再考执业兽医资格证，是不是有机会转行？\n想听听有相关经验的人的看法",
@@ -127,6 +113,20 @@
         "node_name": "programmer",
         "author": "banjueaz",
         "last_touched": 1781450979
+      }
+    },
+    {
+      "rank": 9,
+      "title": "正式发布 Pastel - 迄今空前强大的一款 IPA 下载工具 (macOS)",
+      "url": "https://www.v2ex.com/t/1220322",
+      "description": "做了一个 macOS App：Pastel ，一个用于下载 IPA 历史版本的小工具。\nGitHub： https://github.com/EEliberto/IPA-Download\n它主要能做什么\n\n在不同地区的 App Store 里搜索和查看 App\n根据 Apple 账户地区自动选择对应商店\n获取 App 的历史版本 ID ，并下载对应版本 IPA\n下载完成后可以在 App 内预览 IPA 的图标\n可以直接通过 AirDrop 发送到 iPhone / iPad\n支持简体中文、繁体中文、日语、韩语、泰语\n\n主界面\n\n\n下载页面\n下载完成后，可以直接看到已下载的 IPA 文件，并预览",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "iOS",
+        "node_name": "ios",
+        "author": "Lutto",
+        "last_touched": 1781450772
       }
     },
     {
