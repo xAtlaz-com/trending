@@ -4,11 +4,11 @@
     "title": "freeCodeCamp / freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-    "metric": "★ 448,252",
+    "metric": "★ 448,430",
     "extra": {
       "language": "TypeScript",
-      "stars": "448,252",
-      "forks": "45,013",
+      "stars": "448,430",
+      "forks": "45,028",
       "stars_today": "640 stars today"
     }
   },
@@ -17,11 +17,11 @@
     "title": "swc-project / swc",
     "url": "https://github.com/swc-project/swc",
     "description": "Rust-based platform for the Web",
-    "metric": "★ 33,903",
+    "metric": "★ 33,938",
     "extra": {
       "language": "Rust",
-      "stars": "33,903",
-      "forks": "1,412",
+      "stars": "33,938",
+      "forks": "1,413",
       "stars_today": "21 stars today"
     }
   },
@@ -30,11 +30,11 @@
     "title": "teslamate-org / teslamate",
     "url": "https://github.com/teslamate-org/teslamate",
     "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-    "metric": "★ 8,357",
+    "metric": "★ 8,377",
     "extra": {
       "language": "Elixir",
-      "stars": "8,357",
-      "forks": "952",
+      "stars": "8,377",
+      "forks": "955",
       "stars_today": "214 stars today"
     }
   },
@@ -43,11 +43,11 @@
     "title": "iptv-org / iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
-    "metric": "★ 123,612",
+    "metric": "★ 123,862",
     "extra": {
       "language": "TypeScript",
-      "stars": "123,612",
-      "forks": "6,662",
+      "stars": "123,862",
+      "forks": "6,681",
       "stars_today": "1,196 stars today"
     }
   },
@@ -56,12 +56,12 @@
     "title": "puppeteer / puppeteer",
     "url": "https://github.com/puppeteer/puppeteer",
     "description": "JavaScript API for Chrome and Firefox",
-    "metric": "★ 94,802",
+    "metric": "★ 94,838",
     "extra": {
       "language": "TypeScript",
-      "stars": "94,802",
-      "forks": "9,445",
-      "stars_today": "171 stars today"
+      "stars": "94,838",
+      "forks": "9,448",
+      "stars_today": "80 stars today"
     }
   },
   {
@@ -69,11 +69,11 @@
     "title": "meshery / meshery",
     "url": "https://github.com/meshery/meshery",
     "description": "Meshery, the cloud native manager",
-    "metric": "★ 10,752",
+    "metric": "★ 10,797",
     "extra": {
       "language": "TypeScript",
-      "stars": "10,752",
-      "forks": "3,443",
+      "stars": "10,797",
+      "forks": "3,444",
       "stars_today": "229 stars today"
     }
   },
@@ -82,11 +82,11 @@
     "title": "cypress-io / cypress",
     "url": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-    "metric": "★ 50,108",
+    "metric": "★ 50,147",
     "extra": {
       "language": "TypeScript",
-      "stars": "50,108",
-      "forks": "3,423",
+      "stars": "50,147",
+      "forks": "3,425",
       "stars_today": "11 stars today"
     }
   },
@@ -95,11 +95,11 @@
     "title": "music-assistant / server",
     "url": "https://github.com/music-assistant/server",
     "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-    "metric": "★ 2,480",
+    "metric": "★ 2,519",
     "extra": {
       "language": "Python",
-      "stars": "2,480",
-      "forks": "451",
+      "stars": "2,519",
+      "forks": "450",
       "stars_today": "157 stars today"
     }
   },
@@ -108,11 +108,11 @@
     "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-    "metric": "★ 7,099",
+    "metric": "★ 7,195",
     "extra": {
       "language": "Rust",
-      "stars": "7,099",
-      "forks": "308",
+      "stars": "7,195",
+      "forks": "311",
       "stars_today": "146 stars today"
     }
   },
@@ -121,11 +121,11 @@
     "title": "OpenBMB / VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "metric": "★ 29,950",
+    "metric": "★ 30,060",
     "extra": {
       "language": "Python",
-      "stars": "29,950",
-      "forks": "3,396",
+      "stars": "30,060",
+      "forks": "3,400",
       "stars_today": "413 stars today"
     }
   },
@@ -134,24 +134,37 @@
     "title": "alibaba / zvec",
     "url": "https://github.com/alibaba/zvec",
     "description": "A lightweight, lightning-fast, in-process vector database",
-    "metric": "★ 10,266",
+    "metric": "★ 10,374",
     "extra": {
       "language": "C++",
-      "stars": "10,266",
-      "forks": "601",
-      "stars_today": "251 stars today"
+      "stars": "10,374",
+      "forks": "604",
+      "stars_today": "188 stars today"
     }
   },
   {
     "rank": 12,
+    "title": "rmyndharis / OpenWA",
+    "url": "https://github.com/rmyndharis/OpenWA",
+    "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "metric": "★ 8,980",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "8,980",
+      "forks": "1,989",
+      "stars_today": "185 stars today"
+    }
+  },
+  {
+    "rank": 13,
     "title": "n0-computer / iroh",
     "url": "https://github.com/n0-computer/iroh",
     "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-    "metric": "★ 9,078",
+    "metric": "★ 9,191",
     "extra": {
       "language": "Rust",
-      "stars": "9,078",
-      "forks": "429",
+      "stars": "9,191",
+      "forks": "432",
       "stars_today": "326 stars today"
     }
   }
