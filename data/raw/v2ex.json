@@ -4,13 +4,13 @@
     "title": "最终买了凯美瑞",
     "url": "https://www.v2ex.com/t/1220810",
     "description": "前文\n之前发帖子很多朋友有推荐车，在此表示感谢！最终我选购了凯美瑞 2.0 混动。分享一些选车的经过，供大家参考。前文链接：# 买了一辆 6000 块钱的二手车 # 12w 预算之内，家庭第一辆车选购\n用车背景\n\n家里有娃\n偏爱轿车，不太喜欢 SUV\n家庭唯一用车\n年行驶里程约 1~1.5 万公里\n每年会有一次 700 公里左右的长途出行\n\n为什么没买电车？\n最近几年电车确实很火，包括站内也讨论了很多。我也去试驾、了解过不少车型，最后还是没有选择电车，主要有以下几个原因：\n\n家属属于比较容易晕车的体质，而电车都比较容易出现晕车情况。\n对底盘大电池的长期安全性多少还有些顾虑，虽然概率很低，但心理",
-    "metric": "143 回复",
-    "metric_value": 143,
+    "metric": "144 回复",
+    "metric_value": 144,
     "extra": {
       "node": "汽车",
       "node_name": "car",
       "author": "Jammmm",
-      "last_touched": 1781624186
+      "last_touched": 1781627786
     }
   },
   {
@@ -32,8 +32,8 @@
     "title": "codex 快到期了，如何充值？",
     "url": "https://www.v2ex.com/t/1220701",
     "description": "买了礼品卡以后，应该如何操作给自己的账号充值呢？大神们，帮忙指点一下，感谢。",
-    "metric": "92 回复",
-    "metric_value": 92,
+    "metric": "93 回复",
+    "metric_value": 93,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
@@ -60,13 +60,13 @@
     "title": "SpaceX 这个市值合理吗？",
     "url": "https://www.v2ex.com/t/1220731",
     "description": "按这个夜盘价格市值已经超越亚马逊了，再稍微拉一下就可以超越微软了。",
-    "metric": "79 回复",
-    "metric_value": 79,
+    "metric": "80 回复",
+    "metric_value": 80,
     "extra": {
       "node": "股票",
       "node_name": "stock",
       "author": "Bullish",
-      "last_touched": 1781632461
+      "last_touched": 1781636061
     }
   },
   {
@@ -74,17 +74,31 @@
     "title": "想请教 claude 如何实战，我自己想从头到尾实现一个 ios 的 app，不知道如何高效的利用 claude？",
     "url": "https://www.v2ex.com/t/1220708",
     "description": "需求是：从头到尾一个人实现一个 ios 的 app ，体验 AI 加持下的一人公司。\n困惑：以 chat 对话形式，写完了业务需求分析 PRD ，但 chat 模式使用 claude 效率很低，过程中频频出现限制。\n后面知道需要运用 skill ，但目前不知道一般软件开发的流程是什么，我需要创建哪些 skill ，或者哪里有现成的 skill ？怎么才能最大化利用自己订阅的 pro 。\n1.目前停留在 chat 阶段\n2.完成了 PRD 文档写作，隐约知道软件开发需要 UI 设计、系统交互、技术架构、概要分析、详细设计这些，但是不知道如何下手。\n3.UI 设计过程中，让 claude 生成了一",
-    "metric": "71 回复",
-    "metric_value": 71,
+    "metric": "74 回复",
+    "metric_value": 74,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "sjmcefc2",
-      "last_touched": 1781631162
+      "last_touched": 1781650944
     }
   },
   {
     "rank": 7,
+    "title": "闲鱼黑话查询",
+    "url": "https://www.v2ex.com/t/1220816",
+    "description": "早上登录 codex 发现需要验证手机号了，然后就想着去买个 giffgaff 的卡，然后果然被闲鱼屏蔽了，试了几个词都不行。\n我觉得也许有其他人可以提供帮助，因此做了这个网站：\nhttps://search-sharp.com/\n用户可以输入需要搜的商品，来获取可用的搜索词（刚做的，内容基本是空的，需要大家来努力贡献）\n为了避免无意义的刷词，因此做了 Google 登录验证（仅搜索不需要登录）\n很需要大家参与，哪怕是仅仅帮我填上 giffgaff 用什么词可以搜到\nlongshot20260616141926.png",
+    "metric": "66 回复",
+    "metric_value": 66,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "vacuitym",
+      "last_touched": 1781633428
+    }
+  },
+  {
+    "rank": 8,
     "title": "智谱真的一言难尽",
     "url": "https://www.v2ex.com/t/1220758",
     "description": "下载了 ZCode 想体验下新模型，结果 Request Many 。那我充钱行了吧。\nGLM Coding Plan 居然全部售罄，还要等补货的吗。\n告辞",
@@ -95,20 +109,6 @@
       "node_name": "programmer",
       "author": "CHTuring",
       "last_touched": 1781636092
-    }
-  },
-  {
-    "rank": 8,
-    "title": "闲鱼黑话查询",
-    "url": "https://www.v2ex.com/t/1220816",
-    "description": "早上登录 codex 发现需要验证手机号了，然后就想着去买个 giffgaff 的卡，然后果然被闲鱼屏蔽了，试了几个词都不行。\n我觉得也许有其他人可以提供帮助，因此做了这个网站：\nhttps://search-sharp.com/\n用户可以输入需要搜的商品，来获取可用的搜索词（刚做的，内容基本是空的，需要大家来努力贡献）\n为了避免无意义的刷词，因此做了 Google 登录验证（仅搜索不需要登录）\n很需要大家参与，哪怕是仅仅帮我填上 giffgaff 用什么词可以搜到\nlongshot20260616141926.png",
-    "metric": "63 回复",
-    "metric_value": 63,
-    "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "vacuitym",
-      "last_touched": 1781622628
     }
   },
   {
