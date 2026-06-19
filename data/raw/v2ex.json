@@ -57,6 +57,20 @@
   },
   {
     "rank": 5,
+    "title": "佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？",
+    "url": "https://www.v2ex.com/t/1221472",
+    "description": "我这吭哧吭哧重度用了 10 天，才刚把补偿的部分用掉一半。同时两三个项目在进行，感觉比以前更累了。",
+    "metric": "34 回复",
+    "metric_value": 34,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "hpan",
+      "last_touched": 1781892677
+    }
+  },
+  {
+    "rank": 6,
     "title": "为啥 V2EX 有时候需要刷新好几次才能正常打开？",
     "url": "https://www.v2ex.com/t/1221485",
     "description": "刷新好几次都是 connect close ，再多刷新几次就进来了😂",
@@ -67,20 +81,6 @@
       "node_name": "bb",
       "author": "desususula",
       "last_touched": 1781878453
-    }
-  },
-  {
-    "rank": 6,
-    "title": "佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？",
-    "url": "https://www.v2ex.com/t/1221472",
-    "description": "我这吭哧吭哧重度用了 10 天，才刚把补偿的部分用掉一半。同时两三个项目在进行，感觉比以前更累了。",
-    "metric": "30 回复",
-    "metric_value": 30,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "hpan",
-      "last_touched": 1781886133
     }
   },
   {
@@ -102,13 +102,13 @@
     "title": "vim 真的好用吗？",
     "url": "https://www.v2ex.com/t/1221499",
     "description": "我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？",
-    "metric": "25 回复",
-    "metric_value": 25,
+    "metric": "26 回复",
+    "metric_value": 26,
     "extra": {
       "node": "编辑器",
       "node_name": "editors",
       "author": "Zarhani",
-      "last_touched": 1781883574
+      "last_touched": 1781894414
     }
   },
   {
@@ -116,13 +116,13 @@
     "title": "前端界面比想象中复杂好多",
     "url": "https://www.v2ex.com/t/1221555",
     "description": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因",
-    "metric": "19 回复",
-    "metric_value": 19,
+    "metric": "22 回复",
+    "metric_value": 22,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "weiyunjun",
-      "last_touched": 1781888007
+      "last_touched": 1781894385
     }
   },
   {
