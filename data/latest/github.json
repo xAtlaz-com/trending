@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-06-19T22:07:26+00:00",
+  "updated_at": "2026-06-19T23:37:20+00:00",
   "count": 15,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "DeusData / codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "metric": "★ 8,121",
+      "metric": "★ 8,186",
       "extra": {
         "language": "C",
-        "stars": "8,121",
-        "forks": "622",
+        "stars": "8,186",
+        "forks": "624",
         "stars_today": "1,055 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "google-research / timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "metric": "★ 24,043",
+      "metric": "★ 24,072",
       "extra": {
         "language": "Python",
-        "stars": "24,043",
-        "forks": "2,269",
+        "stars": "24,072",
+        "forks": "2,270",
         "stars_today": "1,516 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "palmier-io / palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
-      "metric": "★ 1,798",
+      "metric": "★ 1,861",
       "extra": {
         "language": "Swift",
-        "stars": "1,798",
-        "forks": "182",
+        "stars": "1,861",
+        "forks": "187",
         "stars_today": "749 stars today"
       }
     },
@@ -47,10 +47,10 @@
       "title": "koala73 / worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "metric": "★ 57,182",
+      "metric": "★ 57,215",
       "extra": {
         "language": "TypeScript",
-        "stars": "57,182",
+        "stars": "57,215",
         "forks": "9,135",
         "stars_today": "300 stars today"
       }
@@ -60,10 +60,10 @@
       "title": "aishwaryanr / awesome-generative-ai-guide",
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "metric": "★ 27,586",
+      "metric": "★ 27,604",
       "extra": {
         "language": "HTML",
-        "stars": "27,586",
+        "stars": "27,604",
         "forks": "5,738",
         "stars_today": "155 stars today"
       }
@@ -73,11 +73,11 @@
       "title": "BuilderIO / agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agent-native applications.",
-      "metric": "★ 1,003",
+      "metric": "★ 1,026",
       "extra": {
         "language": "TypeScript",
-        "stars": "1,003",
-        "forks": "116",
+        "stars": "1,026",
+        "forks": "117",
         "stars_today": "210 stars today"
       }
     },
@@ -86,11 +86,11 @@
       "title": "chopratejas / headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "metric": "★ 38,407",
+      "metric": "★ 38,593",
       "extra": {
         "language": "Python",
-        "stars": "38,407",
-        "forks": "2,620",
+        "stars": "38,593",
+        "forks": "2,625",
         "stars_today": "3,938 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "calesthio / OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 6,221",
+      "metric": "★ 6,258",
       "extra": {
         "language": "Python",
-        "stars": "6,221",
-        "forks": "1,078",
+        "stars": "6,258",
+        "forks": "1,079",
         "stars_today": "236 stars today"
       }
     },
@@ -112,11 +112,11 @@
       "title": "zai-org / GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "metric": "★ 4,534",
+      "metric": "★ 4,568",
       "extra": {
         "language": null,
-        "stars": "4,534",
-        "forks": "459",
+        "stars": "4,568",
+        "forks": "461",
         "stars_today": "478 stars today"
       }
     },
@@ -125,10 +125,10 @@
       "title": "withastro / flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
-      "metric": "★ 5,804",
+      "metric": "★ 5,823",
       "extra": {
         "language": "TypeScript",
-        "stars": "5,804",
+        "stars": "5,823",
         "forks": "323",
         "stars_today": "305 stars today"
       }
@@ -138,10 +138,10 @@
       "title": "n0-computer / iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "metric": "★ 10,236",
+      "metric": "★ 10,244",
       "extra": {
         "language": "Rust",
-        "stars": "10,236",
+        "stars": "10,244",
         "forks": "466",
         "stars_today": "307 stars today"
       }
@@ -151,11 +151,11 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 233,283",
+      "metric": "★ 233,315",
       "extra": {
         "language": "Shell",
-        "stars": "233,283",
-        "forks": "20,719",
+        "stars": "233,315",
+        "forks": "20,723",
         "stars_today": "1,113 stars today"
       }
     },
@@ -164,10 +164,10 @@
       "title": "penpot / penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
-      "metric": "★ 50,558",
+      "metric": "★ 50,572",
       "extra": {
         "language": "Clojure",
-        "stars": "50,558",
+        "stars": "50,572",
         "forks": "3,268",
         "stars_today": "213 stars today"
       }
@@ -177,10 +177,10 @@
       "title": "Kong / insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "metric": "★ 38,946",
+      "metric": "★ 38,966",
       "extra": {
         "language": "TypeScript",
-        "stars": "38,946",
+        "stars": "38,966",
         "forks": "2,300",
         "stars_today": "291 stars today"
       }
@@ -190,11 +190,11 @@
       "title": "Lightricks / LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "metric": "★ 7,654",
+      "metric": "★ 7,663",
       "extra": {
         "language": "Python",
-        "stars": "7,654",
-        "forks": "1,221",
+        "stars": "7,663",
+        "forks": "1,220",
         "stars_today": "196 stars today"
       }
     }

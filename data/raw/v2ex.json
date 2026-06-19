@@ -85,6 +85,20 @@
   },
   {
     "rank": 7,
+    "title": "vim 真的好用吗？",
+    "url": "https://www.v2ex.com/t/1221499",
+    "description": "我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？",
+    "metric": "30 回复",
+    "metric_value": 30,
+    "extra": {
+      "node": "编辑器",
+      "node_name": "editors",
+      "author": "Zarhani",
+      "last_touched": 1781907171
+    }
+  },
+  {
+    "rank": 8,
     "title": "目前海外 esim 手机号在国内，哪个最好？",
     "url": "https://www.v2ex.com/t/1221525",
     "description": "发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？",
@@ -95,20 +109,6 @@
       "node_name": "qna",
       "author": "tcper",
       "last_touched": 1781885723
-    }
-  },
-  {
-    "rank": 8,
-    "title": "vim 真的好用吗？",
-    "url": "https://www.v2ex.com/t/1221499",
-    "description": "我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？",
-    "metric": "28 回复",
-    "metric_value": 28,
-    "extra": {
-      "node": "编辑器",
-      "node_name": "editors",
-      "author": "Zarhani",
-      "last_touched": 1781903822
     }
   },
   {
@@ -127,16 +127,16 @@
   },
   {
     "rank": 10,
-    "title": "GitHub copilot 重新恢复订阅了",
-    "url": "https://www.v2ex.com/t/1221510",
-    "description": "之前 4 月份下旬似乎不再接受新订阅了。今天试了下，发现能恢复了。虽然性价比比以前差了很多，但是我感觉 vs code 用起来还是最顺的，修改也最精准。准备先用个 $10 套餐试试。",
-    "metric": "18 回复",
-    "metric_value": 18,
+    "title": "用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad",
+    "url": "https://www.v2ex.com/t/1221570",
+    "description": "大家好，我最近在做一个 Windows 小工具，叫 StartPad 。\n\n一个适合 Windows 的全屏启动台，灵感有点类似 macOS Launchpad ，但 UI 也部分使用了 Fluent 风格。\n我的目标是让 Windows 用户可以更方便地打开应用、整理应用、减少桌面快捷方式的堆积，也不用每次都从开始菜单里找软件。体积非常小只有 1M 多，完全原生开发、GPU 加速。\n目前已有功能：\n\n全屏应用启动台\n快速搜索并打开应用\n支持应用文件夹整理\n支持右键 卸载、创建桌面快捷方式\n支持快捷键呼出\n支持浅色 / 深色模式\n\n将 StartPad 固定到 任务栏，使用 Win + 1 这",
+    "metric": "20 回复",
+    "metric_value": 20,
     "extra": {
-      "node": "GitHub Copilot",
-      "node_name": "copilot",
-      "author": "Julaoshi",
-      "last_touched": 1781873518
+      "node": "Windows",
+      "node_name": "windows",
+      "author": "WPMonkey",
+      "last_touched": 1781902582
     }
   }
 ]
