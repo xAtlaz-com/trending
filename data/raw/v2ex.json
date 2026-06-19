@@ -4,13 +4,13 @@
     "title": "端午节快乐！求推荐高质量 VPS 线路",
     "url": "https://www.v2ex.com/t/1221493",
     "description": "楼主联通宽带，以前用过几年 dmit ，稳定性可以，速度感觉一般。后来蹬了一年 clawcloud ，速度起飞，稳定性拉胯到底，这个月底要跑路了，得赶紧换一家，不想折腾了，\n预算 3K 每年，如果特别好也可以酌情加一些。机器要稳定（速度，可访问性，ip 质量等各方面），位置最好是新加坡（现在 ip 所在地，怕突然换地区 cc 之类的被风控），次选香港日本等。\n可以接受推广链接，但希望对得起前面的标准，谢谢各位~",
-    "metric": "52 回复",
-    "metric_value": 52,
+    "metric": "53 回复",
+    "metric_value": 53,
     "extra": {
       "node": "VPS",
       "node_name": "vps",
       "author": "wdv2ly",
-      "last_touched": 1781885520
+      "last_touched": 1781889120
     }
   },
   {
@@ -32,8 +32,8 @@
     "title": "停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗",
     "url": "https://www.v2ex.com/t/1221483",
     "description": "硬盘已经过保了，数据倒是不重要，因为插上那 3 块硬盘的任意一块都不能开机，所以我怀疑是硬盘短路了，这种情况还能抢救一下吗？现在硬盘价格涨的太多了，换硬盘小几千就没了。",
-    "metric": "35 回复",
-    "metric_value": 35,
+    "metric": "36 回复",
+    "metric_value": 36,
     "extra": {
       "node": "NAS",
       "node_name": "nas",
@@ -43,6 +43,20 @@
   },
   {
     "rank": 4,
+    "title": "为啥 V2EX 有时候需要刷新好几次才能正常打开？",
+    "url": "https://www.v2ex.com/t/1221485",
+    "description": "刷新好几次都是 connect close ，再多刷新几次就进来了😂",
+    "metric": "35 回复",
+    "metric_value": 35,
+    "extra": {
+      "node": "宽带症候群",
+      "node_name": "bb",
+      "author": "desususula",
+      "last_touched": 1781882053
+    }
+  },
+  {
+    "rank": 5,
     "title": "年近 40，继续私企国企怎么选",
     "url": "https://www.v2ex.com/t/1221502",
     "description": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
@@ -56,7 +70,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？",
     "url": "https://www.v2ex.com/t/1221472",
     "description": "我这吭哧吭哧重度用了 10 天，才刚把补偿的部分用掉一半。同时两三个项目在进行，感觉比以前更累了。",
@@ -67,20 +81,6 @@
       "node_name": "programmer",
       "author": "hpan",
       "last_touched": 1781892677
-    }
-  },
-  {
-    "rank": 6,
-    "title": "为啥 V2EX 有时候需要刷新好几次才能正常打开？",
-    "url": "https://www.v2ex.com/t/1221485",
-    "description": "刷新好几次都是 connect close ，再多刷新几次就进来了😂",
-    "metric": "34 回复",
-    "metric_value": 34,
-    "extra": {
-      "node": "宽带症候群",
-      "node_name": "bb",
-      "author": "desususula",
-      "last_touched": 1781878453
     }
   },
   {
@@ -102,13 +102,13 @@
     "title": "vim 真的好用吗？",
     "url": "https://www.v2ex.com/t/1221499",
     "description": "我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "metric": "28 回复",
+    "metric_value": 28,
     "extra": {
       "node": "编辑器",
       "node_name": "editors",
       "author": "Zarhani",
-      "last_touched": 1781894414
+      "last_touched": 1781903822
     }
   },
   {
