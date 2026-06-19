@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-19T10:43:09+00:00",
+  "updated_at": "2026-06-19T14:14:52+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "端午节快乐！求推荐高质量 VPS 线路",
       "url": "https://www.v2ex.com/t/1221493",
       "description": "楼主联通宽带，以前用过几年 dmit ，稳定性可以，速度感觉一般。后来蹬了一年 clawcloud ，速度起飞，稳定性拉胯到底，这个月底要跑路了，得赶紧换一家，不想折腾了，\n预算 3K 每年，如果特别好也可以酌情加一些。机器要稳定（速度，可访问性，ip 质量等各方面），位置最好是新加坡（现在 ip 所在地，怕突然换地区 cc 之类的被风控），次选香港日本等。\n可以接受推广链接，但希望对得起前面的标准，谢谢各位~",
-      "metric": "41 回复",
-      "metric_value": 41,
+      "metric": "50 回复",
+      "metric_value": 50,
       "extra": {
         "node": "VPS",
         "node_name": "vps",
         "author": "wdv2ly",
-        "last_touched": 1781864389
+        "last_touched": 1781874693
       }
     },
     {
@@ -22,27 +22,27 @@
       "title": "写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训",
       "url": "https://www.v2ex.com/t/1221491",
       "description": "最近闲着没事，自己动手训练了一个网页版的单挑德州扑克机器人（叫它 博弈姬 吧）。本来想写着自己练牌用的，结果现在调教得有点过头，我自己打了几手，目前已经送掉 120+ BB 了……😅今天摸鱼的时候突然想看看社区里隐藏的德扑大佬多不多，发出来给大家解解闷。免注册即玩，每手自动补满 100BB ，但累计盈亏会一直记着。有无聊或者手痒的兄弟去帮我“军训”一下它，看看它到底有没有漏洞？试玩地址： https://heads-up-poker-gto.onrender.com/",
-      "metric": "34 回复",
-      "metric_value": 34,
+      "metric": "40 回复",
+      "metric_value": 40,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "k114413450",
-        "last_touched": 1781865528
+        "last_touched": 1781873603
       }
     },
     {
       "rank": 3,
-      "title": "为啥 V2EX 有时候需要刷新好几次才能正常打开？",
-      "url": "https://www.v2ex.com/t/1221485",
-      "description": "刷新好几次都是 connect close ，再多刷新几次就进来了😂",
-      "metric": "24 回复",
-      "metric_value": 24,
+      "title": "年近 40，继续私企国企怎么选",
+      "url": "https://www.v2ex.com/t/1221502",
+      "description": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
+      "metric": "34 回复",
+      "metric_value": 34,
       "extra": {
-        "node": "宽带症候群",
-        "node_name": "bb",
-        "author": "desususula",
-        "last_touched": 1781863821
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "qtxxm",
+        "last_touched": 1781877585
       }
     },
     {
@@ -50,8 +50,8 @@
       "title": "停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗",
       "url": "https://www.v2ex.com/t/1221483",
       "description": "硬盘已经过保了，数据倒是不重要，因为插上那 3 块硬盘的任意一块都不能开机，所以我怀疑是硬盘短路了，这种情况还能抢救一下吗？现在硬盘价格涨的太多了，换硬盘小几千就没了。",
-      "metric": "23 回复",
-      "metric_value": 23,
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
         "node": "NAS",
         "node_name": "nas",
@@ -61,44 +61,44 @@
     },
     {
       "rank": 5,
-      "title": "年近 40，继续私企国企怎么选",
-      "url": "https://www.v2ex.com/t/1221502",
-      "description": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
-      "metric": "23 回复",
-      "metric_value": 23,
+      "title": "为啥 V2EX 有时候需要刷新好几次才能正常打开？",
+      "url": "https://www.v2ex.com/t/1221485",
+      "description": "刷新好几次都是 connect close ，再多刷新几次就进来了😂",
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "qtxxm",
-        "last_touched": 1781863026
+        "node": "宽带症候群",
+        "node_name": "bb",
+        "author": "desususula",
+        "last_touched": 1781877495
       }
     },
     {
       "rank": 6,
-      "title": "2000 年 30 几岁的人现在已经 60 岁了",
-      "url": "https://www.v2ex.com/t/1221450",
-      "description": "刷到到一个推文如是说\n突然感觉好害怕啊\n你们有什么办法缓解时间恐惧吗",
-      "metric": "22 回复",
-      "metric_value": 22,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "beasnail",
-        "last_touched": 1781860444
-      }
-    },
-    {
-      "rank": 7,
       "title": "一个自用的 golang 的 web 应用要部署到公网，国内哪个云服务最便宜",
       "url": "https://www.v2ex.com/t/1221447",
       "description": "自己用的工具，不需要备案，ip 访问就可以。需要持久化，有个 SQLlite 库。其他什么要求都没有，哪怕天天炸都没事，只要便宜。之前白嫖的 Render ，但是持久化库只免费一个月",
-      "metric": "21 回复",
-      "metric_value": 21,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "VeryZero",
-        "last_touched": 1781863486
+        "last_touched": 1781878437
+      }
+    },
+    {
+      "rank": 7,
+      "title": "2000 年 30 几岁的人现在已经 60 岁了",
+      "url": "https://www.v2ex.com/t/1221450",
+      "description": "刷到到一个推文如是说\n突然感觉好害怕啊\n你们有什么办法缓解时间恐惧吗",
+      "metric": "26 回复",
+      "metric_value": 26,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "beasnail",
+        "last_touched": 1781010989
       }
     },
     {
@@ -106,41 +106,41 @@
       "title": "佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？",
       "url": "https://www.v2ex.com/t/1221472",
       "description": "我这吭哧吭哧重度用了 10 天，才刚把补偿的部分用掉一半。同时两三个项目在进行，感觉比以前更累了。",
-      "metric": "21 回复",
-      "metric_value": 21,
+      "metric": "24 回复",
+      "metric_value": 24,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "hpan",
-        "last_touched": 1781863634
+        "last_touched": 1781876110
       }
     },
     {
       "rank": 9,
-      "title": "有多少 V 友和我一样，公司已经拖欠工资好几个月了？",
-      "url": "https://www.v2ex.com/t/1221429",
-      "description": "连续几个月工资只发当地最低工资，公司人越来越少，剩下的人事情越来越多，打开各种招聘软件都没回音，以前还有各种外包来联系，现在连外包都没，有没有同样处境的朋友，一起来聊聊。",
-      "metric": "18 回复",
-      "metric_value": 18,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "soulflysimple123",
-        "last_touched": 1781836349
-      }
-    },
-    {
-      "rank": 10,
       "title": "vim 真的好用吗？",
       "url": "https://www.v2ex.com/t/1221499",
       "description": "我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？",
-      "metric": "17 回复",
-      "metric_value": 17,
+      "metric": "24 回复",
+      "metric_value": 24,
       "extra": {
         "node": "编辑器",
         "node_name": "editors",
         "author": "Zarhani",
-        "last_touched": 1781863070
+        "last_touched": 1781878083
+      }
+    },
+    {
+      "rank": 10,
+      "title": "目前海外 esim 手机号在国内，哪个最好？",
+      "url": "https://www.v2ex.com/t/1221525",
+      "description": "发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？",
+      "metric": "20 回复",
+      "metric_value": 20,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "tcper",
+        "last_touched": 1781874552
       }
     }
   ]
