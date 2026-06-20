@@ -4,29 +4,29 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sat, 20 Jun 2026 04:00:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 07:56:17 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒</title>
 <link>https://www.v2ex.com/t/1221581</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221581</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#1 | 39 回复 | 昨天想查一下今天龙舟赛的安排，就用 DuckDuckGo 快速搜了一下，点进一个网站。https://hkcdba.org/hkidbr （后面查又说是官方网站，是被黑了吗？）
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#1 | 50 回复 | 昨天想查一下今天龙舟赛的安排，就用 DuckDuckGo 快速搜了一下，点进一个网站。https://hkcdba.org/hkidbr （后面查又说是官方网站，是被黑了吗？）
 打开之后，弹出了标准的 "I'm not a robot" reCAPTCHA 验证。我很自然地就准备开始点图片验证，结果这次等来的压根不是图片，而是直接弹出了一张指引图，一步一步教我怎么打开终端，粘贴进去运行。应该是在我点击验证的时候，就已经把那段命令自动复制到我的剪贴板了。我当时也没多想，平时 github 里粘贴命令运行已经形成肌肉记忆了，鬼使神差地打开终端，直接粘贴，按下</description>
 </item>
 <item>
-<title>目前海外 esim 手机号在国内，哪个最好？</title>
-<link>https://www.v2ex.com/t/1221525</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221525</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#2 | 35 回复 | 发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？</description>
+<title>来说说🪜的客户端</title>
+<link>https://www.v2ex.com/t/1221607</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221607</guid>
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#2 | 50 回复 | 最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空有没有推荐下新成长起来的客户端啊flclash 适合桌面端吗还有其他推荐吗？或者大家按照每个端来给一个极客和小白都比较认可的iOS：android：win：macOS：</description>
 </item>
 <item>
 <title>用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad</title>
 <link>https://www.v2ex.com/t/1221570</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221570</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#3 | 34 回复 | 大家好，我最近在做一个 Windows 小工具，叫 StartPad 。
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#3 | 42 回复 | 大家好，我最近在做一个 Windows 小工具，叫 StartPad 。
 
 一个适合 Windows 的全屏启动台，灵感有点类似 macOS Launchpad ，但 UI 也部分使用了 Fluent 风格。
 我的目标是让 Windows 用户可以更方便地打开应用、整理应用、减少桌面快捷方式的堆积，也不用每次都从开始菜单里找软件。体积非常小只有 1M 多，完全原生开发、GPU 加速。
@@ -42,68 +42,67 @@
 将 StartPad </description>
 </item>
 <item>
-<title>来说说🪜的客户端</title>
-<link>https://www.v2ex.com/t/1221607</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221607</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#4 | 28 回复 | 最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空有没有推荐下新成长起来的客户端啊flclash 适合桌面端吗还有其他推荐吗？或者大家按照每个端来给一个极客和小白都比较认可的iOS：android：win：macOS：</description>
+<title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
+<link>https://www.v2ex.com/t/1221614</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221614</guid>
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#4 | 39 回复 | 这是一个我问自己的问题，也是我逛帖子发现的一个问题。
+大家都在用 AI 写代码，写公司的项目。
+更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。
+所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？
+以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？
+所以，又陷入了悲观！同时也是磨灭了自己创造的动力～
+我的意思是陷入这种思维的原因有如下两点：</description>
 </item>
 <item>
 <title>前端界面比想象中复杂好多</title>
 <link>https://www.v2ex.com/t/1221555</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221555</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#5 | 23 回复 | 刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#5 | 25 回复 | 刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。
 前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。
 痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最</description>
-</item>
-<item>
-<title>GitHub copilot 重新恢复订阅了</title>
-<link>https://www.v2ex.com/t/1221510</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221510</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#6 | 21 回复 | 之前 4 月份下旬似乎不再接受新订阅了。今天试了下，发现能恢复了。虽然性价比比以前差了很多，但是我感觉 vs code 用起来还是最顺的，修改也最精准。准备先用个 $10 套餐试试。</description>
-</item>
-<item>
-<title>小散不要炒个股不要盯盘不要做 T</title>
-<link>https://www.v2ex.com/t/1221533</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221533</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#7 | 19 回复 | 标题就是我的观点，小散没有任何可靠的消息源也没有精力和能力，所以不要碰个股，老老实实买 ETF 比如标普或者纳指，这两货不用任何知识，看几十年涨涨跌跌都能收回来创新高就好了，足足的信心，逢低买入，觉得不够刺激就玩 SPXL 或者 TQQQ ，但这都是有震荡损耗的，什么是震荡损耗自己 Google ，然后不要盯盘不要做 T 能把心态调整平缓，盯盘容易为一点点上下蠢蠢欲动，进进出出对散户没有好处。</description>
-</item>
-<item>
-<title>请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？</title>
-<link>https://www.v2ex.com/t/1221563</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221563</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#8 | 18 回复 | VIM 有办法做到类似 IDE 那样吗？我想用它做主力，但是感觉在这方面没有 ide 方便，特别是 c++的项目</description>
-</item>
-<item>
-<title>GLM5.2 个人感觉有点被吹大了</title>
-<link>https://www.v2ex.com/t/1221519</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221519</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#9 | 17 回复 | 前几周用了几天 Claude-fable-5 模型，确实很明显的感觉准确率非常高，理解能力也非常高，基本一遍过。在这个之前我大部分使用 Opus4.8 以及 Sonnet4.6, 理论上我用 sonnet 4.6 更多。
-这段时间看 GLM 这么火，我也凑热闹去抢了下，一直没抢到，干脆购买了国外版本的 z.ai 的套餐。这几天重度使用了一下，说说我的感受：
-前提：我都是用的 claude code cli
-
-
-GLM5.2 有点话痨，有的时候说一堆话，甚至大段重复，不够言简意赅
-
-
-
-GLM5.2 对整个项目的把控不如 claude code ，要 GL</description>
 </item>
 <item>
 <title>好难受, 现在是不是 GLM 最适合我了</title>
 <link>https://www.v2ex.com/t/1221559</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221559</guid>
-<pubDate>Sat, 20 Jun 2026 04:00:40 +0000</pubDate>
-<description>#10 | 16 回复 | 一开始是 copilot, 然后 6 月份 copilot 按照 credit 付费, 感觉支付不起.
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#6 | 19 回复 | 一开始是 copilot, 然后 6 月份 copilot 按照 credit 付费, 感觉支付不起.
 发现 codex 还不错, 然后昨天被二次验证劝退了.
 claude code 原生的我连尝试都没敢尝试. 太麻烦.
 那就剩 cursor 了, 要么就是 GLM? 或者 deepseek.
 cursor 20/月 那个抗造不? codex 20 美金反正是够我用.</description>
+</item>
+<item>
+<title>请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？</title>
+<link>https://www.v2ex.com/t/1221563</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221563</guid>
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#7 | 19 回复 | VIM 有办法做到类似 IDE 那样吗？我想用它做主力，但是感觉在这方面没有 ide 方便，特别是 c++的项目</description>
+</item>
+<item>
+<title>没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。</title>
+<link>https://www.v2ex.com/t/1221598</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221598</guid>
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#8 | 18 回复 | 早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？</description>
+</item>
+<item>
+<title>codex 和 cc 那个更好用些？</title>
+<link>https://www.v2ex.com/t/1221550</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221550</guid>
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#9 | 16 回复 | 在 x 上刷到关于 codex 的使用姿势和讨论。
+chatgpt 5.5 pro 的规划能力更强，用 5.5 pro 规划，之后 codex 实现？
+codex + gpt5.5 更好用些？</description>
+</item>
+<item>
+<title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
+<link>https://www.v2ex.com/t/1221604</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221604</guid>
+<pubDate>Sat, 20 Jun 2026 07:56:17 +0000</pubDate>
+<description>#10 | 16 回复 | 早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用看了设置里的记录显示 shadowrocket 使用了 25G很多异常点:1.家里全屋 wifi7 覆盖，为啥会突然走流量2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G</description>
 </item>
 </channel>
 </rss>
