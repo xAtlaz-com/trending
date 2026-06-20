@@ -1,142 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "端午节快乐！求推荐高质量 VPS 线路",
-    "url": "https://www.v2ex.com/t/1221493",
-    "description": "楼主联通宽带，以前用过几年 dmit ，稳定性可以，速度感觉一般。后来蹬了一年 clawcloud ，速度起飞，稳定性拉胯到底，这个月底要跑路了，得赶紧换一家，不想折腾了，\n预算 3K 每年，如果特别好也可以酌情加一些。机器要稳定（速度，可访问性，ip 质量等各方面），位置最好是新加坡（现在 ip 所在地，怕突然换地区 cc 之类的被风控），次选香港日本等。\n可以接受推广链接，但希望对得起前面的标准，谢谢各位~",
-    "metric": "53 回复",
-    "metric_value": 53,
+    "title": "一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒",
+    "url": "https://www.v2ex.com/t/1221581",
+    "description": "昨天想查一下今天龙舟赛的安排，就用 DuckDuckGo 快速搜了一下，点进一个网站。https://hkcdba.org/hkidbr （后面查又说是官方网站，是被黑了吗？）\n打开之后，弹出了标准的 \"I'm not a robot\" reCAPTCHA 验证。我很自然地就准备开始点图片验证，结果这次等来的压根不是图片，而是直接弹出了一张指引图，一步一步教我怎么打开终端，粘贴进去运行。应该是在我点击验证的时候，就已经把那段命令自动复制到我的剪贴板了。我当时也没多想，平时 github 里粘贴命令运行已经形成肌肉记忆了，鬼使神差地打开终端，直接粘贴，按下了回车。\n运行的命令是这样的\necho ",
+    "metric": "39 回复",
+    "metric_value": 39,
     "extra": {
-      "node": "VPS",
-      "node_name": "vps",
-      "author": "wdv2ly",
-      "last_touched": 1781889120
+      "node": "信息安全",
+      "node_name": "security",
+      "author": "Genieliu111",
+      "last_touched": 1781927504
     }
   },
   {
     "rank": 2,
-    "title": "写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训",
-    "url": "https://www.v2ex.com/t/1221491",
-    "description": "最近闲着没事，自己动手训练了一个网页版的单挑德州扑克机器人（叫它 博弈姬 吧）。本来想写着自己练牌用的，结果现在调教得有点过头，我自己打了几手，目前已经送掉 120+ BB 了……😅今天摸鱼的时候突然想看看社区里隐藏的德扑大佬多不多，发出来给大家解解闷。免注册即玩，每手自动补满 100BB ，但累计盈亏会一直记着。有无聊或者手痒的兄弟去帮我“军训”一下它，看看它到底有没有漏洞？试玩地址： https://heads-up-poker-gto.onrender.com/",
-    "metric": "43 回复",
-    "metric_value": 43,
-    "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "k114413450",
-      "last_touched": 1781884964
-    }
-  },
-  {
-    "rank": 3,
-    "title": "停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗",
-    "url": "https://www.v2ex.com/t/1221483",
-    "description": "硬盘已经过保了，数据倒是不重要，因为插上那 3 块硬盘的任意一块都不能开机，所以我怀疑是硬盘短路了，这种情况还能抢救一下吗？现在硬盘价格涨的太多了，换硬盘小几千就没了。",
-    "metric": "36 回复",
-    "metric_value": 36,
-    "extra": {
-      "node": "NAS",
-      "node_name": "nas",
-      "author": "ebushicao",
-      "last_touched": 1781141615
-    }
-  },
-  {
-    "rank": 4,
-    "title": "为啥 V2EX 有时候需要刷新好几次才能正常打开？",
-    "url": "https://www.v2ex.com/t/1221485",
-    "description": "刷新好几次都是 connect close ，再多刷新几次就进来了😂",
-    "metric": "35 回复",
-    "metric_value": 35,
-    "extra": {
-      "node": "宽带症候群",
-      "node_name": "bb",
-      "author": "desususula",
-      "last_touched": 1781882053
-    }
-  },
-  {
-    "rank": 5,
-    "title": "年近 40，继续私企国企怎么选",
-    "url": "https://www.v2ex.com/t/1221502",
-    "description": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
-    "metric": "35 回复",
-    "metric_value": 35,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "qtxxm",
-      "last_touched": 1781877585
-    }
-  },
-  {
-    "rank": 6,
-    "title": "佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？",
-    "url": "https://www.v2ex.com/t/1221472",
-    "description": "我这吭哧吭哧重度用了 10 天，才刚把补偿的部分用掉一半。同时两三个项目在进行，感觉比以前更累了。",
-    "metric": "34 回复",
-    "metric_value": 34,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "hpan",
-      "last_touched": 1781892677
-    }
-  },
-  {
-    "rank": 7,
-    "title": "vim 真的好用吗？",
-    "url": "https://www.v2ex.com/t/1221499",
-    "description": "我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？",
-    "metric": "30 回复",
-    "metric_value": 30,
-    "extra": {
-      "node": "编辑器",
-      "node_name": "editors",
-      "author": "Zarhani",
-      "last_touched": 1781907171
-    }
-  },
-  {
-    "rank": 8,
     "title": "目前海外 esim 手机号在国内，哪个最好？",
     "url": "https://www.v2ex.com/t/1221525",
     "description": "发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？",
-    "metric": "30 回复",
-    "metric_value": 30,
+    "metric": "35 回复",
+    "metric_value": 35,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "tcper",
-      "last_touched": 1781885723
+      "last_touched": 1781903723
     }
   },
   {
-    "rank": 9,
-    "title": "前端界面比想象中复杂好多",
-    "url": "https://www.v2ex.com/t/1221555",
-    "description": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因",
-    "metric": "22 回复",
-    "metric_value": 22,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "weiyunjun",
-      "last_touched": 1781894385
-    }
-  },
-  {
-    "rank": 10,
+    "rank": 3,
     "title": "用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad",
     "url": "https://www.v2ex.com/t/1221570",
     "description": "大家好，我最近在做一个 Windows 小工具，叫 StartPad 。\n\n一个适合 Windows 的全屏启动台，灵感有点类似 macOS Launchpad ，但 UI 也部分使用了 Fluent 风格。\n我的目标是让 Windows 用户可以更方便地打开应用、整理应用、减少桌面快捷方式的堆积，也不用每次都从开始菜单里找软件。体积非常小只有 1M 多，完全原生开发、GPU 加速。\n目前已有功能：\n\n全屏应用启动台\n快速搜索并打开应用\n支持应用文件夹整理\n支持右键 卸载、创建桌面快捷方式\n支持快捷键呼出\n支持浅色 / 深色模式\n\n将 StartPad 固定到 任务栏，使用 Win + 1 这",
-    "metric": "20 回复",
-    "metric_value": 20,
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
       "node": "Windows",
       "node_name": "windows",
       "author": "WPMonkey",
-      "last_touched": 1781902582
+      "last_touched": 1781925408
+    }
+  },
+  {
+    "rank": 4,
+    "title": "来说说🪜的客户端",
+    "url": "https://www.v2ex.com/t/1221607",
+    "description": "最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空有没有推荐下新成长起来的客户端啊flclash 适合桌面端吗还有其他推荐吗？或者大家按照每个端来给一个极客和小白都比较认可的iOS：android：win：macOS：",
+    "metric": "28 回复",
+    "metric_value": 28,
+    "extra": {
+      "node": "VPS",
+      "node_name": "vps",
+      "author": "lezhou",
+      "last_touched": 1781927415
+    }
+  },
+  {
+    "rank": 5,
+    "title": "前端界面比想象中复杂好多",
+    "url": "https://www.v2ex.com/t/1221555",
+    "description": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因",
+    "metric": "23 回复",
+    "metric_value": 23,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "weiyunjun",
+      "last_touched": 1781897985
+    }
+  },
+  {
+    "rank": 6,
+    "title": "GitHub copilot 重新恢复订阅了",
+    "url": "https://www.v2ex.com/t/1221510",
+    "description": "之前 4 月份下旬似乎不再接受新订阅了。今天试了下，发现能恢复了。虽然性价比比以前差了很多，但是我感觉 vs code 用起来还是最顺的，修改也最精准。准备先用个 $10 套餐试试。",
+    "metric": "21 回复",
+    "metric_value": 21,
+    "extra": {
+      "node": "GitHub Copilot",
+      "node_name": "copilot",
+      "author": "Julaoshi",
+      "last_touched": 1781877118
+    }
+  },
+  {
+    "rank": 7,
+    "title": "小散不要炒个股不要盯盘不要做 T",
+    "url": "https://www.v2ex.com/t/1221533",
+    "description": "标题就是我的观点，小散没有任何可靠的消息源也没有精力和能力，所以不要碰个股，老老实实买 ETF 比如标普或者纳指，这两货不用任何知识，看几十年涨涨跌跌都能收回来创新高就好了，足足的信心，逢低买入，觉得不够刺激就玩 SPXL 或者 TQQQ ，但这都是有震荡损耗的，什么是震荡损耗自己 Google ，然后不要盯盘不要做 T 能把心态调整平缓，盯盘容易为一点点上下蠢蠢欲动，进进出出对散户没有好处。",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "投资",
+      "node_name": "invest",
+      "author": "easonhui",
+      "last_touched": 1781904511
+    }
+  },
+  {
+    "rank": 8,
+    "title": "请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？",
+    "url": "https://www.v2ex.com/t/1221563",
+    "description": "VIM 有办法做到类似 IDE 那样吗？我想用它做主力，但是感觉在这方面没有 ide 方便，特别是 c++的项目",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "Vim",
+      "node_name": "vim",
+      "author": "kekxv",
+      "last_touched": 1781893185
+    }
+  },
+  {
+    "rank": 9,
+    "title": "GLM5.2 个人感觉有点被吹大了",
+    "url": "https://www.v2ex.com/t/1221519",
+    "description": "前几周用了几天 Claude-fable-5 模型，确实很明显的感觉准确率非常高，理解能力也非常高，基本一遍过。在这个之前我大部分使用 Opus4.8 以及 Sonnet4.6, 理论上我用 sonnet 4.6 更多。\n这段时间看 GLM 这么火，我也凑热闹去抢了下，一直没抢到，干脆购买了国外版本的 z.ai 的套餐。这几天重度使用了一下，说说我的感受：\n前提：我都是用的 claude code cli\n\n\nGLM5.2 有点话痨，有的时候说一堆话，甚至大段重复，不够言简意赅\n\n\n\nGLM5.2 对整个项目的把控不如 claude code ，要 GLM 做一个功能，他有时不先去看程序是不是",
+    "metric": "17 回复",
+    "metric_value": 17,
+    "extra": {
+      "node": "Local LLM",
+      "node_name": "localllm",
+      "author": "hihihihihi",
+      "last_touched": 1781889401
+    }
+  },
+  {
+    "rank": 10,
+    "title": "好难受, 现在是不是 GLM 最适合我了",
+    "url": "https://www.v2ex.com/t/1221559",
+    "description": "一开始是 copilot, 然后 6 月份 copilot 按照 credit 付费, 感觉支付不起.\n发现 codex 还不错, 然后昨天被二次验证劝退了.\nclaude code 原生的我连尝试都没敢尝试. 太麻烦.\n那就剩 cursor 了, 要么就是 GLM? 或者 deepseek.\ncursor 20/月 那个抗造不? codex 20 美金反正是够我用.",
+    "metric": "16 回复",
+    "metric_value": 16,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "chaleaochexist",
+      "last_touched": 1781889007
     }
   }
 ]
