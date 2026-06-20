@@ -1,34 +1,34 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-20T10:36:17+00:00",
+  "updated_at": "2026-06-20T12:28:09+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "来说说🪜的客户端",
-      "url": "https://www.v2ex.com/t/1221607",
-      "description": "最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空有没有推荐下新成长起来的客户端啊flclash 适合桌面端吗还有其他推荐吗？或者大家按照每个端来给一个极客和小白都比较认可的iOS：android：win：macOS：",
-      "metric": "66 回复",
-      "metric_value": 66,
-      "extra": {
-        "node": "VPS",
-        "node_name": "vps",
-        "author": "lezhou",
-        "last_touched": 1781951144
-      }
-    },
-    {
-      "rank": 2,
       "title": "问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？",
       "url": "https://www.v2ex.com/t/1221614",
       "description": "这是一个我问自己的问题，也是我逛帖子发现的一个问题。\n大家都在用 AI 写代码，写公司的项目。\n更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。\n所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？\n以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？\n所以，又陷入了悲观！同时也是磨灭了自己创造的动力～\n我的意思是陷入这种思维的原因有如下两点：\n1 、缺少想法\n2 、缺少行动\n谁赞成",
-      "metric": "66 回复",
-      "metric_value": 66,
+      "metric": "87 回复",
+      "metric_value": 87,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "ttkit",
-        "last_touched": 1781951048
+        "last_touched": 1781958410
+      }
+    },
+    {
+      "rank": 2,
+      "title": "来说说🪜的客户端",
+      "url": "https://www.v2ex.com/t/1221607",
+      "description": "最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空有没有推荐下新成长起来的客户端啊flclash 适合桌面端吗还有其他推荐吗？或者大家按照每个端来给一个极客和小白都比较认可的iOS：android：win：macOS：",
+      "metric": "72 回复",
+      "metric_value": 72,
+      "extra": {
+        "node": "VPS",
+        "node_name": "vps",
+        "author": "lezhou",
+        "last_touched": 1781956579
       }
     },
     {
@@ -36,8 +36,8 @@
       "title": "一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒",
       "url": "https://www.v2ex.com/t/1221581",
       "description": "昨天想查一下今天龙舟赛的安排，就用 DuckDuckGo 快速搜了一下，点进一个网站。https://hkcdba.org/hkidbr （后面查又说是官方网站，是被黑了吗？）\n打开之后，弹出了标准的 \"I'm not a robot\" reCAPTCHA 验证。我很自然地就准备开始点图片验证，结果这次等来的压根不是图片，而是直接弹出了一张指引图，一步一步教我怎么打开终端，粘贴进去运行。应该是在我点击验证的时候，就已经把那段命令自动复制到我的剪贴板了。我当时也没多想，平时 github 里粘贴命令运行已经形成肌肉记忆了，鬼使神差地打开终端，直接粘贴，按下了回车。\n运行的命令是这样的\necho ",
-      "metric": "55 回复",
-      "metric_value": 55,
+      "metric": "56 回复",
+      "metric_value": 56,
       "extra": {
         "node": "信息安全",
         "node_name": "security",
@@ -50,69 +50,69 @@
       "title": "用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad",
       "url": "https://www.v2ex.com/t/1221570",
       "description": "大家好，我最近在做一个 Windows 小工具，叫 StartPad 。\n\n一个适合 Windows 的全屏启动台，灵感有点类似 macOS Launchpad ，但 UI 也部分使用了 Fluent 风格。\n我的目标是让 Windows 用户可以更方便地打开应用、整理应用、减少桌面快捷方式的堆积，也不用每次都从开始菜单里找软件。体积非常小只有 1M 多，完全原生开发、GPU 加速。\n目前已有功能：\n\n全屏应用启动台\n快速搜索并打开应用\n支持应用文件夹整理\n支持右键 卸载、创建桌面快捷方式\n支持快捷键呼出\n支持浅色 / 深色模式\n\n将 StartPad 固定到 任务栏，使用 Win + 1 这",
-      "metric": "47 回复",
-      "metric_value": 47,
+      "metric": "49 回复",
+      "metric_value": 49,
       "extra": {
         "node": "Windows",
         "node_name": "windows",
         "author": "WPMonkey",
-        "last_touched": 1781945272
+        "last_touched": 1781957404
       }
     },
     {
       "rank": 5,
-      "title": "前端界面比想象中复杂好多",
-      "url": "https://www.v2ex.com/t/1221555",
-      "description": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因",
-      "metric": "25 回复",
-      "metric_value": 25,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "weiyunjun",
-        "last_touched": 1781901585
-      }
-    },
-    {
-      "rank": 6,
       "title": "iPhone17 凌晨异常使用蜂窝数据欠费 500 多",
       "url": "https://www.v2ex.com/t/1221604",
       "description": "早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用看了设置里的记录显示 shadowrocket 使用了 25G很多异常点:1.家里全屋 wifi7 覆盖，为啥会突然走流量2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "29 回复",
+      "metric_value": 29,
       "extra": {
         "node": "Apple",
         "node_name": "apple",
         "author": "FringJX",
-        "last_touched": 1781909538
+        "last_touched": 1781920338
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "我明明选的是 GLM-4.7，他告诉我他是 Claude。",
       "url": "https://www.v2ex.com/t/1221642",
       "description": "who are you.\n\nI am Claude, an AI assistant developed by Anthropic. I'm designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects.\n\n你是什么大模型？\n\n我是 Claude ，是由 Anthropic 开发的大型语言模型。\n我已经分不清谁是谁了。",
-      "metric": "19 回复",
-      "metric_value": 19,
+      "metric": "25 回复",
+      "metric_value": 25,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "sn0wdr1am",
-        "last_touched": 1781950438
+        "last_touched": 1781957426
+      }
+    },
+    {
+      "rank": 7,
+      "title": "刚转行做猎头，你们最想在招聘信息里面看到什么？",
+      "url": "https://www.v2ex.com/t/1221582",
+      "description": "大家好，我是刚转行做猎头的新人。\n以前我也在 V2EX 潜水，知道大家最烦那种连 JD 都说不清的招聘信息。所以今天发帖不为别的，就是想跟各位交个底——我现在手头有一些技术岗的机会，但我不想硬推，我想先听听你们的声音。\n你们看招聘信息时，最想第一时间看到什么？是薪资范围的真实区间，还是技术栈的具体版本，或者团队氛围、加班情况？面试流程有几轮？有没有笔试？ hc 多不多？这些问题你们尽管扔过来，我用人话回答，绝不复制粘贴官话。\n我就想做个不一样的猎头，把信息聊透，帮大家节省时间。有任何想问的，直接在帖子里回，每条我都看。谢谢各位。",
+      "metric": "21 回复",
+      "metric_value": 21,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "jiangmuAlvin",
+        "last_touched": 1781935366
       }
     },
     {
       "rank": 8,
-      "title": "好难受, 现在是不是 GLM 最适合我了",
-      "url": "https://www.v2ex.com/t/1221559",
-      "description": "一开始是 copilot, 然后 6 月份 copilot 按照 credit 付费, 感觉支付不起.\n发现 codex 还不错, 然后昨天被二次验证劝退了.\nclaude code 原生的我连尝试都没敢尝试. 太麻烦.\n那就剩 cursor 了, 要么就是 GLM? 或者 deepseek.\ncursor 20/月 那个抗造不? codex 20 美金反正是够我用.",
-      "metric": "19 回复",
-      "metric_value": 19,
+      "title": "航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？",
+      "url": "https://www.v2ex.com/t/1221647",
+      "description": "英国航班 BA271 飞行中一名乘客用充电宝给手机充电。突然充电宝爆炸起火，机上乘客以为遇到恐袭。最终充电宝火灾烧毁了一个座椅后被乘务组扑灭，飞机就近紧急降落。这个飞行中使用充电宝充电的乘客要承担多少责任？会不会要陪天文数字的钱（飞机修复，航班费用，其他旅客延误赔偿等）？有没有可能设计刑事责任？",
+      "metric": "20 回复",
+      "metric_value": 20,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
-        "author": "chaleaochexist",
-        "last_touched": 1781896207
+        "author": "moudy",
+        "last_touched": 1781958224
       }
     },
     {
@@ -131,16 +131,16 @@
     },
     {
       "rank": 10,
-      "title": "刚转行做猎头，你们最想在招聘信息里面看到什么？",
-      "url": "https://www.v2ex.com/t/1221582",
-      "description": "大家好，我是刚转行做猎头的新人。\n以前我也在 V2EX 潜水，知道大家最烦那种连 JD 都说不清的招聘信息。所以今天发帖不为别的，就是想跟各位交个底——我现在手头有一些技术岗的机会，但我不想硬推，我想先听听你们的声音。\n你们看招聘信息时，最想第一时间看到什么？是薪资范围的真实区间，还是技术栈的具体版本，或者团队氛围、加班情况？面试流程有几轮？有没有笔试？ hc 多不多？这些问题你们尽管扔过来，我用人话回答，绝不复制粘贴官话。\n我就想做个不一样的猎头，把信息聊透，帮大家节省时间。有任何想问的，直接在帖子里回，每条我都看。谢谢各位。",
+      "title": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。",
+      "url": "https://www.v2ex.com/t/1221598",
+      "description": "早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
       "metric": "19 回复",
       "metric_value": 19,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "jiangmuAlvin",
-        "last_touched": 1781928166
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "emmathoermer",
+        "last_touched": 1781943948
       }
     }
   ]
