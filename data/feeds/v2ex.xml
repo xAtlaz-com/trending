@@ -4,27 +4,14 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sun, 21 Jun 2026 00:11:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 05:26:41 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
-<item>
-<title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
-<link>https://www.v2ex.com/t/1221614</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221614</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#1 | 115 回复 | 这是一个我问自己的问题，也是我逛帖子发现的一个问题。
-大家都在用 AI 写代码，写公司的项目。
-更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。
-所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？
-以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？
-所以，又陷入了悲观！同时也是磨灭了自己创造的动力～
-我的意思是陷入这种思维的原因有如下两点：</description>
-</item>
 <item>
 <title>Vibe Coding 了两年，分享一下我对于 Vibe 的感想。</title>
 <link>https://www.v2ex.com/t/1221657</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221657</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#2 | 41 回复 | 以下为个人观点，基本上全是暴论，不喜勿喷，给孩子留点面子吧😭
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#1 | 55 回复 | 以下为个人观点，基本上全是暴论，不喜勿喷，给孩子留点面子吧😭
 我是从 2024 年读高二的时候了解到 Vibe Coding 的（当时大家还没有叫它 Vibe Coding ），当时 DeepSeek 刚出 R1 ，除了 OpenAI 的 GPT-o1 之外，大家还没来得及用上思维链，也没有那么强的性能，参数量最大的模型的话好像是 R1 的 671B 。
 当时 Token 还没有现在那么便宜，而我又是穷鬼高中生，听说这玩意儿可以辅助编程，便心心念念日思夜想，看着 GPT-o1 馋到流口水，根本买不起订阅。
 所幸，我一位玩得好的远房表哥在 AWS 悉尼工作</description>
@@ -33,8 +20,8 @@
 <title>我明明选的是 GLM-4.7，他告诉我他是 Claude。</title>
 <link>https://www.v2ex.com/t/1221642</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221642</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#3 | 38 回复 | who are you.
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#2 | 47 回复 | who are you.
 
 I am Claude, an AI assistant developed by Anthropic. I'm designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects.
 
@@ -47,43 +34,71 @@ I am Claude, an AI assistant developed by Anthropic. I'm designed to be helpful,
 <title>航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？</title>
 <link>https://www.v2ex.com/t/1221647</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221647</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#4 | 35 回复 | 英国航班 BA271 飞行中一名乘客用充电宝给手机充电。突然充电宝爆炸起火，机上乘客以为遇到恐袭。最终充电宝火灾烧毁了一个座椅后被乘务组扑灭，飞机就近紧急降落。这个飞行中使用充电宝充电的乘客要承担多少责任？会不会要陪天文数字的钱（飞机修复，航班费用，其他旅客延误赔偿等）？有没有可能设计刑事责任？</description>
-</item>
-<item>
-<title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
-<link>https://www.v2ex.com/t/1221604</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221604</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#5 | 35 回复 | 早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用看了设置里的记录显示 shadowrocket 使用了 25G很多异常点:1.家里全屋 wifi7 覆盖，为啥会突然走流量2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G</description>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#3 | 38 回复 | 英国航班 BA271 飞行中一名乘客用充电宝给手机充电。突然充电宝爆炸起火，机上乘客以为遇到恐袭。最终充电宝火灾烧毁了一个座椅后被乘务组扑灭，飞机就近紧急降落。这个飞行中使用充电宝充电的乘客要承担多少责任？会不会要陪天文数字的钱（飞机修复，航班费用，其他旅客延误赔偿等）？有没有可能设计刑事责任？</description>
 </item>
 <item>
 <title>[陈恳求助] 现在能买的 VPS 线路有哪些</title>
 <link>https://www.v2ex.com/t/1221665</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221665</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#6 | 29 回复 | 这几年一直都在使用机场，最近太不稳定了，动不动就拉闸，还要自己捣鼓各种分流，心累的很，所以有想法自建，独立节点自用自蹬。
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#4 | 32 回复 | 这几年一直都在使用机场，最近太不稳定了，动不动就拉闸，还要自己捣鼓各种分流，心累的很，所以有想法自建，独立节点自用自蹬。
 在论坛和各个频道研究了几天，定位：江苏电信，测下来感觉必须上 CN2GIA 线路才行，流量平时用量不多，大概 500G 左右。
 奈何搬瓦工现在有点贵，💲49/季度，也没有什么优惠码，有一点点舍不得，预算在 600 左右/年。
 刚刚接触自建，陈恳求助各位佬，有没有什么推荐的线路吗？ 想稳定用下去的。
 如果各位佬有想放生的线路，也可以加价收一下，论坛小透明在此感谢各位大佬。</description>
 </item>
 <item>
-<title>发现自己越来越不爱社交了，这是变成熟还是变麻木？</title>
-<link>https://www.v2ex.com/t/1221608</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1221608</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#7 | 22 回复 | 最近有个挺明显的感觉：以前周末还会约朋友吃饭、打球、随便逛逛，现在下班后只想回家待着。
-不是完全没有朋友，也不是讨厌别人，就是每次想到要出门、聊天、维持情绪，就会觉得累。很多饭局聊来聊去也是房子、工作、孩子、收入，聊完没有放松，反而更疲惫。
-但另一面又会担心，一直这样下去，会不会慢慢把自己的生活圈缩得太小？以后真遇到事情，身边能说话的人越来越少。
-大家有没有类似阶段？你们是顺其自然，还是会刻意维持一些社交？</description>
+<title>突然发现拼多多居然没有做网贷</title>
+<link>https://www.v2ex.com/t/1221710</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221710</guid>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#5 | 28 回复 | 突然发现拼多多居然没有做网贷。。。</description>
 </item>
 <item>
 <title>问一下大家，为什么 Outlook 邮箱那么不受待见？</title>
 <link>https://www.v2ex.com/t/1221638</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1221638</guid>
-<pubDate>Sun, 21 Jun 2026 00:11:38 +0000</pubDate>
-<description>#8 | 21 回复 | 刚刚看到，自己的站被一帮 Outlook 邮箱在自动注册，看起来都是机器人。</description>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#6 | 24 回复 | 刚刚看到，自己的站被一帮 Outlook 邮箱在自动注册，看起来都是机器人。</description>
+</item>
+<item>
+<title>周末好无聊啊！有点为退休后无事可做发愁了</title>
+<link>https://www.v2ex.com/t/1221719</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221719</guid>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#7 | 24 回复 | 大家周末都做点啥呀？孩子老婆带着，我在家里玩电脑，玩电脑也玩的无聊了，也不知道做点啥。将来计划再过几年退休，可是退休后做啥呢？感觉更加无聊了。</description>
+</item>
+<item>
+<title>米家空调的型号也太多了，我似乎分不清国补完 1500 左右，哪个 1.5P 比较合适了</title>
+<link>https://www.v2ex.com/t/1221694</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221694</guid>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#8 | 16 回复 | 35GW-PG15/N1A135GW-PG15/A1A1....我看到了好多这种字样，有懂哥出来支支招吗？我心理预期价位大概在 1500 （国补完）左右，旧品回收以后预期可以提到 1800 左右家里还有旧机，看了下几个平台的回收价格，基本上都在 300+需求：卧室使用，面积大概 20 左右，哪个型号和价格会比较合适呢。现在家里这个老空调实在是消费不起了，5 级能效，我开都不敢开啊！！！！先感谢各位了！</description>
+</item>
+<item>
+<title>针对同一问题， Claude 和 Gemini 的实践对比。</title>
+<link>https://www.v2ex.com/t/1221666</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221666</guid>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#9 | 15 回复 | 模型：
+Claude Opus 4.6 （ Tinking ）
+Gemini 3.1 Pro （ High ）	
+工具：
+Google Antigravity
+提的问题大概就是：
+让他们给我查询 OpenJDK 在 alpine:3.24.0 debian:13.5.0 rocky:10.2.0 上的最新版本号。
+Gemini 3.1 Pro 花了 6 分钟，还在抓耳挠腮，像极了考试中不会做题，疯狂打草稿的我。
+Claude 花了 1 分钟，输出一个漂亮的表格。先别管对不对，总之就是快。
+Claude
+明白了！我现在严格按照您的要求：**从 Docker</description>
+</item>
+<item>
+<title>FaceTime 不同人使用反馈</title>
+<link>https://www.v2ex.com/t/1221689</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1221689</guid>
+<pubDate>Sun, 21 Jun 2026 05:26:41 +0000</pubDate>
+<description>#10 | 15 回复 | 之前推荐别人使用 FaceTime 。主要是我自己使用起来非常好，比较相信 Apple 的服务质量！   这几天见到了那位朋友，问他体验如何。说：非常卡！责怪当地网络不行。这让我想起来之前询问广东的一位朋友也是如此，说网络波动极大，画面经常糊！   但是我自己使用，我经常给家里打电话使用 FaceTime ，并没有说如此的不堪！ FaceTime 的使用也就这两年用起来，主要是电话费太贵了，其次受够了微信这种管控。我家里用的是联通的宽带，平时打回去一般是中国电信或者 Unitel 和 Viettel 网络，并没有出现过什么问题！   询问 Gemini </description>
 </item>
 </channel>
 </rss>
