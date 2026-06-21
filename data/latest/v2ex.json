@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-21T18:06:47+00:00",
+  "updated_at": "2026-06-21T20:13:27+00:00",
   "count": 10,
   "items": [
     {
@@ -106,17 +106,31 @@
       "title": "餐饮店油烟气非常大要怎么处理好",
       "url": "https://www.v2ex.com/t/1221770",
       "description": "我家住在二楼，楼下有个餐饮店，一到中午晚上饭点，油烟气就非常大，客厅卧室都能闻到，关死窗户都没用，打了好几次 12345 和城管执法，依然开的好好的没有任何整改，最近我老婆怀孕了，一闻这个气味就想吐，现在饭点在家里根本呆不了，这种情况要怎么处理好，我想去网上买点那种巨臭的液体，洒到店里去，这种有没有什么风险，民事纠纷赔钱不怕，就是要他的店开不下去，关门倒闭，让他去起诉好了，就怕会被抓进去，这种巨臭的液体二楼会不会也能闻到",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "metric": "27 回复",
+      "metric_value": 27,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "ivae",
-        "last_touched": 1782056691
+        "last_touched": 1782066639
       }
     },
     {
       "rank": 9,
+      "title": "我要给 GLM5.2 道歉",
+      "url": "https://www.v2ex.com/t/1221760",
+      "description": "前几天我发了一个帖子，说 GLM5.2 被过誉，实际不太行。\nhttps://v2ex.com/t/1221519\n后来我注意到评级的是 GLM5.2 max ，我之前在 claude cli 用的是 GLM5.2 high\n而官方也有描述如下：\nFor coding tasks, we recommend using max effort to enable deeper reasoning and more stable performance on complex tasks.\n我这两天又深度体验了一下常开 max effort/ultra code 模式，我觉得体感很好，感觉智能和准确",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "hihihihihi",
+        "last_touched": 1782065848
+      }
+    },
+    {
+      "rank": 10,
       "title": "现在 iPhone17 哪里买最便宜啊？（20260621）",
       "url": "https://www.v2ex.com/t/1221706",
       "description": "大家有推荐吗？",
@@ -127,20 +141,6 @@
         "node_name": "iphone",
         "author": "2232588429",
         "last_touched": 1782049348
-      }
-    },
-    {
-      "rank": 10,
-      "title": "从没想过扁桃体发炎是这么痛苦",
-      "url": "https://www.v2ex.com/t/1221709",
-      "description": "放假前一天起床扁桃体就有轻微不适，没在意，起床后就没感觉了。到了放假第一天晚上，突然就变得特别严重，疼的睡不着，赶紧买了点抗生素和消炎药，到现在发病快 36 小时了，扁桃体肿的连进食都困难，痛苦，第一次经历扁桃体发炎，回想起来应该是近期睡眠、饮食不规律导致的，熬夜的代价太大了。",
-      "metric": "22 回复",
-      "metric_value": 22,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "devfeng",
-        "last_touched": 1782046615
       }
     }
   ]
