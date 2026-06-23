@@ -4,13 +4,13 @@
     "title": "长期来看，中国未来的经济是什么样的？",
     "url": "https://www.v2ex.com/t/1222149",
     "description": "网上很多人以日本为模型来定义中国的经济。比如：房地产泡沫、老龄化、少子化、失落的 30 年...\n那么作为国内最聪明的群体之一，大家怎么看待中国未来的经济呢？比如大家最关心的房价、就业等问题。还有未来中国经济是有可能陷入衰退呢还是稳步发展呢？对于民生来讲，未来是物价通缩呢还是通胀呢？",
-    "metric": "264 回复",
-    "metric_value": 264,
+    "metric": "281 回复",
+    "metric_value": 281,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "Void000",
-      "last_touched": 1782209347
+      "last_touched": 1782220711
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "[送终身会员] Frset - 精致优雅的 macOS 效率工具。剪贴板、截图、开发者工具、Markdown、放假日历等...",
     "url": "https://www.v2ex.com/t/1222144",
     "description": "历时近半年打磨，Frset 终于上架。这些年在 V 站领过大家分享的兑换码，今天也来回馈社区，也顺带宣传。Frset 是一款 macOS 上的「剪贴板管理 + 效率工具箱」菜单栏应用。把一些高频但分散的小功能集中到一处，减少日常工作里来回切换工具。除了常规剪贴板历史，Frset 也会把截图、取色色值、工具处理结果等内容存进剪贴板，方便后续搜索、回顾和再次复制。Mac App Store 下载： https://apps.apple.com/app/frset/id6769786110视频仅演示部分功能，详细介绍可访问官网： https://frset.com剪贴板管理：- Markdown 预",
-    "metric": "182 回复",
-    "metric_value": 182,
+    "metric": "194 回复",
+    "metric_value": 194,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "Mysdes",
-      "last_touched": 1782208804
+      "last_touched": 1782218688
     }
   },
   {
@@ -32,41 +32,41 @@
     "title": "观各种家庭矛盾帖子有感，小红书对女性的影响这么大吗",
     "url": "https://www.v2ex.com/t/1222153",
     "description": "几乎每天的热榜之一就是家庭矛盾，今天看到 突然想离婚了 这个帖子，不少人说仿佛看到自己的影子。\n很多女性都是看小红书的，而且小红书还会推荐不少她们想看的内容，看多了就会对比，从买什么到结婚酒席彩礼，到婆婆给多少钱，月子怎么照顾，宝爸该怎么做，宝妈如何不容易等等\n我看到帖主说自己想离婚，除了他说的原因外，我感觉他老婆也没有一点 B 数，老公辛辛苦苦上班赚钱，而老婆完全不觉得他是在赚钱，就觉得养她是理所当然，自己也没对家庭有什么贡献。并且小红书加持下，还会不少女性觉得老公赚钱赚的少嫌弃他\n所以我一直不喜欢小红书，虽然他在旅游和搜索上真的有用，但是她的算法导致了不少人，尤其是女性的价值观产生了变化，",
-    "metric": "148 回复",
-    "metric_value": 148,
+    "metric": "162 回复",
+    "metric_value": 162,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "johanbo",
-      "last_touched": 1782209212
+      "last_touched": 1782220054
     }
   },
   {
     "rank": 4,
-    "title": "京津通勤的一天时间线",
-    "url": "https://www.v2ex.com/t/1222164",
-    "description": "家住天津南站附近，每天天津南-北京南通勤，公司在永安里地铁站。\n06:00 起床\n06:00~06:20 洗漱、喝一杯白开水、上厕所\n06:20              出门，骑自行车去高铁站，4.5 公里路程\n07:07~07:48  高铁（天津南-北京南），高铁上戴耳机睡觉\n07:48~08:30 下高铁然后坐地铁半小时，下地铁后不行 5 分钟左右到公司。\n08:35              打卡上班\n08:35~11:40  早饭、摸鱼、工作、摸鱼、工作。。。\n11:40~12:00   午饭\n12:00~13:30  午休（打两把王者，1 一点开始睡觉，1 点半醒）\n13:30~1",
-    "metric": "109 回复",
-    "metric_value": 109,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "xing666",
-      "last_touched": 1782208441
-    }
-  },
-  {
-    "rank": 5,
     "title": "两年实盘 +135%，聊聊我用 Claude Code 搭的多 Agent 投研框架",
     "url": "https://www.v2ex.com/t/1222186",
     "description": "做了个 AI 投研系统，4 个 Agent 互相挑刺，结果比我自己分析靠谱多了\n\n你直接问 Claude\"帮我分析拼多多值不值得买\"，它会给你一篇\"一方面...另一方面...\"的平衡文。看起来全面，但没法拿来做决策。\n我想做的系统必须给出明确倾向：一个合理价格区间，当前价位偏高、合理还是偏低，附上置信度。做不到这一点的分析，对决策没有帮助。\n花了一年多，把投研流程拆成了一套多 Agent 对抗系统。项目开源在 GitHub： https://github.com/xbtlin/ai-berkshire\n先看产出\n拿拼多多举例，系统实际跑出来的结论：\n\n商业模式维度：C2M 有壁垒，好生意 → ",
-    "metric": "101 回复",
-    "metric_value": 101,
+    "metric": "120 回复",
+    "metric_value": 120,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "xbtlin",
-      "last_touched": 1782209346
+      "last_touched": 1782220114
+    }
+  },
+  {
+    "rank": 5,
+    "title": "京津通勤的一天时间线",
+    "url": "https://www.v2ex.com/t/1222164",
+    "description": "家住天津南站附近，每天天津南-北京南通勤，公司在永安里地铁站。\n06:00 起床\n06:00~06:20 洗漱、喝一杯白开水、上厕所\n06:20              出门，骑自行车去高铁站，4.5 公里路程\n07:07~07:48  高铁（天津南-北京南），高铁上戴耳机睡觉\n07:48~08:30 下高铁然后坐地铁半小时，下地铁后不行 5 分钟左右到公司。\n08:35              打卡上班\n08:35~11:40  早饭、摸鱼、工作、摸鱼、工作。。。\n11:40~12:00   午饭\n12:00~13:30  午休（打两把王者，1 一点开始睡觉，1 点半醒）\n13:30~1",
+    "metric": "119 回复",
+    "metric_value": 119,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "xing666",
+      "last_touched": 1782218350
     }
   },
   {
@@ -74,13 +74,13 @@
     "title": "财富自由后在哪里定居比较好",
     "url": "https://www.v2ex.com/t/1222107",
     "description": "有和我朋友一样没有小孩，资产在千万左右的么，你们选择在哪里定居？\n这个级别的财产还够不上北上广深，甚至杭州都够不上，但大部分城市应该都够用了。\n财富自由 = 不需要考虑工作；没有小孩 = 不需要考虑教育；\n有情况类似的么，你们选择了定居哪里？还是继续在一线拼搏\nPS：年龄 35 岁",
-    "metric": "100 回复",
-    "metric_value": 100,
+    "metric": "108 回复",
+    "metric_value": 108,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "Tianqi",
-      "last_touched": 1782208094
+      "last_touched": 1782217413
     }
   },
   {
@@ -88,55 +88,55 @@
     "title": "你有多久没有进电影院看电影了？",
     "url": "https://www.v2ex.com/t/1222196",
     "description": "摸鱼翻到说今年电影市场已经测底凉凉了，那些名导、名角的投资过亿的片子都扑该了，平等的撞飞了这个行业的每一个人。我只想说，爽！！\n往年一年还能去电影院看 4 、5 部片子，今年只看了“阿嬷的情书”，还是移动优惠券 3.9 看的，其他电影连关注都没关注过，真不如刷刷 AI 短剧了。",
-    "metric": "92 回复",
-    "metric_value": 92,
+    "metric": "98 回复",
+    "metric_value": 98,
     "extra": {
       "node": "电影",
       "node_name": "movie",
       "author": "sevenyangcc",
-      "last_touched": 1782208524
+      "last_touched": 1782218927
     }
   },
   {
     "rank": 8,
-    "title": "稳定保本收益一年能做到多少？",
-    "url": "https://www.v2ex.com/t/1222136",
-    "description": "5%难吗？",
-    "metric": "70 回复",
-    "metric_value": 70,
-    "extra": {
-      "node": "投资",
-      "node_name": "invest",
-      "author": "0bit0",
-      "last_touched": 1782207436
-    }
-  },
-  {
-    "rank": 9,
     "title": "求助！想入特斯拉 Model Y，卡在屏幕换挡+27 年新规，太纠结了",
     "url": "https://www.v2ex.com/t/1222169",
     "description": "家里已经有油车，最近打算增购一台电车，主要就是给媳妇日常通勤、代步、偶尔接送孩子开。一眼相中特斯拉 ModelY ，核心原因就一个：同级别结实、车身安全。看过不少碰撞实测，特斯拉的车身刚性、用料和被动安全，放在家用 SUV 里确实很能打。女生开车，容错率低，偶尔走神、预判不足是常态，我始终觉得：好开是其次，耐撞、保命才是家用车的底线，这点很戳我。但现在有两个点让我特别纠结，迟迟下不了决心，想听听大家的真实看法：第一、极度不习惯、也不喜欢新款的屏幕换挡。家里一直开油车，早就习惯实体挡杆盲操。新款 Model Y 全屏幕触控换挡，没有任何实体档位，低速挪车、入库出库、频繁启停都要低头点屏幕。讲道理",
-    "metric": "67 回复",
-    "metric_value": 67,
+    "metric": "78 回复",
+    "metric_value": 78,
     "extra": {
       "node": "汽车",
       "node_name": "car",
       "author": "LennieGao",
-      "last_touched": 1782208329
+      "last_touched": 1782219575
+    }
+  },
+  {
+    "rank": 9,
+    "title": "做过后端的人来说说重构迁移数据库难度大吗",
+    "url": "https://www.v2ex.com/t/1222278",
+    "description": "业务耦合性高，基本就是一坨屎，而且还是国内不入流的技术栈 c#, 现在要想重构，先从数据库迁移开始，之前没干过迁移这种事情， 这事情难度大吗，现在基本就让 AI 搞，也不知道最终会不会搞好。人和库有一个能跑就行",
+    "metric": "75 回复",
+    "metric_value": 75,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "qiaoqiao881100",
+      "last_touched": 1782220170
     }
   },
   {
     "rank": 10,
-    "title": "谷歌支持修改邮箱前缀",
-    "url": "https://www.v2ex.com/t/1222135",
-    "description": "以前是支持美区，现在也支持其他区了http://myaccount.google.com/google-account-email",
-    "metric": "67 回复",
-    "metric_value": 67,
+    "title": "稳定保本收益一年能做到多少？",
+    "url": "https://www.v2ex.com/t/1222136",
+    "description": "5%难吗？",
+    "metric": "71 回复",
+    "metric_value": 71,
     "extra": {
-      "node": "分享发现",
-      "node_name": "share",
-      "author": "CNN",
-      "last_touched": 1782207376
+      "node": "投资",
+      "node_name": "invest",
+      "author": "0bit0",
+      "last_touched": 1782212927
     }
   }
 ]
