@@ -4,11 +4,11 @@
     "title": "google-labs-code / design.md",
     "url": "https://github.com/google-labs-code/design.md",
     "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-    "metric": "★ 18,846",
+    "metric": "★ 18,961",
     "extra": {
       "language": "TypeScript",
-      "stars": "18,846",
-      "forks": "1,631",
+      "stars": "18,961",
+      "forks": "1,634",
       "stars_today": "1,407 stars today"
     }
   },
@@ -17,11 +17,11 @@
     "title": "calesthio / OpenMontage",
     "url": "https://github.com/calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-    "metric": "★ 21,820",
+    "metric": "★ 21,913",
     "extra": {
       "language": "Python",
-      "stars": "21,820",
-      "forks": "2,440",
+      "stars": "21,913",
+      "forks": "2,459",
       "stars_today": "3,553 stars today"
     }
   },
@@ -30,10 +30,10 @@
     "title": "xbtlin / ai-berkshire",
     "url": "https://github.com/xbtlin/ai-berkshire",
     "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-    "metric": "★ 1,757",
+    "metric": "★ 1,786",
     "extra": {
       "language": "Python",
-      "stars": "1,757",
+      "stars": "1,786",
       "forks": "289",
       "stars_today": "201 stars today"
     }
@@ -43,11 +43,11 @@
     "title": "mauriceboe / TREK",
     "url": "https://github.com/mauriceboe/TREK",
     "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-    "metric": "★ 6,488",
+    "metric": "★ 6,548",
     "extra": {
       "language": "TypeScript",
-      "stars": "6,488",
-      "forks": "598",
+      "stars": "6,548",
+      "forks": "602",
       "stars_today": "112 stars today"
     }
   },
@@ -56,10 +56,10 @@
     "title": "apple / container",
     "url": "https://github.com/apple/container",
     "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-    "metric": "★ 43,091",
+    "metric": "★ 43,138",
     "extra": {
       "language": "Swift",
-      "stars": "43,091",
+      "stars": "43,138",
       "forks": "1,266",
       "stars_today": "1,366 stars today"
     }
@@ -69,128 +69,141 @@
     "title": "JCodesMore / ai-website-cloner-template",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
     "description": "Clone any website with one command using AI coding agents",
-    "metric": "★ 20,265",
+    "metric": "★ 20,320",
     "extra": {
       "language": "TypeScript",
-      "stars": "20,265",
-      "forks": "2,986",
+      "stars": "20,320",
+      "forks": "2,996",
       "stars_today": "1,021 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "garrytan / gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "metric": "★ 115,661",
+    "title": "every-app / open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "metric": "★ 2,449",
     "extra": {
       "language": "TypeScript",
-      "stars": "115,661",
-      "forks": "17,153",
-      "stars_today": "836 stars today"
+      "stars": "2,449",
+      "forks": "293",
+      "stars_today": "57 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "aws / agent-toolkit-for-aws",
-    "url": "https://github.com/aws/agent-toolkit-for-aws",
-    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-    "metric": "★ 1,095",
+    "title": "garrytan / gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "metric": "★ 115,720",
     "extra": {
-      "language": "Python",
-      "stars": "1,095",
-      "forks": "111",
-      "stars_today": "15 stars today"
+      "language": "TypeScript",
+      "stars": "115,720",
+      "forks": "17,156",
+      "stars_today": "836 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-    "metric": "★ 21,092",
+    "title": "aws / agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "metric": "★ 1,108",
     "extra": {
       "language": "Python",
-      "stars": "21,092",
-      "forks": "2,432",
-      "stars_today": "600 stars today"
+      "stars": "1,108",
+      "forks": "112",
+      "stars_today": "15 stars today"
     }
   },
   {
     "rank": 10,
-    "title": "alibaba / page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "metric": "★ 19,742",
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+    "metric": "★ 21,140",
     "extra": {
-      "language": "TypeScript",
-      "stars": "19,742",
-      "forks": "1,703",
-      "stars_today": "196 stars today"
+      "language": "Python",
+      "stars": "21,140",
+      "forks": "2,438",
+      "stars_today": "600 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "IceWhaleTech / CasaOS",
-    "url": "https://github.com/IceWhaleTech/CasaOS",
-    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-    "metric": "★ 34,702",
+    "title": "alibaba / page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "metric": "★ 19,755",
     "extra": {
-      "language": "Go",
-      "stars": "34,702",
-      "forks": "1,987",
-      "stars_today": "202 stars today"
+      "language": "TypeScript",
+      "stars": "19,755",
+      "forks": "1,704",
+      "stars_today": "196 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "opendatalab / MinerU",
-    "url": "https://github.com/opendatalab/MinerU",
-    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-    "metric": "★ 69,404",
+    "title": "IceWhaleTech / CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "metric": "★ 34,746",
     "extra": {
-      "language": "Python",
-      "stars": "69,404",
-      "forks": "5,866",
-      "stars_today": "524 stars today"
+      "language": "Go",
+      "stars": "34,746",
+      "forks": "1,989",
+      "stars_today": "202 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "Free-TV / IPTV",
-    "url": "https://github.com/Free-TV/IPTV",
-    "description": "M3U Playlist for free TV channels",
-    "metric": "★ 18,159",
+    "title": "opendatalab / MinerU",
+    "url": "https://github.com/opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "metric": "★ 69,455",
     "extra": {
       "language": "Python",
-      "stars": "18,159",
-      "forks": "2,673",
-      "stars_today": "141 stars today"
+      "stars": "69,455",
+      "forks": "5,870",
+      "stars_today": "524 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "shanraisshan / claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-    "metric": "★ 60,402",
+    "title": "Free-TV / IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "description": "M3U Playlist for free TV channels",
+    "metric": "★ 18,175",
     "extra": {
-      "language": "HTML",
-      "stars": "60,402",
-      "forks": "6,050",
-      "stars_today": "670 stars today"
+      "language": "Python",
+      "stars": "18,175",
+      "forks": "2,675",
+      "stars_today": "141 stars today"
     }
   },
   {
     "rank": 15,
+    "title": "shanraisshan / claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "metric": "★ 60,438",
+    "extra": {
+      "language": "HTML",
+      "stars": "60,438",
+      "forks": "6,058",
+      "stars_today": "450 stars today"
+    }
+  },
+  {
+    "rank": 16,
     "title": "NanmiCoder / MediaCrawler",
     "url": "https://github.com/NanmiCoder/MediaCrawler",
     "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "metric": "★ 52,710",
+    "metric": "★ 52,720",
     "extra": {
       "language": "Python",
-      "stars": "52,710",
-      "forks": "10,916",
+      "stars": "52,720",
+      "forks": "10,918",
       "stars_today": "347 stars today"
     }
   }
