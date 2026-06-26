@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-06-26T04:50:59+00:00",
+  "updated_at": "2026-06-26T08:31:32+00:00",
   "count": 16,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "google-labs-code / design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "metric": "★ 19,669",
+      "metric": "★ 20,102",
       "extra": {
         "language": "TypeScript",
-        "stars": "19,669",
-        "forks": "1,670",
+        "stars": "20,102",
+        "forks": "1,678",
         "stars_today": "1,475 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "calesthio / OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 22,411",
+      "metric": "★ 22,764",
       "extra": {
         "language": "Python",
-        "stars": "22,411",
-        "forks": "2,508",
+        "stars": "22,764",
+        "forks": "2,539",
         "stars_today": "3,434 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "xbtlin / ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "metric": "★ 2,225",
+      "metric": "★ 2,564",
       "extra": {
         "language": "Python",
-        "stars": "2,225",
-        "forks": "333",
+        "stars": "2,564",
+        "forks": "376",
         "stars_today": "309 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "mauriceboe / TREK",
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "metric": "★ 6,877",
+      "metric": "★ 7,079",
       "extra": {
         "language": "TypeScript",
-        "stars": "6,877",
-        "forks": "618",
+        "stars": "7,079",
+        "forks": "628",
         "stars_today": "241 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "apple / container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "metric": "★ 43,314",
+      "metric": "★ 43,424",
       "extra": {
         "language": "Swift",
-        "stars": "43,314",
-        "forks": "1,272",
+        "stars": "43,424",
+        "forks": "1,275",
         "stars_today": "1,351 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "JCodesMore / ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
-      "metric": "★ 20,664",
+      "metric": "★ 20,856",
       "extra": {
         "language": "TypeScript",
-        "stars": "20,664",
-        "forks": "3,032",
+        "stars": "20,856",
+        "forks": "3,047",
         "stars_today": "1,024 stars today"
       }
     },
@@ -86,11 +86,11 @@
       "title": "every-app / open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "metric": "★ 2,638",
+      "metric": "★ 2,790",
       "extra": {
         "language": "TypeScript",
-        "stars": "2,638",
-        "forks": "303",
+        "stars": "2,790",
+        "forks": "316",
         "stars_today": "57 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "garrytan / gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "metric": "★ 115,956",
+      "metric": "★ 116,114",
       "extra": {
         "language": "TypeScript",
-        "stars": "115,956",
-        "forks": "17,183",
+        "stars": "116,114",
+        "forks": "17,201",
         "stars_today": "767 stars today"
       }
     },
@@ -112,10 +112,10 @@
       "title": "aws / agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "metric": "★ 1,180",
+      "metric": "★ 1,214",
       "extra": {
         "language": "Python",
-        "stars": "1,180",
+        "stars": "1,214",
         "forks": "115",
         "stars_today": "47 stars today"
       }
@@ -125,11 +125,11 @@
       "title": "mukul975 / Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "metric": "★ 21,374",
+      "metric": "★ 21,508",
       "extra": {
         "language": "Python",
-        "stars": "21,374",
-        "forks": "2,463",
+        "stars": "21,508",
+        "forks": "2,472",
         "stars_today": "571 stars today"
       }
     },
@@ -138,11 +138,11 @@
       "title": "alibaba / page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "metric": "★ 19,952",
+      "metric": "★ 20,070",
       "extra": {
         "language": "TypeScript",
-        "stars": "19,952",
-        "forks": "1,711",
+        "stars": "20,070",
+        "forks": "1,724",
         "stars_today": "163 stars today"
       }
     },
@@ -151,11 +151,11 @@
       "title": "IceWhaleTech / CasaOS",
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "metric": "★ 34,915",
+      "metric": "★ 35,006",
       "extra": {
         "language": "Go",
-        "stars": "34,915",
-        "forks": "1,995",
+        "stars": "35,006",
+        "forks": "2,001",
         "stars_today": "223 stars today"
       }
     },
@@ -164,11 +164,11 @@
       "title": "opendatalab / MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "metric": "★ 69,753",
+      "metric": "★ 69,931",
       "extra": {
         "language": "Python",
-        "stars": "69,753",
-        "forks": "5,896",
+        "stars": "69,931",
+        "forks": "5,909",
         "stars_today": "644 stars today"
       }
     },
@@ -177,11 +177,11 @@
       "title": "Free-TV / IPTV",
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
-      "metric": "★ 18,280",
+      "metric": "★ 18,338",
       "extra": {
         "language": "Python",
-        "stars": "18,280",
-        "forks": "2,683",
+        "stars": "18,338",
+        "forks": "2,686",
         "stars_today": "139 stars today"
       }
     },
@@ -190,11 +190,11 @@
       "title": "shanraisshan / claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "metric": "★ 60,751",
+      "metric": "★ 60,928",
       "extra": {
         "language": "HTML",
-        "stars": "60,751",
-        "forks": "6,079",
+        "stars": "60,928",
+        "forks": "6,090",
         "stars_today": "287 stars today"
       }
     },
@@ -203,11 +203,11 @@
       "title": "NanmiCoder / MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "metric": "★ 52,921",
+      "metric": "★ 53,101",
       "extra": {
         "language": "Python",
-        "stars": "52,921",
-        "forks": "10,938",
+        "stars": "53,101",
+        "forks": "10,950",
         "stars_today": "398 stars today"
       }
     }
