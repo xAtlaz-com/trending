@@ -1,32 +1,32 @@
 {
   "source": "github",
-  "updated_at": "2026-06-27T10:12:36+00:00",
-  "count": 17,
+  "updated_at": "2026-06-27T11:56:19+00:00",
+  "count": 20,
   "items": [
     {
       "rank": 1,
       "title": "simplex-chat / simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "metric": "★ 13,061",
+      "metric": "★ 13,183",
       "extra": {
         "language": "Haskell",
-        "stars": "13,061",
-        "forks": "751",
+        "stars": "13,183",
+        "forks": "759",
         "stars_today": "432 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "google-labs-code / design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "metric": "★ 21,853",
+      "title": "xbtlin / ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "metric": "★ 3,462",
       "extra": {
-        "language": "TypeScript",
-        "stars": "21,853",
-        "forks": "1,754",
-        "stars_today": "2,407 stars today"
+        "language": "Python",
+        "stars": "3,462",
+        "forks": "513",
+        "stars_today": "1,274 stars today"
       }
     },
     {
@@ -34,194 +34,233 @@
       "title": "commaai / openpilot",
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "metric": "★ 61,914",
+      "metric": "★ 61,932",
       "extra": {
         "language": "Python",
-        "stars": "61,914",
+        "stars": "61,932",
         "forks": "11,055",
         "stars_today": "80 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "kunchenguid / no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
-      "metric": "★ 3,642",
-      "extra": {
-        "language": "Go",
-        "stars": "3,642",
-        "forks": "211",
-        "stars_today": "398 stars today"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "grafana / grafana",
-      "url": "https://github.com/grafana/grafana",
-      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "metric": "★ 75,048",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "75,048",
-        "forks": "14,135",
-        "stars_today": "32 stars today"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "ripienaar / free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "metric": "★ 123,916",
-      "extra": {
-        "language": "HTML",
-        "stars": "123,916",
-        "forks": "13,060",
-        "stars_today": "90 stars today"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "opendatalab / MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "metric": "★ 70,789",
-      "extra": {
-        "language": "Python",
-        "stars": "70,789",
-        "forks": "5,960",
-        "stars_today": "960 stars today"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "alchaincyf / zhangxuefeng-skill",
-      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "metric": "★ 9,383",
-      "extra": {
-        "language": null,
-        "stars": "9,383",
-        "forks": "2,571",
-        "stars_today": "160 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "mauriceboe / TREK",
-      "url": "https://github.com/mauriceboe/TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "metric": "★ 7,912",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "7,912",
-        "forks": "669",
-        "stars_today": "1,060 stars today"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "xbtlin / ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "metric": "★ 3,400",
-      "extra": {
-        "language": "Python",
-        "stars": "3,400",
-        "forks": "508",
-        "stars_today": "1,274 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 24,312",
-      "extra": {
-        "language": "Python",
-        "stars": "24,312",
-        "forks": "2,705",
-        "stars_today": "1,754 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "aws / agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "metric": "★ 1,430",
-      "extra": {
-        "language": "Python",
-        "stars": "1,430",
-        "forks": "124",
-        "stars_today": "243 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "NanmiCoder / MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "metric": "★ 53,566",
-      "extra": {
-        "language": "Python",
-        "stars": "53,566",
-        "forks": "10,991",
-        "stars_today": "673 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "garrytan / gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "metric": "★ 116,852",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "116,852",
-        "forks": "17,339",
-        "stars_today": "950 stars today"
-      }
-    },
-    {
-      "rank": 15,
       "title": "IceWhaleTech / CasaOS",
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "metric": "★ 35,554",
+      "metric": "★ 35,583",
       "extra": {
         "language": "Go",
-        "stars": "35,554",
-        "forks": "2,035",
+        "stars": "35,583",
+        "forks": "2,036",
         "stars_today": "619 stars today"
       }
     },
     {
-      "rank": 16,
+      "rank": 5,
+      "title": "ripienaar / free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "metric": "★ 123,942",
+      "extra": {
+        "language": "HTML",
+        "stars": "123,942",
+        "forks": "13,061",
+        "stars_today": "90 stars today"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "google-labs-code / design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "metric": "★ 21,928",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "21,928",
+        "forks": "1,760",
+        "stars_today": "2,407 stars today"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "metric": "★ 135,586",
+      "extra": {
+        "language": "C",
+        "stars": "135,586",
+        "forks": "8,160",
+        "stars_today": "67 stars today"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "hugohe3 / ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "metric": "★ 32,633",
+      "extra": {
+        "language": "Python",
+        "stars": "32,633",
+        "forks": "2,790",
+        "stars_today": "589 stars today"
+      }
+    },
+    {
+      "rank": 9,
       "title": "JCodesMore / ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
-      "metric": "★ 21,656",
+      "metric": "★ 21,724",
       "extra": {
         "language": "TypeScript",
-        "stars": "21,656",
-        "forks": "3,129",
+        "stars": "21,724",
+        "forks": "3,134",
         "stars_today": "1,088 stars today"
       }
     },
     {
-      "rank": 17,
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 42,883",
+      "rank": 10,
+      "title": "garrytan / gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "metric": "★ 116,892",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "116,892",
+        "forks": "17,350",
+        "stars_today": "950 stars today"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "NanmiCoder / MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "metric": "★ 53,595",
       "extra": {
         "language": "Python",
-        "stars": "42,883",
-        "forks": "3,412",
-        "stars_today": "1,194 stars today"
+        "stars": "53,595",
+        "forks": "10,993",
+        "stars_today": "673 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Anil-matcha / Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "metric": "★ 21,172",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "21,172",
+        "forks": "3,618",
+        "stars_today": "254 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "topoteretes / cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "metric": "★ 23,553",
+      "extra": {
+        "language": "Python",
+        "stars": "23,553",
+        "forks": "2,230",
+        "stars_today": "729 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "dbt-labs / dbt-core",
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "metric": "★ 13,090",
+      "extra": {
+        "language": "Rust",
+        "stars": "13,090",
+        "forks": "2,432",
+        "stars_today": "17 stars today"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "luongnv89 / claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "metric": "★ 38,428",
+      "extra": {
+        "language": "Python",
+        "stars": "38,428",
+        "forks": "4,631",
+        "stars_today": "138 stars today"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "metric": "★ 179,371",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "179,371",
+        "forks": "22,059",
+        "stars_today": "573 stars today"
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Fission-AI / OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "metric": "★ 56,906",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "56,906",
+        "forks": "3,971",
+        "stars_today": "167 stars today"
+      }
+    },
+    {
+      "rank": 18,
+      "title": "HKUDS / Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "metric": "★ 13,472",
+      "extra": {
+        "language": "Python",
+        "stars": "13,472",
+        "forks": "2,569",
+        "stars_today": "83 stars today"
+      }
+    },
+    {
+      "rank": 19,
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "metric": "★ 35,105",
+      "extra": {
+        "language": "Java",
+        "stars": "35,105",
+        "forks": "8,547",
+        "stars_today": "11 stars today"
+      }
+    },
+    {
+      "rank": 20,
+      "title": "every-app / open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "metric": "★ 3,150",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "3,150",
+        "forks": "355",
+        "stars_today": "594 stars today"
       }
     }
   ]
