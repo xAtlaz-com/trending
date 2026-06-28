@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-28T17:45:23+00:00",
+  "updated_at": "2026-06-28T19:25:54+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "6 年前的洗面奶用完了，现在男的都用啥",
       "url": "https://www.v2ex.com/t/1223399",
       "description": "rt 男士洗面奶 \n爱出油洗完涩涩的最好",
-      "metric": "104 回复",
-      "metric_value": 104,
+      "metric": "105 回复",
+      "metric_value": 105,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "chenyu923132714",
-        "last_touched": 1782667940
+        "last_touched": 1782669867
       }
     },
     {
@@ -50,13 +50,13 @@
       "title": "skills，真的重要嘛？大家来讨论下吧。",
       "url": "https://www.v2ex.com/t/1223394",
       "description": "对于 codex 5.5 来说，个人开发网站应用，下面的这些 skill ，哪些是比较推荐的？谢谢大佬指教。\nsuperpowers\nBrainstorming\ngrill me\nFrontend Design\nclaude-design\nUI UX Pro Max\nclaude-mem\nGstack\nharness\nMatt 的前端 Skill\nponytail",
-      "metric": "38 回复",
-      "metric_value": 38,
+      "metric": "39 回复",
+      "metric_value": 39,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "mfsw",
-        "last_touched": 1782667175
+        "last_touched": 1782669103
       }
     },
     {
@@ -89,6 +89,20 @@
     },
     {
       "rank": 7,
+      "title": "Claude Pro 也被封号了",
+      "url": "https://www.v2ex.com/t/1223397",
+      "description": "不知道是昨天搞得自动切换代理模块问题还是新机场 ip 问题\n我错了 Pro 也被拿下了 能退钱吗？",
+      "metric": "35 回复",
+      "metric_value": 35,
+      "extra": {
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "Keine",
+        "last_touched": 1782669563
+      }
+    },
+    {
+      "rank": 8,
       "title": "性价比中转站，额度 0.06 倍分组特惠 Pro 分组，评论区送体验额度",
       "url": "https://www.v2ex.com/t/1223449",
       "description": "pro 特惠限时 0.06 倍率分组，pro 混合 puls-0.13 倍率；\n纯 pro-0.2 倍率，首字 1s ，支持高并发\ngpt-image-2 生图 1k 分辨率，0.02 一张，测试中\n注册留言邮箱送 1 刀测试，看到就会加\nhttps://api.0elog.com/\n小铺限时促销，下单 10 得 11 ，50 得 58\nhttps://pay.ldxp.cn/shop/WPXSCE1B\nTG 频道： https://t.me/Ai_0elog\n私聊：@flymetofree\n\n\n这是现在 GPT 账号额度大概，所以低价还是有些利润的\n\nPRO 分组倍率高，主要是因为 Pro ",
@@ -102,21 +116,21 @@
       }
     },
     {
-      "rank": 8,
-      "title": "Claude Pro 也被封号了",
-      "url": "https://www.v2ex.com/t/1223397",
-      "description": "不知道是昨天搞得自动切换代理模块问题还是新机场 ip 问题\n我错了 Pro 也被拿下了 能退钱吗？",
-      "metric": "33 回复",
-      "metric_value": 33,
+      "rank": 9,
+      "title": "[国产 API] GLM-5.2 满血 +纯血 DeepSeek V4，支持思维链、Cursor，全线 0.3 倍率 ｜注册送 5 美元 + 抽奖 200 美元",
+      "url": "https://www.v2ex.com/t/1223480",
+      "description": "官网地址： https://link-ai.cc/🤖 当前支持模型DeepSeek 系列（官签企业级高并发号池）💡 0.3x 极限倍率（全线支持最新 V4 架构）deepseek-v4-pro （全新第四代旗舰，深度逻辑推理顶配）deepseek-v4-flash （高吞吐极速响应，完美承接原 chat/reasoner 升级过渡）说明： 完美支持 2026 官方原生思维链（ Thinking Process ）无损输出，绝非市面上用旧版本 Prompt 注入伪造的“假 V4”。GLM 系列（ Z.ai 官方大客户直连通道）💡 0.3x 极限倍率（ 1M 超长上下文 Coder 专属）glm-",
+      "metric": "28 回复",
+      "metric_value": 28,
       "extra": {
-        "node": "Claude",
-        "node_name": "claude",
-        "author": "Keine",
-        "last_touched": 1782668279
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "huangyin0514",
+        "last_touched": 1782673556
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "codex business 48 个月的成品号靠谱吗?",
       "url": "https://www.v2ex.com/t/1223392",
       "description": "网上有卖的,说能换绑邮箱,有兄弟知道吗?",
@@ -127,20 +141,6 @@
         "node_name": "openai",
         "author": "sigmadog",
         "last_touched": 1782641151
-      }
-    },
-    {
-      "rank": 10,
-      "title": "[国产 API] GLM-5.2 满血 +纯血 DeepSeek V4，支持思维链、Cursor，全线 0.3 倍率 ｜注册送 5 美元 + 抽奖 200 美元",
-      "url": "https://www.v2ex.com/t/1223480",
-      "description": "官网地址： https://link-ai.cc/🤖 当前支持模型DeepSeek 系列（官签企业级高并发号池）💡 0.3x 极限倍率（全线支持最新 V4 架构）deepseek-v4-pro （全新第四代旗舰，深度逻辑推理顶配）deepseek-v4-flash （高吞吐极速响应，完美承接原 chat/reasoner 升级过渡）说明： 完美支持 2026 官方原生思维链（ Thinking Process ）无损输出，绝非市面上用旧版本 Prompt 注入伪造的“假 V4”。GLM 系列（ Z.ai 官方大客户直连通道）💡 0.3x 极限倍率（ 1M 超长上下文 Coder 专属）glm-",
-      "metric": "25 回复",
-      "metric_value": 25,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "huangyin0514",
-        "last_touched": 1782665835
       }
     }
   ]
