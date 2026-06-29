@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-06-29T16:54:28+00:00",
+  "updated_at": "2026-06-29T19:05:58+00:00",
   "count": 9,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "[0629 内测] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10",
       "url": "https://www.v2ex.com/t/1223548",
       "description": "各位 V 友好！\n网站继续内测稳定性，欢迎你们体验使用，在此祝各位在新的一周事事顺利，身体健康，开开心心！\n当前支持模型（均为 Codex Pro 号池）\n\ngpt-5.5 — 1.1M 超长上下文，支持推理、工具调用、文件、视觉\ngpt-5.4 / gpt-5.4-mini — 400K 上下文，日常编码主力\ngpt-5.3-codex — Codex 原生模型\n\n全系模型均来自 Codex Pro 池，完美兼容 Codex App / Claude Code。\n收费方式\n\n0.85 RMB = 1 $，按量计费，无需订阅\n支持 支付宝 / Stripe 充值，国内国外都方便\n\n🎁 0629",
-      "metric": "250 回复",
-      "metric_value": 250,
+      "metric": "252 回复",
+      "metric_value": 252,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "CtrlAltDeleteMe",
-        "last_touched": 1782751476
+        "last_touched": 1782756056
       }
     },
     {
@@ -92,13 +92,13 @@
       "title": "中转站限时特惠， 0.075 倍率特惠分组，评论区送 50 刀体验额度",
       "url": "https://www.v2ex.com/t/1223696",
       "description": "plus  特惠限时 0.075 倍率，高稳定\n纯 pro 0.16 倍率，高缓存命中率 90%以上 ，不支持高并发\ngpt-image-2 生图，0.03 一张\n注册留言 id 送 50 刀额度测试，看到就加\n网址 https://humanwill.xyz\n小铺充值 1 比 10 https://pay.ldxp.cn/shop/R1Q56348\nqq 群：827729569\nTG 频道： https://t.me/humanAiTalk",
-      "metric": "83 回复",
-      "metric_value": 83,
+      "metric": "84 回复",
+      "metric_value": 84,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "lieliew",
-        "last_touched": 1782751703
+        "last_touched": 1782752162
       }
     },
     {
@@ -120,13 +120,13 @@
       "title": "Claude 闲置号被封",
       "url": "https://www.v2ex.com/t/1223523",
       "description": "有一个 Claude 老号，大概是去年上半年开的，10 多年的谷歌老号 + AppStore 礼品卡充值，一直开的 plus ，稳定用了小一年，两个月前转投 Codex 之后就没再续费，也没有再登录使用过账号。结果今天突然收到被封的邮件。  说不定从一开始用的时候，Claude 就已经有一万种方法确认你到底是哪个区域的用户，至于封不封号，可能纯看 A/的心情吧",
-      "metric": "76 回复",
-      "metric_value": 76,
+      "metric": "77 回复",
+      "metric_value": 77,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
         "author": "v2dev",
-        "last_touched": 1782749503
+        "last_touched": 1782751955
       }
     }
   ]
