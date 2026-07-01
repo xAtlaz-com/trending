@@ -1,19 +1,19 @@
 {
   "source": "github",
-  "updated_at": "2026-07-01T08:59:13+00:00",
-  "count": 19,
+  "updated_at": "2026-07-01T12:15:00+00:00",
+  "count": 20,
   "items": [
     {
       "rank": 1,
-      "title": "hasaneyldrm / exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "metric": "★ 7,677",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "metric": "★ 121,978",
       "extra": {
-        "language": "HTML",
-        "stars": "7,677",
-        "forks": "890",
-        "stars_today": "1,343 stars today"
+        "language": "Shell",
+        "stars": "121,978",
+        "forks": "19,918",
+        "stars_today": "1,791 stars today"
       }
     },
     {
@@ -21,233 +21,246 @@
       "title": "usestrix / strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "metric": "★ 28,483",
+      "metric": "★ 28,714",
       "extra": {
         "language": "Python",
-        "stars": "28,483",
-        "forks": "3,150",
+        "stars": "28,714",
+        "forks": "3,167",
         "stars_today": "515 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "metric": "★ 121,602",
+      "title": "HKUDS / Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "metric": "★ 16,179",
       "extra": {
-        "language": "Shell",
-        "stars": "121,602",
-        "forks": "19,865",
-        "stars_today": "1,791 stars today"
+        "language": "Python",
+        "stars": "16,179",
+        "forks": "2,765",
+        "stars_today": "721 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "altic-dev / FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-      "metric": "★ 5,165",
+      "title": "hasaneyldrm / exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "metric": "★ 7,962",
       "extra": {
-        "language": "Swift",
-        "stars": "5,165",
-        "forks": "315",
-        "stars_today": "588 stars today"
+        "language": "HTML",
+        "stars": "7,962",
+        "forks": "913",
+        "stars_today": "1,343 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "diegosouzapw / OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "metric": "★ 8,948",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "8,948",
-        "forks": "1,422",
-        "stars_today": "387 stars today"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "browser-use / video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "metric": "★ 12,888",
-      "extra": {
-        "language": "Python",
-        "stars": "12,888",
-        "forks": "1,630",
-        "stars_today": "721 stars today"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "xbtlin / ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "metric": "★ 7,891",
-      "extra": {
-        "language": "Python",
-        "stars": "7,891",
-        "forks": "1,002",
-        "stars_today": "969 stars today"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "Mebus / cupp",
-      "url": "https://github.com/Mebus/cupp",
-      "description": "Common User Passwords Profiler (CUPP)",
-      "metric": "★ 6,168",
-      "extra": {
-        "language": "Python",
-        "stars": "6,168",
-        "forks": "2,053",
-        "stars_today": "32 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "ripienaar / free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "metric": "★ 127,471",
-      "extra": {
-        "language": "HTML",
-        "stars": "127,471",
-        "forks": "13,321",
-        "stars_today": "742 stars today"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "google / agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "metric": "★ 4,434",
-      "extra": {
-        "language": "Python",
-        "stars": "4,434",
-        "forks": "469",
-        "stars_today": "445 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "roboflow / supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "metric": "★ 46,058",
-      "extra": {
-        "language": "Python",
-        "stars": "46,058",
-        "forks": "4,084",
-        "stars_today": "309 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "ogulcancelik / herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "metric": "★ 9,225",
-      "extra": {
-        "language": "Rust",
-        "stars": "9,225",
-        "forks": "550",
-        "stars_today": "486 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "metric": "★ 17,474",
-      "extra": {
-        "language": "Haskell",
-        "stars": "17,474",
-        "forks": "1,015",
-        "stars_today": "1,235 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "CoreBunch / Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-      "metric": "★ 1,708",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "1,708",
-        "forks": "146",
-        "stars_today": "351 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "microsoft / AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "metric": "★ 49,786",
-      "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "49,786",
-        "forks": "10,203",
-        "stars_today": "252 stars today"
-      }
-    },
-    {
-      "rank": 16,
       "title": "facebook / astryx",
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
-      "metric": "★ 2,032",
+      "metric": "★ 2,128",
       "extra": {
         "language": "TypeScript",
-        "stars": "2,032",
-        "forks": "107",
+        "stars": "2,128",
+        "forks": "108",
         "stars_today": "364 stars today"
       }
     },
     {
-      "rank": 17,
-      "title": "HKUDS / Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "metric": "★ 16,047",
+      "rank": 6,
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "metric": "★ 9,087",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "9,087",
+        "forks": "1,429",
+        "stars_today": "387 stars today"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "allenai / olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "metric": "★ 18,068",
       "extra": {
         "language": "Python",
-        "stars": "16,047",
-        "forks": "2,757",
-        "stars_today": "721 stars today"
+        "stars": "18,068",
+        "forks": "1,488",
+        "stars_today": "295 stars today"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "logto-io / logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "metric": "★ 13,071",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "13,071",
+        "forks": "892",
+        "stars_today": "561 stars today"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "togatoga / karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "metric": "★ 526",
+      "extra": {
+        "language": "Rust",
+        "stars": "526",
+        "forks": "29",
+        "stars_today": "29 stars today"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Mebus / cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "metric": "★ 6,194",
+      "extra": {
+        "language": "Python",
+        "stars": "6,194",
+        "forks": "2,054",
+        "stars_today": "32 stars today"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Unclecheng-li / VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "metric": "★ 1,491",
+      "extra": {
+        "language": "Python",
+        "stars": "1,491",
+        "forks": "206",
+        "stars_today": "123 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "microsoft / AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "metric": "★ 49,949",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "stars": "49,949",
+        "forks": "10,214",
+        "stars_today": "252 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "refactoringhq / tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "metric": "★ 17,904",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "17,904",
+        "forks": "1,219",
+        "stars_today": "435 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "ogulcancelik / herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "metric": "★ 9,317",
+      "extra": {
+        "language": "Rust",
+        "stars": "9,317",
+        "forks": "551",
+        "stars_today": "486 stars today"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "0xNyk / council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "metric": "★ 2,403",
+      "extra": {
+        "language": "Shell",
+        "stars": "2,403",
+        "forks": "232",
+        "stars_today": "473 stars today"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "altic-dev / FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "metric": "★ 5,252",
+      "extra": {
+        "language": "Swift",
+        "stars": "5,252",
+        "forks": "316",
+        "stars_today": "588 stars today"
+      }
+    },
+    {
+      "rank": 17,
+      "title": "CoreBunch / Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "metric": "★ 1,782",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "1,782",
+        "forks": "151",
+        "stars_today": "351 stars today"
       }
     },
     {
       "rank": 18,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 242,976",
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "metric": "★ 6,670",
       "extra": {
-        "language": "Shell",
-        "stars": "242,976",
-        "forks": "21,552",
-        "stars_today": "890 stars today"
+        "language": "Rust",
+        "stars": "6,670",
+        "forks": "559",
+        "stars_today": "46 stars today"
       }
     },
     {
       "rank": 19,
-      "title": "Robbyant / lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "metric": "★ 9,038",
+      "title": "browser-use / video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "metric": "★ 12,979",
       "extra": {
         "language": "Python",
-        "stars": "9,038",
-        "forks": "870",
-        "stars_today": "189 stars today"
+        "stars": "12,979",
+        "forks": "1,637",
+        "stars_today": "721 stars today"
+      }
+    },
+    {
+      "rank": 20,
+      "title": "yikart / AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "metric": "★ 22,339",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "22,339",
+        "forks": "3,383",
+        "stars_today": "128 stars today"
       }
     }
   ]
