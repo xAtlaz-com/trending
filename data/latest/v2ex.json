@@ -1,20 +1,20 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-02T04:41:39+00:00",
+  "updated_at": "2026-07-02T08:13:34+00:00",
   "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端",
-      "url": "https://www.v2ex.com/t/1224199",
-      "description": "Termark 不是因为市面上没有 SSH 客户端才做的。\n恰好相反，这类工具已经非常多了，能连服务器、传文件、开隧道的基本都有。只是我用了不少之后，总觉得都是差点意思，能用但不好用。\n所以我没有打算做什么替代品，也不抄友商，就是想把自己认为应该更顺手的地方，按自己的习惯重新做一遍。后来越做越多，就变成了现在的 Termark 。\n它本质上是一个桌面 SSH / SFTP 客户端，除了连接和文件传输，也塞进了批量执行、分屏、端口转发、终端录制、加密同步、AI 、Docker 、tmux ，以及 Codex / Claude / OpenCode 集成这些功能。\n官网和下载：\nhttps://w",
-      "metric": "114 回复",
-      "metric_value": 114,
+      "title": "感觉女友很爱去看演唱会，不想让她去怎么办",
+      "url": "https://www.v2ex.com/t/1224428",
+      "description": "甚至请假也要去，票也很贵，全勤都扣完了，休息也没时间两个人在一起，我真不懂有什么好看的，身边朋友都跟我说尊重她，好吧，但是有其他办法转移她的注意力吗？我就不想让她的注意力在别的男人身上，朋友说我是病娇，娇个大头鬼，有人能懂吗？不懂也别骂我，个人小癖好",
+      "metric": "185 回复",
+      "metric_value": 185,
       "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "dushixiang",
-        "last_touched": 1782966479
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "loving29cn",
+        "last_touched": 1782979889
       }
     },
     {
@@ -22,97 +22,97 @@
       "title": "[送激活码] 🎉 Wins 3.4 发布！把 Mac 刘海变成悬浮分屏岛，抽奖送激活码～",
       "url": "https://www.v2ex.com/t/1224253",
       "description": "👋 嗨，V 站的朋友们，大家好～\n🙋 我是 Wins 的开发者，距离 Wins 3.0 发布竟然 9 个月过去了，又来和大家同步最近的一次更新了。\n这次主要打磨了一个我自己很喜欢的新交互：\n🏝️ Wins 3.4 发布：「悬浮分屏岛」来了\n\n这不是一个普通的悬浮面板。\n我想做的是：当你拖动窗口到屏幕顶部时，它像 iOS 灵动岛一样，从 MacBook 的刘海区域自然出现；你继续拖动，就可以快速选择布局并完成分屏。\n也就是说，MacBook 的刘海不再只是一个“缺口”，它也可以变成窗口管理的入口。\n在没有刘海的 Mac 或外接显示器上，它也会以顶部悬浮岛的形式出现，尽量保持同样自然的拖拽体验。\n",
-      "metric": "104 回复",
-      "metric_value": 104,
+      "metric": "126 回复",
+      "metric_value": 126,
       "extra": {
         "node": "Apple",
         "node_name": "apple",
         "author": "eggsblue",
-        "last_touched": 1782965231
+        "last_touched": 1782979484
       }
     },
     {
       "rank": 3,
-      "title": "你左手按 b 键还是右手",
-      "url": "https://www.v2ex.com/t/1224255",
-      "description": "楼主用右手按 b 按了不知道多少年，今天 gpt 告诉我现在建议用左手……",
-      "metric": "80 回复",
-      "metric_value": 80,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "cj323",
-        "last_touched": 1782964473
-      }
-    },
-    {
-      "rank": 4,
-      "title": "630 过去了，今天是下半年了，统计一个各位大佬公司的裁员比例？",
-      "url": "https://www.v2ex.com/t/1224229",
-      "description": "RT:我所在的公司根据不同的部门大约 30%到 50%",
-      "metric": "79 回复",
-      "metric_value": 79,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "linzhai",
-        "last_touched": 1782966953
-      }
-    },
-    {
-      "rank": 5,
-      "title": "感觉女友很爱去看演唱会，不想让她去怎么办",
-      "url": "https://www.v2ex.com/t/1224428",
-      "description": "甚至请假也要去，票也很贵，全勤都扣完了，休息也没时间两个人在一起，我真不懂有什么好看的，身边朋友都跟我说尊重她，好吧，但是有其他办法转移她的注意力吗？我就不想让她的注意力在别的男人身上，朋友说我是病娇，娇个大头鬼，有人能懂吗？不懂也别骂我，个人小癖好",
-      "metric": "78 回复",
-      "metric_value": 78,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "loving29cn",
-        "last_touched": 1782967193
-      }
-    },
-    {
-      "rank": 6,
-      "title": "大家避雷京东吧 买到二手退货和残次品组装的后封机 客服竟然帮腔说叫资源机",
-      "url": "https://www.v2ex.com/t/1224297",
-      "description": "jd 现在很多挂羊头卖狗肉的特别 iphone17 你看价格 4999 其实是什么准新机刘强东你别太离谱 个强奸犯不知道能不能退一赔三 骗子和客服都理直气壮",
-      "metric": "75 回复",
-      "metric_value": 75,
-      "extra": {
-        "node": "Apple",
-        "node_name": "apple",
-        "author": "missx",
-        "last_touched": 1782966360
-      }
-    },
-    {
-      "rank": 7,
       "title": "XDM，你们每个月使用 AI 的成本是多少",
       "url": "https://www.v2ex.com/t/1224383",
       "description": "#1. Codex：公司订阅的（完全不够用）#2. 订阅在线生成 UI 会员：100 左右#3. Deepseek api: 每月大概 50 ，涨价后可能就更多了#4. Trae 国际版会员： 每月大概 53 （半年前买的年会员）合计：200",
-      "metric": "74 回复",
-      "metric_value": 74,
+      "metric": "98 回复",
+      "metric_value": 98,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "inas",
-        "last_touched": 1782966997
+        "last_touched": 1782977571
+      }
+    },
+    {
+      "rank": 4,
+      "title": "大家避雷京东吧 买到二手退货和残次品组装的后封机 客服竟然帮腔说叫资源机",
+      "url": "https://www.v2ex.com/t/1224297",
+      "description": "jd 现在很多挂羊头卖狗肉的特别 iphone17 你看价格 4999 其实是什么准新机刘强东你别太离谱 个强奸犯不知道能不能退一赔三 骗子和客服都理直气壮",
+      "metric": "92 回复",
+      "metric_value": 92,
+      "extra": {
+        "node": "Apple",
+        "node_name": "apple",
+        "author": "missx",
+        "last_touched": 1782977422
+      }
+    },
+    {
+      "rank": 5,
+      "title": "你左手按 b 键还是右手",
+      "url": "https://www.v2ex.com/t/1224255",
+      "description": "楼主用右手按 b 按了不知道多少年，今天 gpt 告诉我现在建议用左手……",
+      "metric": "91 回复",
+      "metric_value": 91,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "cj323",
+        "last_touched": 1782979127
+      }
+    },
+    {
+      "rank": 6,
+      "title": "这下好了,真死在科技里了",
+      "url": "https://www.v2ex.com/t/1224388",
+      "description": "事到如今，最对不起的就是家人",
+      "metric": "89 回复",
+      "metric_value": 89,
+      "extra": {
+        "node": "投资",
+        "node_name": "invest",
+        "author": "668866",
+        "last_touched": 1782979591
+      }
+    },
+    {
+      "rank": 7,
+      "title": "最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下",
+      "url": "https://www.v2ex.com/t/1224405",
+      "description": "1.reality 用的 www.apple.com2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube3.机器是美国的，到手我就 dd 了，已经用了 1 年多了一直没被墙，没有监控工具的4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+reality ，目前正常。5.一开始的症状是能 ping 通，但是开代理好像就被阻断了，这几天彻底被墙了想问问各位大佬，这是咋被发现的？我一个人用，也没啥大流量的，一个月就 200 多 G",
+      "metric": "88 回复",
+      "metric_value": 88,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "lynn1su",
+        "last_touched": 1782978772
       }
     },
     {
       "rank": 8,
-      "title": "claude 被封后，使用 GLM 一天 21 大洋，感觉国产模型更用不起",
-      "url": "https://www.v2ex.com/t/1224214",
-      "description": "",
-      "metric": "61 回复",
-      "metric_value": 61,
+      "title": "请警惕账号 w1573007 发布的开源项目 Termo",
+      "url": "https://www.v2ex.com/t/1224475",
+      "description": "本人为 w1573007 号主，今天突然收到账号被挂了两步验证。赶紧上来看看。我这号好多年没用了最后发帖时间是 2021 年。然后就发现对方把注册邮箱，密码都改了。但他可能不知道会给我原始注册邮箱发送修改邮件。然后就发现对方发了一个项目分享的帖子 https://www.v2ex.com/t/1224461\n我不知道他为啥要盗号的方式发帖。而不注册一个账号？\n手机编辑不太好当图片，如下是提示信息，已将相关情况发送给支持邮箱\n[V2EX] 两步验证已经开启\nV2EX  发给 cisha1573\n2026 年 07 月 02 日 11:55 (星期四)\n详情\nHi w1573007,\n你刚刚为你的",
+      "metric": "63 回复",
+      "metric_value": 63,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "chill777",
-        "last_touched": 1782073562
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "maliaosaide1",
+        "last_touched": 1782979977
       }
     }
   ]
