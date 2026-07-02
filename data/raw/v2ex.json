@@ -46,13 +46,13 @@
     "title": "最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下",
     "url": "https://www.v2ex.com/t/1224405",
     "description": "1.reality 用的 www.apple.com2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube3.机器是美国的，到手我就 dd 了，已经用了 1 年多了一直没被墙，没有监控工具的4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+reality ，目前正常。5.一开始的症状是能 ping 通，但是开代理好像就被阻断了，这几天彻底被墙了想问问各位大佬，这是咋被发现的？我一个人用，也没啥大流量的，一个月就 200 多 G",
-    "metric": "106 回复",
-    "metric_value": 106,
+    "metric": "107 回复",
+    "metric_value": 107,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "lynn1su",
-      "last_touched": 1783007475
+      "last_touched": 1783011075
     }
   },
   {
@@ -116,13 +116,13 @@
     "title": "讨论： AI 写的代码要不要看，不看代码的程序员会被淘汰吗？",
     "url": "https://www.v2ex.com/t/1224476",
     "description": "我发现现在的程序员正在往两个方向发展，一种是坚持检查 AI 写的代码，另一种是不看代码。\n我目前用 Cursor 写代码，主要是我有阅读 diff 的习惯，AI 写的代码我是一定要看的（除非这个项目不重要，不需要长期维护），一定要让 AI 根据我的设计规则去写。\n先说我的观点，站在“写代码”这个角度，如果不看 AI 写的代码，那么迟早要被 AI 完全取代，会失去竞争力。\n但是如果站在“做产品”的角度，不看代码也许能快速做出产品 Demo 验证市场，可能在产品力上会更有竞争力。\n你觉得不看代码的程序员会被淘汰吗？",
-    "metric": "69 回复",
-    "metric_value": 69,
+    "metric": "71 回复",
+    "metric_value": 71,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "sdjl",
-      "last_touched": 1783021244
+      "last_touched": 1783028171
     }
   }
 ]
