@@ -1,99 +1,57 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-03T07:47:05+00:00",
+  "updated_at": "2026-07-03T10:39:56+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "公司 vibe coding 的项目，团队已经无法掌控了",
-      "url": "https://www.v2ex.com/t/1224558",
-      "description": "今年年初，Agent 的爆发让公司管理层看到了“智能体替代部分客服岗位”的可能性，于是很快给我们下达了客服 Agent 的建设目标，覆盖 App 在线客服和电话线路客服两大场景。\n问题在于，我们团队并没有专门的 AI Agent 工程师，成员基本都是 Java 和前端开发。面对全新的技术栈，大家只能一边学习，一边借助 Codex 等 AI 编程工具完成系统设计、架构搭建和业务开发。\n经过几个月的赶工，第一版终于上线了。\n然而，真正的问题也从这一刻开始暴露。\n上线后的实际效果远低于预期。系统频繁出现各种异常，但团队却很难定位真正的原因。大量核心代码都是 AI 自动生成的，代码结构复杂、抽象层级混",
-      "metric": "163 回复",
-      "metric_value": 163,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "wzzexe",
-        "last_touched": 1783064755
-      }
-    },
-    {
-      "rank": 2,
-      "title": "滨江仲裁调解员有大病，怎么投诉",
-      "url": "https://www.v2ex.com/t/1224653",
-      "description": "上周五去申请仲裁，周一下午的时候调解员打了个电话过来直接单方面通知让周二去现场调解，我说我没时间能不能改一下，她说公司那边已经约好了改不了，后面说先发我调解书等材料，签好字明天让同事带过去盖章就好了（同事和我一起仲裁），但是他给的材料有点问题，需要重新签字，我说可以我下周抽个时间去签了，然后昨天打了两个电话给我让我早点去签，我说这几天有工作要忙，下周一去吧，然后她就一直叭叭，说什么久了要写原因，说我不上心一大堆，我就说你调解不和我提前确认时间，我现在没时间去签，然后她说那你还怪我了，然后威胁我说那这个调解后面要关闭了还是什么的，我说那你关好了，回执给我我自己去起诉，然后挂了电话。  \n真的神人",
-      "metric": "91 回复",
-      "metric_value": 91,
-      "extra": {
-        "node": "杭州",
-        "node_name": "hangzhou",
-        "author": "cMoon",
-        "last_touched": 1783063857
-      }
-    },
-    {
-      "rank": 3,
       "title": "家里亲戚今年高考，求推荐本科专业",
       "url": "https://www.v2ex.com/t/1224690",
       "description": "如题，求推荐本科好就业的专业。分数这些我就不贴这里了，现在 AI 帮填志愿已经挺成熟，但就是专业这块拿不准，当前填志愿的方向是：城市选择不重要，专业选择放在第一，毕业了能找到工作才是硬道理。这个志愿填报方向也欢迎交流、指导。",
-      "metric": "86 回复",
-      "metric_value": 86,
+      "metric": "132 回复",
+      "metric_value": 132,
       "extra": {
         "node": "教育",
         "node_name": "edu",
         "author": "hoko1814",
-        "last_touched": 1783064478
+        "last_touched": 1783073509
       }
     },
     {
-      "rank": 4,
-      "title": "TransOne： macOS 原生菜单栏翻译工具",
-      "url": "https://www.v2ex.com/t/1224640",
-      "description": "一直用 Bob ，也是付费用户。想开发一个符合自己审美和偏好的翻译软件，就有了此 App 。\n但不想开发同质化的应用。设计上最大的不同是 TransOne 的翻译界面有一个「主翻译」 Card ，占据最大的空间，用户可以在下面随意点击切换「其它翻译」 Card ，支持「句子翻译」、「词典」、「百科」。这样视觉就有了一个焦点。\n支持自定义服务的 Providers ，不配置也会默认使用系统服务，开箱即用。\n欢迎提出意见。\n\nTransOne 是一个常驻菜单栏的 macOS 翻译工具，纯原生 SwiftUI + AppKit ，随手就能用。\n四种翻译方式：输入翻译、划词翻译（快捷键取词或双击复制）",
-      "metric": "82 回复",
-      "metric_value": 82,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "moluuser",
-        "last_touched": 1783064182
-      }
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "“有个东西，也是我今天才学到的，叫 CDN”",
       "url": "https://www.v2ex.com/t/1224709",
       "description": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg\n作者已编辑",
-      "metric": "75 回复",
-      "metric_value": 75,
+      "metric": "109 回复",
+      "metric_value": 109,
       "extra": {
         "node": "分享发现",
         "node_name": "share",
         "author": "tf2",
-        "last_touched": 1783064602
+        "last_touched": 1783075064
       }
     },
     {
-      "rank": 6,
-      "title": "给 V 友送福利， XProxy.Ai 中转站， 回帖送 5 刀，进群每周可领 5 刀，不开订阅，按量计费，没有套路 1:1 充值",
-      "url": "https://www.v2ex.com/t/1224554",
-      "description": "上期活动\nhttps://cn.v2ex.com/t/1220642#reply290\nhttps://cn.v2ex.com/t/1221843?p=3#reply290\n已参与的老用户将无法再领取哈\n\n推广\n给 V 友送福利，XProxy.Ai 中转站，回帖送 10 刀，不开订阅，按量计费，没有套路 1:1 充值\n🌐 官网\n🔗 官网： https://xproxy.ai\n🤝 企业合作\n🏢 企业用户可私聊添加企业微信申请发票。\n📄 发票说明：\n\n✅ 1% 普票免费开具\n💰 其他类型发票需补足相应税点\n\n🎉 活动规则\n\n💬 回帖即送 $5\n👥 进群后发消息再送（每周都可以领取） $5\n\n💵 奖",
-      "metric": "67 回复",
-      "metric_value": 67,
+      "rank": 3,
+      "title": "滨江仲裁调解员有大病，怎么投诉",
+      "url": "https://www.v2ex.com/t/1224653",
+      "description": "上周五去申请仲裁，周一下午的时候调解员打了个电话过来直接单方面通知让周二去现场调解，我说我没时间能不能改一下，她说公司那边已经约好了改不了，后面说先发我调解书等材料，签好字明天让同事带过去盖章就好了（同事和我一起仲裁），但是他给的材料有点问题，需要重新签字，我说可以我下周抽个时间去签了，然后昨天打了两个电话给我让我早点去签，我说这几天有工作要忙，下周一去吧，然后她就一直叭叭，说什么久了要写原因，说我不上心一大堆，我就说你调解不和我提前确认时间，我现在没时间去签，然后她说那你还怪我了，然后威胁我说那这个调解后面要关闭了还是什么的，我说那你关好了，回执给我我自己去起诉，然后挂了电话。  \n真的神人",
+      "metric": "105 回复",
+      "metric_value": 105,
       "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "XProxyAi",
-        "last_touched": 1783064359
+        "node": "杭州",
+        "node_name": "hangzhou",
+        "author": "cMoon",
+        "last_touched": 1783072236
       }
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "你最满意的 PC 软件是什么？",
       "url": "https://www.v2ex.com/t/1224652",
       "description": "我先来 eagle ，感觉在交互设计和丝滑体验上真的做到极致了。",
-      "metric": "67 回复",
-      "metric_value": 67,
+      "metric": "87 回复",
+      "metric_value": 87,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
@@ -102,45 +60,87 @@
       }
     },
     {
-      "rank": 8,
-      "title": "真的没人觉得 codex 比 claude 笨很多吗？",
-      "url": "https://www.v2ex.com/t/1224592",
-      "description": "甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点",
-      "metric": "61 回复",
-      "metric_value": 61,
+      "rank": 5,
+      "title": "TransOne： macOS 原生菜单栏翻译工具",
+      "url": "https://www.v2ex.com/t/1224640",
+      "description": "一直用 Bob ，也是付费用户。想开发一个符合自己审美和偏好的翻译软件，就有了此 App 。\n但不想开发同质化的应用。设计上最大的不同是 TransOne 的翻译界面有一个「主翻译」 Card ，占据最大的空间，用户可以在下面随意点击切换「其它翻译」 Card ，支持「句子翻译」、「词典」、「百科」。这样视觉就有了一个焦点。\n支持自定义服务的 Providers ，不配置也会默认使用系统服务，开箱即用。\n欢迎提出意见。\n\nTransOne 是一个常驻菜单栏的 macOS 翻译工具，纯原生 SwiftUI + AppKit ，随手就能用。\n四种翻译方式：输入翻译、划词翻译（快捷键取词或双击复制）",
+      "metric": "84 回复",
+      "metric_value": 84,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "yaocy",
-        "last_touched": 1783064341
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "moluuser",
+        "last_touched": 1783071203
       }
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "[OneDayAI] 先送后卖，新老用户留言即送一周套餐，每 20 楼抽 20 刀充值额度",
+      "url": "https://www.v2ex.com/t/1224726",
+      "description": "距离上次推广已过去三个月，我们还在且一如既往保持 兼容+稳定+性价比+低试错。\n正值系统大升级完成节点，再来 V 站推广一波，带来了一些福利。\n🎉🎉🎉 还是老规矩了，本帖发布24 小时内留言就送。\n网址\nhttps://api.autocode.space\n福利\n\n新老用户在本帖留言即送一周套餐（ 24 小时 5 刀，7 天 10 刀），可前往订阅管理 查询\n每 20 楼抽 20 刀充值额度\n\n变化\n\n之前被疯狂薅羊毛的签到重新开放\n系统支持更丰富的套餐设定，动态让利更简单\n任意分组均支持 Anthropic Claude 、OpenAI 、OpenAI-Responses 三协议互转\n\n\n只",
+      "metric": "73 回复",
+      "metric_value": 73,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "dockerhub",
+        "last_touched": 1783073981
+      }
+    },
+    {
+      "rank": 7,
+      "title": "2026 开一个公司，经验分享篇",
+      "url": "https://www.v2ex.com/t/1224638",
+      "description": "人员\n\n\n必须有两个人，一个法人 一个股东。\n\n\n个人独资一个人也行，但是好像比较麻烦，建议拉一个人。\n\n\n不能是老婆，老婆因为是利益共同体，不行。\n\n\n有领失业金的人也不行，也比较麻烦。\n\n\n费用\n\n\n注册资金 5 年内不用实缴，我写了 3 万。\n\n\n流程太麻烦了，建议找代账，江浙地区代账费一年 2000 左右，可以砍价，代账了的话，一般可以免注册费。\n\n\n主要支出就是代账费，公章代账也能搞，花了 200 块钱。\n\n\n注册商标之类的不要找代账会计，他们不懂。\n\n\n跨境之类的牵扯到退税，去找跨境会计， 普通代账会计不懂。\n\n\n没人会告诉你他不懂，不懂装懂。\n\n\n总费用 一年代账费 + 公章 +",
+      "metric": "73 回复",
+      "metric_value": 73,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "coala",
+        "last_touched": 1783073724
+      }
+    },
+    {
+      "rank": 8,
       "title": "一次勇敢换来一生自闭",
       "url": "https://www.v2ex.com/t/1224644",
       "description": "最近炒美股的经历汇总成一句话就是：一次勇敢换来一生自闭。在黄仁勋喊单后成本 322$ 追了 MRVL 😂。",
-      "metric": "61 回复",
-      "metric_value": 61,
+      "metric": "73 回复",
+      "metric_value": 73,
       "extra": {
         "node": "股票",
         "node_name": "stock",
         "author": "Bullish",
-        "last_touched": 1783064627
+        "last_touched": 1783073658
+      }
+    },
+    {
+      "rank": 9,
+      "title": "真的没人觉得 codex 比 claude 笨很多吗？",
+      "url": "https://www.v2ex.com/t/1224592",
+      "description": "甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点",
+      "metric": "67 回复",
+      "metric_value": 67,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "yaocy",
+        "last_touched": 1783072731
       }
     },
     {
       "rank": 10,
-      "title": "真的没人觉得中文里面掺杂英文很 low 么？",
-      "url": "https://www.v2ex.com/t/1224539",
-      "description": "把币都给我",
-      "metric": "60 回复",
-      "metric_value": 60,
+      "title": "看《感觉女友很爱去看演唱会，不想让她去怎么办》有感，人生真正的享受是什么",
+      "url": "https://www.v2ex.com/t/1224760",
+      "description": "贴一下原文：感觉女友很爱去看演唱会，不想让她去怎么办\n作为我个人肯定觉得去看演唱会，费钱又费精力。不如自己呆在空调房里，打打游戏、睡睡觉、vibecoding 一下、看看电影。\n但从他女朋友的角度，可能人家就是喜欢追星呢，就喜欢花大几千去看演唱会呢\n各位觉得人生真正的享受是什么样的",
+      "metric": "62 回复",
+      "metric_value": 62,
       "extra": {
-        "node": "随想",
-        "node_name": "random",
-        "author": "crocoBaby",
-        "last_touched": 1783064199
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "rxswift",
+        "last_touched": 1783072930
       }
     }
   ]
