@@ -1,132 +1,132 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-03T04:26:38+00:00",
+  "updated_at": "2026-07-03T07:47:05+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "[7 月] 一个真正一目了然的自建 Codex 中转站",
-      "url": "https://www.v2ex.com/t/1224483",
-      "description": "之所以说它一目了然，是因为我把账号页开放给大家看：\n\n有哪些账号，一眼清楚\n账号类型是什么，明明白白\n每一次请求走的是哪个账号，都能看得到\n使用情况透明展示，不搞黑箱操作\n\n本站号池目前为 Plus 账号，所有分组倍率均为 0.3 。\n注册即送 1 刀，回帖留下邮箱，新老用户再送 7 刀，限时至 7 月 3 日 14 点。\nQQ 群：1014477279\n欢迎访问: https://zhishu.dev",
-      "metric": "220 回复",
-      "metric_value": 220,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "JarvisLee",
-        "last_touched": 1783052382
-      }
-    },
-    {
-      "rank": 2,
       "title": "公司 vibe coding 的项目，团队已经无法掌控了",
       "url": "https://www.v2ex.com/t/1224558",
       "description": "今年年初，Agent 的爆发让公司管理层看到了“智能体替代部分客服岗位”的可能性，于是很快给我们下达了客服 Agent 的建设目标，覆盖 App 在线客服和电话线路客服两大场景。\n问题在于，我们团队并没有专门的 AI Agent 工程师，成员基本都是 Java 和前端开发。面对全新的技术栈，大家只能一边学习，一边借助 Codex 等 AI 编程工具完成系统设计、架构搭建和业务开发。\n经过几个月的赶工，第一版终于上线了。\n然而，真正的问题也从这一刻开始暴露。\n上线后的实际效果远低于预期。系统频繁出现各种异常，但团队却很难定位真正的原因。大量核心代码都是 AI 自动生成的，代码结构复杂、抽象层级混",
-      "metric": "145 回复",
-      "metric_value": 145,
+      "metric": "163 回复",
+      "metric_value": 163,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "wzzexe",
-        "last_touched": 1783052076
+        "last_touched": 1783064755
       }
     },
     {
-      "rank": 3,
-      "title": "讨论： AI 写的代码要不要看，不看代码的程序员会被淘汰吗？",
-      "url": "https://www.v2ex.com/t/1224476",
-      "description": "我发现现在的程序员正在往两个方向发展，一种是坚持检查 AI 写的代码，另一种是不看代码。\n我目前用 Cursor 写代码，主要是我有阅读 diff 的习惯，AI 写的代码我是一定要看的（除非这个项目不重要，不需要长期维护），一定要让 AI 根据我的设计规则去写。\n先说我的观点，站在“写代码”这个角度，如果不看 AI 写的代码，那么迟早要被 AI 完全取代，会失去竞争力。\n但是如果站在“做产品”的角度，不看代码也许能快速做出产品 Demo 验证市场，可能在产品力上会更有竞争力。\n你觉得不看代码的程序员会被淘汰吗？",
-      "metric": "98 回复",
-      "metric_value": 98,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "sdjl",
-        "last_touched": 1783048823
-      }
-    },
-    {
-      "rank": 4,
-      "title": "请警惕账号 w1573007 发布的开源项目 Termo",
-      "url": "https://www.v2ex.com/t/1224475",
-      "description": "本人为 w1573007 号主，今天突然收到账号被挂了两步验证。赶紧上来看看。我这号好多年没用了最后发帖时间是 2021 年。然后就发现对方把注册邮箱，密码都改了。但他可能不知道会给我原始注册邮箱发送修改邮件。然后就发现对方发了一个项目分享的帖子 https://www.v2ex.com/t/1224461\n我不知道他为啥要盗号的方式发帖。而不注册一个账号？\n手机编辑不太好当图片，如下是提示信息，已将相关情况发送给支持邮箱\n[V2EX] 两步验证已经开启\nV2EX  发给 cisha1573\n2026 年 07 月 02 日 11:55 (星期四)\n详情\nHi w1573007,\n你刚刚为你的",
-      "metric": "87 回复",
-      "metric_value": 87,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "maliaosaide1",
-        "last_touched": 1782995716
-      }
-    },
-    {
-      "rank": 5,
-      "title": "TransOne： macOS 原生菜单栏翻译工具",
-      "url": "https://www.v2ex.com/t/1224640",
-      "description": "一直用 Bob ，也是付费用户。想开发一个符合自己审美和偏好的翻译软件，就有了此 App 。\n但不想开发同质化的应用。设计上最大的不同是 TransOne 的翻译界面有一个「主翻译」 Card ，占据最大的空间，用户可以在下面随意点击切换「其它翻译」 Card ，支持「句子翻译」、「词典」、「百科」。这样视觉就有了一个焦点。\n支持自定义服务的 Providers ，不配置也会默认使用系统服务，开箱即用。\n欢迎提出意见。\n\nTransOne 是一个常驻菜单栏的 macOS 翻译工具，纯原生 SwiftUI + AppKit ，随手就能用。\n四种翻译方式：输入翻译、划词翻译（快捷键取词或双击复制）",
-      "metric": "68 回复",
-      "metric_value": 68,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "moluuser",
-        "last_touched": 1783052450
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "title": "滨江仲裁调解员有大病，怎么投诉",
       "url": "https://www.v2ex.com/t/1224653",
       "description": "上周五去申请仲裁，周一下午的时候调解员打了个电话过来直接单方面通知让周二去现场调解，我说我没时间能不能改一下，她说公司那边已经约好了改不了，后面说先发我调解书等材料，签好字明天让同事带过去盖章就好了（同事和我一起仲裁），但是他给的材料有点问题，需要重新签字，我说可以我下周抽个时间去签了，然后昨天打了两个电话给我让我早点去签，我说这几天有工作要忙，下周一去吧，然后她就一直叭叭，说什么久了要写原因，说我不上心一大堆，我就说你调解不和我提前确认时间，我现在没时间去签，然后她说那你还怪我了，然后威胁我说那这个调解后面要关闭了还是什么的，我说那你关好了，回执给我我自己去起诉，然后挂了电话。  \n真的神人",
-      "metric": "56 回复",
-      "metric_value": 56,
+      "metric": "91 回复",
+      "metric_value": 91,
       "extra": {
         "node": "杭州",
         "node_name": "hangzhou",
         "author": "cMoon",
-        "last_touched": 1783052327
+        "last_touched": 1783063857
+      }
+    },
+    {
+      "rank": 3,
+      "title": "家里亲戚今年高考，求推荐本科专业",
+      "url": "https://www.v2ex.com/t/1224690",
+      "description": "如题，求推荐本科好就业的专业。分数这些我就不贴这里了，现在 AI 帮填志愿已经挺成熟，但就是专业这块拿不准，当前填志愿的方向是：城市选择不重要，专业选择放在第一，毕业了能找到工作才是硬道理。这个志愿填报方向也欢迎交流、指导。",
+      "metric": "86 回复",
+      "metric_value": 86,
+      "extra": {
+        "node": "教育",
+        "node_name": "edu",
+        "author": "hoko1814",
+        "last_touched": 1783064478
+      }
+    },
+    {
+      "rank": 4,
+      "title": "TransOne： macOS 原生菜单栏翻译工具",
+      "url": "https://www.v2ex.com/t/1224640",
+      "description": "一直用 Bob ，也是付费用户。想开发一个符合自己审美和偏好的翻译软件，就有了此 App 。\n但不想开发同质化的应用。设计上最大的不同是 TransOne 的翻译界面有一个「主翻译」 Card ，占据最大的空间，用户可以在下面随意点击切换「其它翻译」 Card ，支持「句子翻译」、「词典」、「百科」。这样视觉就有了一个焦点。\n支持自定义服务的 Providers ，不配置也会默认使用系统服务，开箱即用。\n欢迎提出意见。\n\nTransOne 是一个常驻菜单栏的 macOS 翻译工具，纯原生 SwiftUI + AppKit ，随手就能用。\n四种翻译方式：输入翻译、划词翻译（快捷键取词或双击复制）",
+      "metric": "82 回复",
+      "metric_value": 82,
+      "extra": {
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "moluuser",
+        "last_touched": 1783064182
+      }
+    },
+    {
+      "rank": 5,
+      "title": "“有个东西，也是我今天才学到的，叫 CDN”",
+      "url": "https://www.v2ex.com/t/1224709",
+      "description": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg\n作者已编辑",
+      "metric": "75 回复",
+      "metric_value": 75,
+      "extra": {
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "tf2",
+        "last_touched": 1783064602
+      }
+    },
+    {
+      "rank": 6,
+      "title": "给 V 友送福利， XProxy.Ai 中转站， 回帖送 5 刀，进群每周可领 5 刀，不开订阅，按量计费，没有套路 1:1 充值",
+      "url": "https://www.v2ex.com/t/1224554",
+      "description": "上期活动\nhttps://cn.v2ex.com/t/1220642#reply290\nhttps://cn.v2ex.com/t/1221843?p=3#reply290\n已参与的老用户将无法再领取哈\n\n推广\n给 V 友送福利，XProxy.Ai 中转站，回帖送 10 刀，不开订阅，按量计费，没有套路 1:1 充值\n🌐 官网\n🔗 官网： https://xproxy.ai\n🤝 企业合作\n🏢 企业用户可私聊添加企业微信申请发票。\n📄 发票说明：\n\n✅ 1% 普票免费开具\n💰 其他类型发票需补足相应税点\n\n🎉 活动规则\n\n💬 回帖即送 $5\n👥 进群后发消息再送（每周都可以领取） $5\n\n💵 奖",
+      "metric": "67 回复",
+      "metric_value": 67,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "XProxyAi",
+        "last_touched": 1783064359
       }
     },
     {
       "rank": 7,
-      "title": "真的没人觉得 codex 比 claude 笨很多吗？",
-      "url": "https://www.v2ex.com/t/1224592",
-      "description": "甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点",
-      "metric": "54 回复",
-      "metric_value": 54,
+      "title": "你最满意的 PC 软件是什么？",
+      "url": "https://www.v2ex.com/t/1224652",
+      "description": "我先来 eagle ，感觉在交互设计和丝滑体验上真的做到极致了。",
+      "metric": "67 回复",
+      "metric_value": 67,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "yaocy",
-        "last_touched": 1783051644
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "052678",
+        "last_touched": 1782983414
       }
     },
     {
       "rank": 8,
-      "title": "一次勇敢换来一生自闭",
-      "url": "https://www.v2ex.com/t/1224644",
-      "description": "最近炒美股的经历汇总成一句话就是：一次勇敢换来一生自闭。在黄仁勋喊单后成本 322$ 追了 MRVL 😂。",
-      "metric": "47 回复",
-      "metric_value": 47,
+      "title": "真的没人觉得 codex 比 claude 笨很多吗？",
+      "url": "https://www.v2ex.com/t/1224592",
+      "description": "甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点",
+      "metric": "61 回复",
+      "metric_value": 61,
       "extra": {
-        "node": "股票",
-        "node_name": "stock",
-        "author": "Bullish",
-        "last_touched": 1783052214
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "yaocy",
+        "last_touched": 1783064341
       }
     },
     {
       "rank": 9,
-      "title": "测试已死，北京测试岗位如此凄惨，。。",
-      "url": "https://www.v2ex.com/t/1224467",
-      "description": "没想到今年的行情比想象中的还要差，楼主测试岗位 7 年经验，目前下岗 2 个月了，每天都在疯狂投简历。没想到北京的测试岗位也很少，面试都没几个，2 个公司是面试通过了，到了定薪环节又由于薪资问题不了了之，成备胎了。\n心态崩了，现在刚 30 岁，还不想进外包，每天都在煎熬中度过。",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "title": "一次勇敢换来一生自闭",
+      "url": "https://www.v2ex.com/t/1224644",
+      "description": "最近炒美股的经历汇总成一句话就是：一次勇敢换来一生自闭。在黄仁勋喊单后成本 322$ 追了 MRVL 😂。",
+      "metric": "61 回复",
+      "metric_value": 61,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "huolong",
-        "last_touched": 1783047461
+        "node": "股票",
+        "node_name": "stock",
+        "author": "Bullish",
+        "last_touched": 1783064627
       }
     },
     {
@@ -134,13 +134,13 @@
       "title": "真的没人觉得中文里面掺杂英文很 low 么？",
       "url": "https://www.v2ex.com/t/1224539",
       "description": "把币都给我",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "metric": "60 回复",
+      "metric_value": 60,
       "extra": {
         "node": "随想",
         "node_name": "random",
         "author": "crocoBaby",
-        "last_touched": 1783036075
+        "last_touched": 1783064199
       }
     }
   ]
