@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-07-04T19:45:27+00:00",
+  "updated_at": "2026-07-04T21:01:36+00:00",
   "count": 18,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "openai / codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "metric": "★ 24,160",
+      "metric": "★ 24,228",
       "extra": {
         "language": "JavaScript",
-        "stars": "24,160",
-        "forks": "1,472",
+        "stars": "24,228",
+        "forks": "1,476",
         "stars_today": "716 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "JuliusBrussee / caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "metric": "★ 83,792",
+      "metric": "★ 83,834",
       "extra": {
         "language": "JavaScript",
-        "stars": "83,792",
-        "forks": "4,671",
+        "stars": "83,834",
+        "forks": "4,673",
         "stars_today": "1,089 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "alibaba / page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "metric": "★ 22,993",
+      "metric": "★ 23,024",
       "extra": {
         "language": "TypeScript",
-        "stars": "22,993",
-        "forks": "1,996",
+        "stars": "23,024",
+        "forks": "2,001",
         "stars_today": "726 stars today"
       }
     },
@@ -47,10 +47,10 @@
       "title": "usestrix / strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "metric": "★ 35,878",
+      "metric": "★ 35,910",
       "extra": {
         "language": "Python",
-        "stars": "35,878",
+        "stars": "35,910",
         "forks": "3,646",
         "stars_today": "1,910 stars today"
       }
@@ -73,11 +73,11 @@
       "title": "Zackriya-Solutions / meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "metric": "★ 15,013",
+      "metric": "★ 15,078",
       "extra": {
         "language": "Rust",
-        "stars": "15,013",
-        "forks": "1,645",
+        "stars": "15,078",
+        "forks": "1,652",
         "stars_today": "865 stars today"
       }
     },
@@ -86,11 +86,11 @@
       "title": "asgeirtj / system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "metric": "★ 48,732",
+      "metric": "★ 48,794",
       "extra": {
         "language": "JavaScript",
-        "stars": "48,732",
-        "forks": "7,946",
+        "stars": "48,794",
+        "forks": "7,953",
         "stars_today": "432 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "harvard-edge / cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems",
-      "metric": "★ 26,498",
+      "metric": "★ 26,515",
       "extra": {
         "language": "Python",
-        "stars": "26,498",
-        "forks": "3,161",
+        "stars": "26,515",
+        "forks": "3,162",
         "stars_today": "446 stars today"
       }
     },
@@ -112,11 +112,11 @@
       "title": "rommapp / romm",
       "url": "https://github.com/rommapp/romm",
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
-      "metric": "★ 10,126",
+      "metric": "★ 10,149",
       "extra": {
         "language": "Python",
-        "stars": "10,126",
-        "forks": "490",
+        "stars": "10,149",
+        "forks": "492",
         "stars_today": "400 stars today"
       }
     },
@@ -125,11 +125,11 @@
       "title": "ogulcancelik / herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
-      "metric": "★ 11,316",
+      "metric": "★ 11,352",
       "extra": {
         "language": "Rust",
-        "stars": "11,316",
-        "forks": "667",
+        "stars": "11,352",
+        "forks": "668",
         "stars_today": "706 stars today"
       }
     },
@@ -138,11 +138,11 @@
       "title": "dotnet / skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "metric": "★ 3,765",
+      "metric": "★ 3,781",
       "extra": {
         "language": "C#",
-        "stars": "3,765",
-        "forks": "287",
+        "stars": "3,781",
+        "forks": "288",
         "stars_today": "57 stars today"
       }
     },
@@ -151,11 +151,11 @@
       "title": "agentskills / agentskills",
       "url": "https://github.com/agentskills/agentskills",
       "description": "Specification and documentation for Agent Skills",
-      "metric": "★ 22,269",
+      "metric": "★ 22,285",
       "extra": {
         "language": "Python",
-        "stars": "22,269",
-        "forks": "1,406",
+        "stars": "22,285",
+        "forks": "1,407",
         "stars_today": "351 stars today"
       }
     },
@@ -164,11 +164,11 @@
       "title": "immich-app / immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
-      "metric": "★ 105,543",
+      "metric": "★ 105,568",
       "extra": {
         "language": "TypeScript",
-        "stars": "105,543",
-        "forks": "6,025",
+        "stars": "105,568",
+        "forks": "6,027",
         "stars_today": "198 stars today"
       }
     },
@@ -177,10 +177,10 @@
       "title": "chthollyphile / folia-major",
       "url": "https://github.com/chthollyphile/folia-major",
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-      "metric": "★ 971",
+      "metric": "★ 975",
       "extra": {
         "language": "TypeScript",
-        "stars": "971",
+        "stars": "975",
         "forks": "62",
         "stars_today": "319 stars today"
       }
@@ -190,11 +190,11 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "metric": "★ 156,437",
+      "metric": "★ 156,470",
       "extra": {
         "language": "Shell",
-        "stars": "156,437",
-        "forks": "13,465",
+        "stars": "156,470",
+        "forks": "13,466",
         "stars_today": "1,013 stars today"
       }
     },
@@ -203,10 +203,10 @@
       "title": "CoplayDev / unity-mcp",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "metric": "★ 11,516",
+      "metric": "★ 11,547",
       "extra": {
         "language": "C#",
-        "stars": "11,516",
+        "stars": "11,547",
         "forks": "1,259",
         "stars_today": "68 stars today"
       }
@@ -216,11 +216,11 @@
       "title": "alirezarezvani / claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "metric": "★ 20,079",
+      "metric": "★ 20,095",
       "extra": {
         "language": "Python",
-        "stars": "20,079",
-        "forks": "2,750",
+        "stars": "20,095",
+        "forks": "2,752",
         "stars_today": "197 stars today"
       }
     },
@@ -229,11 +229,11 @@
       "title": "crynta / terax-ai",
       "url": "https://github.com/crynta/terax-ai",
       "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
-      "metric": "★ 8,003",
+      "metric": "★ 8,015",
       "extra": {
         "language": "TypeScript",
-        "stars": "8,003",
-        "forks": "857",
+        "stars": "8,015",
+        "forks": "858",
         "stars_today": "44 stars today"
       }
     }
