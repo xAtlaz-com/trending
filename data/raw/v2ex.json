@@ -4,13 +4,13 @@
     "title": "暗色模式到底是怎么流行起来的？？",
     "url": "https://www.v2ex.com/t/1224886",
     "description": "RT ，现在基本上但凡 IT 数码沾点边的站点或者软件，进去默认都是夜间模式、暗色模式。作为一个讨厌暗色模式的人，每次进去都要找半天日渐模式按钮在哪里，有些在右上角或者左下角直接可以切换的还好。有些 TM 的直接没有切换按钮或者藏在设置页深处的，简直想打人。夜间模式到底好在哪里啊？护眼吗？好像没有科学依据证明啊。日间模式看着多舒服啊，各种设计颜色都是原始的，夜间模式好多界面颜色啥的设计都变乱了，很丑啊。",
-    "metric": "91 回复",
-    "metric_value": 91,
+    "metric": "92 回复",
+    "metric_value": 92,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "Y25tIGxpdmlk",
-      "last_touched": 1783183553
+      "last_touched": 1783193474
     }
   },
   {
@@ -21,14 +21,28 @@
     "metric": "67 回复",
     "metric_value": 67,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
+      "node": "推广",
+      "node_name": "promotions",
       "author": "twk93",
       "last_touched": 1783177890
     }
   },
   {
     "rank": 3,
+    "title": "完了，到 2031 年，内存可能都不会降价。",
+    "url": "https://www.v2ex.com/t/1224905",
+    "description": "镁光被 16 家包了 5 年，价格不低于现在。\n\n\nMicron CEO, president and chairman Sanjay Mehrotra explained the SCAs in prepared remarks delivered during the company’s Q3 earnings call. He explained that Micron has signed 16 SCAs, most of them covering 2026 to 2030, and that they involve a commitment to buy a certain qu",
+    "metric": "44 回复",
+    "metric_value": 44,
+    "extra": {
+      "node": "硬件",
+      "node_name": "hardware",
+      "author": "loading",
+      "last_touched": 1783193358
+    }
+  },
+  {
+    "rank": 4,
     "title": "智普 coding plan 抢不到，有没有什么方法啊...",
     "url": "https://www.v2ex.com/t/1224887",
     "description": "",
@@ -42,7 +56,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "问大佬们个问题， App 只要接了手机验证码就需要办理等保二级？",
     "url": "https://www.v2ex.com/t/1224876",
     "description": "今天抖音上面刷到一个哥们，被网安叫到派出所交了 5 万的罚款，就因为他上架的 App 没有做等保。他说他只收集了用户的手机号，只有十几个用户，就被要求做等保三级，这是什么规定？有了解的老哥出来说说?查了下还挺贵的，二级是每年 2 万，三级是每年 5 万。\n这样搞国内市场看来真的得放弃了，还没有什么成果呢，上来就要交钱，不交钱就得吃罚款！",
@@ -56,35 +70,49 @@
     }
   },
   {
-    "rank": 5,
-    "title": "完了，到 2031 年，内存可能都不会降价。",
-    "url": "https://www.v2ex.com/t/1224905",
-    "description": "镁光被 16 家包了 5 年，价格不低于现在。\n\n\nMicron CEO, president and chairman Sanjay Mehrotra explained the SCAs in prepared remarks delivered during the company’s Q3 earnings call. He explained that Micron has signed 16 SCAs, most of them covering 2026 to 2030, and that they involve a commitment to buy a certain qu",
-    "metric": "40 回复",
-    "metric_value": 40,
-    "extra": {
-      "node": "硬件",
-      "node_name": "hardware",
-      "author": "loading",
-      "last_touched": 1783186686
-    }
-  },
-  {
     "rank": 6,
     "title": "[终极折腾] 走海外拿身份 + 境外友人家里放 Mac mini 远程使用 Claude，这方案有坑吗？",
     "url": "https://www.v2ex.com/t/1224985",
     "description": "先交待一下背景：我是一名独立，日常主要做网络安全顾问/安全咨询。因为工作性质，我每天需要进行大量的代码审计、漏洞分析、编写 PoC 脚本以及生成安全咨询报告。在这些任务中，我极度依赖 Claude （尤其是在复杂的逆向分析思路整理和长代码安全审计方面）。它的推理和辅助效率目前在安全领域是无可替代的，已经成为我日常搬砖的核心生产力工具。我尝试过各种方案：大厂的 VPS 自建、付费的静态住宅 IP （静态 ISP ）、以及各种充值卡、虚拟信用卡（如 WildCard 、Dupay 、hk 的 za bank 等，甚至用 chromebook 反代出来、弄了个假装海外设备的环境）。手上美英欧小鸡和电",
-    "metric": "30 回复",
-    "metric_value": 30,
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "ludyleocn",
-      "last_touched": 1783182774
+      "last_touched": 1783190721
     }
   },
   {
     "rank": 7,
+    "title": "哎，婚姻的意义是什么",
+    "url": "https://www.v2ex.com/t/1224990",
+    "description": "背景\n我和我老婆有个上幼儿园的小孩，出了月子后基本都是岳母在带，一开始我们没怎么固定给岳母补贴，从孩子两三岁开始每个月给岳母打 3000.我妈妈在孩子出生后带了个把月，后面我妈膝盖疼做了手术，之后去工作了（目的是攒一些养老钱）。我妈大约在孩子 3 岁的时候开始，每个月给我转账 2500 ，算是不带孩子的补偿，在这之前虽然每个月没有固定打钱，但是逢年过节会给点钱，而且经常会给孩子买三文鱼、牛肉这些东西。\n冲突\n我妈最近快失业了，于是我跟我老婆商量后面暂时先把每个月 2500 补贴给停了，等她找到工作了再说，我老婆当时也答应了，然后正巧我妈最近膝盖又疼了，我打算给她约个号去做个检查，为这事，我爸还",
+    "metric": "29 回复",
+    "metric_value": 29,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "dsj11231",
+      "last_touched": 1783194130
+    }
+  },
+  {
+    "rank": 8,
+    "title": "阿里的产品真的挺有意思的，不开麦克风权限不给用键盘打字",
+    "url": "https://www.v2ex.com/t/1224885",
+    "description": "今天刚好有需要想在千牛 app 里面问下  AI 客服\n居然要求必须开启麦克风权限，否则不能用 键盘输入\n到底是想监听啥有价值的商业情报啊？\n还是单纯开发人员故意的，还是领导要求\n冲浪互联网多年，你们有用过哪家公司聊天框不开麦克风权限就不能打字吗？",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "分享发现",
+      "node_name": "share",
+      "author": "xiaocongcong1",
+      "last_touched": 1783189297
+    }
+  },
+  {
+    "rank": 9,
     "title": "省到就是赚到？",
     "url": "https://www.v2ex.com/t/1224937",
     "description": "会有“省钱=赚钱”的想法吗？小到日常生活琐碎物件追求性价比或最优惠价格，大到比如一辆全新 model y 需要二六七十万，但二手或许能省五六万，变相而言是不是赚了五六万",
@@ -98,21 +126,7 @@
     }
   },
   {
-    "rank": 8,
-    "title": "哎，婚姻的意义是什么",
-    "url": "https://www.v2ex.com/t/1224990",
-    "description": "背景\n我和我老婆有个上幼儿园的小孩，出了月子后基本都是岳母在带，一开始我们没怎么固定给岳母补贴，从孩子两三岁开始每个月给岳母打 3000.我妈妈在孩子出生后带了个把月，后面我妈膝盖疼做了手术，之后去工作了（目的是攒一些养老钱）。我妈大约在孩子 3 岁的时候开始，每个月给我转账 2500 ，算是不带孩子的补偿，在这之前虽然每个月没有固定打钱，但是逢年过节会给点钱，而且经常会给孩子买三文鱼、牛肉这些东西。\n冲突\n我妈最近快失业了，于是我跟我老婆商量后面暂时先把每个月 2500 补贴给停了，等她找到工作了再说，我老婆当时也答应了，然后正巧我妈最近膝盖又疼了，我打算给她约个号去做个检查，为这事，我爸还",
-    "metric": "25 回复",
-    "metric_value": 25,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "dsj11231",
-      "last_touched": 1783188069
-    }
-  },
-  {
-    "rank": 9,
+    "rank": 10,
     "title": "你喜欢注释丰富， Commit Message 详尽，还是反之？",
     "url": "https://www.v2ex.com/t/1224882",
     "description": "作为一个大龄 Ops ，喜欢简洁的代码和注释，但是写起帖子又特别碎碎念（开头就有点跑题了\n本人算是古法 Vibe Coding 了，基本上除了自己的一个重构小 skill 以外，也没有安装市面上流行的 skill 。\nClaude Code 和 Codex 配合其最新模型，在近两个月我前者烧了 170 亿+后者烧了 200 多亿，近四百亿 token （当然缓存命中率在 95.5%+），所以默认是怎样我还是挺清楚的，简而言之就是，\nCodex 注释很少，Commit Message 你若是不稍稍加点限定，可能就只有标题，body 都没有\nClaude Code 狂写注释，一个 feature ",
@@ -123,20 +137,6 @@
       "node_name": "programmer",
       "author": "Had",
       "last_touched": 1783183740
-    }
-  },
-  {
-    "rank": 10,
-    "title": "阿里的产品真的挺有意思的，不开麦克风权限不给用键盘打字",
-    "url": "https://www.v2ex.com/t/1224885",
-    "description": "今天刚好有需要想在千牛 app 里面问下  AI 客服\n居然要求必须开启麦克风权限，否则不能用 键盘输入\n到底是想监听啥有价值的商业情报啊？\n还是单纯开发人员故意的，还是领导要求\n冲浪互联网多年，你们有用过哪家公司聊天框不开麦克风权限就不能打字吗？",
-    "metric": "25 回复",
-    "metric_value": 25,
-    "extra": {
-      "node": "分享发现",
-      "node_name": "share",
-      "author": "xiaocongcong1",
-      "last_touched": 1783181404
     }
   }
 ]
