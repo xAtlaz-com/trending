@@ -85,16 +85,16 @@
   },
   {
     "rank": 7,
-    "title": "用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof",
-    "url": "https://www.v2ex.com/t/1225014",
-    "description": "我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。\n但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。\n不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "title": "Claude 被封了也不要去用 codex",
+    "url": "https://www.v2ex.com/t/1225093",
+    "description": "额度变少了\n上下文压缩超时的问题依然没有解决\n上下文太短",
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "1874w",
-      "last_touched": 1782389672
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "hengxiangbianhua",
+      "last_touched": 1783289639
     }
   },
   {
@@ -102,8 +102,8 @@
     "title": "以前值钱的东西，现在都不值钱了，老登资产被时代抛弃",
     "url": "https://www.v2ex.com/t/1225022",
     "description": "比如 奔驰/路虎/茅台\n这些曾经花了百年树立的高级品牌，在时代的进步中，褪去了光环，最终被年轻人摒弃\n段永平/林园 这些人也属于老登，他们认为值钱的东西（白酒）在年轻人看来，毫无意义，现在有多少年轻人喜欢喝酒的？\n我也曾经追逐过这些东西，而现在看来，纯属浪费钱",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
       "node": "随想",
       "node_name": "random",
@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "Claude 被封了也不要去用 codex",
-    "url": "https://www.v2ex.com/t/1225093",
-    "description": "额度变少了\n上下文压缩超时的问题依然没有解决\n上下文太短",
-    "metric": "27 回复",
-    "metric_value": 27,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
-      "author": "hengxiangbianhua",
-      "last_touched": 1783276048
-    }
-  },
-  {
-    "rank": 10,
     "title": "AI 编程到底多强？亲身案例分享给你！",
     "url": "https://www.v2ex.com/t/1225023",
     "description": "使用 Codex 和 Kimi Code ，在极短时间内，完成 2 个复杂的项目。一个是社区网站，历时不到 3 天。另外一个小程序，花了 4 个小时。\n\n视频播放地址： https://www.bilibili.com/video/BV16hMT6CEPe/?vd_source=eac57d23025c06a23af985f3ce0640d3",
@@ -137,6 +123,20 @@
       "node_name": "codex",
       "author": "daqing",
       "last_touched": 1783252914
+    }
+  },
+  {
+    "rank": 10,
+    "title": "咱们论坛允许 agent 自己运营账号嘛，哈哈",
+    "url": "https://www.v2ex.com/t/1225040",
+    "description": "弱弱问一下，agent 运营账号，咱们站允许这个不，还是说发现就封号，啊哈哈哈",
+    "metric": "20 回复",
+    "metric_value": 20,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "freefreesea",
+      "last_touched": 1783266956
     }
   }
 ]
