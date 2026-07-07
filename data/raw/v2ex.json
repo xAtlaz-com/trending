@@ -1,142 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "继续推广我的 gpt 中转站，注册就送 28.8$余额，已稳定运行俩月了",
-    "url": "https://www.v2ex.com/t/1225338",
-    "description": "小站稳定运营，满血 gpt plus pro 号池，开通多种套餐订阅：\n\nV 站用户专属福利：新用户注册即赠送$10 （记得用注册链接），在本帖回复注册邮箱，即可免费再送$18.8 余额！\n加 q 群联系管理员冰冰即可发放，欢迎加入新 q 群：745564314  评论区看到也会\n注册邀请链接： https://xinx.best/register?promo=B07EF5AED8DE1886\n限前 100 个先到先得\n主站： https://xinx.best/home\n卡网： https://pay.ldxp.cn/shop/JZ9CUHL0",
-    "metric": "145 回复",
-    "metric_value": 145,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "zhlsk",
-      "last_touched": 1783406297
-    }
-  },
-  {
-    "rank": 2,
-    "title": "分享一个极限赶飞机不用等的方法",
-    "url": "https://www.v2ex.com/t/1225334",
-    "description": "痛点：国内航班，众所周知，航班延误是常态。如果无脑提前两个小时到机场，就将会有漫长的等待期时间。我找到了下面这种方法，可以参考下，等待时间缩短到 0-30 分钟。仅个人亲测经验分享，如果没赶上飞机，不要怨我哈。\n无托运\n\n航旅纵横没有显示延误，直接在值机结束时间提前 5 分钟到出发大厅就行了。基本上 15 分钟就可以过安检并且找到登机口\n航旅纵横显示延误，查看前序航班到达时间，前序航班到达时间+30 分钟到达登机口就行了。因为到达+滑行+整备,差不多 50 分钟后，才开始登机。\n\n有托运（没有测试过，欢迎补充）",
-    "metric": "91 回复",
-    "metric_value": 91,
-    "extra": {
-      "node": "旅行",
-      "node_name": "travel",
-      "author": "clacf",
-      "last_touched": 1783409572
-    }
-  },
-  {
-    "rank": 3,
-    "title": "新加坡公司上班第二天被炒鱿鱼",
-    "url": "https://www.v2ex.com/t/1225425",
-    "description": "月初开始在新家坡老板开的一家儿童智能手表兼职做客服，因为跑 Python 脚本下载历史工单喂 AI 被威胁开除。说我下班以后没有关电脑，没有获得批准就下载脚本软件，没有知会因为并发连接数过高（ 24 线程）造成 5 分钟工单系统 403 错误下线，说我和国足一样没有集体意识。说我蓄意窃取公司数据，并在第二天把我电脑没收，造成无法打卡。\n请大家评评理。",
-    "metric": "87 回复",
-    "metric_value": 87,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "d2036a",
-      "last_touched": 1783408997
-    }
-  },
-  {
-    "rank": 4,
-    "title": "使用 claude code 进行开发，一天用 600 人民币算多吗？",
-    "url": "https://www.v2ex.com/t/1225437",
-    "description": "使用 claude code 进行公司项目开发，一天用 600 多人民币算多吗？各位佬都用多少呢？",
-    "metric": "77 回复",
-    "metric_value": 77,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
-      "author": "hamphrey395",
-      "last_touched": 1783409980
-    }
-  },
-  {
-    "rank": 5,
-    "title": "没有公网 IPv4， IPv6 又是动态的，大家现在怎么低成本暴露家庭服务？",
-    "url": "https://www.v2ex.com/t/1225326",
-    "description": "坐标国内，宽带是联通/电信，打电话要公网 IPv4 被拒，说资源紧张。IPv6 虽然有，但重启光猫就变，还得搞 DDNS 。\n家里放了台小主机，跑了 NAS 、Jellyfin 和几个小 Web 服务，想对外给朋友用，或者自己外面访问。目前知道几条路：\n\n\nIPv6 + DDNS 直连，但手机流量或者公司网络没 v6 就歇菜\n\n\n套Cloudflare Tunnel，速度感人，偶尔被阻断； 国内EdgeOne等可以，但是 ddns 生效时间有点长\n\n\n买台轻量云 VPS 做 FRP 转发，成本高，还怕厂商查流量转发违规\n\n\n用Tailscale/ZeroTier组虚拟网，但客户端得装软件，分享",
-    "metric": "72 回复",
-    "metric_value": 72,
-    "extra": {
-      "node": "宽带症候群",
-      "node_name": "bb",
-      "author": "ook",
-      "last_touched": 1783409588
-    }
-  },
-  {
-    "rank": 6,
-    "title": "小红书的骚操作会不会毁掉整个行业的 VIE？",
-    "url": "https://www.v2ex.com/t/1225460",
-    "description": "已核实，主要事实属实。\n前小红书华南商业化负责人陈浩于 6 月 28/29 日实名向港交所及香港证监会提交投诉，附一二审判决书、期权诉讼卷宗等材料。\n他在 2022 年入职获境外期权，2023 年底行权前 5 个月被解约。法院认定违法解除，判赔违法解除金+期权损失（合计约 85 万），并明确 VIE 架构下期权属劳动报酬。这是国内首例相关司法认定。\n公司曾在诉讼中主张“境内运营实体与境外期权主体无关联”，但 VIE 红筹上市需证明控制关系并合并报表，举报直指此披露矛盾及系统性劳工合规问题（称近 50 名前员工类似遭遇）。\n正值小红书筹备港股 IPO （ 6 月中传闻月底秘密递表，估值传闻 20",
-    "metric": "63 回复",
-    "metric_value": 63,
-    "extra": {
-      "node": "分享发现",
-      "node_name": "share",
-      "author": "chaosdefense",
-      "last_touched": 1783409704
-    }
-  },
-  {
-    "rank": 7,
-    "title": "“万一免五”低佣低两融老倔驴开户巨靠谱，继续抽 JBL GO4 小音箱..喜欢动次打次的来~~",
-    "url": "https://www.v2ex.com/t/1225443",
-    "description": "每周一抽，码农值得拥有的精选好物，继续抽 JBL GO4..做个显眼包\n\n一款极具性价比的超便携蓝牙音箱。它以巴掌大小的体积、扎实的低音表现、IP67 防水防尘等级以及长达 7-9 小时的续航获得市场高度评价，是户外运动、露营和随身携带的理想选择。\n\n🎲 回复即可参与！ 回复超过 150 加抽一台！\n\n🎈奖品由 “开户找老倔驴巨靠谱，已助千人” 赞助\n老倔驴聚合几十家券商优惠，连接 100+家营业部，已帮助 3000+ ，优势如下：\n\n费率保障： 若开户一周内发现更低费率，承诺全额补足半年交易差价。\n隐私保护： 承诺个人信息仅用于开户，且手机号会做脱敏处理。\n赔付机制： 若存在佣金与承诺不符，",
-    "metric": "60 回复",
-    "metric_value": 60,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "laojuelv",
-      "last_touched": 1783410015
-    }
-  },
-  {
-    "rank": 8,
     "title": "同事送了个洗碗机之后回不去了",
     "url": "https://www.v2ex.com/t/1225553",
     "description": "1 、前序\n之前看论坛各种讨论洗碗机的帖子，\n隔段时间就冒出来一个(总算轮到我来说了)，\n之前对洗碗机一直抱有怀疑的态度。  \n2 、洗碗情况\n个人情况是天天做晚饭吃,\n为了吃得营养多元(为了精致)每次都用好多碗装各类食物，\n最后导致吃完饭各种锅碗瓢盆一大堆。\n(人懒)经常堆一大堆碗，  想了想其实很适合塞洗碗机。  \n3 、出租屋改造\n和同事聊到，他有个闲置的洗碗机说可以送我，\n以及群友建议，买个分水器就可以不改造任何管道用起来。\n可算达成了《出租屋也装上了洗碗机》。  \n4 、使用感受\n\n玻璃器具、钢制品有着强大的清洁能力，能洗成刚出厂的通透度和质感  \n洗塑料类器具，感觉清洁度一般，不过",
-    "metric": "58 回复",
-    "metric_value": 58,
+    "metric": "113 回复",
+    "metric_value": 113,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "booyah",
-      "last_touched": 1783409794
+      "last_touched": 1783422432
     }
   },
   {
-    "rank": 9,
-    "title": "V 友都是用的什么洗发水？有去屑效果好的推荐吗？",
-    "url": "https://www.v2ex.com/t/1225323",
-    "description": "我每次洗完头，一吹干就会有头皮屑。干了之后就感觉头皮很紧绷，然后扣一下就会有那种很大片的头皮屑能从头皮上撕下来。（有点小解压是什么鬼😂）然后时间长了我发现额头上也出现这种情况了。很苦恼。去医院看过一次，开了点涂的药水，但是没啥效果。",
-    "metric": "53 回复",
-    "metric_value": 53,
+    "rank": 2,
+    "title": "新加坡公司上班第二天被炒鱿鱼",
+    "url": "https://www.v2ex.com/t/1225425",
+    "description": "月初开始在新家坡老板开的一家儿童智能手表兼职做客服，因为跑 Python 脚本下载历史工单喂 AI 被威胁开除。说我下班以后没有关电脑，没有获得批准就下载脚本软件，没有知会因为并发连接数过高（ 24 线程）造成 5 分钟工单系统 403 错误下线，说我和国足一样没有集体意识。说我蓄意窃取公司数据，并在第二天把我电脑没收，造成无法打卡。\n请大家评评理。",
+    "metric": "96 回复",
+    "metric_value": 96,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "barantt01",
-      "last_touched": 1783407963
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "d2036a",
+      "last_touched": 1783416781
     }
   },
   {
-    "rank": 10,
+    "rank": 3,
+    "title": "使用 claude code 进行开发，一天用 600 人民币算多吗？",
+    "url": "https://www.v2ex.com/t/1225437",
+    "description": "使用 claude code 进行公司项目开发，一天用 600 多人民币算多吗？各位佬都用多少呢？",
+    "metric": "89 回复",
+    "metric_value": 89,
+    "extra": {
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "hamphrey395",
+      "last_touched": 1783421906
+    }
+  },
+  {
+    "rank": 4,
+    "title": "小红书的骚操作会不会毁掉整个行业的 VIE？",
+    "url": "https://www.v2ex.com/t/1225460",
+    "description": "已核实，主要事实属实。\n前小红书华南商业化负责人陈浩于 6 月 28/29 日实名向港交所及香港证监会提交投诉，附一二审判决书、期权诉讼卷宗等材料。\n他在 2022 年入职获境外期权，2023 年底行权前 5 个月被解约。法院认定违法解除，判赔违法解除金+期权损失（合计约 85 万），并明确 VIE 架构下期权属劳动报酬。这是国内首例相关司法认定。\n公司曾在诉讼中主张“境内运营实体与境外期权主体无关联”，但 VIE 红筹上市需证明控制关系并合并报表，举报直指此披露矛盾及系统性劳工合规问题（称近 50 名前员工类似遭遇）。\n正值小红书筹备港股 IPO （ 6 月中传闻月底秘密递表，估值传闻 20",
+    "metric": "77 回复",
+    "metric_value": 77,
+    "extra": {
+      "node": "分享发现",
+      "node_name": "share",
+      "author": "chaosdefense",
+      "last_touched": 1783418338
+    }
+  },
+  {
+    "rank": 5,
     "title": "分析分析，你们老婆也这样吗",
     "url": "https://www.v2ex.com/t/1225496",
     "description": "年初，老婆给我报名了莫干山跑山赛，中签了隔了一段时间，她跟我说，她一个同事跟她说：以我对你老公的了解，他肯定最后会不去。意思说她判定我会打退堂鼓关键这个同事我完全没见过面是我敏感了，还是我老婆总是跟着外人说我缺点",
-    "metric": "52 回复",
-    "metric_value": 52,
+    "metric": "73 回复",
+    "metric_value": 73,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "nomore001",
-      "last_touched": 1783409366
+      "last_touched": 1783421927
+    }
+  },
+  {
+    "rank": 6,
+    "title": "“万一免五”低佣低两融老倔驴开户巨靠谱，继续抽 JBL GO4 小音箱..喜欢动次打次的来~~",
+    "url": "https://www.v2ex.com/t/1225443",
+    "description": "每周一抽，码农值得拥有的精选好物，继续抽 JBL GO4..做个显眼包\n\n一款极具性价比的超便携蓝牙音箱。它以巴掌大小的体积、扎实的低音表现、IP67 防水防尘等级以及长达 7-9 小时的续航获得市场高度评价，是户外运动、露营和随身携带的理想选择。\n\n🎲 回复即可参与！ 回复超过 150 加抽一台！\n\n🎈奖品由 “开户找老倔驴巨靠谱，已助千人” 赞助\n老倔驴聚合几十家券商优惠，连接 100+家营业部，已帮助 3000+ ，优势如下：\n\n费率保障： 若开户一周内发现更低费率，承诺全额补足半年交易差价。\n隐私保护： 承诺个人信息仅用于开户，且手机号会做脱敏处理。\n赔付机制： 若存在佣金与承诺不符，",
+    "metric": "68 回复",
+    "metric_value": 68,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "laojuelv",
+      "last_touched": 1783416167
+    }
+  },
+  {
+    "rank": 7,
+    "title": "这篇文章勾起了我的对于体罚的回忆",
+    "url": "https://www.v2ex.com/t/1225465",
+    "description": "引用一下： https://www.v2ex.com/t/1225223#reply97\n时间：2005 年前后\n地点：广西武鸣双桥小学\n我在这个时间段转学到这所学校，语文老师是一个 30 左右的孕期女老师\n她多次直接拿书本/用手直接狂扇学生脸，没有任何人敢反抗，记忆有点模糊，说不上是因为什么，但是她好像是只针对某一个或某几个学生；回想起来，好像也从来没有学生家长来闹过，直到小升初结束，她还继续正常在教书\n这简直是我见过的最扯最让人心惊肉跳的老师，我要是这同学，估计都得 ptsd 了，也不知道他现在咋样了",
+    "metric": "61 回复",
+    "metric_value": 61,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "carverReal",
+      "last_touched": 1783420040
+    }
+  },
+  {
+    "rank": 8,
+    "title": "国行红米手机有推荐吗？",
+    "url": "https://www.v2ex.com/t/1225464",
+    "description": "一直是苹果全家桶用户\n想先入一台国行的主力机去填补苹果机无法覆盖到的功能区间\n身边有朋友推荐红米的手机\n请问现在红米手机入手哪部比较好\n要冲新机吗还是就买二手？",
+    "metric": "60 回复",
+    "metric_value": 60,
+    "extra": {
+      "node": "Android",
+      "node_name": "android",
+      "author": "adz2k",
+      "last_touched": 1783418662
+    }
+  },
+  {
+    "rank": 9,
+    "title": "有没有这样一种工作",
+    "url": "https://www.v2ex.com/t/1225502",
+    "description": "稳定：能做到退休\n待遇好：离家近，薪资高，福利好，公积金、社保，假期都很好\n压力小：不会猛猛加班，到点就可以走，没有 PUA\n\n是不是这种工作只会靠血脉传承？难道这就是普通人找工作不可能三角？",
+    "metric": "56 回复",
+    "metric_value": 56,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "nenseso",
+      "last_touched": 1783422255
+    }
+  },
+  {
+    "rank": 10,
+    "title": "Cursor 无法手动关掉 max mode 使用了",
+    "url": "https://www.v2ex.com/t/1225455",
+    "description": "今天早上手贱更新了一下 Cursor ，然后再执行就报错了：\nThe model \"claude-opus-4-8-high\" requires Max Mode to be enabled. Please enable Max Mode and try again.",
+    "metric": "54 回复",
+    "metric_value": 54,
+    "extra": {
+      "node": "Cursor",
+      "node_name": "cursor",
+      "author": "lhcnic",
+      "last_touched": 1783419474
     }
   }
 ]
