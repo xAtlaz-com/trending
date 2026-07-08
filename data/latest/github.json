@@ -1,212 +1,199 @@
 {
   "source": "github",
-  "updated_at": "2026-07-08T17:40:35+00:00",
-  "count": 16,
+  "updated_at": "2026-07-08T19:37:34+00:00",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "metric": "★ 14,652",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "14,652",
-        "forks": "4,481",
-        "stars_today": "5,071 stars today"
-      }
-    },
-    {
-      "rank": 2,
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 73,477",
+      "metric": "★ 73,666",
       "extra": {
         "language": "JavaScript",
-        "stars": "73,477",
-        "forks": "7,937",
+        "stars": "73,666",
+        "forks": "7,950",
         "stars_today": "1,322 stars today"
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "ruvnet / RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "metric": "★ 78,978",
+      "metric": "★ 79,025",
       "extra": {
         "language": "Rust",
-        "stars": "78,978",
-        "forks": "10,625",
+        "stars": "79,025",
+        "forks": "10,638",
         "stars_today": "793 stars today"
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "TencentCloud / TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "metric": "★ 7,502",
+      "metric": "★ 7,554",
       "extra": {
         "language": "TypeScript",
-        "stars": "7,502",
-        "forks": "699",
+        "stars": "7,554",
+        "forks": "701",
         "stars_today": "351 stars today"
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "prisma / prisma",
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "metric": "★ 46,470",
+      "metric": "★ 46,496",
       "extra": {
         "language": "TypeScript",
-        "stars": "46,470",
-        "forks": "2,277",
+        "stars": "46,496",
+        "forks": "2,278",
         "stars_today": "30 stars today"
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "mvanhorn / last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "metric": "★ 50,609",
+      "metric": "★ 50,643",
       "extra": {
         "language": "Python",
-        "stars": "50,609",
-        "forks": "4,224",
+        "stars": "50,643",
+        "forks": "4,227",
         "stars_today": "373 stars today"
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "argoproj / argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
-      "metric": "★ 23,399",
+      "metric": "★ 23,407",
       "extra": {
         "language": "Go",
-        "stars": "23,399",
-        "forks": "7,424",
+        "stars": "23,407",
+        "forks": "7,423",
         "stars_today": "20 stars today"
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "iOfficeAI / OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "metric": "★ 11,454",
+      "metric": "★ 11,547",
       "extra": {
         "language": "C#",
-        "stars": "11,454",
-        "forks": "771",
+        "stars": "11,547",
+        "forks": "781",
         "stars_today": "1,712 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "asgeirtj / system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "metric": "★ 53,902",
+      "metric": "★ 53,997",
       "extra": {
         "language": "JavaScript",
-        "stars": "53,902",
-        "forks": "8,780",
+        "stars": "53,997",
+        "forks": "8,793",
         "stars_today": "1,226 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 249,639",
+      "metric": "★ 249,697",
       "extra": {
         "language": "Shell",
-        "stars": "249,639",
-        "forks": "22,152",
+        "stars": "249,697",
+        "forks": "22,154",
         "stars_today": "999 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "alibaba / zvec",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "metric": "★ 14,312",
+      "metric": "★ 14,334",
       "extra": {
         "language": "C++",
-        "stars": "14,312",
-        "forks": "881",
+        "stars": "14,334",
+        "forks": "883",
         "stars_today": "370 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Diolinux / PhotoGIMP",
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "description": "A Patch for GIMP 3+ for Photoshop Users",
-      "metric": "★ 14,890",
+      "metric": "★ 14,930",
       "extra": {
         "language": "CSS",
-        "stars": "14,890",
-        "forks": "591",
+        "stars": "14,930",
+        "forks": "592",
         "stars_today": "2,031 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "wonderwhy-er / DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "metric": "★ 6,330",
+      "metric": "★ 6,342",
       "extra": {
         "language": "TypeScript",
-        "stars": "6,330",
+        "stars": "6,342",
         "forks": "746",
         "stars_today": "20 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "huxingyi / autoremesher",
       "url": "https://github.com/huxingyi/autoremesher",
       "description": "Automatic quad remeshing tool",
-      "metric": "★ 1,901",
+      "metric": "★ 1,934",
       "extra": {
         "language": "C++",
-        "stars": "1,901",
-        "forks": "145",
+        "stars": "1,934",
+        "forks": "146",
         "stars_today": "292 stars today"
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "bradautomates / claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "metric": "★ 5,878",
+      "metric": "★ 5,932",
       "extra": {
         "language": "Python",
-        "stars": "5,878",
-        "forks": "701",
+        "stars": "5,932",
+        "forks": "711",
         "stars_today": "948 stars today"
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "TencentCloud / CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "metric": "★ 8,831",
+      "metric": "★ 8,856",
       "extra": {
         "language": "Rust",
-        "stars": "8,831",
+        "stars": "8,856",
         "forks": "732",
         "stars_today": "555 stars today"
       }
