@@ -1,146 +1,118 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-10T01:10:52+00:00",
-  "count": 10,
+  "updated_at": "2026-07-10T05:38:36+00:00",
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "分享一个东西。。别骂我",
-      "url": "https://www.v2ex.com/t/1226024",
-      "description": "http://118.31.71.208/不管问什么他都会骂你不喜勿喷 纯节目效果",
-      "metric": "125 回复",
-      "metric_value": 125,
+      "title": "[0710 内测] Brivionix（Codex Pro 池）— GPT-5.6 / 5.5 / 5.4/5.3，回帖留 ID 送 $5",
+      "url": "https://www.v2ex.com/t/1226243",
+      "description": "各位 V 友好！\n网站内测 GPT-5.6 最新三个模型，欢迎你们体验使用，在此祝各位在新的一周事事顺利，身体健康，开开心心！\n当前支持模型（均为 Codex Pro 号池）\n\ngpt-5.6-sol — 1.1M 超长上下文，旗舰推理模型，支持工具调用、文件、视觉\ngpt-5.6-terra — 均衡高性能模型，适合日常开发、Agent 与复杂任务\ngpt-5.6-luna — 高速低成本模型，适合高并发、批量生成与自动化任务\ngpt-5.5 — 1.1M 超长上下文，支持推理、工具调用、文件、视觉\ngpt-5.4 / gpt-5.4-mini — 400K 上下文，日常编码主力\ngpt-5",
+      "metric": "126 回复",
+      "metric_value": 126,
       "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "noob9030",
-        "last_touched": 1783608545
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "CtrlAltDeleteMe",
+        "last_touched": 1783656121
       }
     },
     {
       "rank": 2,
-      "title": "能不能推举点办公室零食",
-      "url": "https://www.v2ex.com/t/1226003",
-      "description": "通勤距离太远，每天晚上到家都九点多了，想下午四五点钟吃点零食，tb 上乱买了点，实在太难吃了，大部分都扔了，只回购了几次腰果，但吃了几罐也吃腻了，有没有推举的零食？",
-      "metric": "104 回复",
-      "metric_value": 104,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "94nb",
-        "last_touched": 1783607629
-      }
-    },
-    {
-      "rank": 3,
-      "title": "有些亲戚真是不当人",
-      "url": "https://www.v2ex.com/t/1226033",
-      "description": "周五下午正在库库写代码，突然接到老婆电话，哭着说她妈妈被人骂了 受欺负了。我脑子嗡了一下，稳定了下老婆的情绪，问是什么情况。原来是她妈妈被她小姨夫骂，就因为她小姨给她妈妈了二千多块钱。（她小姨开了个小鞋厂，老婆的妈妈一直在这个鞋厂帮她小姨干活，前段时间老婆的父亲也没啥事来帮忙了快一个月，所以才有了这个钱）。之前一直听老婆说，她小姨其实对她妈妈也一般。（她小姨小姨夫两人平常也不对付，小姨夫好吃懒做不管事） \n听到这 当时火气就上来了，他妈的以为孩子没在家就欺负老人？ 当即我请假也让老婆请了假，开车开七百公里回她老家。 开到地方已经晚上 11 点了，路上打她小姨夫电话没人接，倒是她小姨的电话打通了",
-      "metric": "101 回复",
-      "metric_value": 101,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "lhhllh",
-        "last_touched": 1783604359
-      }
-    },
-    {
-      "rank": 4,
-      "title": "我开始在代码中使用中文变量名了",
-      "url": "https://www.v2ex.com/t/1226060",
-      "description": "有句名言说，计算机科学中只有两件难事：缓存失效和命名。\n最近在开发一个文字游戏，有关汉字的描述特别多。如何在代码中为相关的变量起一个贴切、适合的名字简直要了老命。直接用汉语描述翻译成英文，不但很长，而且我也没有精力时间去判断生成的英文到底对不对，特别是是一些成语和俗语等根本没法翻译。\n如果用拼音，问题更多了。用全称名字也很长，而且同音字这么多，一眼看到还得想到底是啥意思。用拼音简称那就加灾难了（ nbnhhsh 能不能好好说话）。\n最后，我终于决定使用中文变量名。一用才知道，真香！描述概念很贴切，真正做到了见名知意，写起代码来行云流水，连注释都不需要。\n2025 年了，HTML5 以及很多编程",
-      "metric": "92 回复",
-      "metric_value": 92,
-      "extra": {
-        "node": "编程",
-        "node_name": "programming",
-        "author": "chunqiuyiyu",
-        "last_touched": 1783610430
-      }
-    },
-    {
-      "rank": 5,
-      "title": "民办本科教职未签合同想跑路， 3 万 AI 应用开发培训值得报吗？",
-      "url": "https://www.v2ex.com/t/1226002",
-      "description": "各位前辈、朋友们诚心求助，先完整说下我朋友的个人情况与规划：她是今年 6 月刚从师范院校软件工程专业毕业的女生，专业并非师范方向，在校研究方向是区块链共识算法，自身代码开发水平仅停留在业余爱好者程度，基础不算扎实。她的规划：后续持续备考公务员、事业单位编制，同时会考教师资格证，往稳定体制内、教师编制路线发展。毕业前大半年她都全身心投入公考备考，先后参加国考、湖南、广东两省省考，也投递过多所高校招聘，折腾许久才在今年 3 月拿到湖南某市一所民办本科的教职 offer 。前段时间刚参加完学校统一入职培训，目前还没有正式签订劳动合同。培训期间才知晓校方完整工作安排：现阶段只需要负责常规授课，下一学年",
-      "metric": "91 回复",
-      "metric_value": 91,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "ca2oh4",
-        "last_touched": 1783612791
-      }
-    },
-    {
-      "rank": 6,
       "title": "最近太热啦，电费扛不住啦",
       "url": "https://www.v2ex.com/t/1226099",
       "description": "最近几天气温一直上升，也不下雨，晚上不开空调根本没法子睡，这个空调制冷效果是好，就是钱包遭不住。",
-      "metric": "72 回复",
-      "metric_value": 72,
+      "metric": "99 回复",
+      "metric_value": 99,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "Zealand",
-        "last_touched": 1783630206
+        "last_touched": 1783661126
+      }
+    },
+    {
+      "rank": 3,
+      "title": "gpt-5.6-sol 已全面支持，评论区留注册邮箱送 5 刀",
+      "url": "https://www.v2ex.com/t/1226246",
+      "description": "https://quicaibest.com\n肉身在外专注于不掺水的 GPT 中转服务\n现已全面支持 GPT5.6 三兄弟\n稳定持续可用，适合长期使用与业务接入\n注册账户即送 1U\n限时福利：评论回复注册邮箱，再加送 4U 的体验金，先到先得",
+      "metric": "97 回复",
+      "metric_value": 97,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "ovtfkw",
+        "last_touched": 1783661004
+      }
+    },
+    {
+      "rank": 4,
+      "title": "限韩令和韩国当前的影视行业发展有没有关系？",
+      "url": "https://www.v2ex.com/t/1226130",
+      "description": "除了韩国还有其它国家被类似限韩令限制么？如果韩国是唯一被限制的，那韩国当前影视行业的爆发式发展，跟限韩令是不是也有关系？为什么偏偏被限制的那个，成了新的东方好莱坞，让人不自觉会产生联想。\n失去了大陆的市场，没有自我审查，反而可以放开手来大干一场？",
+      "metric": "51 回复",
+      "metric_value": 51,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "fly89",
+        "last_touched": 1783661703
+      }
+    },
+    {
+      "rank": 5,
+      "title": "要降薪了.该怎么应对呢",
+      "url": "https://www.v2ex.com/t/1226228",
+      "description": "听说是降幅 15%—20%\n难顶啊",
+      "metric": "39 回复",
+      "metric_value": 39,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "668866",
+        "last_touched": 1783657305
+      }
+    },
+    {
+      "rank": 6,
+      "title": "现在推荐入手 Switch2 么？",
+      "url": "https://www.v2ex.com/t/1226266",
+      "description": "之前发过一个帖子，发现 V 友休息日做的事情还挺多🤣　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n那要是时间不够，只能在家，该玩点啥呢　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\nSwitch 设备 之前我就在看了，现在适合入手吗？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n而且我刷到过一些帖子，看他们是可以接入到电视机上面玩的，那是 Switch2 还是 PS5 ？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n第一次了解这种设备，有",
+      "metric": "38 回复",
+      "metric_value": 38,
+      "extra": {
+        "node": "Nintendo Switch",
+        "node_name": "switch",
+        "author": "Theodora",
+        "last_touched": 1783661685
       }
     },
     {
       "rank": 7,
-      "title": "还会推荐学生报考计算机吗",
-      "url": "https://www.v2ex.com/t/1226034",
-      "description": "在当前互联网大厂裁员的趋势和大模型的发展下，对于一个本科生四年毕业后，是否还会有很好的就业市场。",
-      "metric": "52 回复",
-      "metric_value": 52,
+      "title": "在不换号的情况下怎么让移动或者联通用更多流量",
+      "url": "https://www.v2ex.com/t/1226091",
+      "description": "多年老用户了，两张卡都绑定了很多东西，不好换号了，现在流量不够用，又不想办理太贵的套餐，有什么好的办法吗",
+      "metric": "36 回复",
+      "metric_value": 36,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "flowzeta",
-        "last_touched": 1783615266
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "ccctttwww",
+        "last_touched": 1783625039
       }
     },
     {
       "rank": 8,
-      "title": "本人女，坐标二线城市，请问该如何陪嫁？",
-      "url": "https://www.v2ex.com/t/1226098",
-      "description": "到了谈婚论嫁的地步，本来彩礼已经商量好了，但是因为前段时间吵架，男方说了很难听的话，我提了分手，双方的父母也知道事情的经过，男方的父母登门致歉好几次，在原来商量好的彩礼上多加了很多变成了（彩礼 28.8+金子 200g+除婚房外市区一套房，房子是万科的位置还不错），我觉得很有诚意就原谅了，那么问题来了，我们家如何陪嫁？我该怎么选择？父母商量的是陪嫁同等的 28.8+给我换一辆新的车/一套房子（但是房子一般位置不太好）+50g 黄金，求大佬们支招",
-      "metric": "47 回复",
-      "metric_value": 47,
+      "title": "Google 已经明确确认中国政府封锁了来自 Google Voice 的 VoIP 号码",
+      "url": "https://www.v2ex.com/t/1226109",
+      "description": "被标记为“钻石专家”的帐号在 Google Voice 技术支持社区的近期每一个反馈无法打通中国号码的帖子跟帖中明确确认中国政府封锁了来自 Google Voice 的 VoIP 号码：\nhttps://support.google.com/voice/thread/440052808?hl=en\nhttps://support.google.com/voice/thread/445528877?hl=en\nhttps://support.google.com/voice/thread/448913326?hl=en",
+      "metric": "36 回复",
+      "metric_value": 36,
       "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "1024proxyofficia",
-        "last_touched": 1783605506
-      }
-    },
-    {
-      "rank": 9,
-      "title": "[求助] 预算有限，求推荐高性价比的 2.5G 软路由裸机方案",
-      "url": "https://www.v2ex.com/t/1226042",
-      "description": "最近搬家，移机的时候被联通小哥忽悠升级了套餐加 8 块从千兆升到 2000M ，结果被上了一课，光猫花了 200 换了个阉割定制版的中兴 ax3000 ，等他走后查了下几十块。。。\n而且现在用的 j1900 软路由，千兆都悬，就想着事到如此只能升级了，看了下 n4100 和 j4125 ，裸机都要 400+，有点超预算了，想请教下大佬们，现在还有没有更便宜、性价比高的 2.5G 软路由方案哇？或者二手市场有什么捡漏的推荐？\n事后回想真是一步加，步步加。要是不升级宽带啥也不用管，现在好了，一心就想把设备全换了，又要大出血了哈哈！",
-      "metric": "46 回复",
-      "metric_value": 46,
-      "extra": {
-        "node": "NAS",
-        "node_name": "nas",
-        "author": "fionasit007",
-        "last_touched": 1783605419
-      }
-    },
-    {
-      "rank": 10,
-      "title": "最近散帅这个词经常看到",
-      "url": "https://www.v2ex.com/t/1226012",
-      "description": "以模仿某书女性的方式，有没有屌大的搞一个《大蓝赢》的 app",
-      "metric": "44 回复",
-      "metric_value": 44,
-      "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "magewu1223ll",
-        "last_touched": 1783622336
+        "node": "Google",
+        "node_name": "google",
+        "author": "qqqfreeboycn",
+        "last_touched": 1783613556
       }
     }
   ]
