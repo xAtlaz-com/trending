@@ -4,105 +4,140 @@
 <title>Trending Pages — GitHub Trending</title>
 <link>https://xatlaz-com.github.io/trending/#github</link>
 <description>GitHub Trending, refreshed every 30 minutes.</description>
-<lastBuildDate>Fri, 10 Jul 2026 09:41:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 12:27:42 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#github" rel="self" type="application/rss+xml" />
 <item>
-<title>SmartlyDressedGames / U3-SDK</title>
-<link>https://github.com/SmartlyDressedGames/U3-SDK</link>
-<guid isPermaLink="false">https://github.com/SmartlyDressedGames/U3-SDK</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#1 | ★ 2,254 | Source code for Unturned, a free open-world zombie survival sandbox game.</description>
+<title>wonderwhy-er / DesktopCommanderMCP</title>
+<link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
+<guid isPermaLink="false">https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#1 | ★ 6,802 | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
+</item>
+<item>
+<title>oven-sh / bun</title>
+<link>https://github.com/oven-sh/bun</link>
+<guid isPermaLink="false">https://github.com/oven-sh/bun</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#2 | ★ 93,898 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
+</item>
+<item>
+<title>abseil / abseil-cpp</title>
+<link>https://github.com/abseil/abseil-cpp</link>
+<guid isPermaLink="false">https://github.com/abseil/abseil-cpp</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#3 | ★ 17,470 | Abseil Common Libraries (C++)</description>
 </item>
 <item>
 <title>addyosmani / agent-skills</title>
 <link>https://github.com/addyosmani/agent-skills</link>
 <guid isPermaLink="false">https://github.com/addyosmani/agent-skills</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#2 | ★ 76,367 | Production-grade engineering skills for AI coding agents.</description>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#4 | ★ 76,469 | Production-grade engineering skills for AI coding agents.</description>
 </item>
 <item>
-<title>VoltAgent / awesome-design-md</title>
-<link>https://github.com/VoltAgent/awesome-design-md</link>
-<guid isPermaLink="false">https://github.com/VoltAgent/awesome-design-md</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#3 | ★ 100,364 | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.</description>
+<title>jbeder / yaml-cpp</title>
+<link>https://github.com/jbeder/yaml-cpp</link>
+<guid isPermaLink="false">https://github.com/jbeder/yaml-cpp</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#5 | ★ 6,045 | A YAML parser and emitter in C++</description>
+</item>
+<item>
+<title>mattpocock / skills</title>
+<link>https://github.com/mattpocock/skills</link>
+<guid isPermaLink="false">https://github.com/mattpocock/skills</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#6 | ★ 163,963 | Skills for Real Engineers. Straight from my .claude directory.</description>
+</item>
+<item>
+<title>obra / superpowers</title>
+<link>https://github.com/obra/superpowers</link>
+<guid isPermaLink="false">https://github.com/obra/superpowers</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#7 | ★ 251,448 | An agentic skills framework &amp; software development methodology that works.</description>
+</item>
+<item>
+<title>microsoft / TypeScript</title>
+<link>https://github.com/microsoft/TypeScript</link>
+<guid isPermaLink="false">https://github.com/microsoft/TypeScript</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#8 | ★ 109,722 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+</item>
+<item>
+<title>catchorg / Catch2</title>
+<link>https://github.com/catchorg/Catch2</link>
+<guid isPermaLink="false">https://github.com/catchorg/Catch2</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#9 | ★ 20,568 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
+</item>
+<item>
+<title>chriskohlhoff / asio</title>
+<link>https://github.com/chriskohlhoff/asio</link>
+<guid isPermaLink="false">https://github.com/chriskohlhoff/asio</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#10 | ★ 6,033 | Asio C++ Library</description>
+</item>
+<item>
+<title>TencentCloud / TencentDB-Agent-Memory</title>
+<link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+<guid isPermaLink="false">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#11 | ★ 8,078 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.</description>
+</item>
+<item>
+<title>davila7 / claude-code-templates</title>
+<link>https://github.com/davila7/claude-code-templates</link>
+<guid isPermaLink="false">https://github.com/davila7/claude-code-templates</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#12 | ★ 28,647 | CLI tool for configuring and monitoring Claude Code</description>
+</item>
+<item>
+<title>zeux / meshoptimizer</title>
+<link>https://github.com/zeux/meshoptimizer</link>
+<guid isPermaLink="false">https://github.com/zeux/meshoptimizer</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#13 | ★ 7,970 | Mesh optimization library that makes meshes smaller and faster to render</description>
+</item>
+<item>
+<title>tailscale / tailscale</title>
+<link>https://github.com/tailscale/tailscale</link>
+<guid isPermaLink="false">https://github.com/tailscale/tailscale</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#14 | ★ 33,457 | The easiest, most secure way to use WireGuard and 2FA.</description>
+</item>
+<item>
+<title>google-labs-code / stitch-skills</title>
+<link>https://github.com/google-labs-code/stitch-skills</link>
+<guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#15 | ★ 6,574 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
 </item>
 <item>
 <title>iOfficeAI / OfficeCLI</title>
 <link>https://github.com/iOfficeAI/OfficeCLI</link>
 <guid isPermaLink="false">https://github.com/iOfficeAI/OfficeCLI</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#4 | ★ 13,964 | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</description>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#16 | ★ 14,081 | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</description>
 </item>
 <item>
-<title>wonderwhy-er / DesktopCommanderMCP</title>
-<link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
-<guid isPermaLink="false">https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#5 | ★ 6,725 | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
+<title>hashicorp / terraform</title>
+<link>https://github.com/hashicorp/terraform</link>
+<guid isPermaLink="false">https://github.com/hashicorp/terraform</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#17 | ★ 49,048 | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
 </item>
 <item>
-<title>anthropics / claude-cookbooks</title>
-<link>https://github.com/anthropics/claude-cookbooks</link>
-<guid isPermaLink="false">https://github.com/anthropics/claude-cookbooks</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#6 | ★ 47,375 | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+<title>grpc / grpc</title>
+<link>https://github.com/grpc/grpc</link>
+<guid isPermaLink="false">https://github.com/grpc/grpc</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#18 | ★ 45,068 | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
 </item>
 <item>
-<title>vxcontrol / pentagi</title>
-<link>https://github.com/vxcontrol/pentagi</link>
-<guid isPermaLink="false">https://github.com/vxcontrol/pentagi</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#7 | ★ 19,697 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-</item>
-<item>
-<title>unclecode / crawl4ai</title>
-<link>https://github.com/unclecode/crawl4ai</link>
-<guid isPermaLink="false">https://github.com/unclecode/crawl4ai</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#8 | ★ 72,090 | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN</description>
-</item>
-<item>
-<title>imthenachoman / How-To-Secure-A-Linux-Server</title>
-<link>https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</link>
-<guid isPermaLink="false">https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#9 | ★ 29,306 | An evolving how-to guide for securing a Linux server.</description>
-</item>
-<item>
-<title>huxingyi / autoremesher</title>
-<link>https://github.com/huxingyi/autoremesher</link>
-<guid isPermaLink="false">https://github.com/huxingyi/autoremesher</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#10 | ★ 2,477 | Automatic quad remeshing tool</description>
-</item>
-<item>
-<title>bradautomates / claude-video</title>
-<link>https://github.com/bradautomates/claude-video</link>
-<guid isPermaLink="false">https://github.com/bradautomates/claude-video</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#11 | ★ 6,939 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
-</item>
-<item>
-<title>prisma / prisma</title>
-<link>https://github.com/prisma/prisma</link>
-<guid isPermaLink="false">https://github.com/prisma/prisma</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#12 | ★ 47,067 | Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</description>
-</item>
-<item>
-<title>kyutai-labs / pocket-tts</title>
-<link>https://github.com/kyutai-labs/pocket-tts</link>
-<guid isPermaLink="false">https://github.com/kyutai-labs/pocket-tts</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#13 | ★ 7,158 | A TTS that fits in your CPU (and pocket)</description>
-</item>
-<item>
-<title>asgeirtj / system_prompts_leaks</title>
-<link>https://github.com/asgeirtj/system_prompts_leaks</link>
-<guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:02 +0000</pubDate>
-<description>#14 | ★ 55,544 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
+<title>vercel / next.js</title>
+<link>https://github.com/vercel/next.js</link>
+<guid isPermaLink="false">https://github.com/vercel/next.js</guid>
+<pubDate>Fri, 10 Jul 2026 12:27:42 +0000</pubDate>
+<description>#19 | ★ 140,582 | The React Framework</description>
 </item>
 </channel>
 </rss>
