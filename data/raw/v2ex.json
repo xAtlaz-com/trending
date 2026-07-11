@@ -1,34 +1,20 @@
 [
   {
     "rank": 1,
-    "title": "为了省下每年几万的的费用，用 ai 做了完整的 erp",
-    "url": "https://www.v2ex.com/t/1226505",
-    "description": "我们有自己的电商平台，当然也在各家电商上售卖产品。然后对接云仓时，感觉那些 erp 卖的贵，系统还老旧，去对接到自己的业务定制化的电商流程也不见得好对接，索性就自己开发了。其实最花时间的地方是需求整理，云仓的人沟通起来比想象中要难，体系复杂笨重且陈旧。做完之后现在觉得需求也就这些了。但是第一次接触电商，第一次接触云仓，对需求没有全局视角，没有经验指导，探索起来还是很痛苦的，很多数据模型也因为缺乏经验指导，后期才发现有问题又各种改。好在有 Claude code 加持，并行开发，对抗审查，浏览器模拟调用测试，就这么吭哧吭哧的，还做了得有一周的时间。自己的脑力真的是有些跟不上了，为了提高开发效率就",
-    "metric": "61 回复",
-    "metric_value": 61,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "rizon",
-      "last_touched": 1783780192
-    }
-  },
-  {
-    "rank": 2,
     "title": "小米手机强制更新系统",
     "url": "https://www.v2ex.com/t/1226527",
     "description": "早上起来发现备用机小米 13 闹钟没响 看了一下手机黑屏了 以为没电了..\n前夜 12 点还有 30%的电 确信\n也没多想 晚上回家充电 开机 发现系统从钉子户 miui 变成澎湃 os 了..\n很确定从来没有开启自动更新 虽然小米不要脸 把更新包自动下载 但每次弹窗我都关闭了\n开发者模式现在也是没有自动更新.\n所以就是小米把用户不当人 强制夜间更新系统了\n微博上没有几个人发  小红书上看了一下  就这几天太多了.\n当猴的哥们 引以为戒吧",
-    "metric": "45 回复",
-    "metric_value": 45,
+    "metric": "47 回复",
+    "metric_value": 47,
     "extra": {
       "node": "全球工单系统",
       "node_name": "gts",
       "author": "Light3",
-      "last_touched": 1783783508
+      "last_touched": 1783787517
     }
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题",
     "url": "https://www.v2ex.com/t/1226526",
     "description": "书接上文。https://www.v2ex.com/t/1225533?p=1#reply65说是国内试用期 3 个月远程发 u ，试用期转正后要去东京。说是办工签，有住宿，或者自己租房住交当地流水最低社保，其余的发 u ，3 个月有一周假期可以回国。机票也是自己买，直飞东京。hr 说是运营在菲律宾，东京只是研发团队，有菲律宾的运营执照地址好像是： https://www.playtime.ph/以及这公司靠不靠谱，在日本那边怎样（虽然对方说拿到合规经营）",
@@ -42,7 +28,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是",
     "url": "https://www.v2ex.com/t/1226541",
     "description": "",
@@ -56,17 +42,31 @@
     }
   },
   {
+    "rank": 4,
+    "title": "国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax",
+    "url": "https://www.v2ex.com/t/1226577",
+    "description": "",
+    "metric": "35 回复",
+    "metric_value": 35,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "squirrel7105",
+      "last_touched": 1783788802
+    }
+  },
+  {
     "rank": 5,
     "title": "GPT5.6 SOL 也就那么回事",
     "url": "https://www.v2ex.com/t/1226536",
     "description": "试了新的 5.6 的 SOL 发现也就呢样，做不到的还是做不到，就是 codex 看上去比之前花哨了点，整体上还是不如 Fable 5,只能期待下后续可能的 GPT 6 ，ai 的这些小版本更新没什么大的进步，只能等大版本了",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
       "author": "fbu11",
-      "last_touched": 1783783008
+      "last_touched": 1783784765
     }
   },
   {
@@ -85,30 +85,30 @@
   },
   {
     "rank": 7,
-    "title": "国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax",
-    "url": "https://www.v2ex.com/t/1226577",
-    "description": "",
-    "metric": "30 回复",
-    "metric_value": 30,
+    "title": "用了 ai 之后工作很碎片化，完全无法进入心流",
+    "url": "https://www.v2ex.com/t/1226513",
+    "description": "有没有发现用了 ai 之后，工作时间高度碎片化。在等待 ai 写代码的时候我去做别的事情，或者别的项目，这让我感觉很糟糕，完全无法进入心流状态。\n整个人过的浑浑噩噩，慌慌张张，经常忘记 agent 事情做完了，顾了这个顾不了那个。导致事情做的更慢\n有什么好的办法吗？你们在等 ai 工作的时候会干啥？还是因为怕自己没了状态就什么都不干盯着 ai 看？",
+    "metric": "23 回复",
+    "metric_value": 23,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "squirrel7105",
-      "last_touched": 1783782112
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "ximaoyang",
+      "last_touched": 1783785261
     }
   },
   {
     "rank": 8,
-    "title": "Codex 今天是不是放开了五小时限额？",
-    "url": "https://www.v2ex.com/t/1226550",
-    "description": "Pro 20x 感觉现在五小时限额用满可以占用 40%-50%左右的周限额\n之前是 12%-15%左右\n是我的幻觉吗？",
+    "title": "功夫女足口碑",
+    "url": "https://www.v2ex.com/t/1226549",
+    "description": "有喜欢周星驰的吗？看过的人来说说真实的感受，我很纠结去不去看",
     "metric": "23 回复",
     "metric_value": 23,
     "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "Keine",
-      "last_touched": 1783772891
+      "node": "电影",
+      "node_name": "movie",
+      "author": "jackenliu",
+      "last_touched": 1782893008
     }
   }
 ]
