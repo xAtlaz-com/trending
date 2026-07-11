@@ -4,11 +4,11 @@
     "title": "catchorg / Catch2",
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-    "metric": "★ 20,994",
+    "metric": "★ 21,004",
     "extra": {
       "language": "C++",
-      "stars": "20,994",
-      "forks": "3,429",
+      "stars": "21,004",
+      "forks": "3,430",
       "stars_today": "117 stars today"
     }
   },
@@ -17,10 +17,10 @@
     "title": "abseil / abseil-cpp",
     "url": "https://github.com/abseil/abseil-cpp",
     "description": "Abseil Common Libraries (C++)",
-    "metric": "★ 17,771",
+    "metric": "★ 17,780",
     "extra": {
       "language": "C++",
-      "stars": "17,771",
+      "stars": "17,780",
       "forks": "3,211",
       "stars_today": "120 stars today"
     }
@@ -30,11 +30,11 @@
     "title": "davila7 / claude-code-templates",
     "url": "https://github.com/davila7/claude-code-templates",
     "description": "CLI tool for configuring and monitoring Claude Code",
-    "metric": "★ 28,989",
+    "metric": "★ 29,002",
     "extra": {
       "language": "Python",
-      "stars": "28,989",
-      "forks": "3,181",
+      "stars": "29,002",
+      "forks": "3,182",
       "stars_today": "230 stars today"
     }
   },
@@ -43,11 +43,11 @@
     "title": "google-labs-code / stitch-skills",
     "url": "https://github.com/google-labs-code/stitch-skills",
     "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-    "metric": "★ 7,029",
+    "metric": "★ 7,040",
     "extra": {
       "language": "TypeScript",
-      "stars": "7,029",
-      "forks": "944",
+      "stars": "7,040",
+      "forks": "945",
       "stars_today": "338 stars today"
     }
   },
@@ -56,10 +56,10 @@
     "title": "hashicorp / terraform",
     "url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "metric": "★ 49,340",
+    "metric": "★ 49,353",
     "extra": {
       "language": "Go",
-      "stars": "49,340",
+      "stars": "49,353",
       "forks": "10,681",
       "stars_today": "229 stars today"
     }
@@ -69,10 +69,10 @@
     "title": "zeux / meshoptimizer",
     "url": "https://github.com/zeux/meshoptimizer",
     "description": "Mesh optimization library that makes meshes smaller and faster to render",
-    "metric": "★ 8,127",
+    "metric": "★ 8,131",
     "extra": {
       "language": "C++",
-      "stars": "8,127",
+      "stars": "8,131",
       "forks": "788",
       "stars_today": "111 stars today"
     }
@@ -82,10 +82,10 @@
     "title": "openai / plugins",
     "url": "https://github.com/openai/plugins",
     "description": "OpenAI Plugins",
-    "metric": "★ 4,381",
+    "metric": "★ 4,391",
     "extra": {
       "language": "JavaScript",
-      "stars": "4,381",
+      "stars": "4,391",
       "forks": "656",
       "stars_today": "75 stars today"
     }
@@ -95,11 +95,11 @@
     "title": "wonderwhy-er / DesktopCommanderMCP",
     "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
     "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-    "metric": "★ 7,746",
+    "metric": "★ 7,756",
     "extra": {
       "language": "TypeScript",
-      "stars": "7,746",
-      "forks": "965",
+      "stars": "7,756",
+      "forks": "966",
       "stars_today": "900 stars today"
     }
   },
@@ -108,10 +108,10 @@
     "title": "chriskohlhoff / asio",
     "url": "https://github.com/chriskohlhoff/asio",
     "description": "Asio C++ Library",
-    "metric": "★ 6,133",
+    "metric": "★ 6,134",
     "extra": {
       "language": "C++",
-      "stars": "6,133",
+      "stars": "6,134",
       "forks": "1,509",
       "stars_today": "75 stars today"
     }
@@ -121,10 +121,10 @@
     "title": "oven-sh / bun",
     "url": "https://github.com/oven-sh/bun",
     "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-    "metric": "★ 94,537",
+    "metric": "★ 94,545",
     "extra": {
       "language": "Rust",
-      "stars": "94,537",
+      "stars": "94,545",
       "forks": "4,962",
       "stars_today": "654 stars today"
     }
@@ -134,10 +134,10 @@
     "title": "actions / checkout",
     "url": "https://github.com/actions/checkout",
     "description": "Action for checking out a repo",
-    "metric": "★ 8,452",
+    "metric": "★ 8,457",
     "extra": {
       "language": "TypeScript",
-      "stars": "8,452",
+      "stars": "8,457",
       "forks": "2,714",
       "stars_today": "8 stars today"
     }
@@ -147,11 +147,11 @@
     "title": "home-assistant / core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
-    "metric": "★ 88,642",
+    "metric": "★ 88,666",
     "extra": {
       "language": "Python",
-      "stars": "88,642",
-      "forks": "38,045",
+      "stars": "88,666",
+      "forks": "38,047",
       "stars_today": "169 stars today"
     }
   },
@@ -160,11 +160,11 @@
     "title": "microsoft / PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-    "metric": "★ 136,408",
+    "metric": "★ 136,417",
     "extra": {
       "language": "C",
-      "stars": "136,408",
-      "forks": "8,364",
+      "stars": "136,417",
+      "forks": "8,366",
       "stars_today": "65 stars today"
     }
   },
@@ -173,10 +173,10 @@
     "title": "cypress-io / cypress",
     "url": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-    "metric": "★ 50,598",
+    "metric": "★ 50,609",
     "extra": {
       "language": "TypeScript",
-      "stars": "50,598",
+      "stars": "50,609",
       "forks": "3,591",
       "stars_today": "43 stars today"
     }
@@ -186,11 +186,11 @@
     "title": "vercel / next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
-    "metric": "★ 140,921",
+    "metric": "★ 140,930",
     "extra": {
       "language": "JavaScript",
-      "stars": "140,921",
-      "forks": "31,548",
+      "stars": "140,930",
+      "forks": "31,549",
       "stars_today": "331 stars today"
     }
   },
@@ -199,11 +199,11 @@
     "title": "DayuanJiang / next-ai-draw-io",
     "url": "https://github.com/DayuanJiang/next-ai-draw-io",
     "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-    "metric": "★ 33,264",
+    "metric": "★ 33,271",
     "extra": {
       "language": "TypeScript",
-      "stars": "33,264",
-      "forks": "3,603",
+      "stars": "33,271",
+      "forks": "3,604",
       "stars_today": "74 stars today"
     }
   },
@@ -212,11 +212,11 @@
     "title": "malisper / pgrust",
     "url": "https://github.com/malisper/pgrust",
     "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-    "metric": "★ 2,002",
+    "metric": "★ 2,017",
     "extra": {
       "language": "Rust",
-      "stars": "2,002",
-      "forks": "49",
+      "stars": "2,017",
+      "forks": "50",
       "stars_today": "789 stars today"
     }
   },
@@ -225,10 +225,10 @@
     "title": "dotnet / aspnetcore",
     "url": "https://github.com/dotnet/aspnetcore",
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-    "metric": "★ 38,301",
+    "metric": "★ 38,302",
     "extra": {
       "language": "C#",
-      "stars": "38,301",
+      "stars": "38,302",
       "forks": "10,887",
       "stars_today": "28 stars today"
     }
@@ -238,11 +238,11 @@
     "title": "prisma / prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-    "metric": "★ 47,210",
+    "metric": "★ 47,222",
     "extra": {
       "language": "TypeScript",
-      "stars": "47,210",
-      "forks": "2,473",
+      "stars": "47,222",
+      "forks": "2,474",
       "stars_today": "85 stars today"
     }
   },
@@ -251,11 +251,11 @@
     "title": "anthropics / claude-cookbooks",
     "url": "https://github.com/anthropics/claude-cookbooks",
     "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "metric": "★ 47,886",
+    "metric": "★ 47,907",
     "extra": {
       "language": "Jupyter Notebook",
-      "stars": "47,886",
-      "forks": "5,669",
+      "stars": "47,907",
+      "forks": "5,671",
       "stars_today": "322 stars today"
     }
   },
@@ -264,10 +264,10 @@
     "title": "obra / superpowers",
     "url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "metric": "★ 252,399",
+    "metric": "★ 252,414",
     "extra": {
       "language": "Shell",
-      "stars": "252,399",
+      "stars": "252,414",
       "forks": "22,528",
       "stars_today": "737 stars today"
     }
@@ -277,11 +277,11 @@
     "title": "nasa / fprime",
     "url": "https://github.com/nasa/fprime",
     "description": "F´ - A flight software and embedded systems framework",
-    "metric": "★ 11,471",
+    "metric": "★ 11,472",
     "extra": {
       "language": "C++",
-      "stars": "11,471",
-      "forks": "1,732",
+      "stars": "11,472",
+      "forks": "1,731",
       "stars_today": "64 stars today"
     }
   },
@@ -290,11 +290,11 @@
     "title": "ansible / ansible",
     "url": "https://github.com/ansible/ansible",
     "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
-    "metric": "★ 69,568",
+    "metric": "★ 69,576",
     "extra": {
       "language": "Python",
-      "stars": "69,568",
-      "forks": "24,274",
+      "stars": "69,576",
+      "forks": "24,275",
       "stars_today": "20 stars today"
     }
   },
@@ -303,10 +303,10 @@
     "title": "nuxt / nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "the full-stack Vue framework",
-    "metric": "★ 60,721",
+    "metric": "★ 60,727",
     "extra": {
       "language": "TypeScript",
-      "stars": "60,721",
+      "stars": "60,727",
       "forks": "5,842",
       "stars_today": "10 stars today"
     }
