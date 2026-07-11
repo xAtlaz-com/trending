@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-11T17:01:29+00:00",
+  "updated_at": "2026-07-11T18:27:52+00:00",
   "count": 8,
   "items": [
     {
@@ -64,31 +64,17 @@
       "title": "GPT5.6 SOL 也就那么回事",
       "url": "https://www.v2ex.com/t/1226536",
       "description": "试了新的 5.6 的 SOL 发现也就呢样，做不到的还是做不到，就是 codex 看上去比之前花哨了点，整体上还是不如 Fable 5,只能期待下后续可能的 GPT 6 ，ai 的这些小版本更新没什么大的进步，只能等大版本了",
-      "metric": "32 回复",
-      "metric_value": 32,
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "fbu11",
-        "last_touched": 1783784765
+        "last_touched": 1783790165
       }
     },
     {
       "rank": 6,
-      "title": "时隔一天， codex 凌晨又重置了……",
-      "url": "https://www.v2ex.com/t/1226510",
-      "description": "今天好不容易周用量蹬掉一半，想着我还有一天过期的重置券能用上了，结果一点半官方重置了[捂脸哭]好好好",
-      "metric": "30 回复",
-      "metric_value": 30,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "blank0ken",
-        "last_touched": 1783755460
-      }
-    },
-    {
-      "rank": 7,
       "title": "用了 ai 之后工作很碎片化，完全无法进入心流",
       "url": "https://www.v2ex.com/t/1226513",
       "description": "有没有发现用了 ai 之后，工作时间高度碎片化。在等待 ai 写代码的时候我去做别的事情，或者别的项目，这让我感觉很糟糕，完全无法进入心流状态。\n整个人过的浑浑噩噩，慌慌张张，经常忘记 agent 事情做完了，顾了这个顾不了那个。导致事情做的更慢\n有什么好的办法吗？你们在等 ai 工作的时候会干啥？还是因为怕自己没了状态就什么都不干盯着 ai 看？",
@@ -102,7 +88,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "功夫女足口碑",
       "url": "https://www.v2ex.com/t/1226549",
       "description": "有喜欢周星驰的吗？看过的人来说说真实的感受，我很纠结去不去看",
@@ -113,6 +99,20 @@
         "node_name": "movie",
         "author": "jackenliu",
         "last_touched": 1782893008
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Codex 今天是不是放开了五小时限额？",
+      "url": "https://www.v2ex.com/t/1226550",
+      "description": "Pro 20x 感觉现在五小时限额用满可以占用 40%-50%左右的周限额\n之前是 12%-15%左右\n是我的幻觉吗？",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "Keine",
+        "last_touched": 1783772891
       }
     }
   ]
