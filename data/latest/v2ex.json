@@ -1,71 +1,29 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-11T05:44:12+00:00",
-  "count": 9,
+  "updated_at": "2026-07-11T08:01:16+00:00",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "如何炒股，才能稳赚",
       "url": "https://www.v2ex.com/t/1226429",
       "description": "研究了太多，各种方法，如何炒股，才能稳赚\n有人说，就买指数，逢低加仓",
-      "metric": "49 回复",
-      "metric_value": 49,
+      "metric": "59 回复",
+      "metric_value": 59,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "sotiery996006",
-        "last_touched": 1783733849
+        "last_touched": 1783756504
       }
     },
     {
       "rank": 2,
-      "title": "为了省下每年几万的的费用，用 ai 做了完整的 erp",
-      "url": "https://www.v2ex.com/t/1226505",
-      "description": "我们有自己的电商平台，当然也在各家电商上售卖产品。然后对接云仓时，感觉那些 erp 卖的贵，系统还老旧，去对接到自己的业务定制化的电商流程也不见得好对接，索性就自己开发了。其实最花时间的地方是需求整理，云仓的人沟通起来比想象中要难，体系复杂笨重且陈旧。做完之后现在觉得需求也就这些了。但是第一次接触电商，第一次接触云仓，对需求没有全局视角，没有经验指导，探索起来还是很痛苦的，很多数据模型也因为缺乏经验指导，后期才发现有问题又各种改。好在有 Claude code 加持，并行开发，对抗审查，浏览器模拟调用测试，就这么吭哧吭哧的，还做了得有一周的时间。自己的脑力真的是有些跟不上了，为了提高开发效率就",
-      "metric": "46 回复",
-      "metric_value": 46,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "rizon",
-        "last_touched": 1783748383
-      }
-    },
-    {
-      "rank": 3,
-      "title": "后续: 老板要求用 AI 几周完成一年的工作量",
-      "url": "https://www.v2ex.com/t/1226380",
-      "description": "前情提要: https://www.v2ex.com/t/1211896#reply101\n其实已经过了一段时间了. 但是一直太忙所以现在才写出来。\n省流太长不看版本: 没做完\n虽然老板给了一个月时间，但并没有暂停其他产品需求, 估计没想到。产品经理也不知道这件事，所以产品需求还是照常排期、照常交付。导致重构前几周基本没有实质进展，大家还是在做原本的业务需求。\n到了 ddl 前一周的周五周会，老板发飙，要求必须在期限内完成，做不完就走人。而且他的要求变了, 不是小范围整理代码或抽离部分模块，而是要把一个大单体服务拆成多个微服务。至于服务之间的历史依赖、数据依赖、业务边界、灰度方案、回滚方案、测",
-      "metric": "41 回复",
-      "metric_value": 41,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "kyric",
-        "last_touched": 1783693677
-      }
-    },
-    {
-      "rank": 4,
-      "title": "今天正式回撤完所有利润，开始亏本金",
-      "url": "https://www.v2ex.com/t/1226409",
-      "description": "去年最高利润 10 几万回撤到 3w ，今年最高利润 10 几万到今天全部回撤完了，开始损失本金。回归炒股的初心：回本",
-      "metric": "40 回复",
-      "metric_value": 40,
-      "extra": {
-        "node": "投资",
-        "node_name": "invest",
-        "author": "falsemask",
-        "last_touched": 1783707112
-      }
-    },
-    {
-      "rank": 5,
       "title": "FastAIToken 夏季开业福利公告： OpenAI 0.02x、Claude Kiro 0.7x， GPT5.6 畅用爽蹬（0.02x 倍率 5 元等于 250 美刀额度）！每个人注册评论发账号直接送 5 元！",
       "url": "https://www.v2ex.com/t/1226502",
       "description": "各位佬友好。\n经过两个月左右的内测、调试，以及在论坛长期学习和打磨之后，FastAIToken 正式敲定开业期间的福利策略。\n官方网站： https://www.fastaitoken.com/\n文档地址： https://docs.fastaitoken.com/docs/\n交流群组\n\n\nQQ 群：1054566214\n\n\ntelegram： https://t.me/+stwq0MLi0PtkZTZl\n\n\n各类佬友凭借评论截图+QQ 群联系客服，还能免费领取 5 元额度，即 0.02x 分组 250 美刀爽蹬 GPT5.6 ！！！\n\n\n限时福利分组\nOpenAI：0.02x 倍率福利分组\n",
-      "metric": "39 回复",
-      "metric_value": 39,
+      "metric": "57 回复",
+      "metric_value": 57,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
@@ -74,59 +32,115 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "为了省下每年几万的的费用，用 ai 做了完整的 erp",
+      "url": "https://www.v2ex.com/t/1226505",
+      "description": "我们有自己的电商平台，当然也在各家电商上售卖产品。然后对接云仓时，感觉那些 erp 卖的贵，系统还老旧，去对接到自己的业务定制化的电商流程也不见得好对接，索性就自己开发了。其实最花时间的地方是需求整理，云仓的人沟通起来比想象中要难，体系复杂笨重且陈旧。做完之后现在觉得需求也就这些了。但是第一次接触电商，第一次接触云仓，对需求没有全局视角，没有经验指导，探索起来还是很痛苦的，很多数据模型也因为缺乏经验指导，后期才发现有问题又各种改。好在有 Claude code 加持，并行开发，对抗审查，浏览器模拟调用测试，就这么吭哧吭哧的，还做了得有一周的时间。自己的脑力真的是有些跟不上了，为了提高开发效率就",
+      "metric": "51 回复",
+      "metric_value": 51,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "rizon",
+        "last_touched": 1783755486
+      }
+    },
+    {
+      "rank": 4,
       "title": "如何看最近很火的抗衰老补剂, 又一智商税还是真有料?",
       "url": "https://www.v2ex.com/t/1226521",
       "description": "锐拓龄好像各大平台都卖断现货了, ai 科普也是说这次似乎比以前的智商税产品科学很多, 至少小鼠抗衰老实验效果比较乐观.要考虑买来给家里老人用吗? 如果真的管用能延长 20 年寿命, 未来养老金这块儿就有意思了, 有钱人靠抗衰老技术活得久领的多, 穷人早死领不到.",
-      "metric": "34 回复",
-      "metric_value": 34,
+      "metric": "45 回复",
+      "metric_value": 45,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "busterian",
-        "last_touched": 1783747241
+        "last_touched": 1783755912
       }
     },
     {
-      "rank": 7,
-      "title": "# 最近模型更新体验分享： Grok 4.5、Claude Fable、GPT-5.6 初体验",
-      "url": "https://www.v2ex.com/t/1226389",
-      "description": "最近模型更新体验分享：Grok 4.5 、Claude Fable 、GPT-5.6 初体验\n这几天更新的模型比较多，我来分享一下自己实际使用后的体验，也欢迎大家一起讨论关于 Ai WorkFlow 的设计开发\n使用背景\n我的主要使用场景：\n\n程序开发网站设计\n一点点安全相关工作\nOPC \n\n以下内容全部基于个人实际工作流体验，不是跑分测试。\n\n总结\n先说结论：\n\nGrok 4.5 这次升级非常惊艳，提升非常明显。对标满血 Opus 4.6\nClaude Fable 5 High 暂时没有让我感觉到与满血 Opus 4.6 的代际提升。\nGPT-5.6 Sol 目前没有体验到特别明显的代际提升",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "rank": 5,
+      "title": "V2EX 支持举报了, V 友们可以通过这个插件脚本来实现举报站内帖子, 联通 V2EX 的通知系统, 快速通知到对应的管理员.",
+      "url": "https://www.v2ex.com/t/1226524",
+      "description": "一键安装地址: v2ex-scene-script.user.js\n脚本仓库地址: v2ex-scene-script.user.js\n\n没错, 还是原来的那个插件, 已经安装的 V 友应该会收到推送通知, 哈哈哈.\n\n\n这个地方添加了一个举报按钮\n \n\n\n点击之后会弹一个窗口, 支持选择对应的管理员, 当前默认是我, 后面的改变选择会持久化到本地\n\n\n下方输入举报原因\n\n \n\n点击确定之后会唤起钱包进行支付, 支付完成之后, 会在左下角提示状态.\n\n\n管理员这边收到消息大概是这样的:",
+      "metric": "35 回复",
+      "metric_value": 35,
       "extra": {
-        "node": "☕Vibe Coding🤖",
-        "node_name": "vibecoding",
-        "author": "bigbigegg123",
-        "last_touched": 1783694063
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "JoeJoeJoe",
+        "last_touched": 1783755833
       }
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "实际上发现大多人 A 股赚不到钱都是割肉造成的",
       "url": "https://www.v2ex.com/t/1226494",
       "description": "大部分人盲目的跟趋势，关注抖音 X 上的荐股哪些，实际上这几天又怎么样了？\n趋势很重要，但是也没那么重要，如果一个票位置 ok ，网格交易基本不会亏\n不用乱七八糟的技术分析，最近的 ai 应用，又开始筑底了，不用大仓位进去，控制仓位管理，10%底仓进去蹲着，\n盈利就吃，吃到压力位就跑，如亏-15 个点，就补仓加仓，反弹到压力位就卖，不用考虑那么多，说什么小仓位能不挣钱，大仓位好玩，亏赚都一样，稳步前行，大部分人亏在了仓位管理上，\nai 了一下，看下边舒适度更高点\n📊 聊聊 A 股：为什么大多数人赚不到钱？（兼谈我的仓位管理策略）\n最近大部分人都在盲目地跟趋势，天天盯着抖音、X （推特）上的各种",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "metric": "31 回复",
+      "metric_value": 31,
       "extra": {
         "node": "股票",
         "node_name": "stock",
         "author": "Findiit",
-        "last_touched": 1783743596
+        "last_touched": 1783751630
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题",
       "url": "https://www.v2ex.com/t/1226526",
       "description": "书接上文。https://www.v2ex.com/t/1225533?p=1#reply65说是国内试用期 3 个月远程发 u ，试用期转正后要去东京。说是办工签，有住宿，或者自己租房住交当地流水最低社保，其余的发 u ，3 个月有一周假期可以回国。机票也是自己买，直飞东京。hr 说是运营在菲律宾，东京只是研发团队，有菲律宾的运营执照地址好像是： https://www.playtime.ph/以及这公司靠不靠谱，在日本那边怎样（虽然对方说拿到合规经营）",
-      "metric": "29 回复",
-      "metric_value": 29,
+      "metric": "30 回复",
+      "metric_value": 30,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "nanofei",
-        "last_touched": 1782448723
+        "last_touched": 1782773988
+      }
+    },
+    {
+      "rank": 8,
+      "title": "时隔一天， codex 凌晨又重置了……",
+      "url": "https://www.v2ex.com/t/1226510",
+      "description": "今天好不容易周用量蹬掉一半，想着我还有一天过期的重置券能用上了，结果一点半官方重置了[捂脸哭]好好好",
+      "metric": "29 回复",
+      "metric_value": 29,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "blank0ken",
+        "last_touched": 1783751860
+      }
+    },
+    {
+      "rank": 9,
+      "title": "7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是",
+      "url": "https://www.v2ex.com/t/1226541",
+      "description": "",
+      "metric": "28 回复",
+      "metric_value": 28,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "yakun4566",
+        "last_touched": 1783755008
+      }
+    },
+    {
+      "rank": 10,
+      "title": "小米手机强制更新系统",
+      "url": "https://www.v2ex.com/t/1226527",
+      "description": "早上起来发现备用机小米 13 闹钟没响 看了一下手机黑屏了 以为没电了..\n前夜 12 点还有 30%的电 确信\n也没多想 晚上回家充电 开机 发现系统从钉子户 miui 变成澎湃 os 了..\n很确定从来没有开启自动更新 虽然小米不要脸 把更新包自动下载 但每次弹窗我都关闭了\n开发者模式现在也是没有自动更新.\n所以就是小米把用户不当人 强制夜间更新系统了\n微博上没有几个人发  小红书上看了一下  就这几天太多了.\n当猴的哥们 引以为戒吧",
+      "metric": "27 回复",
+      "metric_value": 27,
+      "extra": {
+        "node": "全球工单系统",
+        "node_name": "gts",
+        "author": "Light3",
+        "last_touched": 1783756695
       }
     }
   ]
