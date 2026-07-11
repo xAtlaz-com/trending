@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-07-10T23:31:23+00:00",
+  "updated_at": "2026-07-11T02:52:47+00:00",
   "count": 19,
   "items": [
     {
@@ -8,12 +8,12 @@
       "title": "wonderwhy-er / DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "metric": "★ 7,253",
+      "metric": "★ 7,354",
       "extra": {
         "language": "TypeScript",
-        "stars": "7,253",
-        "forks": "925",
-        "stars_today": "349 stars today"
+        "stars": "7,354",
+        "forks": "934",
+        "stars_today": "328 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "oven-sh / bun",
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "metric": "★ 94,195",
+      "metric": "★ 94,275",
       "extra": {
         "language": "Rust",
-        "stars": "94,195",
-        "forks": "4,938",
-        "stars_today": "307 stars today"
+        "stars": "94,275",
+        "forks": "4,939",
+        "stars_today": "209 stars today"
       }
     },
     {
@@ -34,12 +34,12 @@
       "title": "abseil / abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
-      "metric": "★ 17,508",
+      "metric": "★ 17,528",
       "extra": {
         "language": "C++",
-        "stars": "17,508",
+        "stars": "17,528",
         "forks": "3,193",
-        "stars_today": "106 stars today"
+        "stars_today": "89 stars today"
       }
     },
     {
@@ -47,12 +47,12 @@
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 76,795",
+      "metric": "★ 76,870",
       "extra": {
         "language": "JavaScript",
-        "stars": "76,795",
-        "forks": "8,247",
-        "stars_today": "1,114 stars today"
+        "stars": "76,870",
+        "forks": "8,257",
+        "stars_today": "1,116 stars today"
       }
     },
     {
@@ -60,12 +60,12 @@
       "title": "jbeder / yaml-cpp",
       "url": "https://github.com/jbeder/yaml-cpp",
       "description": "A YAML parser and emitter in C++",
-      "metric": "★ 6,075",
+      "metric": "★ 6,085",
       "extra": {
         "language": "C++",
-        "stars": "6,075",
-        "forks": "2,255",
-        "stars_today": "65 stars today"
+        "stars": "6,085",
+        "forks": "2,256",
+        "stars_today": "69 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "metric": "★ 164,566",
+      "metric": "★ 164,743",
       "extra": {
         "language": "Shell",
-        "stars": "164,566",
-        "forks": "14,161",
-        "stars_today": "1,663 stars today"
+        "stars": "164,743",
+        "forks": "14,174",
+        "stars_today": "1,712 stars today"
       }
     },
     {
@@ -86,12 +86,12 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 251,754",
+      "metric": "★ 251,832",
       "extra": {
         "language": "Shell",
-        "stars": "251,754",
-        "forks": "22,462",
-        "stars_today": "969 stars today"
+        "stars": "251,832",
+        "forks": "22,474",
+        "stars_today": "1,013 stars today"
       }
     },
     {
@@ -99,12 +99,12 @@
       "title": "microsoft / TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "metric": "★ 109,762",
+      "metric": "★ 109,787",
       "extra": {
         "language": "TypeScript",
-        "stars": "109,762",
-        "forks": "13,631",
-        "stars_today": "166 stars today"
+        "stars": "109,787",
+        "forks": "13,633",
+        "stars_today": "177 stars today"
       }
     },
     {
@@ -112,12 +112,12 @@
       "title": "catchorg / Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "metric": "★ 20,606",
+      "metric": "★ 20,619",
       "extra": {
         "language": "C++",
-        "stars": "20,606",
-        "forks": "3,407",
-        "stars_today": "69 stars today"
+        "stars": "20,619",
+        "forks": "3,408",
+        "stars_today": "76 stars today"
       }
     },
     {
@@ -125,12 +125,12 @@
       "title": "chriskohlhoff / asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
-      "metric": "★ 6,066",
+      "metric": "★ 6,074",
       "extra": {
         "language": "C++",
-        "stars": "6,066",
-        "forks": "1,499",
-        "stars_today": "87 stars today"
+        "stars": "6,074",
+        "forks": "1,500",
+        "stars_today": "92 stars today"
       }
     },
     {
@@ -138,12 +138,12 @@
       "title": "TencentCloud / TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "metric": "★ 8,214",
+      "metric": "★ 8,263",
       "extra": {
         "language": "TypeScript",
-        "stars": "8,214",
-        "forks": "754",
-        "stars_today": "134 stars today"
+        "stars": "8,263",
+        "forks": "760",
+        "stars_today": "123 stars today"
       }
     },
     {
@@ -151,12 +151,12 @@
       "title": "davila7 / claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "metric": "★ 28,753",
+      "metric": "★ 28,782",
       "extra": {
         "language": "Python",
-        "stars": "28,753",
+        "stars": "28,782",
         "forks": "3,161",
-        "stars_today": "104 stars today"
+        "stars_today": "118 stars today"
       }
     },
     {
@@ -164,12 +164,12 @@
       "title": "zeux / meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "metric": "★ 8,016",
+      "metric": "★ 8,029",
       "extra": {
         "language": "C++",
-        "stars": "8,016",
-        "forks": "782",
-        "stars_today": "86 stars today"
+        "stars": "8,029",
+        "forks": "783",
+        "stars_today": "91 stars today"
       }
     },
     {
@@ -177,12 +177,12 @@
       "title": "tailscale / tailscale",
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "metric": "★ 33,627",
+      "metric": "★ 33,681",
       "extra": {
         "language": "Go",
-        "stars": "33,627",
-        "forks": "2,910",
-        "stars_today": "183 stars today"
+        "stars": "33,681",
+        "forks": "2,913",
+        "stars_today": "143 stars today"
       }
     },
     {
@@ -190,12 +190,12 @@
       "title": "google-labs-code / stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "metric": "★ 6,721",
+      "metric": "★ 6,766",
       "extra": {
         "language": "TypeScript",
-        "stars": "6,721",
-        "forks": "927",
-        "stars_today": "101 stars today"
+        "stars": "6,766",
+        "forks": "929",
+        "stars_today": "117 stars today"
       }
     },
     {
@@ -203,12 +203,12 @@
       "title": "iOfficeAI / OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "metric": "★ 14,401",
+      "metric": "★ 14,487",
       "extra": {
         "language": "C#",
-        "stars": "14,401",
-        "forks": "978",
-        "stars_today": "1,210 stars today"
+        "stars": "14,487",
+        "forks": "987",
+        "stars_today": "1,224 stars today"
       }
     },
     {
@@ -216,12 +216,12 @@
       "title": "hashicorp / terraform",
       "url": "https://github.com/hashicorp/terraform",
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "metric": "★ 49,150",
+      "metric": "★ 49,183",
       "extra": {
         "language": "Go",
-        "stars": "49,150",
-        "forks": "10,673",
-        "stars_today": "168 stars today"
+        "stars": "49,183",
+        "forks": "10,674",
+        "stars_today": "172 stars today"
       }
     },
     {
@@ -229,12 +229,12 @@
       "title": "grpc / grpc",
       "url": "https://github.com/grpc/grpc",
       "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "metric": "★ 45,129",
+      "metric": "★ 45,142",
       "extra": {
         "language": "C++",
-        "stars": "45,129",
+        "stars": "45,142",
         "forks": "11,321",
-        "stars_today": "68 stars today"
+        "stars_today": "78 stars today"
       }
     },
     {
@@ -242,12 +242,12 @@
       "title": "vercel / next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "metric": "★ 140,688",
+      "metric": "★ 140,733",
       "extra": {
         "language": "JavaScript",
-        "stars": "140,688",
-        "forks": "31,523",
-        "stars_today": "176 stars today"
+        "stars": "140,733",
+        "forks": "31,526",
+        "stars_today": "191 stars today"
       }
     }
   ]
