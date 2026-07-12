@@ -1,85 +1,43 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-11T23:58:43+00:00",
-  "count": 8,
+  "updated_at": "2026-07-12T03:45:34+00:00",
+  "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "小米手机强制更新系统",
-      "url": "https://www.v2ex.com/t/1226527",
-      "description": "早上起来发现备用机小米 13 闹钟没响 看了一下手机黑屏了 以为没电了..\n前夜 12 点还有 30%的电 确信\n也没多想 晚上回家充电 开机 发现系统从钉子户 miui 变成澎湃 os 了..\n很确定从来没有开启自动更新 虽然小米不要脸 把更新包自动下载 但每次弹窗我都关闭了\n开发者模式现在也是没有自动更新.\n所以就是小米把用户不当人 强制夜间更新系统了\n微博上没有几个人发  小红书上看了一下  就这几天太多了.\n当猴的哥们 引以为戒吧",
-      "metric": "48 回复",
-      "metric_value": 48,
-      "extra": {
-        "node": "全球工单系统",
-        "node_name": "gts",
-        "author": "Light3",
-        "last_touched": 1783791117
-      }
-    },
-    {
-      "rank": 2,
-      "title": "书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题",
-      "url": "https://www.v2ex.com/t/1226526",
-      "description": "书接上文。https://www.v2ex.com/t/1225533?p=1#reply65说是国内试用期 3 个月远程发 u ，试用期转正后要去东京。说是办工签，有住宿，或者自己租房住交当地流水最低社保，其余的发 u ，3 个月有一周假期可以回国。机票也是自己买，直飞东京。hr 说是运营在菲律宾，东京只是研发团队，有菲律宾的运营执照地址好像是： https://www.playtime.ph/以及这公司靠不靠谱，在日本那边怎样（虽然对方说拿到合规经营）",
-      "metric": "38 回复",
-      "metric_value": 38,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "nanofei",
-        "last_touched": 1783536372
-      }
-    },
-    {
-      "rank": 3,
       "title": "国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax",
       "url": "https://www.v2ex.com/t/1226577",
       "description": "",
-      "metric": "37 回复",
-      "metric_value": 37,
+      "metric": "41 回复",
+      "metric_value": 41,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "squirrel7105",
-        "last_touched": 1783800015
+        "last_touched": 1783814415
       }
     },
     {
-      "rank": 4,
-      "title": "7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是",
-      "url": "https://www.v2ex.com/t/1226541",
-      "description": "",
-      "metric": "35 回复",
-      "metric_value": 35,
+      "rank": 2,
+      "title": "魔兽争霸 3 网页版",
+      "url": "https://www.v2ex.com/t/1226611",
+      "description": "完全在浏览器运行的魔兽争霸 3 ，魔改 github v86 实现了 opengl 转 webgl ，感兴趣的老哥可以试试：https://retrogaming.dpdns.org/",
+      "metric": "27 回复",
+      "metric_value": 27,
       "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "yakun4566",
-        "last_touched": 1783769005
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "professionaler",
+        "last_touched": 1783821321
       }
     },
     {
-      "rank": 5,
-      "title": "GPT5.6 SOL 也就那么回事",
-      "url": "https://www.v2ex.com/t/1226536",
-      "description": "试了新的 5.6 的 SOL 发现也就呢样，做不到的还是做不到，就是 codex 看上去比之前花哨了点，整体上还是不如 Fable 5,只能期待下后续可能的 GPT 6 ，ai 的这些小版本更新没什么大的进步，只能等大版本了",
-      "metric": "34 回复",
-      "metric_value": 34,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "fbu11",
-        "last_touched": 1783800091
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "功夫女足口碑",
       "url": "https://www.v2ex.com/t/1226549",
       "description": "有喜欢周星驰的吗？看过的人来说说真实的感受，我很纠结去不去看",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "电影",
         "node_name": "movie",
@@ -88,7 +46,35 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "专科大二，喜欢底层开发(?)，但有点迷茫想听听建议...",
+      "url": "https://www.v2ex.com/t/1226643",
+      "description": "我是专科 大二的学生，因为比赛拿奖有个专业课免试资格，所以升本能去本省计算机专业里最好的本科\n本来是留校实习的，但因为种种问题（没有处理这种事的经验），现在被流放到市场了。\n我现在感觉到 AI Agent 对 CRUD 写胶水真没什么意思了，我个人很喜欢计算机，10 年前就注册了 Github ，最早是用 Java 写一些 Android 小应用发到当时的酷安市场，几 w 的下载量，谈不上厉害，但那时候的我也挺开心的。\n之后接触 Webdev ，最开始 Vue-&gt;Go ，到现在 AI agent 最喜欢的 Nextjs+tailwindcss\n我感觉应用层变来变去，你很难在其中找到一个属",
+      "metric": "25 回复",
+      "metric_value": 25,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "numbsooo",
+        "last_touched": 1783826674
+      }
+    },
+    {
+      "rank": 5,
+      "title": "我发现 Codex 经常会写入幽灵规则",
+      "url": "https://www.v2ex.com/t/1226552",
+      "description": "当我纠正、取消或排除一个当前不会使用的行为时，我的想法是默认让该行为从文档中消失\n但是 Codex 经常额外写入“明确不做”“暂不支持”“未来需要时再处理”等反向说明。\n现在的处理：\n不要做 X\n→ 文档里写：X 被明确排除，未来需要时再……\n\n实际的我想要的处理：\n不要做 X\n→ 删除 X ，不留下任何痕迹\n\n就比如我在优化笔记顾流程时，它根据之前的规则加入了年度回顾的流程。\n然后我纠正说：年度回顾用到的太少了，不需要这个流程，等年底我再单独设计这个流程。\n结果它的实际行为是：\n确实删了年度流程，但是却留下了一句：\n年度回顾明确为“年底需要时再定义并确认独立流程”。\n\n问题原因\n我估计很多时",
+      "metric": "24 回复",
+      "metric_value": 24,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "1874w",
+        "last_touched": 1783809654
+      }
+    },
+    {
+      "rank": 6,
       "title": "Codex 今天是不是放开了五小时限额？",
       "url": "https://www.v2ex.com/t/1226550",
       "description": "Pro 20x 感觉现在五小时限额用满可以占用 40%-50%左右的周限额\n之前是 12%-15%左右\n是我的幻觉吗？",
@@ -102,17 +88,45 @@
       }
     },
     {
-      "rank": 8,
-      "title": "我发现 Codex 经常会写入幽灵规则",
-      "url": "https://www.v2ex.com/t/1226552",
-      "description": "当我纠正、取消或排除一个当前不会使用的行为时，我的想法是默认让该行为从文档中消失\n但是 Codex 经常额外写入“明确不做”“暂不支持”“未来需要时再处理”等反向说明。\n现在的处理：\n不要做 X\n→ 文档里写：X 被明确排除，未来需要时再……\n\n实际的我想要的处理：\n不要做 X\n→ 删除 X ，不留下任何痕迹\n\n就比如我在优化笔记顾流程时，它根据之前的规则加入了年度回顾的流程。\n然后我纠正说：年度回顾用到的太少了，不需要这个流程，等年底我再单独设计这个流程。\n结果它的实际行为是：\n确实删了年度流程，但是却留下了一句：\n年度回顾明确为“年底需要时再定义并确认独立流程”。\n\n问题原因\n我估计很多时",
-      "metric": "22 回复",
-      "metric_value": 22,
+      "rank": 7,
+      "title": "A÷，老子跟你拼了，被迫成为精神美国人",
+      "url": "https://www.v2ex.com/t/1226648",
+      "description": "A÷令人魔怔\n买了一个 google email 重新起号\n买了一个美国静态住宅 ip\n时区改为 los angles\n语言 改为 American English\n用 google 邮箱申请一个新的 claude 账号\nprompt 都用我那蹩脚的英文写\n使劲蹬，我看多久封号",
+      "metric": "20 回复",
+      "metric_value": 20,
       "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "1874w",
-        "last_touched": 1783795254
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "duhbbx1119",
+        "last_touched": 1783761289
+      }
+    },
+    {
+      "rank": 8,
+      "title": "干程序年头多了是不是多少都得沾点易经",
+      "url": "https://www.v2ex.com/t/1226650",
+      "description": "九紫离火大运是指中国传统干支历法与三元九运中的一个 20 年周期（ 2024 年立春至 2043 年立春）。这个大运尤其利好文化与精神领域，身心灵成长正是其中一大方向。从 Java 做到 iOS ，又折腾到 Web3 ，经历了不少变故，从前端一路干到架构，在技术成长里不断琢磨出一些人生感悟。眼看已经活成中登，再不信命，多少就有点冥顽不灵了。正好看了油管博主老王来的观点，很受触动，今天水一帖，欢迎各位佬友一起来交流。\n1. 阴阳与二进制的本质映射\n在老王构建的体系里，《易经》的基础“阴阳”，完全等同于计算机底层逻辑中的二进制“0”和“1”。引入现代“0”的概念后，他定义 0 代表阳（长横），1 ",
+      "metric": "20 回复",
+      "metric_value": 20,
+      "extra": {
+        "node": "玄学",
+        "node_name": "mysticism",
+        "author": "hanxiaobanbudian",
+        "last_touched": 1783827855
+      }
+    },
+    {
+      "rank": 9,
+      "title": "请教，现在团队扩招，我希望招朋友进来，该注意些什么？",
+      "url": "https://www.v2ex.com/t/1226585",
+      "description": "之前在其他公司时，我跟朋友平级，后面各自发展，他其实当时发展的比我好，他人性格挺好的，能力在原本的方向也绝对够格。\n现在我算是技术负责人，团队需要招一个人，刚好他的技能水平和性格，个人感觉很合适这个岗位。\n最近问了一下近况，他那边也比较累，我就希望他能加入过来一起做事。我对他能适应这份工作，是有信心的；而且我能帮他谈下的薪资，不会低于之前的工作，天花板也比之前高得多。\n但这个岗位和他过去的业务方向，差别略大，他比较担忧。\n我几乎很少“社交/人脉”的经验，叫我上桌吃饭，都只会吃菜的那种，所以特地来求助大家：\n\n朋友来了之后，我该怎么处理工作上的要求？向面对社招同事一样，直接提出来，还是需要稍微委",
+      "metric": "19 回复",
+      "metric_value": 19,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "uiosun",
+        "last_touched": 1783802249
       }
     }
   ]
