@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-12T22:53:59+00:00",
+  "updated_at": "2026-07-12T23:58:48+00:00",
   "count": 9,
   "items": [
     {
@@ -61,20 +61,6 @@
     },
     {
       "rank": 5,
-      "title": "16 号从大陆去台湾旅行 大概 3 天 请问大家有什么方式能回回血？ 机票有点贵",
-      "url": "https://www.v2ex.com/t/1226646",
-      "description": "接一点帮忙带东西的活可以吗？",
-      "metric": "36 回复",
-      "metric_value": 36,
-      "extra": {
-        "node": "旅行",
-        "node_name": "travel",
-        "author": "chaoschick",
-        "last_touched": 1783867699
-      }
-    },
-    {
-      "rank": 6,
       "title": "中国人的 homeLab，从 matrix 聊天服务器开始",
       "url": "https://www.v2ex.com/t/1226693",
       "description": "今天的互联网，已经高度发达、停滞不前。要想继续发展，只剩下“家庭”这个没被开发的领域。\nHomeLab 在欧美流行，在中国冷淡。为什么？因为缺乏刚需、杀手级应用，国人顶多用一下 NAS 。但我认为每个家庭需要的不只是 NAS 网盘，更需要真正的服务器。因为这涉及到个人隐私、数据主权。最典型的就是聊天软件：你以为你在私聊，但它在运营商眼里享有和微博、知乎同样的风控。\n为了推动“家庭服务器”的发展，我打算开发一种 matrix 聊天服务器、聊天盒子。它看起来像机顶盒、安卓盒子，功率只有 5~10w ，但确有完整的 debian 系统、1~2G 内存、64G 储存空间。用户需填写自己在 cloudf",
@@ -88,7 +74,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "把微信转成 wechat 对现有业务有什么影响？",
       "url": "https://www.v2ex.com/t/1226684",
       "description": "近期注册了个香港的手机号想把微信捆绑的手机号换过去用 wechat ，但考虑到现有的微信上有大量的业务怕换过去有影响，想问下换过去 wechat 有哪些变化，对现有功能有哪些影响？",
@@ -99,6 +85,20 @@
         "node_name": "wechat",
         "author": "EasonWong",
         "last_touched": 1783867606
+      }
+    },
+    {
+      "rank": 7,
+      "title": "为什么 chatgpt 这么固执",
+      "url": "https://www.v2ex.com/t/1226659",
+      "description": "我让 gpt 帮我把图片背景换成透明色，它总是用白色方格伪装成透明色我明确告诉他要真透明，不要用白色方格伪装成透明色它还是要用，气死我了",
+      "metric": "33 回复",
+      "metric_value": 33,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "Brightt",
+        "last_touched": 1783872885
       }
     },
     {
