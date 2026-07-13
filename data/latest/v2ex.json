@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-13T18:17:48+00:00",
+  "updated_at": "2026-07-13T19:59:49+00:00",
   "count": 9,
   "items": [
     {
@@ -36,8 +36,8 @@
       "title": "用 GPT Pro 20x 和 Claude Max 20x 的全部周限额跑 GPT5.6 Sol + Claude Fable 循环迭代，给富有科技做了个官网",
       "url": "https://www.v2ex.com/t/1226809",
       "description": "https://www.richify.net/zh-hans/上周休假刚好用不上 AI ，想到让 AI 自己循环迭代一个屎山会变成什么样。先用 GPT-5.6 循环打了个全是 AI 味的框架，然后上 Fable 继续迭代。最后用 Opus 4.8 收尾了下达到 Fable 限额做一半的功能。特效堆太多了，7 秒一帧（ 0.1fps ），Chrome 直接弹未响应了，让 Opus 4.8 砍了很多特效，给他的目标是 2fps ，最后好像能有 PPT 帧率（ 30fps ）了。",
-      "metric": "152 回复",
-      "metric_value": 152,
+      "metric": "153 回复",
+      "metric_value": 153,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
@@ -92,13 +92,13 @@
       "title": "继续推广我的 gpt 中转站，注册就送 28.8$余额，已稳定运行俩月有余了 稳定不跑路",
       "url": "https://www.v2ex.com/t/1226950",
       "description": "小站稳定运营，满血 gpt plus pro 号池，开通多种套餐订阅：\n\nV 站用户专属福利：新用户注册即赠送$10 （记得用注册链接），在本帖回复注册邮箱，即可免费再送$18.8 余额！\n加 q 群联系管理员冰冰即可发放，欢迎加入新 q 群：745564314 评论区看到也会\n注册邀请链接： https://xinx.best/register?promo=V2EX\n本次开放 100 个，先到先得\n主站： https://xinx.best/home\n卡网： https://pay.ldxp.cn/shop/JZ9CUHL0",
-      "metric": "82 回复",
-      "metric_value": 82,
+      "metric": "83 回复",
+      "metric_value": 83,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "zhlsk",
-        "last_touched": 1783960956
+        "last_touched": 1783970848
       }
     },
     {
@@ -120,13 +120,13 @@
       "title": "小孩马上高一,但是想学信奥赛 c++,有什么学 c++的书推荐?",
       "url": "https://www.v2ex.com/t/1226960",
       "description": "已经买了小学生学 c++,信奥赛一本通,\n但是小孩是个爱钻研的小孩,凡事都要问一堆,我无法解答,书也讲得不够透彻,\n想系统地从头到尾深刻理解 c++\n求助 c++大佬推荐书:入门加深刻理解\n谢谢!",
-      "metric": "67 回复",
-      "metric_value": 67,
+      "metric": "68 回复",
+      "metric_value": 68,
       "extra": {
         "node": "C++",
         "node_name": "cpp",
         "author": "bihui",
-        "last_touched": 1783966329
+        "last_touched": 1783966744
       }
     }
   ]
