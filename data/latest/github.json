@@ -1,200 +1,187 @@
 {
   "source": "github",
-  "updated_at": "2026-07-15T06:36:50+00:00",
-  "count": 15,
+  "updated_at": "2026-07-15T09:11:08+00:00",
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "title": "1c7 / chinese-independent-developer",
-      "url": "https://github.com/1c7/chinese-independent-developer",
-      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-      "metric": "★ 54,750",
-      "extra": {
-        "language": "Python",
-        "stars": "54,750",
-        "forks": "4,776",
-        "stars_today": "1,196 stars today"
-      }
-    },
-    {
-      "rank": 2,
       "title": "Shubhamsaboo / awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "metric": "★ 121,182",
+      "metric": "★ 121,394",
       "extra": {
         "language": "Python",
-        "stars": "121,182",
-        "forks": "17,921",
+        "stars": "121,394",
+        "forks": "17,933",
         "stars_today": "1,106 stars today"
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "metric": "★ 170,864",
+      "metric": "★ 171,214",
       "extra": {
         "language": "Shell",
-        "stars": "170,864",
-        "forks": "14,698",
+        "stars": "171,214",
+        "forks": "14,716",
         "stars_today": "1,679 stars today"
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "OpenCut-app / OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
-      "metric": "★ 69,555",
+      "metric": "★ 69,722",
       "extra": {
         "language": "TypeScript",
-        "stars": "69,555",
-        "forks": "7,228",
+        "stars": "69,722",
+        "forks": "7,239",
         "stars_today": "4,276 stars today"
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "virattt / ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "metric": "★ 62,006",
+      "metric": "★ 62,046",
       "extra": {
         "language": "Python",
-        "stars": "62,006",
-        "forks": "10,919",
+        "stars": "62,046",
+        "forks": "10,927",
         "stars_today": "109 stars today"
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Nutlope / hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "metric": "★ 6,388",
+      "metric": "★ 6,507",
       "extra": {
         "language": "CSS",
-        "stars": "6,388",
+        "stars": "6,507",
         "forks": "359",
         "stars_today": "1,015 stars today"
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "HKUDS / Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "metric": "★ 23,121",
+      "metric": "★ 23,226",
       "extra": {
         "language": "Python",
-        "stars": "23,121",
-        "forks": "3,962",
+        "stars": "23,226",
+        "forks": "3,980",
         "stars_today": "1,256 stars today"
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Raphire / Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "metric": "★ 51,943",
+      "metric": "★ 52,045",
       "extra": {
         "language": "PowerShell",
-        "stars": "51,943",
-        "forks": "2,143",
+        "stars": "52,045",
+        "forks": "2,146",
         "stars_today": "783 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "hasaneyldrm / exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "metric": "★ 13,793",
+      "metric": "★ 13,899",
       "extra": {
         "language": "HTML",
-        "stars": "13,793",
-        "forks": "1,650",
+        "stars": "13,899",
+        "forks": "1,662",
         "stars_today": "851 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "penpot / penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-      "metric": "★ 56,303",
+      "metric": "★ 56,364",
       "extra": {
         "language": "Clojure",
-        "stars": "56,303",
+        "stars": "56,364",
         "forks": "3,697",
         "stars_today": "395 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "AIEraDev / Clypra",
       "url": "https://github.com/AIEraDev/Clypra",
       "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
-      "metric": "★ 2,736",
+      "metric": "★ 2,781",
       "extra": {
         "language": "TypeScript",
-        "stars": "2,736",
-        "forks": "282",
+        "stars": "2,781",
+        "forks": "281",
         "stars_today": "85 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "par274 / sharpemu",
       "url": "https://github.com/par274/sharpemu",
       "description": "An experimental PlayStation 5 emulator project.",
-      "metric": "★ 2,259",
+      "metric": "★ 2,334",
       "extra": {
         "language": "C#",
-        "stars": "2,259",
-        "forks": "148",
+        "stars": "2,334",
+        "forks": "155",
         "stars_today": "332 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "chenyme / grok2api",
       "url": "https://github.com/chenyme/grok2api",
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
-      "metric": "★ 5,936",
+      "metric": "★ 5,973",
       "extra": {
         "language": "Go",
-        "stars": "5,936",
-        "forks": "1,937",
+        "stars": "5,973",
+        "forks": "1,938",
         "stars_today": "186 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Graphify-Labs / graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "metric": "★ 86,794",
+      "metric": "★ 87,036",
       "extra": {
         "language": "Python",
-        "stars": "86,794",
-        "forks": "8,530",
+        "stars": "87,036",
+        "forks": "8,556",
         "stars_today": "1,851 stars today"
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "HenryNdubuaku / maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
-      "metric": "★ 5,437",
+      "metric": "★ 5,546",
       "extra": {
         "language": "TypeScript",
-        "stars": "5,437",
-        "forks": "716",
+        "stars": "5,546",
+        "forks": "722",
         "stars_today": "112 stars today"
       }
     }
