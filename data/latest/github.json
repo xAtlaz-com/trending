@@ -1,19 +1,19 @@
 {
   "source": "github",
-  "updated_at": "2026-07-15T11:09:58+00:00",
-  "count": 15,
+  "updated_at": "2026-07-15T12:53:07+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "OpenCut-app / OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
-      "metric": "★ 69,836",
+      "metric": "★ 70,128",
       "extra": {
         "language": "TypeScript",
-        "stars": "69,836",
-        "forks": "7,249",
-        "stars_today": "4,276 stars today"
+        "stars": "70,128",
+        "forks": "7,268",
+        "stars_today": "1,505 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "Nutlope / hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "metric": "★ 6,599",
+      "metric": "★ 6,902",
       "extra": {
         "language": "CSS",
-        "stars": "6,599",
-        "forks": "365",
-        "stars_today": "1,015 stars today"
+        "stars": "6,902",
+        "forks": "375",
+        "stars_today": "1,119 stars today"
       }
     },
     {
@@ -34,12 +34,12 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "metric": "★ 171,402",
+      "metric": "★ 171,537",
       "extra": {
         "language": "Shell",
-        "stars": "171,402",
-        "forks": "14,725",
-        "stars_today": "1,679 stars today"
+        "stars": "171,537",
+        "forks": "14,738",
+        "stars_today": "2,160 stars today"
       }
     },
     {
@@ -47,11 +47,11 @@
       "title": "moeru-ai / airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "metric": "★ 42,305",
+      "metric": "★ 42,328",
       "extra": {
         "language": "TypeScript",
-        "stars": "42,305",
-        "forks": "4,237",
+        "stars": "42,328",
+        "forks": "4,238",
         "stars_today": "537 stars today"
       }
     },
@@ -60,12 +60,12 @@
       "title": "Dicklesworthstone / destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "metric": "★ 4,553",
+      "metric": "★ 4,581",
       "extra": {
         "language": "Rust",
-        "stars": "4,553",
-        "forks": "169",
-        "stars_today": "473 stars today"
+        "stars": "4,581",
+        "forks": "172",
+        "stars_today": "497 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "HKUDS / Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "metric": "★ 23,295",
+      "metric": "★ 23,359",
       "extra": {
         "language": "Python",
-        "stars": "23,295",
-        "forks": "3,992",
-        "stars_today": "1,256 stars today"
+        "stars": "23,359",
+        "forks": "4,000",
+        "stars_today": "924 stars today"
       }
     },
     {
@@ -86,116 +86,90 @@
       "title": "openinterpreter / openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for low-cost models",
-      "metric": "★ 65,112",
+      "metric": "★ 65,166",
       "extra": {
         "language": "Rust",
-        "stars": "65,112",
-        "forks": "5,639",
+        "stars": "65,166",
+        "forks": "5,644",
         "stars_today": "607 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "par274 / sharpemu",
-      "url": "https://github.com/par274/sharpemu",
-      "description": "An experimental PlayStation 5 emulator project.",
-      "metric": "★ 2,383",
-      "extra": {
-        "language": "C#",
-        "stars": "2,383",
-        "forks": "160",
-        "stars_today": "332 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "1c7 / chinese-independent-developer",
-      "url": "https://github.com/1c7/chinese-independent-developer",
-      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-      "metric": "★ 55,685",
-      "extra": {
-        "language": "Python",
-        "stars": "55,685",
-        "forks": "4,836",
-        "stars_today": "1,196 stars today"
-      }
-    },
-    {
-      "rank": 10,
       "title": "HKUDS / DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "metric": "★ 26,000",
+      "metric": "★ 26,040",
       "extra": {
         "language": "Python",
-        "stars": "26,000",
-        "forks": "3,545",
+        "stars": "26,040",
+        "forks": "3,549",
         "stars_today": "128 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 9,
       "title": "HenryNdubuaku / maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
-      "metric": "★ 5,604",
+      "metric": "★ 5,652",
       "extra": {
         "language": "TypeScript",
-        "stars": "5,604",
-        "forks": "727",
-        "stars_today": "112 stars today"
+        "stars": "5,652",
+        "forks": "728",
+        "stars_today": "729 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "title": "Shubhamsaboo / awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "metric": "★ 121,482",
+      "metric": "★ 121,541",
       "extra": {
         "language": "Python",
-        "stars": "121,482",
-        "forks": "17,947",
-        "stars_today": "1,106 stars today"
+        "stars": "121,541",
+        "forks": "17,953",
+        "stars_today": "1,278 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "title": "coreyhaines31 / marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "metric": "★ 39,353",
+      "metric": "★ 39,406",
       "extra": {
         "language": "JavaScript",
-        "stars": "39,353",
-        "forks": "6,282",
+        "stars": "39,406",
+        "forks": "6,287",
         "stars_today": "869 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "title": "YimMenu / YimMenuV2",
       "url": "https://github.com/YimMenu/YimMenuV2",
       "description": "Experimental menu for GTA 5: Enhanced",
-      "metric": "★ 1,351",
+      "metric": "★ 1,359",
       "extra": {
         "language": "C++",
-        "stars": "1,351",
-        "forks": "348",
+        "stars": "1,359",
+        "forks": "350",
         "stars_today": "21 stars today"
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "title": "hasaneyldrm / exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "metric": "★ 13,982",
+      "metric": "★ 14,034",
       "extra": {
         "language": "HTML",
-        "stars": "13,982",
-        "forks": "1,670",
-        "stars_today": "851 stars today"
+        "stars": "14,034",
+        "forks": "1,679",
+        "stars_today": "951 stars today"
       }
     }
   ]
