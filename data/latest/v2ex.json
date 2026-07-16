@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-16T20:04:42+00:00",
+  "updated_at": "2026-07-16T21:34:08+00:00",
   "count": 10,
   "items": [
     {
@@ -50,8 +50,8 @@
       "title": "外面访问家里局域网最优雅的方式是？",
       "url": "https://www.v2ex.com/t/1227616",
       "description": "家里的设备有\n\n群辉 nas\nx86 主机一台，里面跑了一个 win 虚拟机，一个 docker 服务器部署了七八个常用项目。\n\n在外主要需求就是快捷访问 docker 和 win 虚拟机，偶尔用 nas 。 家里没有 ipv4 有 ipv6.网络环境是电信 1000M 。\ntailscale 电脑可以回内网，手机上用 docker 里的项目也开 tailscale 跟手机海淘软件冲突。可能是我 tailscale 配置问题，电脑上 claude 海淘的时候，tailscale 也海外中转，非常卡。\n可以接受花点钱，一定要自己建 frp 服务器么？有空域名。",
-      "metric": "97 回复",
-      "metric_value": 97,
+      "metric": "98 回复",
+      "metric_value": 98,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
