@@ -1,184 +1,145 @@
 [
   {
     "rank": 1,
-    "title": "codecrafters-io / build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch.",
-    "metric": "★ 527,813",
+    "title": "Robbyant / lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "metric": "★ 12,405",
     "extra": {
-      "language": "Markdown",
-      "stars": "527,813",
-      "forks": "49,942",
-      "stars_today": "1,068 stars today"
+      "language": "Python",
+      "stars": "12,405",
+      "forks": "1,301",
+      "stars_today": "827 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "PostHog / posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-    "metric": "★ 36,333",
+    "title": "apache / ossie",
+    "url": "https://github.com/apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "metric": "★ 1,163",
     "extra": {
       "language": "Python",
-      "stars": "36,333",
-      "forks": "3,013",
-      "stars_today": "438 stars today"
+      "stars": "1,163",
+      "forks": "146",
+      "stars_today": "48 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "HenryNdubuaku / maths-cs-ai-compendium",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "description": "Become a cracked AI/ML Research Engineer",
-    "metric": "★ 6,819",
+    "title": "PostHog / posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "metric": "★ 36,347",
     "extra": {
-      "language": "TypeScript",
-      "stars": "6,819",
-      "forks": "821",
-      "stars_today": "200 stars today"
+      "language": "Python",
+      "stars": "36,347",
+      "forks": "3,016",
+      "stars_today": "438 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "Nutlope / hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "metric": "★ 12,450",
+    "title": "ibelick / ui-skills",
+    "url": "https://github.com/ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "metric": "★ 4,664",
     "extra": {
-      "language": "CSS",
-      "stars": "12,450",
-      "forks": "619",
-      "stars_today": "1,485 stars today"
+      "language": "TypeScript",
+      "stars": "4,664",
+      "forks": "199",
+      "stars_today": "529 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "github / copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
-    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-    "metric": "★ 9,851",
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "metric": "★ 38,853",
     "extra": {
-      "language": "Java",
-      "stars": "9,851",
-      "forks": "1,336",
-      "stars_today": "233 stars today"
+      "language": "Python",
+      "stars": "38,853",
+      "forks": "6,514",
+      "stars_today": "232 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "anthropics / cwc-workshops",
-    "url": "https://github.com/anthropics/cwc-workshops",
-    "description": "",
-    "metric": "★ 1,666",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "1,666",
-      "forks": "491",
-      "stars_today": "45 stars today"
-    }
-  },
-  {
-    "rank": 7,
-    "title": "PrismML-Eng / Bonsai-demo",
-    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-    "description": "Bonsai Demo",
-    "metric": "★ 1,771",
-    "extra": {
-      "language": "Shell",
-      "stars": "1,771",
-      "forks": "170",
-      "stars_today": "278 stars today"
-    }
-  },
-  {
-    "rank": 8,
-    "title": "protocolbuffers / protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "metric": "★ 71,572",
-    "extra": {
-      "language": "C++",
-      "stars": "71,572",
-      "forks": "16,194",
-      "stars_today": "11 stars today"
-    }
-  },
-  {
-    "rank": 9,
     "title": "tirth8205 / code-review-graph",
     "url": "https://github.com/tirth8205/code-review-graph",
     "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-    "metric": "★ 19,914",
+    "metric": "★ 19,933",
     "extra": {
       "language": "Python",
-      "stars": "19,914",
+      "stars": "19,933",
       "forks": "2,113",
       "stars_today": "74 stars today"
     }
   },
   {
-    "rank": 10,
-    "title": "docusealco / docuseal",
-    "url": "https://github.com/docusealco/docuseal",
-    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-    "metric": "★ 17,966",
+    "rank": 7,
+    "title": "elder-plinius / G0DM0D3",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "description": "LIBERATED AI CHAT",
+    "metric": "★ 9,348",
     "extra": {
-      "language": "Ruby",
-      "stars": "17,966",
-      "forks": "1,774",
-      "stars_today": "91 stars today"
+      "language": "TypeScript",
+      "stars": "9,348",
+      "forks": "2,242",
+      "stars_today": "63 stars today"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "metric": "★ 23,129",
+    "extra": {
+      "language": "Jupyter Notebook",
+      "stars": "23,129",
+      "forks": "2,642",
+      "stars_today": "242 stars today"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "KnockOutEZ / wigolo",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "metric": "★ 911",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "911",
+      "forks": "70",
+      "stars_today": "192 stars today"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "codecrafters-io / build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "metric": "★ 527,863",
+    "extra": {
+      "language": "Markdown",
+      "stars": "527,863",
+      "forks": "49,950",
+      "stars_today": "1,068 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "openinterpreter / openinterpreter",
-    "url": "https://github.com/openinterpreter/openinterpreter",
-    "description": "A coding agent for open models like Kimi K3",
-    "metric": "★ 66,567",
-    "extra": {
-      "language": "Rust",
-      "stars": "66,567",
-      "forks": "5,717",
-      "stars_today": "431 stars today"
-    }
-  },
-  {
-    "rank": 12,
-    "title": "RyanCodrai / turbovec",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-    "metric": "★ 13,429",
+    "title": "MoonshotAI / kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "metric": "★ 9,251",
     "extra": {
       "language": "Python",
-      "stars": "13,429",
-      "forks": "1,182",
-      "stars_today": "280 stars today"
-    }
-  },
-  {
-    "rank": 13,
-    "title": "HKUDS / DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-    "metric": "★ 27,536",
-    "extra": {
-      "language": "Python",
-      "stars": "27,536",
-      "forks": "3,660",
-      "stars_today": "531 stars today"
-    }
-  },
-  {
-    "rank": 14,
-    "title": "OpenCut-app / OpenCut",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative",
-    "metric": "★ 75,165",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "75,165",
-      "forks": "7,567",
-      "stars_today": "1,074 stars today"
+      "stars": "9,251",
+      "forks": "1,151",
+      "stars_today": "48 stars today"
     }
   }
 ]
