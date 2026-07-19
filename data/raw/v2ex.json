@@ -18,8 +18,8 @@
     "title": "性生活是不是人的刚需",
     "url": "https://www.v2ex.com/t/1228347",
     "description": "刚刚刷到知乎的一个评论，也是被震撼到了，只能说荷兰是一个真的很人性的国家，瞬间有想移民到荷兰的冲动",
-    "metric": "48 回复",
-    "metric_value": 48,
+    "metric": "49 回复",
+    "metric_value": 49,
     "extra": {
       "node": "分享发现",
       "node_name": "share",
@@ -46,13 +46,13 @@
     "title": "有结婚后上交工资卡，让妻子管理家庭财政的吗？",
     "url": "https://www.v2ex.com/t/1228313",
     "description": "1 ，前奥运冠军、世界拳王邹市明退役 7 年跨界创业、投资，累计亏损超 2 亿，卖掉房产偿债、陷入资金链危机;\n2 ，我朋友的前妻，离婚时指责他没有上交工资卡，结果离婚几年后，朋友经常收到关于他前妻追债的短信；\n我就打死都不上交，各管各的，只允许她审计资金流水",
-    "metric": "43 回复",
-    "metric_value": 43,
+    "metric": "44 回复",
+    "metric_value": 44,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "wildlynx",
-      "last_touched": 1784479582
+      "last_touched": 1784493188
     }
   },
   {
@@ -60,13 +60,13 @@
     "title": "如何将中美两国的家庭网络组成局域网?",
     "url": "https://www.v2ex.com/t/1228327",
     "description": "中国、美国各有一个家庭网络，均有公网 ipv4 ，且可以互相直连，延迟 150ms 左右，比较稳定。\n两个局域网内各有几十台家用设备。\n希望: \n\n实现局域网互通。可以在两端各加一个旁臂路由，或者其他设备也可。(个人不喜欢用软路由当主路由)\n互相作为网络出口。在中国通过美国网络访问 Google 、ChatGPT 等，在美国使用中国网络访问淘宝等网站。\n\n大佬们有成熟方案吗？或者给个关键词？\nZeroTier 或 WireGuard 好用吗？\n提前感谢各位大佬！",
-    "metric": "39 回复",
-    "metric_value": 39,
+    "metric": "40 回复",
+    "metric_value": 40,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "chengfeng1992",
-      "last_touched": 1784476319
+      "last_touched": 1784479919
     }
   },
   {
@@ -85,6 +85,20 @@
   },
   {
     "rank": 7,
+    "title": "我开发了一个开源版 Surge，把 Mac 变成可导入规则、可按设备分流的全屋透明代理网关。",
+    "url": "https://www.v2ex.com/t/1228353",
+    "description": "OpenSurge for Mac 是一个开源应用，提供类似 Surge 的体验，可以把你的 Mac 变成全屋的代理网关：同一局域网里的手机、电视、PS5 、游戏机、VR 设备和虚拟机，无需逐台设置代理；设备一接入网络，便自动通过 Mac 的全屋代理网关，并按各自策略选择直连或代理出口。你可以为每台设备设置不同的出口策略：手机和 Mac 一起走代理、游戏机连美服、电视走流媒体节点。DHCP/DNS 、分流策略和流量状态，都由 OpenSurge 集中管理。- 可导入已有的 mihomo 配置或订阅，保留原有节点、代理组和规则- Web GUI 实时展示每台设备的连接、上下行流量和实际出口链；菜",
+    "metric": "30 回复",
+    "metric_value": 30,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "wsy95613373",
+      "last_touched": 1784484354
+    }
+  },
+  {
+    "rank": 8,
     "title": "把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？",
     "url": "https://www.v2ex.com/t/1228298",
     "description": "复刻程序是否越来越容易了？",
@@ -95,20 +109,6 @@
       "node_name": "programmer",
       "author": "blackantt",
       "last_touched": 1784479588
-    }
-  },
-  {
-    "rank": 8,
-    "title": "我开发了一个开源版 Surge，把 Mac 变成可导入规则、可按设备分流的全屋透明代理网关。",
-    "url": "https://www.v2ex.com/t/1228353",
-    "description": "OpenSurge for Mac 是一个开源应用，提供类似 Surge 的体验，可以把你的 Mac 变成全屋的代理网关：同一局域网里的手机、电视、PS5 、游戏机、VR 设备和虚拟机，无需逐台设置代理；设备一接入网络，便自动通过 Mac 的全屋代理网关，并按各自策略选择直连或代理出口。你可以为每台设备设置不同的出口策略：手机和 Mac 一起走代理、游戏机连美服、电视走流媒体节点。DHCP/DNS 、分流策略和流量状态，都由 OpenSurge 集中管理。- 可导入已有的 mihomo 配置或订阅，保留原有节点、代理组和规则- Web GUI 实时展示每台设备的连接、上下行流量和实际出口链；菜",
-    "metric": "29 回复",
-    "metric_value": 29,
-    "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "wsy95613373",
-      "last_touched": 1784484354
     }
   },
   {
