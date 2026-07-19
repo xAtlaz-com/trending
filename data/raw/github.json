@@ -1,145 +1,236 @@
 [
   {
     "rank": 1,
-    "title": "Robbyant / lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-    "metric": "★ 13,265",
-    "extra": {
-      "language": "Python",
-      "stars": "13,265",
-      "forks": "1,375",
-      "stars_today": "831 stars today"
-    }
-  },
-  {
-    "rank": 2,
-    "title": "apache / ossie",
-    "url": "https://github.com/apache/ossie",
-    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-    "metric": "★ 1,345",
-    "extra": {
-      "language": "Python",
-      "stars": "1,345",
-      "forks": "158",
-      "stars_today": "47 stars today"
-    }
-  },
-  {
-    "rank": 3,
-    "title": "PostHog / posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-    "metric": "★ 36,736",
-    "extra": {
-      "language": "Python",
-      "stars": "36,736",
-      "forks": "3,039",
-      "stars_today": "338 stars today"
-    }
-  },
-  {
-    "rank": 4,
-    "title": "ibelick / ui-skills",
-    "url": "https://github.com/ibelick/ui-skills",
-    "description": "Skills for Design Engineers",
-    "metric": "★ 5,246",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "5,246",
-      "forks": "224",
-      "stars_today": "123 stars today"
-    }
-  },
-  {
-    "rank": 5,
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "metric": "★ 39,289",
-    "extra": {
-      "language": "Python",
-      "stars": "39,289",
-      "forks": "6,571",
-      "stars_today": "191 stars today"
-    }
-  },
-  {
-    "rank": 6,
     "title": "tirth8205 / code-review-graph",
     "url": "https://github.com/tirth8205/code-review-graph",
     "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-    "metric": "★ 20,379",
+    "metric": "★ 20,413",
     "extra": {
       "language": "Python",
-      "stars": "20,379",
+      "stars": "20,413",
       "forks": "2,135",
       "stars_today": "355 stars today"
     }
   },
   {
-    "rank": 7,
-    "title": "elder-plinius / G0DM0D3",
-    "url": "https://github.com/elder-plinius/G0DM0D3",
-    "description": "LIBERATED AI CHAT",
-    "metric": "★ 9,609",
+    "rank": 2,
+    "title": "kvcache-ai / ktransformers",
+    "url": "https://github.com/kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "metric": "★ 18,122",
+    "extra": {
+      "language": "Python",
+      "stars": "18,122",
+      "forks": "1,431",
+      "stars_today": "328 stars today"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "metric": "★ 39,324",
+    "extra": {
+      "language": "Python",
+      "stars": "39,324",
+      "forks": "6,581",
+      "stars_today": "191 stars today"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "jamiepine / voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "metric": "★ 42,958",
     "extra": {
       "language": "TypeScript",
-      "stars": "9,609",
-      "forks": "2,263",
-      "stars_today": "69 stars today"
+      "stars": "42,958",
+      "forks": "5,256",
+      "stars_today": "629 stars today"
     }
   },
   {
-    "rank": 8,
-    "title": "lyogavin / airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "description": "AirLLM 70B inference with single 4GB GPU",
-    "metric": "★ 23,469",
-    "extra": {
-      "language": "Jupyter Notebook",
-      "stars": "23,469",
-      "forks": "2,666",
-      "stars_today": "161 stars today"
-    }
-  },
-  {
-    "rank": 9,
+    "rank": 5,
     "title": "KnockOutEZ / wigolo",
     "url": "https://github.com/KnockOutEZ/wigolo",
     "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-    "metric": "★ 1,448",
+    "metric": "★ 1,497",
     "extra": {
       "language": "TypeScript",
-      "stars": "1,448",
-      "forks": "93",
+      "stars": "1,497",
+      "forks": "96",
       "stars_today": "203 stars today"
     }
   },
   {
-    "rank": 10,
-    "title": "codecrafters-io / build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch.",
-    "metric": "★ 528,529",
+    "rank": 6,
+    "title": "andrewrabert / jellium-desktop",
+    "url": "https://github.com/andrewrabert/jellium-desktop",
+    "description": "An unofficial desktop client for Jellyfin",
+    "metric": "★ 1,200",
     "extra": {
-      "language": "Markdown",
-      "stars": "528,529",
-      "forks": "50,012",
-      "stars_today": "1,126 stars today"
+      "language": "Rust",
+      "stars": "1,200",
+      "forks": "103",
+      "stars_today": "55 stars today"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "github / copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "metric": "★ 9,877",
+    "extra": {
+      "language": "Java",
+      "stars": "9,877",
+      "forks": "1,344",
+      "stars_today": "111 stars today"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "PostHog / posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "metric": "★ 36,761",
+    "extra": {
+      "language": "Python",
+      "stars": "36,761",
+      "forks": "3,040",
+      "stars_today": "338 stars today"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "microsoft / terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "metric": "★ 104,002",
+    "extra": {
+      "language": "C++",
+      "stars": "104,002",
+      "forks": "9,431",
+      "stars_today": "13 stars today"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "AstrBotDevs / AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "metric": "★ 36,577",
+    "extra": {
+      "language": "Python",
+      "stars": "36,577",
+      "forks": "2,538",
+      "stars_today": "62 stars today"
     }
   },
   {
     "rank": 11,
+    "title": "1jehuang / jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "metric": "★ 8,640",
+    "extra": {
+      "language": "Rust",
+      "stars": "8,640",
+      "forks": "994",
+      "stars_today": "199 stars today"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "trycua / cua",
+    "url": "https://github.com/trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "metric": "★ 20,149",
+    "extra": {
+      "language": "HTML",
+      "stars": "20,149",
+      "forks": "1,335",
+      "stars_today": "136 stars today"
+    }
+  },
+  {
+    "rank": 13,
     "title": "MoonshotAI / kimi-cli",
     "url": "https://github.com/MoonshotAI/kimi-cli",
     "description": "Kimi Code CLI is your next CLI agent.",
-    "metric": "★ 9,636",
+    "metric": "★ 9,657",
     "extra": {
       "language": "Python",
-      "stars": "9,636",
+      "stars": "9,657",
       "forks": "1,169",
       "stars_today": "65 stars today"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "Flowseal / zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "metric": "★ 30,958",
+    "extra": {
+      "language": "Batchfile",
+      "stars": "30,958",
+      "forks": "2,374",
+      "stars_today": "117 stars today"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "codecrafters-io / build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "metric": "★ 528,573",
+    "extra": {
+      "language": "Markdown",
+      "stars": "528,573",
+      "forks": "50,015",
+      "stars_today": "1,126 stars today"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "metric": "★ 23,493",
+    "extra": {
+      "language": "Jupyter Notebook",
+      "stars": "23,493",
+      "forks": "2,668",
+      "stars_today": "161 stars today"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "Canner / WrenAI",
+    "url": "https://github.com/Canner/WrenAI",
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "metric": "★ 16,030",
+    "extra": {
+      "language": "Python",
+      "stars": "16,030",
+      "forks": "1,832",
+      "stars_today": "96 stars today"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "PKUFlyingPig / cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "metric": "★ 74,038",
+    "extra": {
+      "language": "HTML",
+      "stars": "74,038",
+      "forks": "7,935",
+      "stars_today": "128 stars today"
     }
   }
 ]
