@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-19T21:56:42+00:00",
+  "updated_at": "2026-07-19T22:57:25+00:00",
   "count": 9,
   "items": [
     {
@@ -64,13 +64,13 @@
       "title": "如何将中美两国的家庭网络组成局域网?",
       "url": "https://www.v2ex.com/t/1228327",
       "description": "中国、美国各有一个家庭网络，均有公网 ipv4 ，且可以互相直连，延迟 150ms 左右，比较稳定。\n两个局域网内各有几十台家用设备。\n希望: \n\n实现局域网互通。可以在两端各加一个旁臂路由，或者其他设备也可。(个人不喜欢用软路由当主路由)\n互相作为网络出口。在中国通过美国网络访问 Google 、ChatGPT 等，在美国使用中国网络访问淘宝等网站。\n\n大佬们有成熟方案吗？或者给个关键词？\nZeroTier 或 WireGuard 好用吗？\n提前感谢各位大佬！",
-      "metric": "40 回复",
-      "metric_value": 40,
+      "metric": "41 回复",
+      "metric_value": 41,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "chengfeng1992",
-        "last_touched": 1784479919
+        "last_touched": 1784483519
       }
     },
     {
@@ -120,13 +120,13 @@
       "title": "Kimi K3 这波真的爆了，你们用着感觉怎么样？",
       "url": "https://www.v2ex.com/t/1228376",
       "description": "这几天被 Kimi K3 刷屏了，X 上在吹，HN 上在吹，都说是国产之光，deepseek 时刻 2.0 来了。\n我也试了一下，浅浅分享自己的体验吧。\n先说好的地方：\n\n前端能力很强。 \n\nKimi K3 前端能力这块，算是跻身全球第一梯队，真要个人排名的话，目前我给它排第二，还超越不了 Fable 5--LMArena 人类盲投榜上它前端甚至排第一，但我实测体感，Fable 5 还是更稳。\n不过比 GPT-5.6 强得多，这是 GPT 系列家族的通病，前端能力一直很弱。\n特别是那个刷屏的 3D 建模，我不知道设计圈怎么看，我觉得挺牛的。\n\n长时复杂任务处理能力也很不错。 \n\n比如要做一个复",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "cs1707",
-        "last_touched": 1784484629
+        "last_touched": 1784488229
       }
     }
   ]
