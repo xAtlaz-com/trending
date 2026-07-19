@@ -46,8 +46,8 @@
     "title": "裁员 n+1，已签解除合同，社保和公积金还能要求公司补吗？",
     "url": "https://www.v2ex.com/t/1228195",
     "description": "7 月 15 号下午谈的，当时也不知道咋想的，n+1 就直接签了，事后想想挺傻逼的我们的社保和公积金都是按照最低的基数交的，我在支付宝里面查到公司的公积金缴费比例是 12%，社保的基数每年都不太一样，但是也都是按照最低交的，我当时也提了社保和公积金补偿，他们说社保只能补今年 1 月到 7 月，公积金说是要跟着公司上面集团一起补了才会补，后来感觉就是忽悠人的我让豆包按照我的工资水平算了一下，6 年，公司要给我补的钱大概一共是 38w7,这其中社保 26w6,公积金 12w1,然后我自己要补社保 10w6 ，公积金 12w1目前离职证明还没拿到，解除劳动合同签了，跟人事约了周一下午继续谈一下我想问",
-    "metric": "41 回复",
-    "metric_value": 41,
+    "metric": "42 回复",
+    "metric_value": 42,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
@@ -88,13 +88,13 @@
     "title": "18 号到期的重置，本来想着今天用的，结果。。。",
     "url": "https://www.v2ex.com/t/1228155",
     "description": "今天 18 号一大早就发现重置已经没有了。。。。。。",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
       "author": "johnsonhk",
-      "last_touched": 1784354898
+      "last_touched": 1784358498
     }
   },
   {
@@ -102,41 +102,27 @@
     "title": "2026，我将博客部署到了 Cloudflare（CF）",
     "url": "https://www.v2ex.com/t/1228199",
     "description": "20 年的时候，我看别人写博客，自己也开始凑热闹，大多都是些没有啥价值的内容。当时想着，肯定要部署在国内的云服务上，于是发现成本还挺高的。要购买域名（还必须是 .com 后缀)，还要搞定备案，HTTPS 还要单独配置。\n并没有坚持写几篇内容，还要经常注意别让免费的证书过期了，虽然可以通过脚本来处理。但是当时自己的心智还不足以成熟到把一件事情做好。\n24 年的时候，我觉得自己维护服务器太麻烦了，于是将博客直接采用了 Github Pages 部署，因为再也不用担心服务器的维护问题了。\n反倒是在这个时候，开始坚持发布我的读书笔记，慢慢了习惯了将自己的阅读记录整理出来。\n虽然大多数读书笔记对于大多数",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "metric": "30 回复",
+    "metric_value": 30,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "luojiedev",
-      "last_touched": 1784392576
+      "last_touched": 1784403376
     }
   },
   {
     "rank": 9,
-    "title": "Codex 又又又重置了",
-    "url": "https://www.v2ex.com/t/1228183",
-    "description": "还好忍住没用重置卡，竟然在 18%的时候又重置了。感觉有点赚翻了。",
-    "metric": "25 回复",
-    "metric_value": 25,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "bilulanlv",
-      "last_touched": 1784377683
-    }
-  },
-  {
-    "rank": 10,
-    "title": "PowerShell 和 Codex 在打架？可以试试这份提示词",
-    "url": "https://www.v2ex.com/t/1228204",
-    "description": "今天花时间写了篇 codex 下使用 PowerShell 的文章 在 V2EX 上也发一份\n背景\n最近半年一直 Windows 下使用 Codex 开发项目，逐渐把开发环境打造得更接近 Linux 下的开发体验。最近看到很多人反馈 PowerShell 和 Codex 打架的情况，因为这问题我之前就解决了，所以想分享下我的方案。  \n现在这套环境谈不上多复杂，主要有两个重点：\n先把终端环境统一，再用提示词把大模型的命令习惯掰过来。\n先安装 pwsh 7 和 Windows Terminal\n如果你还在使用系统自带的 Windows PowerShell 5.1 ，我建议先换成现代 shell",
-    "metric": "23 回复",
-    "metric_value": 23,
+    "title": "完全没有编程经验能否依靠 AI 开发一些小软件",
+    "url": "https://www.v2ex.com/t/1228254",
+    "description": "玩电脑倒是有 20 年的经验，不过也就是比普通用户多知道一些电脑知识。对编程一窍不通。\nAI 时代已经走过好几年了，现在 AI 的能力更上一层楼，看了很多用 AI 辅助开发软件的案例。心中有一丝疑惑？\n1 ，普通人能否依靠 AI 开发一些个人使用的单机软件呢？比如某些辅助工具软件。方便自己的工作或者生活吗？\n2 ，如果可行的话，自己还需要学习哪些知识内容？\n3 ，哪个 AI 的编程能力比较强？\n4 ，开发完全让 AI 编写，还是自己也要参与部分编写呢？",
+    "metric": "26 回复",
+    "metric_value": 26,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
-      "author": "knowckx",
-      "last_touched": 1784383573
+      "author": "iswangsir",
+      "last_touched": 1784422851
     }
   }
 ]
