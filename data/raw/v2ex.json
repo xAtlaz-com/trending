@@ -74,8 +74,8 @@
     "title": "做了一个完全本地的语音转文字工具，不想只做一个 Whisper GUI",
     "url": "https://www.v2ex.com/t/1228707",
     "description": "这几个月一直在做一个叫 OpenASR 的项目，今天来 V2EX 聊聊。\n起因很简单。平时会议录音、视频素材、语音笔记需要转文字，也经常要给 Agent 口述比较长的需求。试了不少语音服务，要么要上传云端，要么只支持 Whisper ，要么需要自己搭 Python 环境装 CUDA 下权重改参数。\n其实本地 ASR 模型这两年发展得很快。Whisper 之外，Qwen3-ASR 、SenseVoice 、FireRed 、Dolphin 、X-ASR 都是非常优秀的模型，但普通用户想体验它们的门槛还是太高了——每个模型一套推理框架、一套依赖、一套配置方式。模型越来越多，使用体验还停留在开发者工",
-    "metric": "60 回复",
-    "metric_value": 60,
+    "metric": "61 回复",
+    "metric_value": 61,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
