@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-22T16:56:55+00:00",
+  "updated_at": "2026-07-22T18:12:45+00:00",
   "count": 10,
   "items": [
     {
@@ -47,30 +47,30 @@
     },
     {
       "rank": 4,
-      "title": "有必要为了孩子入深户，把农业户口迁到深圳吗",
-      "url": "https://www.v2ex.com/t/1228998",
-      "description": "父母都不是深户，目前都是老家农业户口，在深圳工作，深圳无房，老家有自建房（三四线城市）\n孩子快出生了，如果想让孩子落深户，需要父亲先入深户（目前只有父亲符合条件）。\n\n请问下大家觉得这种情况父亲转深户划算吗，现在老家也没什么户口福利，当然深户我目前了解的也没什么大的优势",
-      "metric": "81 回复",
-      "metric_value": 81,
-      "extra": {
-        "node": "深圳",
-        "node_name": "shenzhen",
-        "author": "zgxxx",
-        "last_touched": 1784734682
-      }
-    },
-    {
-      "rank": 5,
       "title": "大家 VibeCoding 的作品最终用起来了嘛？",
       "url": "https://www.v2ex.com/t/1229044",
       "description": "",
-      "metric": "78 回复",
-      "metric_value": 78,
+      "metric": "83 回复",
+      "metric_value": 83,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "squirrel7105",
-        "last_touched": 1784737931
+        "last_touched": 1784743856
+      }
+    },
+    {
+      "rank": 5,
+      "title": "有必要为了孩子入深户，把农业户口迁到深圳吗",
+      "url": "https://www.v2ex.com/t/1228998",
+      "description": "父母都不是深户，目前都是老家农业户口，在深圳工作，深圳无房，老家有自建房（三四线城市）\n孩子快出生了，如果想让孩子落深户，需要父亲先入深户（目前只有父亲符合条件）。\n\n请问下大家觉得这种情况父亲转深户划算吗，现在老家也没什么户口福利，当然深户我目前了解的也没什么大的优势",
+      "metric": "82 回复",
+      "metric_value": 82,
+      "extra": {
+        "node": "深圳",
+        "node_name": "shenzhen",
+        "author": "zgxxx",
+        "last_touched": 1784740159
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "网评员已经蔓延到 v 站？还是新生代的思维方式？",
       "url": "https://www.v2ex.com/t/1229019",
       "description": "今年至今看到的帖子言论越发离谱，发表的言论还与人文价值观相反",
-      "metric": "77 回复",
-      "metric_value": 77,
+      "metric": "78 回复",
+      "metric_value": 78,
       "extra": {
         "node": "互联网",
         "node_name": "internet",
         "author": "pingdog",
-        "last_touched": 1784729060
+        "last_touched": 1784739482
       }
     },
     {
@@ -134,13 +134,13 @@
       "title": "花了半年做了一个可转债 + 套利研究工具集网站",
       "url": "https://www.v2ex.com/t/1229105",
       "description": "一直自己做可转债和 LOF/ETF 套利，平时要来回切集思录、雪球、东财好几个网站，数据散、效率低，就想着干脆自己撸一套工具。\n陆陆续续写了半年，目前是这个样子：\n\n可转债数据中心：全市场行情，8 个 Tab ，行情概览、全景透视、排行榜、强赎/下修跟踪、转股明细、十大持有人都有\n雪球网增强扩展：给雪球页面注入阶段涨跌、波动率指标、转债条款进度\n套利工具箱扩展：集思录/东财/雪球/天天基金页面增强，雷达扫描套利机会 + 前十持仓加权分析\n理论价值计算器：Black-Scholes + XNPV 现金流贴现，扫全市场低估转债\n\n网页版 + 两个浏览器扩展 + 公众号助手，一套把盘中决策和盘后复盘",
-      "metric": "52 回复",
-      "metric_value": 52,
+      "metric": "53 回复",
+      "metric_value": 53,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "jackyLu",
-        "last_touched": 1784736183
+        "last_touched": 1784741375
       }
     }
   ]
