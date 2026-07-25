@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-25T11:45:47+00:00",
+  "updated_at": "2026-07-25T13:41:12+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "ChatGPT/Codex 都挂了",
       "url": "https://www.v2ex.com/t/1229754",
       "description": "持续返回 503 Service Unavailable ，任务进行到一半突然没响应了...",
-      "metric": "64 回复",
-      "metric_value": 64,
+      "metric": "76 回复",
+      "metric_value": 76,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "jaysonmac",
-        "last_touched": 1784979624
+        "last_touched": 1784984994
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "中年失业，该来的还是来了",
       "url": "https://www.v2ex.com/t/1229683",
       "description": "本人 40 岁，在一个央企下的子公司做苦逼的外包。这周周五下午，甲方领导私下通知我：当前业务线不再开发，本人下个月月底离场。虽然本人无房贷车贷，听到这个消息还是挺失落的。回去翻了翻招聘 app,感觉 40 岁找下一份开发岗太难了。可能是“力工思维”的浸染，还是不能接受这个时候休息的。",
-      "metric": "49 回复",
-      "metric_value": 49,
+      "metric": "56 回复",
+      "metric_value": 56,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "wildlynx",
-        "last_touched": 1784978801
+        "last_touched": 1784985631
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "大家还记得小时候玩过哪些好玩的小霸王（FC）游戏？",
       "url": "https://www.v2ex.com/t/1229690",
       "description": "最近在开发一款在线云游戏室，然后项目变得越来越复杂。自从有了 AI ，每每开发项目都会变得越来越复杂，可能是下意识觉得用 AI 开发，就应该开发那种大型项目，开发周期也越来越长，以至于身心俱疲。\n然后，我在想我到底想要开发什么？最后我决定暂缓开发复杂的项目，改用最简单的实现，最终开发了这一款纯前端的“像素游戏室”。\n\n大家还记得小时候玩过哪些好玩的小霸王游戏？魂斗罗、超级玛丽、冒险岛好多耳熟能详的游戏名字不经意的在脑海中出现。我还记得小时候偷跑到表哥家玩吞食天地，然后被老妈揪耳朵回家的一幕幕...\n比起如今五花八门的各类网游，我还是比较怀念小时候的那些小霸王的游戏，简单、纯粹。像素游戏室就是这",
-      "metric": "41 回复",
-      "metric_value": 41,
+      "metric": "44 回复",
+      "metric_value": 44,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "amery2010",
-        "last_touched": 1784972147
+        "last_touched": 1784986706
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "codex 写前端纯残废",
       "url": "https://www.v2ex.com/t/1229695",
       "description": "又菜又慢，有没有懂的，还不如 composer 2.5 。",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "metric": "32 回复",
+      "metric_value": 32,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "yourajkhuram470",
-        "last_touched": 1784973457
+        "last_touched": 1784981311
       }
     },
     {
@@ -92,17 +92,45 @@
       "title": "吃瓜 openai gpt 全网 503",
       "url": "https://www.v2ex.com/t/1229759",
       "description": "https://status.openai.com/\n兄弟们等你们的 codex 还活着吗？",
+      "metric": "29 回复",
+      "metric_value": 29,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "ipcsh",
+        "last_touched": 1784986656
+      }
+    },
+    {
+      "rank": 8,
+      "title": "GPT 5.6 Pro 自动降智？",
+      "url": "https://www.v2ex.com/t/1229703",
+      "description": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high ，偶尔开一下 max 。\nChatGPT 一般无脑开 GPT 5.6 Pro ，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18 ，明显是被降智并路由到了最差的那一档\n \n又切成 xhigh 问了一下，发现思考时间变长，juice 值也是正常的 \n不得不说这个用户体验是真的不好，如果 Pro 不可用，就直接提示不可用就好了，偷偷路由到最差的模型观感很差",
       "metric": "27 回复",
       "metric_value": 27,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
-        "author": "ipcsh",
-        "last_touched": 1784979549
+        "author": "timwu",
+        "last_touched": 1784986041
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "算了一下我要是有 100W 的话， 35 岁就差不多可以躺平了。",
+      "url": "https://www.v2ex.com/t/1229751",
+      "description": "前几天突发奇想，要是 35 岁不想工作了，我就按照每个月最基本 3000 块钱的生活费活着，那么到 60 岁，需要 90W 。这样 100W 减去 90W ，还剩下 10W ，正好给自己每个月交一个 800 块钱的灵活就业养老金。交 10 年正好差不多 10W 。加上我之钱上班交了差不多 10 年的社保，那么养老金也就一共交了 20 年了。按目前的政策，退休后每个月能领个 2000 多块钱，一个人也够了。当然，计划赶不上变化，只是目前这样想挺好。另外生病不考虑，小病不用治，大病更不用治。不过，目前最残酷的问题是，我没有 100W 。。。。还是得上班当牛马。。",
+      "metric": "26 回复",
+      "metric_value": 26,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "Lyn321",
+        "last_touched": 1784986521
+      }
+    },
+    {
+      "rank": 10,
       "title": "已经在中转花了 1000 多块了，找个号池渠道自用可不可行？",
       "url": "https://www.v2ex.com/t/1229686",
       "description": "每天用的 token 少则 5 、6 亿多则将近 20 亿，不知道是不是只有中转、号池这种模式能支撑的了我这种用法（不用考虑 N 小时限量）😂。\n本着能节约一点是一点的想法，我这种是不是直接找号池渠道上游更划算点，反正就我自己用，不用自己维护号池的同时也不用再被中间商再收一次费。\n有没有懂行的 V 友指点一下。",
@@ -113,34 +141,6 @@
         "node_name": "programmer",
         "author": "cby0414",
         "last_touched": 1784974697
-      }
-    },
-    {
-      "rank": 9,
-      "title": "GPT 5.6 Pro 自动降智？",
-      "url": "https://www.v2ex.com/t/1229703",
-      "description": "平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high ，偶尔开一下 max 。\nChatGPT 一般无脑开 GPT 5.6 Pro ，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18 ，明显是被降智并路由到了最差的那一档\n \n又切成 xhigh 问了一下，发现思考时间变长，juice 值也是正常的 \n不得不说这个用户体验是真的不好，如果 Pro 不可用，就直接提示不可用就好了，偷偷路由到最差的模型观感很差",
-      "metric": "25 回复",
-      "metric_value": 25,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "timwu",
-        "last_touched": 1784971061
-      }
-    },
-    {
-      "rank": 10,
-      "title": "你有做不好工作怪梯子的时候吗",
-      "url": "https://www.v2ex.com/t/1229705",
-      "description": "AI 工具应该走进生活中的方方面面了。工作中没用过 AI 工具的大抵是不多了，有没有同学把个人能力和梯子不行的界限区分的不是太清楚了？",
-      "metric": "21 回复",
-      "metric_value": 21,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "asmallcake",
-        "last_touched": 1784978608
       }
     }
   ]
