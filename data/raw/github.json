@@ -4,11 +4,11 @@
     "title": "permissionlesstech / bitchat",
     "url": "https://github.com/permissionlesstech/bitchat",
     "description": "bluetooth mesh chat, IRC vibes",
-    "metric": "★ 31,995",
+    "metric": "★ 32,082",
     "extra": {
       "language": "Swift",
-      "stars": "31,995",
-      "forks": "5,028",
+      "stars": "32,082",
+      "forks": "5,044",
       "stars_today": "2,344 stars today"
     }
   },
@@ -17,10 +17,10 @@
     "title": "amnezia-vpn / amnezia-client",
     "url": "https://github.com/amnezia-vpn/amnezia-client",
     "description": "Amnezia VPN Client (Desktop+Mobile)",
-    "metric": "★ 13,706",
+    "metric": "★ 13,738",
     "extra": {
       "language": "C++",
-      "stars": "13,706",
+      "stars": "13,738",
       "forks": "1,028",
       "stars_today": "515 stars today"
     }
@@ -30,154 +30,167 @@
     "title": "moeru-ai / airi",
     "url": "https://github.com/moeru-ai/airi",
     "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "metric": "★ 43,922",
+    "metric": "★ 43,949",
     "extra": {
       "language": "TypeScript",
-      "stars": "43,922",
-      "forks": "4,385",
+      "stars": "43,949",
+      "forks": "4,386",
       "stars_today": "554 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "yorukot / superfile",
-    "url": "https://github.com/yorukot/superfile",
-    "description": "Pretty fancy and modern terminal file manager",
-    "metric": "★ 20,771",
+    "title": "opengeos / GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "metric": "★ 2,567",
     "extra": {
-      "language": "Go",
-      "stars": "20,771",
-      "forks": "669",
-      "stars_today": "600 stars today"
+      "language": "TypeScript",
+      "stars": "2,567",
+      "forks": "346",
+      "stars_today": "420 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "NanmiCoder / MediaCrawler",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "metric": "★ 58,103",
+    "title": "yorukot / superfile",
+    "url": "https://github.com/yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "metric": "★ 20,801",
     "extra": {
-      "language": "Python",
-      "stars": "58,103",
-      "forks": "11,576",
-      "stars_today": "349 stars today"
+      "language": "Go",
+      "stars": "20,801",
+      "forks": "673",
+      "stars_today": "600 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "pbakaus / impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "metric": "★ 51,382",
+    "title": "NanmiCoder / MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "metric": "★ 58,122",
     "extra": {
-      "language": "JavaScript",
-      "stars": "51,382",
-      "forks": "3,031",
-      "stars_today": "849 stars today"
+      "language": "Python",
+      "stars": "58,122",
+      "forks": "11,578",
+      "stars_today": "349 stars today"
     }
   },
   {
     "rank": 7,
+    "title": "pbakaus / impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "metric": "★ 51,429",
+    "extra": {
+      "language": "JavaScript",
+      "stars": "51,429",
+      "forks": "3,035",
+      "stars_today": "849 stars today"
+    }
+  },
+  {
+    "rank": 8,
     "title": "shiyu-coder / Kronos",
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "metric": "★ 34,486",
+    "metric": "★ 34,511",
     "extra": {
       "language": "Python",
-      "stars": "34,486",
+      "stars": "34,511",
       "forks": "5,790",
       "stars_today": "442 stars today"
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "alibaba / open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "metric": "★ 14,630",
+    "metric": "★ 14,673",
     "extra": {
       "language": "Go",
-      "stars": "14,630",
-      "forks": "992",
+      "stars": "14,673",
+      "forks": "994",
       "stars_today": "980 stars today"
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "jenkinsci / jenkins",
     "url": "https://github.com/jenkinsci/jenkins",
     "description": "Jenkins automation server",
-    "metric": "★ 25,855",
+    "metric": "★ 25,858",
     "extra": {
       "language": "Java",
-      "stars": "25,855",
+      "stars": "25,858",
       "forks": "9,679",
       "stars_today": "179 stars today"
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "title": "bradautomates / claude-video",
     "url": "https://github.com/bradautomates/claude-video",
     "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-    "metric": "★ 10,924",
+    "metric": "★ 10,973",
     "extra": {
       "language": "Python",
-      "stars": "10,924",
-      "forks": "1,130",
+      "stars": "10,973",
+      "forks": "1,134",
       "stars_today": "412 stars today"
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "title": "vudovn / ag-kit",
     "url": "https://github.com/vudovn/ag-kit",
     "description": "",
-    "metric": "★ 7,916",
+    "metric": "★ 7,929",
     "extra": {
       "language": "TypeScript",
-      "stars": "7,916",
-      "forks": "1,507",
+      "stars": "7,929",
+      "forks": "1,508",
       "stars_today": "5 stars today"
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "title": "apache / cassandra",
     "url": "https://github.com/apache/cassandra",
     "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-    "metric": "★ 9,931",
+    "metric": "★ 9,936",
     "extra": {
       "language": "Java",
-      "stars": "9,931",
+      "stars": "9,936",
       "forks": "4,004",
       "stars_today": "34 stars today"
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "title": "mvanhorn / last30days-skill",
     "url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "metric": "★ 54,070",
+    "metric": "★ 54,102",
     "extra": {
       "language": "Python",
-      "stars": "54,070",
-      "forks": "4,693",
+      "stars": "54,102",
+      "forks": "4,695",
       "stars_today": "221 stars today"
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "title": "ocornut / imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "metric": "★ 75,168",
+    "metric": "★ 75,177",
     "extra": {
       "language": "C++",
-      "stars": "75,168",
-      "forks": "11,971",
+      "stars": "75,177",
+      "forks": "11,969",
       "stars_today": "64 stars today"
     }
   }
