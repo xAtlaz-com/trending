@@ -1,142 +1,128 @@
 [
   {
     "rank": 1,
-    "title": "[新站福利] StableFast AI 满血 Codex 号池， 0.05 倍率，注册送 200 万 Token 回帖送 2000 万 Token",
-    "url": "https://www.v2ex.com/t/1230048",
-    "description": "最近把自己的 Codex 中转站上线了，名字叫 StableFast AI。\n目前主要专注于 Codex 线路，希望先把价格、速度和稳定性做好。\n当前使用的是 20x Pro 账号池，计费倍率统一为 0.05，倍率会持续下去不会涨价。\n充值 1RMB = 1USD ，相当于官方价格的0.007倍。\n输入、输出和缓存分别计费，所有价格均可在模型广场公开查看。\n新站体验福利\n本次准备了两份体验额度：\n1. 注册即送 0.5 元余额，200 万 Token\n2. 回帖再送 5 元余额，2000 万 Token\n注册后在评论区留下你的用户 id，今晚统一发放，每个账号限领取一次。\n相关链接\n\n官网：S",
-    "metric": "183 回复",
-    "metric_value": 183,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "enzheng",
-      "last_touched": 1785200056
-    }
-  },
-  {
-    "rank": 2,
-    "title": "2026 年过半了，你们现在在用什么输入法？",
-    "url": "https://www.v2ex.com/t/1230002",
-    "description": "# PC:前一阵子用微软自带，后来因为手机端装了语言输入法更好的豆包，就想着 PC 同步，只是豆包一直没有 pc 版，就“退而求其次”装了微信输入法，只是他们宣传的主力功能“剪切板”同步，不知道为什么经常失效。我做初步琢磨，感觉是要 pc 和手机上两个输入法都在前台工作的时候，能同步，不然大概率手机上复制了东西 pc 上没收到，有时候又很意外，pc 上复制了大量的文本内容，在手机上不小心一下贴进去了。其实这两端同步，我用的最多的就是复制验证码。# 手机端我手机上高强度用了豆包，语音输入确实牛，但是没法和 PC 同步一直是痛点，经常和微信输入法来回切，但是微信输入法的语言总是差那么点劲。",
-    "metric": "153 回复",
-    "metric_value": 153,
-    "extra": {
-      "node": "输入法",
-      "node_name": "ime",
-      "author": "libasten",
-      "last_touched": 1785198929
-    }
-  },
-  {
-    "rank": 3,
     "title": "个人业余项目，做了一个可以物理操作 iPhone 的 agent，不知道有商业前景吗？",
     "url": "https://www.v2ex.com/t/1230118",
     "description": "淘宝美团常用的 app ，都没有 API ，agent 没法直接调用。走 ADB 容易被风控，豆包手机那条路似乎也很坎坷不好走。\n我想，如果能用硬件直接托管 iPhone ，用摄像头观察屏幕，用机械臂点击，或许能绕过大部分风控检测。搞了几个月，agent 跑通了，使用起来还可以。\n目前，最大的问题不是可行性的问题，是 token 太贵，点击一次 token 花费 0.2 元。\n大家觉得这种 agent 有商业前景吗？\n项目地址： https://github.com/physiclaw/PhysiClaw\n硬件组装手册和代码都开源，硬件 DIY 成本 1000 元左右。",
-    "metric": "127 回复",
-    "metric_value": 127,
+    "metric": "154 回复",
+    "metric_value": 154,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "fzuccq",
-      "last_touched": 1785168036
+      "last_touched": 1785211896
     }
   },
   {
-    "rank": 4,
-    "title": "懒人维持每天生活必须营养的做饭方式推荐",
-    "url": "https://www.v2ex.com/t/1230026",
-    "description": "早餐    鸡蛋 2 个    牛奶 300ml    吐司 2 片午餐    熟米饭 300g    鸡胸肉 200g    西兰花 300g晚餐    熟米饭 200g    鸡胸肉 150g    西兰花 200g    鸡胸肉直接煮熟了，改刀后，用平底锅煎，淋上生抽，撒盐。米饭一次性煮一个星期的量，用塑料袋分好饭团。西兰花放冷冻，可以保存一年。感觉这招的营养均衡，方便快捷，适合懒人维持生命体征。",
-    "metric": "89 回复",
-    "metric_value": 89,
+    "rank": 2,
+    "title": "都说生育率低，身边结婚的都有娃了",
+    "url": "https://www.v2ex.com/t/1230286",
+    "description": "我是 99 年的，结婚的同学不论男女都陆续有娃了\n当然他们有一个共同点，男方都是体制内工作或者小有家资",
+    "metric": "99 回复",
+    "metric_value": 99,
     "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "clacf",
-      "last_touched": 1785181972
+      "node": "分享发现",
+      "node_name": "share",
+      "author": "Bologna",
+      "last_touched": 1785211803
     }
   },
   {
-    "rank": 5,
-    "title": "老罗吐槽给老太买了 2 个电视机不会用，还有更好的设计吗？",
-    "url": "https://www.v2ex.com/t/1230034",
-    "description": "老罗给老太太买了 2 个智能电视机，老太太都不会用，只好换成电视盒子\n罗玉龙嘴真毒啊，吐槽电视剧产品经理上不了天堂😂\n现在的智能电视 os 本质上就是手机系统一样的，对老年人而言复杂度确实高了，并不友好。哪个年轻人没经历过给长辈教学如何实用手机呢\n老罗只管吐槽，自己设计个电视 OS 试试？也许，智能电视的本就不属于老人群体的消费品，上一辈的老人最适合的也许就是传统电视机。",
-    "metric": "87 回复",
-    "metric_value": 87,
-    "extra": {
-      "node": "互联网",
-      "node_name": "internet",
-      "author": "jacketma",
-      "last_touched": 1785177621
-    }
-  },
-  {
-    "rank": 6,
-    "title": "上班第一天，自行原地光速离职",
-    "url": "https://www.v2ex.com/t/1230060",
-    "description": "时隔九个月没上班了，个人项目完成后，玩久了就懒散了，找工作陆陆续续持续了两个月，boss 沟通 272 ，简历有效投出 13 ，面试了两家。  第一家，印象挺好的，可惜不太匹配，需要 linux 音配应用独自担大任的人，我经验不足。  第二家，过了，还是之前搞 MCU 的开发，在已经商议了一次薪资的情况下，比上份工作还低，还跟我说这个时间进去今年没有 13 薪了，我想着先进去把音频流相关的技术过一遍，就卧薪尝胆吧。  在收到 offer 前，HR 给出薪资情况时，跟我说是日薪制，还帮我换算一个月是多少。我当时有点懵，我就说等一天我再回复。晚上我突然想到，日薪制，那法定节假日不会没有薪资吧。第二",
-    "metric": "87 回复",
-    "metric_value": 87,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "jettming",
-      "last_touched": 1785184602
-    }
-  },
-  {
-    "rank": 7,
-    "title": "[福利复刻] 中转站稳定运营中， Codex 纯 Pro 池 0.4 倍！评论留 ID 新老用户均送 5 元（约 250w Token）",
-    "url": "https://www.v2ex.com/t/1230001",
-    "description": "各位大佬好！前阵子和同事搭的中转站得到了不少朋友的支持。这段时间我们也没闲着，在网络路由上做了一波深度优化，现在的体验绝对丝滑。\n🚀 硬核服务，初心不改：\n\n透明计费： 坚持 1:1 充值，无套路，不搞汇率差，充多少得多少，倍率清楚不用算\n随时退款： 支持随时退款，余额剩多少就退多少（赠送额度除外）。\n前沿模型： 稳定支持 Codex 和 Claude Code 最新模型。\n良心定价： Codex 纯 Pro 池仅需 0.4 倍，Plus 线路低至 0.15 倍！\n\n🎁 本期核心福利：新老用户一视同仁！\n不管你是刚注册的新朋友，还是之前一路陪伴的老伙计，只要在评论区留下你的 用户名，看到必补 ",
-    "metric": "84 回复",
-    "metric_value": 84,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "kelrvins",
-      "last_touched": 1785199877
-    }
-  },
-  {
-    "rank": 8,
-    "title": "[推广&抽奖] anytokens.cc 中转已送近 4w 刀！现在回复就领$10，新用户再送 $5",
-    "url": "https://www.v2ex.com/t/1230066",
-    "description": "本站运行状况\n地址： https://anytokens.cc/\n1. 每个星期四次抽奖， 累计送出 近 4 万刀左右\n60 次 * 600 刀 = 36000 刀\n充值后，大家基本上在 vip 群里捡额度用，因为 vip 群我会多抽两次\n\n2. 可以开票，开票时间大约 半天-2 天左右， 支持企业大额对公服务，私有部署\n不会额外多收大家的税点， 不用大家补\n\n3. 充值比例 1:1.1\n充值无需手续费，而且我还多送 10%\n4. 用户口碑第一，见图\nclaude （ sonnet5, opus5, fable5) 最低倍率 0.3 ，超级稳定\n累计服务近 5k 名用户\n\n联系站长手动加额度\n",
-    "metric": "71 回复",
-    "metric_value": 71,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "312ybj",
-      "last_touched": 1785064959
-    }
-  },
-  {
-    "rank": 9,
+    "rank": 3,
     "title": "Giffgaff 被停止服务了",
     "url": "https://www.v2ex.com/t/1230161",
     "description": "通知邮件如下\nHi Wanda,\nWe need to make you aware that, following a review of your account usage, we have made the decision to disconnect your service. In line with our terms and conditions, our services are intended primarily for use within the UK, with roaming provided for short-term travel only. As your",
-    "metric": "70 回复",
-    "metric_value": 70,
+    "metric": "85 回复",
+    "metric_value": 85,
     "extra": {
       "node": "分享发现",
       "node_name": "share",
       "author": "CodeDAI",
-      "last_touched": 1785177696
+      "last_touched": 1785210553
     }
   },
   {
-    "rank": 10,
+    "rank": 4,
+    "title": "老婆同事的母亲去世了，该不该送礼",
+    "url": "https://www.v2ex.com/t/1230301",
+    "description": "前情提要：老婆公司里的事（诸如同事买房、领导结婚）送礼送了三四次了，每次 500-1000 不等。\n然后最近得知标题这事，忍不住跟老婆吵起来了，我意思是送个一两百就得了；老婆意思是人家都送 xx ，xx 是起步价，其他人都送，我好意思不送吗\n这事 V 友怎么看，如何沟通，老婆说我不懂人情世故，我人要麻了，想听听大家的看法。。",
+    "metric": "85 回复",
+    "metric_value": 85,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "shalou8023",
+      "last_touched": 1785211712
+    }
+  },
+  {
+    "rank": 5,
+    "title": "“万一免五”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [7.28 日~8.3 日]",
+    "url": "https://www.v2ex.com/t/1230280",
+    "description": "这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+大笑脸开户，最近新增了很多新的低门槛免 5 券商，股票，etf 全网超低费率，欢迎来开！开户和推荐朋友都有红包！⚠️回帖即可参与抽奖！⚠️大笑脸低佣开户推荐：YH 证券：ETF 万 0.5 免 5  [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利 ，逆回购 1 折，新手必备]GF 证券：ETF 万 0.5 免 5 [ETF,LOF ，etf 费率低]SJ 证券：万 0.941 免 5 [低门槛股票 etf 双免 5 ]GD 证券：万 0.854 免 5 [ 股票 etf 都是超低费率]DB 证券：万 0.7",
+    "metric": "78 回复",
+    "metric_value": 78,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "daxiaolian",
+      "last_touched": 1785211910
+    }
+  },
+  {
+    "rank": 6,
+    "title": "大家成年以后，还有没有学什么新技能并内化成肌肉记忆？",
+    "url": "https://www.v2ex.com/t/1230102",
+    "description": "我先来，我 23 岁的时候，学的小鹤双拼。第一个月打一份 200 字的邮件要半个小时，非常痛苦，但是我坚持了下来。\n到现在我已经使用小鹤双拼 10 年了，双拼打字已经内化成了肌肉记忆，脑袋里面想到什么字，手指几乎是同步把字打出来。",
+    "metric": "76 回复",
+    "metric_value": 76,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "itskingname",
+      "last_touched": 1785210641
+    }
+  },
+  {
+    "rank": 7,
+    "title": "少数人的贪婪，买单的却是全体同事",
+    "url": "https://www.v2ex.com/t/1230124",
+    "description": "如题，欢迎大家发发牢骚，比如打卡范围一公里，却因为某些同事的贪得无厌，一而再再而三的卡位置打卡后拖拖拉拉过了半小时才到工位，导致范围直接缩到公司人脸打卡",
+    "metric": "75 回复",
+    "metric_value": 75,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "mr123villain",
+      "last_touched": 1785211098
+    }
+  },
+  {
+    "rank": 8,
     "title": "摆烂还是转全栈？",
     "url": "https://www.v2ex.com/t/1230116",
     "description": "背景：十年前端开发，无负债\n上周领导找我谈话，说现在 AI 工具很强大，公司内部后端在开发个内部平台，AI 能完成前端的工作，前端也应该能胜任后端的岗位，并暗示我每天不加班，说我工作不饱和，说我“态度”有问题，并且说我成本是前端里最高的；\n我反驳说每周安排的工作我都能按时完成，只是没有加班不存在态度问题，\n她说让我承接部分后端工作，后端确实都很卷，每天都在加班，所以我也成了“刺头”，说给我一段时间适应，后面要是承接不了后端的需求，就要把我“优化”掉；\n我说我会尽量保证在 ddl 前完成，不会为了加班而加班，领导说后端任务非常多，会让我完不成；\n感觉就是想逼人走，我也想摆烂等被裁，只是合同问题和",
-    "metric": "61 回复",
-    "metric_value": 61,
+    "metric": "70 回复",
+    "metric_value": 70,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "Colderer",
-      "last_touched": 1785160521
+      "last_touched": 1785185721
+    }
+  },
+  {
+    "rank": 9,
+    "title": "兄弟们交物业吗？",
+    "url": "https://www.v2ex.com/t/1230287",
+    "description": "从收房开始一直在交的，可是昨天去物业缴费的时候，听物业的说小区的收缴率不到 6 成，虽然物业很多地方我也不爽，但是看到最近很多物业撤离的新闻，担心物业干不下去真撤了小区质量会更差，感觉有一点无解。",
+    "metric": "66 回复",
+    "metric_value": 66,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "sevenyangcc",
+      "last_touched": 1785211459
     }
   }
 ]
