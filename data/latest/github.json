@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-07-29T00:58:54+00:00",
-  "count": 12,
+  "updated_at": "2026-07-29T04:20:09+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "pascalorg / editor",
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
-      "metric": "★ 18,705",
+      "metric": "★ 18,895",
       "extra": {
         "language": "TypeScript",
-        "stars": "18,705",
-        "forks": "2,526",
+        "stars": "18,895",
+        "forks": "2,541",
         "stars_today": "341 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "jenkinsci / jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "description": "Jenkins automation server",
-      "metric": "★ 26,069",
+      "metric": "★ 26,112",
       "extra": {
         "language": "Java",
-        "stars": "26,069",
-        "forks": "9,687",
+        "stars": "26,112",
+        "forks": "9,689",
         "stars_today": "180 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "moeru-ai / airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "metric": "★ 44,754",
+      "metric": "★ 44,896",
       "extra": {
         "language": "TypeScript",
-        "stars": "44,754",
-        "forks": "4,449",
+        "stars": "44,896",
+        "forks": "4,456",
         "stars_today": "797 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "andrewyng / aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
-      "metric": "★ 15,682",
+      "metric": "★ 15,730",
       "extra": {
         "language": "Python",
-        "stars": "15,682",
-        "forks": "1,656",
+        "stars": "15,730",
+        "forks": "1,658",
         "stars_today": "62 stars today"
       }
     },
@@ -60,102 +60,115 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 234,809",
+      "metric": "★ 234,964",
       "extra": {
         "language": "JavaScript",
-        "stars": "234,809",
-        "forks": "35,779",
+        "stars": "234,964",
+        "forks": "35,799",
         "stars_today": "636 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "huggingface / speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "metric": "★ 7,235",
+      "title": "hello245m / free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "metric": "★ 1,431",
       "extra": {
-        "language": "Python",
-        "stars": "7,235",
-        "forks": "956",
-        "stars_today": "227 stars today"
+        "language": "HTML",
+        "stars": "1,431",
+        "forks": "215",
+        "stars_today": "50 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "virgiliojr94 / book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "metric": "★ 11,376",
+      "title": "huggingface / speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "metric": "★ 7,374",
       "extra": {
         "language": "Python",
-        "stars": "11,376",
-        "forks": "1,341",
-        "stars_today": "423 stars today"
+        "stars": "7,374",
+        "forks": "960",
+        "stars_today": "227 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "opengeos / GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "metric": "★ 3,393",
+      "title": "virgiliojr94 / book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "metric": "★ 11,650",
       "extra": {
-        "language": "TypeScript",
-        "stars": "3,393",
-        "forks": "391",
-        "stars_today": "607 stars today"
+        "language": "Python",
+        "stars": "11,650",
+        "forks": "1,356",
+        "stars_today": "423 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "paperswithbacktest / awesome-systematic-trading",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "metric": "★ 9,599",
+      "title": "opengeos / GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "metric": "★ 3,501",
       "extra": {
-        "language": "Python",
-        "stars": "9,599",
-        "forks": "1,293",
-        "stars_today": "309 stars today"
+        "language": "TypeScript",
+        "stars": "3,501",
+        "forks": "398",
+        "stars_today": "607 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "microsoft / agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "metric": "★ 5,194",
+      "title": "paperswithbacktest / awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "metric": "★ 9,789",
       "extra": {
         "language": "Python",
-        "stars": "5,194",
-        "forks": "833",
-        "stars_today": "46 stars today"
+        "stars": "9,789",
+        "forks": "1,305",
+        "stars_today": "309 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "metric": "★ 21,482",
+      "title": "microsoft / agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "metric": "★ 5,292",
       "extra": {
-        "language": "Go",
-        "stars": "21,482",
-        "forks": "695",
-        "stars_today": "662 stars today"
+        "language": "Python",
+        "stars": "5,292",
+        "forks": "840",
+        "stars_today": "46 stars today"
       }
     },
     {
       "rank": 12,
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "metric": "★ 21,570",
+      "extra": {
+        "language": "Go",
+        "stars": "21,570",
+        "forks": "699",
+        "stars_today": "662 stars today"
+      }
+    },
+    {
+      "rank": 13,
       "title": "bradautomates / claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "metric": "★ 12,104",
+      "metric": "★ 12,254",
       "extra": {
         "language": "Python",
-        "stars": "12,104",
-        "forks": "1,215",
+        "stars": "12,254",
+        "forks": "1,224",
         "stars_today": "988 stars today"
       }
     }
