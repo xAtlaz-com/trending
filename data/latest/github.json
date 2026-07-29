@@ -1,162 +1,227 @@
 {
   "source": "github",
-  "updated_at": "2026-07-29T10:10:01+00:00",
-  "count": 12,
+  "updated_at": "2026-07-29T12:30:25+00:00",
+  "count": 17,
   "items": [
     {
       "rank": 1,
-      "title": "pascalorg / editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "metric": "★ 19,208",
+      "title": "opengeos / GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "metric": "★ 3,717",
       "extra": {
         "language": "TypeScript",
-        "stars": "19,208",
-        "forks": "2,560",
-        "stars_today": "341 stars today"
+        "stars": "3,717",
+        "forks": "413",
+        "stars_today": "667 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "jenkinsci / jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "metric": "★ 26,182",
+      "title": "moeru-ai / airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "metric": "★ 45,157",
       "extra": {
-        "language": "Java",
-        "stars": "26,182",
-        "forks": "9,704",
-        "stars_today": "180 stars today"
+        "language": "TypeScript",
+        "stars": "45,157",
+        "forks": "4,465",
+        "stars_today": "676 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "moeru-ai / airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "metric": "★ 45,094",
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "metric": "★ 235,239",
       "extra": {
-        "language": "TypeScript",
-        "stars": "45,094",
-        "forks": "4,465",
-        "stars_today": "797 stars today"
+        "language": "JavaScript",
+        "stars": "235,239",
+        "forks": "35,832",
+        "stars_today": "860 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "andrewyng / aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "metric": "★ 15,787",
+      "title": "huggingface / speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "metric": "★ 7,611",
       "extra": {
         "language": "Python",
-        "stars": "15,787",
-        "forks": "1,663",
-        "stars_today": "62 stars today"
+        "stars": "7,611",
+        "forks": "981",
+        "stars_today": "837 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 235,189",
+      "title": "1jehuang / jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM effiecent harness",
+      "metric": "★ 13,115",
       "extra": {
-        "language": "JavaScript",
-        "stars": "235,189",
-        "forks": "35,822",
-        "stars_today": "636 stars today"
+        "language": "Rust",
+        "stars": "13,115",
+        "forks": "1,451",
+        "stars_today": "652 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "huggingface / speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "metric": "★ 7,553",
+      "title": "grokability / snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "metric": "★ 14,272",
       "extra": {
-        "language": "Python",
-        "stars": "7,553",
-        "forks": "978",
-        "stars_today": "227 stars today"
+        "language": "PHP",
+        "stars": "14,272",
+        "forks": "3,893",
+        "stars_today": "6 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "virgiliojr94 / book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "metric": "★ 12,061",
+      "title": "deepfakes / faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "metric": "★ 55,997",
       "extra": {
         "language": "Python",
-        "stars": "12,061",
-        "forks": "1,376",
-        "stars_today": "423 stars today"
+        "stars": "55,997",
+        "forks": "13,413",
+        "stars_today": "135 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "opengeos / GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "metric": "★ 3,660",
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "metric": "★ 51,064",
       "extra": {
-        "language": "TypeScript",
-        "stars": "3,660",
-        "forks": "410",
-        "stars_today": "607 stars today"
+        "language": "Python",
+        "stars": "51,064",
+        "forks": "5,703",
+        "stars_today": "332 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "paperswithbacktest / awesome-systematic-trading",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "metric": "★ 10,048",
+      "title": "different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "metric": "★ 17,444",
       "extra": {
-        "language": "Python",
-        "stars": "10,048",
-        "forks": "1,323",
-        "stars_today": "309 stars today"
+        "language": "TypeScript",
+        "stars": "17,444",
+        "forks": "1,828",
+        "stars_today": "58 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "microsoft / agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "metric": "★ 5,393",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 262,980",
       "extra": {
-        "language": "Python",
-        "stars": "5,393",
-        "forks": "854",
-        "stars_today": "46 stars today"
+        "language": "Shell",
+        "stars": "262,980",
+        "forks": "23,488",
+        "stars_today": "634 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "metric": "★ 21,745",
+      "title": "MoonshotAI / FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "metric": "★ 894",
       "extra": {
-        "language": "Go",
-        "stars": "21,745",
-        "forks": "714",
-        "stars_today": "662 stars today"
+        "language": "Cuda",
+        "stars": "894",
+        "forks": "90",
+        "stars_today": "216 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "bradautomates / claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "metric": "★ 12,457",
+      "title": "NanmiCoder / MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "metric": "★ 58,924",
       "extra": {
         "language": "Python",
-        "stars": "12,457",
-        "forks": "1,237",
-        "stars_today": "988 stars today"
+        "stars": "58,924",
+        "forks": "11,659",
+        "stars_today": "794 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "metric": "★ 15,706",
+      "extra": {
+        "language": "Go",
+        "stars": "15,706",
+        "forks": "1,065",
+        "stars_today": "918 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "paperswithbacktest / awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "metric": "★ 10,105",
+      "extra": {
+        "language": "Python",
+        "stars": "10,105",
+        "forks": "1,326",
+        "stars_today": "950 stars today"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "maderix / ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "metric": "★ 7,074",
+      "extra": {
+        "language": "Objective-C",
+        "stars": "7,074",
+        "forks": "956",
+        "stars_today": "13 stars today"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "metric": "★ 19,276",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "19,276",
+        "forks": "2,568",
+        "stars_today": "1,026 stars today"
+      }
+    },
+    {
+      "rank": 17,
+      "title": "virgiliojr94 / book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "metric": "★ 12,164",
+      "extra": {
+        "language": "Python",
+        "stars": "12,164",
+        "forks": "1,382",
+        "stars_today": "1,428 stars today"
       }
     }
   ]
