@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-07-30T17:39:00+00:00",
+  "updated_at": "2026-07-30T19:37:27+00:00",
   "count": 9,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "公办二本计算机专业，有必要听老师讲课吗？",
       "url": "https://www.v2ex.com/t/1230880",
       "description": "我侄女考上一个二本计算机专业，非重点学科，连个硕士点都没有\n国内的大学教材很垃圾\n老师讲课差不多也是照本宣科\n如果完全借助国外教材的翻译版，再结合国外大学公开课，或者 B 站国内优质大学的公开课\n理论上质量应该超过 90%的老师\n是不是基本不用听学校老师讲课了？",
-      "metric": "189 回复",
-      "metric_value": 189,
+      "metric": "190 回复",
+      "metric_value": 190,
       "extra": {
         "node": "教育",
         "node_name": "edu",
         "author": "pc10201",
-        "last_touched": 1785432053
+        "last_touched": 1785435267
       }
     },
     {
@@ -50,31 +50,17 @@
       "title": "[神稳中转] GPT 5.6， 0.09 倍率，送 10 刀试用，前字节开发",
       "url": "https://www.v2ex.com/t/1231036",
       "description": "大家好，我是之前在字节的开发 Alex 。\n主要做稳定 GPT 5.6 中转，目前有三种通道：\nhttps://shenwenai.com\n\n0.09x 低价通道：价格优先，Plus 号池，0.09x 倍率，不保稳定性。\n0.33x 稳定通道：自己海外信用卡建立的 Pro 号池，0.33x 倍率。\n⭐️ 智能通道：预设走 0.09x 通道，失败自动切 0.33x ，尽可能省钱不中断。\n\n目前用户数已经破 500 位，稳定且基本没出过啥大问题\n\n注册可领 1 刀\n评论 uuid 或 email ，我帮你充值到 5 刀 ( https://shenwenai.com/account/usage 这",
-      "metric": "89 回复",
-      "metric_value": 89,
+      "metric": "90 回复",
+      "metric_value": 90,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "alexissde",
-        "last_touched": 1785430149
+        "last_touched": 1785433230
       }
     },
     {
       "rank": 5,
-      "title": "我和我女儿一起写的游戏上了 Steam 了",
-      "url": "https://www.v2ex.com/t/1230860",
-      "description": "Steam Store: https://store.steampowered.com/app/4569680/Cedrics_Quest__The_Waning_Ward欢迎尝试",
-      "metric": "84 回复",
-      "metric_value": 84,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "coolwulf",
-        "last_touched": 1785420141
-      }
-    },
-    {
-      "rank": 6,
       "title": "为什么小蓝灯要被禁掉呢",
       "url": "https://www.v2ex.com/t/1230922",
       "description": "我觉得挺好的呀，个人感觉让别人知道这个车开了辅助驾驶不是挺好的吗？",
@@ -88,7 +74,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "低代码真的有前景吗",
       "url": "https://www.v2ex.com/t/1231024",
       "description": "我们主管一人借助 Vibe Coding 开发了一套低代码平台，目前主要功能如下：\n逻辑引擎：支持设置入参、出参，通过拖拽循环、JS 、SQL 节点以及分支节点来编写业务逻辑。\n页面快速生成：选择数据表后可快速进行联表生成页面，再结合逻辑引擎和自定义表单，配置各类编辑、弹窗等交互事件。\n自定义页面：直接用 HTML/CSS/JS 三件套编写页面，通过逻辑引擎获取数据并完成页面渲染。\n在内部人事管理系统上，这套平台确实显著提升了效率，也让产品能够深度参与开发。但当我们把同样的模式应用到考试系统以及业务逻辑更复杂的场景时，问题开始显现。\n我在参与过程中明显感觉到，这种开发方式与自己以往的编码习惯差",
@@ -102,7 +88,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "进入智驾时代，就不会有插车，逆行等现象，有道理不？",
       "url": "https://www.v2ex.com/t/1230892",
       "description": "例如现在开车，总有素质低的人插车，逆行，横冲直撞等一系列危险行为，导致道路拥堵。\n未来如果大家都开启智驾，是不是就不存在上述情况",
@@ -116,7 +102,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "2026 了，大家现在都怎么远程使用 Mac？",
       "url": "https://www.v2ex.com/t/1230879",
       "description": "最近想折腾一个 Mac 远程使用方案，想请教一下大家有没有类似经验。目前需求：完整远程控制 MaciPad 或 Windows 作为客户端，远程连接 Mac ，类似 TeamViewer / RustDesk / Parsec 这种。Mac 作为应用服务器更理想的方式是：Mac 负责运行软件文件也一直保存在 Mac 上iPad / Windows 端只负责操作和显示类似 Windows RemoteApp ，打开的是 Mac 上某个具体软件，而不是整个桌面比如：在 iPad 上直接使用 Mac 上的 IDE使用 Mac 上安装的软件编辑 Mac 上的文件不需要把整个 Mac 桌面投出来目前想到",
@@ -127,6 +113,20 @@
         "node_name": "macos",
         "author": "qwei",
         "last_touched": 1785426991
+      }
+    },
+    {
+      "rank": 9,
+      "title": "这个低成本的美国手机号码，价值还在上升",
+      "url": "https://www.v2ex.com/t/1230904",
+      "description": "之前发了一个 Saily 美国手机号的帖子，引来部分使用 GG 英国手机卡的 V 友嘲讽。\n目前来看 Saily 的含金量又一次上升了。\n这个卡的优势就是：\n1 、本身就是旅行卡，允许在国外使用，暂时看不到封号风险。\n2 、原生美国实体手机号，支持银行及 openai/PayPal 注册（有的号码可能不行）\n需要的 V 友，教程自取吧\nmutou.men\n邀请码这个低价套餐不能用了，所以就纯分享。注册应该会自动送两美金。所以前 5 个月月租 0.6 美元。",
+      "metric": "51 回复",
+      "metric_value": 51,
+      "extra": {
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "conky",
+        "last_touched": 1785427200
       }
     }
   ]
