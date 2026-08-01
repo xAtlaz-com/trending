@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-01T19:13:24+00:00",
+  "updated_at": "2026-08-01T20:27:20+00:00",
   "count": 10,
   "items": [
     {
@@ -103,6 +103,20 @@
     },
     {
       "rank": 8,
+      "title": "7 月份独立开发复盘",
+      "url": "https://www.v2ex.com/t/1231403",
+      "description": "Figma 插件流量稳定下滑，看不到上升空间了，这个月带来 $259 的收入\nUwarp 站点流量持续上升，通过 Google Adsense 带来了 $60 的收入\nBecahrts依旧是僵尸状态，没有多少流量\n距离今年的月入千刀目标依旧遥远，独立开发太难熬了",
+      "metric": "24 回复",
+      "metric_value": 24,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "twk93",
+        "last_touched": 1785591627
+      }
+    },
+    {
+      "rank": 9,
       "title": "怎么解决骚扰电话的问题啊",
       "url": "https://www.v2ex.com/t/1231397",
       "description": "每天能收到五个左右的骚扰电话，有固定电话，有手机号码。都是推广短视频的。。\n兄弟们有什么办法，给移动公司打过电话，也开通了放骚扰。依然没有效果",
@@ -116,7 +130,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Codex 重置， 2026.08.01 11:30",
       "url": "https://www.v2ex.com/t/1231400",
       "description": "https://x.com/thsottiaux/status/2083395449814229287",
@@ -127,20 +141,6 @@
         "node_name": "openai",
         "author": "voidGhost",
         "last_touched": 1785572925
-      }
-    },
-    {
-      "rank": 10,
-      "title": "7 月份独立开发复盘",
-      "url": "https://www.v2ex.com/t/1231403",
-      "description": "Figma 插件流量稳定下滑，看不到上升空间了，这个月带来 $259 的收入\nUwarp 站点流量持续上升，通过 Google Adsense 带来了 $60 的收入\nBecahrts依旧是僵尸状态，没有多少流量\n距离今年的月入千刀目标依旧遥远，独立开发太难熬了",
-      "metric": "23 回复",
-      "metric_value": 23,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "twk93",
-        "last_touched": 1785588027
       }
     }
   ]
