@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-02T15:40:08+00:00",
+  "updated_at": "2026-08-02T17:03:23+00:00",
   "count": 9,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "请教：除了 api 直连，有没有更便宜也保质量的办法可以用 deepseek-v4-flash？",
       "url": "https://www.v2ex.com/t/1231509",
       "description": "v4 flash 确实给力，有什么办法可以更便宜的用？",
-      "metric": "55 回复",
-      "metric_value": 55,
+      "metric": "62 回复",
+      "metric_value": 62,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "hanbaoji",
-        "last_touched": 1785682359
+        "last_touched": 1785689509
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "似乎开源项目作者不知道/不想利用 AI 来加速自己的开发？",
       "url": "https://www.v2ex.com/t/1231528",
       "description": "我关注的几个开源项目，gopeed,FluxDown, retainpdf 等似乎进展很慢。  为啥不利用 fable5 来加速呢？",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "metric": "46 回复",
+      "metric_value": 46,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "blackantt",
-        "last_touched": 1785684988
+        "last_touched": 1785688642
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "一个 Flutter 独立开发者，用 AI 做了一款跑步音乐 App，上线后只有几个下载，想听听大家的建议",
       "url": "https://www.v2ex.com/t/1231508",
       "description": "大家好，我是一名 Flutter 全栈 独立开发者。\n最近做了一款叫 RunStar 的 App 。\n起因其实很简单：\n我自己跑步的时候发现一个问题——\n跑步的时候音乐很重要，但是普通音乐播放器只是随机播放歌曲，并不会考虑跑步节奏、运动状态和当下的感觉。\n所以我尝试做一个不一样的东西：\n让 AI 帮跑步者生成更适合运动场景的音乐体验。\n目前 RunStar 主要方向：\n\nAI 生成跑步音乐\n根据运动节奏匹配音乐体验\n创建适合跑步、健身的音乐氛围\n\n技术方面：\n\nFlutter 开发\niOS Android 原生能力\nAI 音乐生成相关服务\n\n从想法到上线，大概花了一个月时间。\n但是上线之后现实",
-      "metric": "36 回复",
-      "metric_value": 36,
+      "metric": "37 回复",
+      "metric_value": 37,
       "extra": {
         "node": "跑步",
         "node_name": "running",
         "author": "starcode",
-        "last_touched": 1785683923
+        "last_touched": 1785686406
       }
     },
     {
@@ -61,6 +61,20 @@
     },
     {
       "rank": 5,
+      "title": "知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和",
+      "url": "https://www.v2ex.com/t/1231526",
+      "description": "如题，\n打开知乎，一眼望去都是 gpt 风味文章，gpt 的文章风味太熟悉了。\n但是评论区甚至能看到“我的收藏夹就是为了这类文章而生的‘\n看到这个评论，我久久不能自已，沉默了很久，让我的脑子出现了逻辑错误\n比如： https://www.zhihu.com/question/422144033/answer/2053839572241478671\n我承认，这些知识很迷人，或许，不是 ai 写的就是错的，\n如果是 ai ，输出有用的知识，还是能引起人的赞同\n其实我也不知道我在想什么，自从上次写了一篇文章被人攻击是 ai slop ，我一直没能想明白这个问题。\n评论区有句话让我一直想到现在，重点不",
+      "metric": "30 回复",
+      "metric_value": 30,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "darkway",
+        "last_touched": 1785689294
+      }
+    },
+    {
+      "rank": 6,
       "title": "资本喜欢利用女性收割男性，部分低质女性蠢不自知",
       "url": "https://www.v2ex.com/t/1231502",
       "description": "核心关键词：帝 8 台球俱乐部\n男子消费一万多，女助教经常发一些暧昧关系的话做顾客留存，男子信以为真，以为关系可以进一步\n拍了一下屁股，喜提行拘 5 天\n这些利用女性勾勾搭搭，收割男性的场所，有些下作无耻。而这些女性也蠢不自知，和资本一起狼狈，利用自己收割男性，美其名曰，笑贫不笑娼。摆明了就是做婊子还要立牌坊，这里的婊子是 ： 资本+利用女色吸引男性消费的群体。",
@@ -71,20 +85,6 @@
         "node_name": "random",
         "author": "aidevs",
         "last_touched": 1785576816
-      }
-    },
-    {
-      "rank": 6,
-      "title": "知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和",
-      "url": "https://www.v2ex.com/t/1231526",
-      "description": "如题，\n打开知乎，一眼望去都是 gpt 风味文章，gpt 的文章风味太熟悉了。\n但是评论区甚至能看到“我的收藏夹就是为了这类文章而生的‘\n看到这个评论，我久久不能自已，沉默了很久，让我的脑子出现了逻辑错误\n比如： https://www.zhihu.com/question/422144033/answer/2053839572241478671\n我承认，这些知识很迷人，或许，不是 ai 写的就是错的，\n如果是 ai ，输出有用的知识，还是能引起人的赞同\n其实我也不知道我在想什么，自从上次写了一篇文章被人攻击是 ai slop ，我一直没能想明白这个问题。\n评论区有句话让我一直想到现在，重点不",
-      "metric": "26 回复",
-      "metric_value": 26,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "darkway",
-        "last_touched": 1785680502
       }
     },
     {
@@ -106,13 +106,13 @@
       "title": "copilot 真的是没人理了啊,哈哈",
       "url": "https://www.v2ex.com/t/1231497",
       "description": "微软这转向太溜了,不赚钱,立马丢了",
-      "metric": "20 回复",
-      "metric_value": 20,
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
         "node": "GitHub Copilot",
         "node_name": "copilot",
         "author": "v400127",
-        "last_touched": 1785684066
+        "last_touched": 1785687166
       }
     },
     {
