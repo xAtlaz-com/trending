@@ -4,129 +4,59 @@
     "title": "兄弟们，这局怎么破？",
     "url": "https://www.v2ex.com/t/1231464",
     "description": "事故的产生\n对方：在仅有直行标线的车道前方的禁停网格线中，欲从斑马线与双黄线的接壤处调头，且全程未开启转向灯。\n我方：在日常通勤道路由北向南直行，行驶到该路段与正在进行掉头的对方发生碰撞。\n事故影像共 5 秒： https://imgur.com/a/B1jHs3K\n事故发生前 2 秒，道路标线告诉我此处禁止掉头，对方车辆灯光也告诉我，他是直行车。\n影像的第 2-3 秒，我开始怀疑对方是调头车。\n影像的第 3-4 秒，确定对方是掉头，随即发生碰撞。\n事故的处理\n对方报警，说我追尾。\n交警远程出警，认同对方说辞。\n我方交强脱保，另一名交警到达现场。\n在我多次提及对方掉头且不打灯的情况下，无视我的",
-    "metric": "77 回复",
-    "metric_value": 77,
+    "metric": "79 回复",
+    "metric_value": 79,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "erbin",
-      "last_touched": 1785560781
+      "last_touched": 1785567981
     }
   },
   {
     "rank": 2,
-    "title": "你们买了车之后有没有后悔过？",
-    "url": "https://www.v2ex.com/t/1231419",
-    "description": "特别是那些入手二手车的朋友，除非手头比较宽裕，不然养车的开销还真不小呢。",
-    "metric": "42 回复",
-    "metric_value": 42,
-    "extra": {
-      "node": "汽车",
-      "node_name": "car",
-      "author": "JINVTEX",
-      "last_touched": 1785612053
-    }
-  },
-  {
-    "rank": 3,
     "title": "有没有从始至终在 AI 上花费 0 元的朋友？",
     "url": "https://www.v2ex.com/t/1231438",
     "description": "从 ChatGPT 2022 年 12 月 1 日出来那天开始用现代 AI 到今天，我一直花费 0 元，感觉免费的 AI 一直就够用了。\n有没有相同情况的朋友？",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "qdwang",
-      "last_touched": 1785637199
+      "last_touched": 1785649124
+    }
+  },
+  {
+    "rank": 3,
+    "title": "[脑洞] 既然编程生产力如此高了，为什么不众程序员协作重建 BAT/TMD 让中心化的平台暴利回归用户实现普惠互联？",
+    "url": "https://www.v2ex.com/t/1231482",
+    "description": "如题，20 美元的 Claude 都蹬不完，技痒总觉得某个伟大的项目等待着众程序员一起去蹬",
+    "metric": "23 回复",
+    "metric_value": 23,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "powerLambda",
+      "last_touched": 1785651189
     }
   },
   {
     "rank": 4,
-    "title": "怎么解决骚扰电话的问题啊",
-    "url": "https://www.v2ex.com/t/1231397",
-    "description": "每天能收到五个左右的骚扰电话，有固定电话，有手机号码。都是推广短视频的。。\n兄弟们有什么办法，给移动公司打过电话，也开通了放骚扰。依然没有效果",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "title": "请教：除了 api 直连，有没有更便宜也保质量的办法可以用 deepseek-v4-flash？",
+    "url": "https://www.v2ex.com/t/1231509",
+    "description": "v4 flash 确实给力，有什么办法可以更便宜的用？",
+    "metric": "20 回复",
+    "metric_value": 20,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "rfo",
-      "last_touched": 1785603227
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "hanbaoji",
+      "last_touched": 1785650814
     }
   },
   {
     "rank": 5,
-    "title": "7 月份独立开发复盘",
-    "url": "https://www.v2ex.com/t/1231403",
-    "description": "Figma 插件流量稳定下滑，看不到上升空间了，这个月带来 $259 的收入\nUwarp 站点流量持续上升，通过 Google Adsense 带来了 $60 的收入\nBecahrts依旧是僵尸状态，没有多少流量\n距离今年的月入千刀目标依旧遥远，独立开发太难熬了",
-    "metric": "26 回复",
-    "metric_value": 26,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "twk93",
-      "last_touched": 1785595227
-    }
-  },
-  {
-    "rank": 6,
-    "title": "你们用 Opus5 开多大的思考强度？",
-    "url": "https://www.v2ex.com/t/1231411",
-    "description": "为什么我感觉 opus5 开 ultracode 或者 Max 反而不好用，开低或者中反而更好，这是错觉吗？你们用哪一档呢？ opus5 给我一种像老板的感觉，很多事情总偷懒或者选择不做，需要不断地重复需求才行......",
-    "metric": "24 回复",
-    "metric_value": 24,
-    "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "Ryanzlab",
-      "last_touched": 1785628538
-    }
-  },
-  {
-    "rank": 7,
-    "title": "Codex 重置， 2026.08.01 11:30",
-    "url": "https://www.v2ex.com/t/1231400",
-    "description": "https://x.com/thsottiaux/status/2083395449814229287",
-    "metric": "23 回复",
-    "metric_value": 23,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "voidGhost",
-      "last_touched": 1785572925
-    }
-  },
-  {
-    "rank": 8,
-    "title": "现在做 API 中转站怎么样？",
-    "url": "https://www.v2ex.com/t/1231408",
-    "description": "目前有不少客户来询问中转站的，现在 API 中转站很火了吗?大多有什么样的配置需求和带宽需求？",
-    "metric": "23 回复",
-    "metric_value": 23,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "ttbox",
-      "last_touched": 1785613425
-    }
-  },
-  {
-    "rank": 9,
-    "title": "娃今年 10 岁，沉迷我的世界，求大佬们在我帖子里说一句话劝劝他妈，我会给他妈看帖子",
-    "url": "https://www.v2ex.com/t/1231393",
-    "description": "娃是自己从自己的社交圈子知道我的世界，然后就喜欢上了，我虽然之前没玩过，但是也乐于让他自己玩自己探索，只要写完作业，没日没夜的玩游戏我都支持（我不需要顾虑近视问题，我们家男性有基因加成，只要是亲生的就不存在近视问题），我会给他丰富游戏种类，现在他的电脑上已经安装了几十个游戏了，覆盖了我能想到的尽可能多的各类优秀游戏，他还是相对比较喜欢我的世界，我虽然没玩过但是也会想办法给他适当的引导，但是他妈不支持他玩游戏，总是来强行打断，十分扫兴。有时候真的很无奈。求大佬们说几句话劝劝他妈。",
-    "metric": "22 回复",
-    "metric_value": 22,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "uqf0663",
-      "last_touched": 1785556038
-    }
-  },
-  {
-    "rank": 10,
     "title": "哪里还能办到大流量卡",
     "url": "https://www.v2ex.com/t/1231429",
     "description": "听说运营商竞合了，哪里还能办到大流量卡",
@@ -137,6 +67,62 @@
       "node_name": "bb",
       "author": "Citizen7",
       "last_touched": 1785603381
+    }
+  },
+  {
+    "rank": 6,
+    "title": "随着知识库的增长， LLM 理论上体积是不是只会越来越大？",
+    "url": "https://www.v2ex.com/t/1231474",
+    "description": "新模型每次推出都标记知识库截至时间，随着时间的增长，理论上讲，LLM 的体积只增不减吗（降智的方式不算）\n或者，出现颠覆 Transformer 架构的新理论出现，可能大幅压缩模型体检",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "Local LLM",
+      "node_name": "localllm",
+      "author": "jacketma",
+      "last_touched": 1785649600
+    }
+  },
+  {
+    "rank": 7,
+    "title": "资本喜欢利用女性收割男性，部分低质女性蠢不自知",
+    "url": "https://www.v2ex.com/t/1231502",
+    "description": "核心关键词：帝 8 台球俱乐部\n男子消费一万多，女助教经常发一些暧昧关系的话做顾客留存，男子信以为真，以为关系可以进一步\n拍了一下屁股，喜提行拘 5 天\n这些利用女性勾勾搭搭，收割男性的场所，有些下作无耻。而这些女性也蠢不自知，和资本一起狼狈，利用自己收割男性，美其名曰，笑贫不笑娼。摆明了就是做婊子还要立牌坊，这里的婊子是 ： 资本+利用女色吸引男性消费的群体。",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "随想",
+      "node_name": "random",
+      "author": "aidevs",
+      "last_touched": 1785576816
+    }
+  },
+  {
+    "rank": 8,
+    "title": "codex 现在怎么这么慢了，用的 sol 中、高都很慢",
+    "url": "https://www.v2ex.com/t/1231499",
+    "description": "",
+    "metric": "16 回复",
+    "metric_value": 16,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "longpc",
+      "last_touched": 1785651332
+    }
+  },
+  {
+    "rank": 9,
+    "title": "现在国内是买电车好还是买油车好啊",
+    "url": "https://www.v2ex.com/t/1231435",
+    "description": "电车越出越多，油车越来越少，是不是买电车是主流了，但是买电车总感觉只是买了使用权，车企可以远程锁车，还有电池安全问题",
+    "metric": "14 回复",
+    "metric_value": 14,
+    "extra": {
+      "node": "汽车",
+      "node_name": "car",
+      "author": "solecc",
+      "last_touched": 1785609570
     }
   }
 ]
