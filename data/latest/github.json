@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-08-04T12:27:10+00:00",
+  "updated_at": "2026-08-04T15:04:42+00:00",
   "count": 18,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "TencentCloud / TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "metric": "★ 12,797",
+      "metric": "★ 13,038",
       "extra": {
         "language": "TypeScript",
-        "stars": "12,797",
-        "forks": "1,213",
+        "stars": "13,038",
+        "forks": "1,238",
         "stars_today": "1,138 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "zhaoxuya520 / reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "metric": "★ 17,141",
+      "metric": "★ 17,389",
       "extra": {
         "language": "PowerShell",
-        "stars": "17,141",
-        "forks": "2,377",
+        "stars": "17,389",
+        "forks": "2,415",
         "stars_today": "2,310 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "firecrawl / pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "metric": "★ 9,270",
+      "metric": "★ 9,493",
       "extra": {
         "language": "Rust",
-        "stars": "9,270",
-        "forks": "617",
+        "stars": "9,493",
+        "forks": "623",
         "stars_today": "2,524 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "uber / ADR",
       "url": "https://github.com/uber/ADR",
       "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "metric": "★ 522",
+      "metric": "★ 573",
       "extra": {
         "language": "Python",
-        "stars": "522",
-        "forks": "61",
+        "stars": "573",
+        "forks": "65",
         "stars_today": "140 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 266,069",
+      "metric": "★ 266,192",
       "extra": {
         "language": "Shell",
-        "stars": "266,069",
-        "forks": "23,790",
+        "stars": "266,192",
+        "forks": "23,799",
         "stars_today": "617 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "microsoft / generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI",
-      "metric": "★ 116,007",
+      "metric": "★ 116,090",
       "extra": {
         "language": "Jupyter Notebook",
-        "stars": "116,007",
-        "forks": "61,512",
+        "stars": "116,090",
+        "forks": "61,533",
         "stars_today": "784 stars today"
       }
     },
@@ -86,11 +86,11 @@
       "title": "cypress-io / cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "metric": "★ 50,666",
+      "metric": "★ 50,696",
       "extra": {
         "language": "TypeScript",
-        "stars": "50,666",
-        "forks": "3,621",
+        "stars": "50,696",
+        "forks": "3,622",
         "stars_today": "6 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "lyogavin / airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "metric": "★ 27,968",
+      "metric": "★ 28,061",
       "extra": {
         "language": "Jupyter Notebook",
-        "stars": "27,968",
-        "forks": "3,031",
+        "stars": "28,061",
+        "forks": "3,039",
         "stars_today": "1,716 stars today"
       }
     },
@@ -112,11 +112,11 @@
       "title": "webpack / webpack",
       "url": "https://github.com/webpack/webpack",
       "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-      "metric": "★ 65,885",
+      "metric": "★ 65,894",
       "extra": {
         "language": "JavaScript",
-        "stars": "65,885",
-        "forks": "9,520",
+        "stars": "65,894",
+        "forks": "9,521",
         "stars_today": "8 stars today"
       }
     },
@@ -125,10 +125,10 @@
       "title": "gabime / spdlog",
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
-      "metric": "★ 29,343",
+      "metric": "★ 29,351",
       "extra": {
         "language": "C++",
-        "stars": "29,343",
+        "stars": "29,351",
         "forks": "5,366",
         "stars_today": "9 stars today"
       }
@@ -138,11 +138,11 @@
       "title": "denoland / deno",
       "url": "https://github.com/denoland/deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
-      "metric": "★ 107,989",
+      "metric": "★ 108,002",
       "extra": {
         "language": "Rust",
-        "stars": "107,989",
-        "forks": "6,297",
+        "stars": "108,002",
+        "forks": "6,298",
         "stars_today": "27 stars today"
       }
     },
@@ -151,11 +151,11 @@
       "title": "usekaneo / kaneo",
       "url": "https://github.com/usekaneo/kaneo",
       "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "metric": "★ 7,108",
+      "metric": "★ 7,149",
       "extra": {
         "language": "TypeScript",
-        "stars": "7,108",
-        "forks": "572",
+        "stars": "7,149",
+        "forks": "574",
         "stars_today": "565 stars today"
       }
     },
@@ -164,11 +164,11 @@
       "title": "livekit / agents",
       "url": "https://github.com/livekit/agents",
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "metric": "★ 12,222",
+      "metric": "★ 12,261",
       "extra": {
         "language": "Python",
-        "stars": "12,222",
-        "forks": "3,463",
+        "stars": "12,261",
+        "forks": "3,465",
         "stars_today": "432 stars today"
       }
     },
@@ -177,10 +177,10 @@
       "title": "angular / angular",
       "url": "https://github.com/angular/angular",
       "description": "Deliver web apps with confidence 🚀",
-      "metric": "★ 100,704",
+      "metric": "★ 100,740",
       "extra": {
         "language": "TypeScript",
-        "stars": "100,704",
+        "stars": "100,740",
         "forks": "27,383",
         "stars_today": "8 stars today"
       }
@@ -190,11 +190,11 @@
       "title": "tailwindlabs / tailwindcss",
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "metric": "★ 96,259",
+      "metric": "★ 96,303",
       "extra": {
         "language": "TypeScript",
-        "stars": "96,259",
-        "forks": "5,523",
+        "stars": "96,303",
+        "forks": "5,524",
         "stars_today": "30 stars today"
       }
     },
@@ -203,11 +203,11 @@
       "title": "browser-use / video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
-      "metric": "★ 18,979",
+      "metric": "★ 19,075",
       "extra": {
         "language": "Python",
-        "stars": "18,979",
-        "forks": "2,382",
+        "stars": "19,075",
+        "forks": "2,387",
         "stars_today": "306 stars today"
       }
     },
@@ -216,11 +216,11 @@
       "title": "esengine / DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "metric": "★ 30,492",
+      "metric": "★ 30,593",
       "extra": {
         "language": "Go",
-        "stars": "30,492",
-        "forks": "1,965",
+        "stars": "30,593",
+        "forks": "1,972",
         "stars_today": "924 stars today"
       }
     },
@@ -229,11 +229,11 @@
       "title": "EveryInc / compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "metric": "★ 23,760",
+      "metric": "★ 23,790",
       "extra": {
         "language": "TypeScript",
-        "stars": "23,760",
-        "forks": "1,944",
+        "stars": "23,790",
+        "forks": "1,945",
         "stars_today": "33 stars today"
       }
     }
