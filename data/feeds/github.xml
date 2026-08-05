@@ -4,133 +4,91 @@
 <title>Trending Pages — GitHub Trending</title>
 <link>https://xatlaz-com.github.io/trending/#github</link>
 <description>GitHub Trending, refreshed every 30 minutes.</description>
-<lastBuildDate>Wed, 05 Aug 2026 08:40:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 11:23:36 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#github" rel="self" type="application/rss+xml" />
+<item>
+<title>huangruiteng / loopx</title>
+<link>https://github.com/huangruiteng/loopx</link>
+<guid isPermaLink="false">https://github.com/huangruiteng/loopx</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#1 | ★ 1,713 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.</description>
+</item>
 <item>
 <title>TencentCloud / TencentDB-Agent-Memory</title>
 <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
 <guid isPermaLink="false">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#1 | ★ 14,395 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#2 | ★ 14,613 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
 </item>
 <item>
-<title>zhaoxuya520 / reverse-skill</title>
-<link>https://github.com/zhaoxuya520/reverse-skill</link>
-<guid isPermaLink="false">https://github.com/zhaoxuya520/reverse-skill</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#2 | ★ 18,543 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具</description>
+<title>donnemartin / system-design-primer</title>
+<link>https://github.com/donnemartin/system-design-primer</link>
+<guid isPermaLink="false">https://github.com/donnemartin/system-design-primer</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#3 | ★ 361,128 | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
 </item>
 <item>
 <title>firecrawl / pdf-inspector</title>
 <link>https://github.com/firecrawl/pdf-inspector</link>
 <guid isPermaLink="false">https://github.com/firecrawl/pdf-inspector</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#3 | ★ 10,616 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
-</item>
-<item>
-<title>uber / ADR</title>
-<link>https://github.com/uber/ADR</link>
-<guid isPermaLink="false">https://github.com/uber/ADR</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#4 | ★ 820 | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.</description>
-</item>
-<item>
-<title>obra / superpowers</title>
-<link>https://github.com/obra/superpowers</link>
-<guid isPermaLink="false">https://github.com/obra/superpowers</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#5 | ★ 266,805 | An agentic skills framework &amp; software development methodology that works.</description>
-</item>
-<item>
-<title>microsoft / generative-ai-for-beginners</title>
-<link>https://github.com/microsoft/generative-ai-for-beginners</link>
-<guid isPermaLink="false">https://github.com/microsoft/generative-ai-for-beginners</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#6 | ★ 116,507 | 21 Lessons, Get Started Building with Generative AI</description>
-</item>
-<item>
-<title>cypress-io / cypress</title>
-<link>https://github.com/cypress-io/cypress</link>
-<guid isPermaLink="false">https://github.com/cypress-io/cypress</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#7 | ★ 50,874 | Fast, easy and reliable testing for anything that runs in a browser.</description>
-</item>
-<item>
-<title>lyogavin / airllm</title>
-<link>https://github.com/lyogavin/airllm</link>
-<guid isPermaLink="false">https://github.com/lyogavin/airllm</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#8 | ★ 28,675 | AirLLM 70B inference with single 4GB GPU</description>
-</item>
-<item>
-<title>webpack / webpack</title>
-<link>https://github.com/webpack/webpack</link>
-<guid isPermaLink="false">https://github.com/webpack/webpack</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#9 | ★ 65,971 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff</description>
-</item>
-<item>
-<title>gabime / spdlog</title>
-<link>https://github.com/gabime/spdlog</link>
-<guid isPermaLink="false">https://github.com/gabime/spdlog</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#10 | ★ 29,416 | Fast C++ logging library.</description>
-</item>
-<item>
-<title>denoland / deno</title>
-<link>https://github.com/denoland/deno</link>
-<guid isPermaLink="false">https://github.com/denoland/deno</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#11 | ★ 108,110 | A modern runtime for JavaScript and TypeScript.</description>
-</item>
-<item>
-<title>usekaneo / kaneo</title>
-<link>https://github.com/usekaneo/kaneo</link>
-<guid isPermaLink="false">https://github.com/usekaneo/kaneo</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#12 | ★ 7,408 | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.</description>
-</item>
-<item>
-<title>livekit / agents</title>
-<link>https://github.com/livekit/agents</link>
-<guid isPermaLink="false">https://github.com/livekit/agents</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#13 | ★ 12,582 | A framework for building realtime voice AI agents 🤖🎙️📹</description>
-</item>
-<item>
-<title>angular / angular</title>
-<link>https://github.com/angular/angular</link>
-<guid isPermaLink="false">https://github.com/angular/angular</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#14 | ★ 100,911 | Deliver web apps with confidence 🚀</description>
-</item>
-<item>
-<title>tailwindlabs / tailwindcss</title>
-<link>https://github.com/tailwindlabs/tailwindcss</link>
-<guid isPermaLink="false">https://github.com/tailwindlabs/tailwindcss</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#15 | ★ 96,608 | A utility-first CSS framework for rapid UI development.</description>
-</item>
-<item>
-<title>browser-use / video-use</title>
-<link>https://github.com/browser-use/video-use</link>
-<guid isPermaLink="false">https://github.com/browser-use/video-use</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#16 | ★ 19,555 | Edit videos with coding agents</description>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#4 | ★ 10,790 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
 </item>
 <item>
 <title>esengine / DeepSeek-Reasonix</title>
 <link>https://github.com/esengine/DeepSeek-Reasonix</link>
 <guid isPermaLink="false">https://github.com/esengine/DeepSeek-Reasonix</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#17 | ★ 31,089 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#5 | ★ 31,182 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
 </item>
 <item>
-<title>EveryInc / compound-engineering-plugin</title>
-<link>https://github.com/EveryInc/compound-engineering-plugin</link>
-<guid isPermaLink="false">https://github.com/EveryInc/compound-engineering-plugin</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:54 +0000</pubDate>
-<description>#18 | ★ 23,959 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more</description>
+<title>addyosmani / agent-skills</title>
+<link>https://github.com/addyosmani/agent-skills</link>
+<guid isPermaLink="false">https://github.com/addyosmani/agent-skills</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#6 | ★ 81,739 | Production-grade engineering skills for AI coding agents.</description>
+</item>
+<item>
+<title>obra / superpowers</title>
+<link>https://github.com/obra/superpowers</link>
+<guid isPermaLink="false">https://github.com/obra/superpowers</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#7 | ★ 266,906 | An agentic skills framework &amp; software development methodology that works.</description>
+</item>
+<item>
+<title>roboflow / supervision</title>
+<link>https://github.com/roboflow/supervision</link>
+<guid isPermaLink="false">https://github.com/roboflow/supervision</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#8 | ★ 48,751 | We write your reusable computer vision tools. 💜</description>
+</item>
+<item>
+<title>vercel / next.js</title>
+<link>https://github.com/vercel/next.js</link>
+<guid isPermaLink="false">https://github.com/vercel/next.js</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#9 | ★ 141,380 | The React Framework</description>
+</item>
+<item>
+<title>tailwindlabs / tailwindcss</title>
+<link>https://github.com/tailwindlabs/tailwindcss</link>
+<guid isPermaLink="false">https://github.com/tailwindlabs/tailwindcss</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#10 | ★ 96,644 | A utility-first CSS framework for rapid UI development.</description>
+</item>
+<item>
+<title>uber / ADR</title>
+<link>https://github.com/uber/ADR</link>
+<guid isPermaLink="false">https://github.com/uber/ADR</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#11 | ★ 857 | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.</description>
+</item>
+<item>
+<title>lyogavin / airllm</title>
+<link>https://github.com/lyogavin/airllm</link>
+<guid isPermaLink="false">https://github.com/lyogavin/airllm</guid>
+<pubDate>Wed, 05 Aug 2026 11:23:36 +0000</pubDate>
+<description>#12 | ★ 28,754 | AirLLM 70B inference with single 4GB GPU</description>
 </item>
 </channel>
 </rss>
