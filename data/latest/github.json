@@ -1,175 +1,175 @@
 {
   "source": "github",
-  "updated_at": "2026-08-06T09:42:11+00:00",
+  "updated_at": "2026-08-06T12:04:57+00:00",
   "count": 13,
   "items": [
     {
       "rank": 1,
-      "title": "cloudflare / computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "metric": "★ 4,130",
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "metric": "★ 15,678",
       "extra": {
         "language": "TypeScript",
-        "stars": "4,130",
-        "forks": "195",
-        "stars_today": "891 stars today"
+        "stars": "15,678",
+        "forks": "1,412",
+        "stars_today": "1,053 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "huangruiteng / loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "metric": "★ 2,522",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 82,326",
       "extra": {
-        "language": "Python",
-        "stars": "2,522",
-        "forks": "181",
-        "stars_today": "326 stars today"
+        "language": "JavaScript",
+        "stars": "82,326",
+        "forks": "8,844",
+        "stars_today": "588 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "metric": "★ 15,547",
+      "title": "cloudflare / computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "metric": "★ 4,334",
       "extra": {
         "language": "TypeScript",
-        "stars": "15,547",
-        "forks": "1,402",
-        "stars_today": "1,892 stars today"
+        "stars": "4,334",
+        "forks": "210",
+        "stars_today": "891 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "donnemartin / system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "metric": "★ 361,842",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 205,979",
       "extra": {
-        "language": "Python",
-        "stars": "361,842",
-        "forks": "57,669",
-        "stars_today": "303 stars today"
+        "language": "Shell",
+        "stars": "205,979",
+        "forks": "17,787",
+        "stars_today": "1,695 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "firecrawl / pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "metric": "★ 11,893",
+      "title": "goauthentik / authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "metric": "★ 22,808",
       "extra": {
-        "language": "Rust",
-        "stars": "11,893",
-        "forks": "799",
-        "stars_today": "1,582 stars today"
+        "language": "Python",
+        "stars": "22,808",
+        "forks": "1,757",
+        "stars_today": "123 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "esengine / DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "metric": "★ 32,007",
+      "title": "huangruiteng / loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "metric": "★ 2,585",
       "extra": {
-        "language": "Go",
-        "stars": "32,007",
-        "forks": "2,067",
-        "stars_today": "747 stars today"
+        "language": "Python",
+        "stars": "2,585",
+        "forks": "191",
+        "stars_today": "854 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 82,245",
+      "title": "google / guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "metric": "★ 51,551",
       "extra": {
-        "language": "JavaScript",
-        "stars": "82,245",
-        "forks": "8,843",
-        "stars_today": "226 stars today"
+        "language": "Java",
+        "stars": "51,551",
+        "forks": "11,155",
+        "stars_today": "9 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 267,656",
+      "title": "TapXWorld / ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "metric": "★ 76,917",
       "extra": {
-        "language": "Shell",
-        "stars": "267,656",
-        "forks": "23,917",
-        "stars_today": "931 stars today"
+        "language": "Roff",
+        "stars": "76,917",
+        "forks": "17,384",
+        "stars_today": "157 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "roboflow / supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "metric": "★ 49,092",
+      "title": "Significant-Gravitas / AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "metric": "★ 185,852",
       "extra": {
         "language": "Python",
-        "stars": "49,092",
-        "forks": "4,624",
-        "stars_today": "146 stars today"
+        "stars": "185,852",
+        "forks": "46,048",
+        "stars_today": "28 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "vercel / next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "metric": "★ 141,632",
+      "title": "tirth8205 / code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "metric": "★ 28,811",
       "extra": {
-        "language": "JavaScript",
-        "stars": "141,632",
-        "forks": "31,683",
-        "stars_today": "68 stars today"
+        "language": "Python",
+        "stars": "28,811",
+        "forks": "2,672",
+        "stars_today": "232 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "tailwindlabs / tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "metric": "★ 97,006",
+      "title": "esengine / DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "metric": "★ 32,078",
       "extra": {
-        "language": "TypeScript",
-        "stars": "97,006",
-        "forks": "5,555",
-        "stars_today": "408 stars today"
+        "language": "Go",
+        "stars": "32,078",
+        "forks": "2,070",
+        "stars_today": "894 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "uber / ADR",
-      "url": "https://github.com/uber/ADR",
-      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "metric": "★ 1,163",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 267,740",
       "extra": {
-        "language": "Python",
-        "stars": "1,163",
-        "forks": "92",
-        "stars_today": "354 stars today"
+        "language": "Shell",
+        "stars": "267,740",
+        "forks": "23,920",
+        "stars_today": "858 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "metric": "★ 29,365",
+      "title": "firecrawl / pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "metric": "★ 11,999",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "29,365",
-        "forks": "3,141",
-        "stars_today": "833 stars today"
+        "language": "Rust",
+        "stars": "11,999",
+        "forks": "805",
+        "stars_today": "1,194 stars today"
       }
     }
   ]
