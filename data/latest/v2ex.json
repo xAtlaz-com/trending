@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-07T17:02:09+00:00",
+  "updated_at": "2026-08-07T18:13:21+00:00",
   "count": 10,
   "items": [
     {
@@ -64,13 +64,13 @@
       "title": "从 windows 切换到 MacOS，感觉 MacOS 不好用。",
       "url": "https://www.v2ex.com/t/1232697",
       "description": "码农，一直用 Windows(基本所有操作都是快捷键，比较少用鼠标，完全不影响工作)，本月切换到 Mac OS （ Macmini M4 Pro ）之后，感觉非常不好用，甚至反人类。\n我知道很多的程序员、大牛都是用 Mac OS ，现在甚至怀疑是我自己的问题。 想听听大家的看法。\n文件夹中有 14 张图片（参见图片），编号从 1 到 14 。\n\n鼠标双击打开一张之后，方向键(或者 PageUp\\PageDown 键无法切换上一张下一张)；\n鼠标点中，按回车键，不是打开，是更名。电脑存在这么多年，回车不一直是确认吗；\n鼠标选中，空格打开，按方向键可以切换展示，但只能切换到这一行的最后一张，如果想",
-      "metric": "101 回复",
-      "metric_value": 101,
+      "metric": "103 回复",
+      "metric_value": 103,
       "extra": {
         "node": "macOS",
         "node_name": "macos",
         "author": "notcry",
-        "last_touched": 1786121914
+        "last_touched": 1786126270
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "[分享创造] 16 年业余时间写 PDF 核心，近两年做了一款 Mac PDF 编辑器：全功能编辑 + AI 智能体， 1.0 已上 Mac App Store，送 20 个终生会员求反馈",
       "url": "https://www.v2ex.com/t/1232634",
       "description": "## 这是什么AetherPDF ，Mac 上的 PDF 编辑器：1. **自研 PDF 引擎**——不依赖 PDFium 或任何第三方库，从零写了 16 年，约 15 万行 C++。能做内容流级文本编辑（直接改 PDF 内容流里的文字对象，不是注释层覆盖），编辑后的文件在任何 PDF 阅读器里显示一致。2. **AI Agent 直接调用引擎每一项原子能力**——不是套壳 ChatGPT 跟你聊文档，是 AI 直接动手改 PDF 。比如「把这份合同里所有『甲方』替换成公司名」「把所有章节标题改成 18pt 深蓝色 Helvetica 」「给每页加页码」，AI 直接执行，所有操作走 Undo/",
-      "metric": "85 回复",
-      "metric_value": 85,
+      "metric": "87 回复",
+      "metric_value": 87,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "zencher",
-        "last_touched": 1786120484
+        "last_touched": 1786123006
       }
     },
     {
@@ -106,8 +106,8 @@
       "title": "沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布",
       "url": "https://www.v2ex.com/t/1232738",
       "description": "特点：完全免费、开箱即用、没有登录注册、没有营销弹窗。\n截图\n\n本次更新主要功能\n\n微软翻译接口失效修复\nYouTube 双语字幕\n\n引入更加可定制化的网站翻译规则系统 (控制翻译和不翻译区域, 提升阅读体验)\n\n常用翻译场景均已覆盖，chrome 插件地址直达，更多功能介绍请访问github和官网。\n三大浏览器商店均已上架，欢迎大家尝试和提意见。\n碎碎念:\n1 、最近（ 8 月 4 日）微软翻译接口调整，导致大部分插件微软翻译都失效了，感觉应该当天就先发布一个最小修复版本（那天卸载量 40 ，当天发布应该数据就打正了😢）。主要由于新增的功能还有很多问题需要解决，就拖到昨天才提交商店审核，今天",
-      "metric": "74 回复",
-      "metric_value": 74,
+      "metric": "75 回复",
+      "metric_value": 75,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
