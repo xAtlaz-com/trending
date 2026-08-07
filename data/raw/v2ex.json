@@ -4,125 +4,139 @@
     "title": "为了让女朋友学 AI，给她买了 MacBook Pro，开了每月 200 刀的 GPT，她却说我一直在压迫她",
     "url": "https://www.v2ex.com/t/1232427",
     "description": "最近半年，我对 AI 非常的有热情\n基本每天都在试新模型、看项目、折腾 Agent 。前段时间自己做的一个开源项目 Archify，也意外的火了，快 1 万 star 了，还拿到了赞助\n可能正反馈来得太强，让我越来越确信，AI 以后不是少数程序员玩的工具，而会像搜索、Office 一样，成为很多工作的基础能力，一定会是未来的趋势\n然后我就想着能不能带着女朋友一起学一下，她是非互联网行业的，基本用不到啥 AI ，工作也比较清闲\n于是我给她买了 MacBook Pro ，又开了每月 200 刀的 GPT Pro\n电脑是 2 月份买的，然后这期间一直在敦促她去用 AI 做自己喜欢的东西，当然她也没怎",
-    "metric": "279 回复",
-    "metric_value": 279,
+    "metric": "287 回复",
+    "metric_value": 287,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "t20000622yy",
-      "last_touched": 1786041396
+      "last_touched": 1786044996
     }
   },
   {
     "rank": 2,
-    "title": "兄弟们，分手了，好心累啊……发泄吐槽一下。",
-    "url": "https://www.v2ex.com/t/1232370",
-    "description": "他 23 岁，我 28 岁。我们在一起快三年了。期间他出轨过一次，我选择了原谅。上个月，我们冷战了一个月。起因是那次出轨后，我让他把工资交给我保管，期间给他开了亲情卡，并要求互相分享实时位置。但他总是找各种理由，把存在我这里的钱一点点拿回去。最后只剩三千块时，他说有亲戚借钱，我转了 1000 ，顺便把剩下的两千也全还给了他，让他以后自己保管。（此处我觉得自己好无用啊，给不了他好的生活 连三千块都要计较 哈哈）没过两天，他就在微信以外的所有社交软件上取关了我，也关闭了位置共享。我了解他的性格。登录了小蓝，根据 V2 的定位方法定位到他旁边。这一个月来，我一直在留意。昨晚，我发现了一个刚注册的新账",
-    "metric": "158 回复",
-    "metric_value": 158,
-    "extra": {
-      "node": "情感问题",
-      "node_name": "libido",
-      "author": "lananshaonian",
-      "last_touched": 1786045840
-    }
-  },
-  {
-    "rank": 3,
     "title": "很多人说现在中国普通人月入 5000 并不难，也有人认为 5000 对很多人来说很困难。大家说说你家乡的真实情况？",
     "url": "https://www.v2ex.com/t/1232435",
     "description": "在当地，月入 5000 是比较容易达到，还是需要技能、经验或者较好的岗位？",
-    "metric": "86 回复",
-    "metric_value": 86,
+    "metric": "109 回复",
+    "metric_value": 109,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "NullIsLife",
-      "last_touched": 1786062386
+      "last_touched": 1786071371
     }
   },
   {
-    "rank": 4,
-    "title": "MAC 的鼠标怎么选",
-    "url": "https://www.v2ex.com/t/1232404",
-    "description": "我是 M4P ，现在用的罗技 M590 的鼠标，经常的断频，想换一个新的鼠标，有没有推荐的，现在国内仿苹果鼠标的那个怎么样，还有人体工程学的那个鼠标体验怎么样，想尝试一下，求推荐！",
-    "metric": "81 回复",
-    "metric_value": 81,
-    "extra": {
-      "node": "配件",
-      "node_name": "accessory",
-      "author": "maky",
-      "last_touched": 1786049700
-    }
-  },
-  {
-    "rank": 5,
-    "title": "DeepSeek API 要涨价了！且蹬且珍惜。",
-    "url": "https://www.v2ex.com/t/1232351",
-    "description": "计划近期整体上调 DeepSeek API 服务的定价，预计涨幅较大，请合理安排您的使用。具体方案以正式通知为准。——————DeepSeek 开放平台",
-    "metric": "77 回复",
-    "metric_value": 77,
-    "extra": {
-      "node": "DeepSeek",
-      "node_name": "deepseek",
-      "author": "Tiger1994",
-      "last_touched": 1786019136
-    }
-  },
-  {
-    "rank": 6,
-    "title": "请教一下，本地部署 deepseekV4flash 大概需要什么样的配置需求？",
-    "url": "https://www.v2ex.com/t/1232409",
-    "description": "先说明背景，我们公司是半导体公司，我是生产的工程师，并不是信息部门的，但是生产这边有需求，做自己的数据分析跟踪平台，信息部那边又没人力，我们一个实验管理平台拖了半年了还没给我们做好，我拿 llm 自己都 vibe 了一个。现在有两个需求都需要用到 ai ，而且因为数据敏感，还必须是纯本地运行。一方面试生产工程师开发自己的数据平台需要 ai 做 vibecoding ，另一方面我们希望能用 ai 做数据分析和建模，这方面我们已经悄悄地通过 ai 输出验证了很多东西了之前是国产开源的模型能力一般，能力好的模型又太大，部署成本太高，但是近期 deepseekV4flash 的模型量较小，部署成本大幅",
-    "metric": "73 回复",
-    "metric_value": 73,
-    "extra": {
-      "node": "Local LLM",
-      "node_name": "localllm",
-      "author": "yiranw09",
-      "last_touched": 1786031377
-    }
-  },
-  {
-    "rank": 7,
-    "title": "为什么调用 DeepSeek 的接口，会返回 Claude 的信息呢？",
-    "url": "https://www.v2ex.com/t/1232360",
-    "description": "早上测试 Agent ，对着模型问了一句：你是谁，结果 DeepSeek-v4-flash 返回了下面的信息：{\"id\":\"a43192dd-649d-455b-bed0-c9e0984685ba\",\"object\":\"chat.completion\",\"created\":1785979530,\"model\":\"deepseek-v4-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"你好！我是 Claude ，由 Anthropic 开发的人工智能助手。\\n\\n 我可以帮你处理各种问题，比如：\\n- 解",
-    "metric": "59 回复",
-    "metric_value": 59,
-    "extra": {
-      "node": "分享发现",
-      "node_name": "share",
-      "author": "puras",
-      "last_touched": 1786019142
-    }
-  },
-  {
-    "rank": 8,
-    "title": "上班不忙的时候，大家都在工位做什么，怎么增加一点额外收入呢",
-    "url": "https://www.v2ex.com/t/1232458",
-    "description": "如题，本人是前端开发，在银行工作五年多了，因为银行是不对外联网，所以员工都会自备一台自己的电脑，办公机工作，自己的电脑查资料什么的。自从有了 codex 后工作效率直线上升，每天多出了大量时间不知道怎么利用起来，之前研究了炒股发现怎么都没办法做到稳定盈利，想问问大家有没有什么可以在公司做不被同事领导发现，同时又可以给自己增加一点点收入的",
-    "metric": "58 回复",
-    "metric_value": 58,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "EmberYu",
-      "last_touched": 1786035861
-    }
-  },
-  {
-    "rank": 9,
+    "rank": 3,
     "title": "怎么这么多人把 prompt 读作/ prəˈmoʊt / ，目前整个组就我一个人还在坚持/ prɑːmpt / 了",
     "url": "https://www.v2ex.com/t/1232497",
     "description": "老板每次说 promote ，我还以为要给我升职加薪",
-    "metric": "57 回复",
-    "metric_value": 57,
+    "metric": "92 回复",
+    "metric_value": 92,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "dkhcyx",
-      "last_touched": 1786059230
+      "last_touched": 1786073318
+    }
+  },
+  {
+    "rank": 4,
+    "title": "上班不忙的时候，大家都在工位做什么，怎么增加一点额外收入呢",
+    "url": "https://www.v2ex.com/t/1232458",
+    "description": "如题，本人是前端开发，在银行工作五年多了，因为银行是不对外联网，所以员工都会自备一台自己的电脑，办公机工作，自己的电脑查资料什么的。自从有了 codex 后工作效率直线上升，每天多出了大量时间不知道怎么利用起来，之前研究了炒股发现怎么都没办法做到稳定盈利，想问问大家有没有什么可以在公司做不被同事领导发现，同时又可以给自己增加一点点收入的",
+    "metric": "64 回复",
+    "metric_value": 64,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "EmberYu",
+      "last_touched": 1786053861
+    }
+  },
+  {
+    "rank": 5,
+    "title": "老婆公司要倒闭了，让她走仲裁，她说公司没赔，仲裁也是浪费精力，咋搞，呆了 14 年",
+    "url": "https://www.v2ex.com/t/1232476",
+    "description": "公司今年状态不好，成立快 20 年了，高峰的时候快 200 号人，现在只有 10 几号人，欠供应商及会员大概有五六百万，公司 4 、5 、6 月份只发了一半，这两天通知签离职协议和欠条，让大家走，公司其他人也不愿意仲裁，说没钱，也没用，浪费精力，公司无重要资产",
+    "metric": "52 回复",
+    "metric_value": 52,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "adminpro",
+      "last_touched": 1786072483
+    }
+  },
+  {
+    "rank": 6,
+    "title": "某书约球居然能约到咯咯哒",
+    "url": "https://www.v2ex.com/t/1232512",
+    "description": "最近寻思在小某书上约球。我的一般流程就是自报打球的积分（类似于巅峰赛积分），然后询问对方有没有意向，合适约一下。但是最近约到一个应该不是正经打球的。就是发现这个人别人约球帖子下留言 dd ，我以为是个美女球友来着。事情如下：我：你好，我 1700 ，周末有空打一下吗对方：1500/耶，不需要那么高我：没事的，应该也能练起来。你有地方吗对方：你要点外卖？这个时候我就感觉不太对，点进主页一看好像不是打球的。发出来大家乐一下，互联网交友还是要慎重。",
+    "metric": "51 回复",
+    "metric_value": 51,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "xut09455",
+      "last_touched": 1786072883
+    }
+  },
+  {
+    "rank": 7,
+    "title": "二审可能有转机吗？",
+    "url": "https://www.v2ex.com/t/1232522",
+    "description": "郑州的烂尾保交楼楼盘，前段时间告了原开发商和城开子公司。\n在几乎没有证据的情况下，法官认定了购房人“知晓并同意转让”。\n诉讼费不便宜，我的律师认为二审改判概率不大，V 友们觉得上诉有必要上诉吗？",
+    "metric": "50 回复",
+    "metric_value": 50,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "ngu",
+      "last_touched": 1786073233
+    }
+  },
+  {
+    "rank": 8,
+    "title": "尝了尝动态血糖仪的咸淡，我觉得很 OK",
+    "url": "https://www.v2ex.com/t/1232632",
+    "description": "从京东薅的七天全返的动态血糖仪戴了两天目前感觉良好平均血糖 5.0昨日早餐：桂格即食燕麦片+牛奶 200ml+一个全蛋+一块全麦煎饼+一小碟猪肉丝餐后 1 小时血糖飚到 7.7   昨日午餐： 印尼虾仔谷物饭+炙烤鸡腿肉（去皮）+蔬菜餐后 1.5 小时血糖达到峰值 6.7  昨日晚餐：一整个红心火龙果+一小盒煎烤鸡胸肉餐后 1 小时血糖达到峰值 6.3   今日早餐： 500 毫升牛奶+桂格即食燕麦片+两个全蛋 餐后 1 小时血糖到达峰值 7.1    蛋白质增加+碳水减少的情况下，血糖峰值降低了 0.7    总体来说这个数值变化对于饮食控制还是很有参考价值的  今天是立秋，特意跟我老公发了",
+    "metric": "47 回复",
+    "metric_value": 47,
+    "extra": {
+      "node": "健康",
+      "node_name": "fit",
+      "author": "FaustinaD",
+      "last_touched": 1786073190
+    }
+  },
+  {
+    "rank": 9,
+    "title": "我发明了一个情趣用品，男的用的电动的，上半身的，怎么才能在国内销售呢，直接咸鱼卖有法律风险吗",
+    "url": "https://www.v2ex.com/t/1232494",
+    "description": "我最近闲来无事，做了一个小玩具，目前比较粗糙有个小马达上面加了羽毛，目前我是手持感受的，发现勉强能用，主要是力度稍微有些大，手持得话没办法解放另一只手。我正在研究如何做成吸附的方式，并且尝试调整震动强度和频率。我搜了一下国内如何合规，这类带电动功能的审批比较严格，要各种资质。请问有做类似产品的朋友吗，这种可以在闲鱼卖吗，如何才能规避风险。",
+    "metric": "42 回复",
+    "metric_value": 42,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "shubuqi",
+      "last_touched": 1786042850
+    }
+  },
+  {
+    "rank": 10,
+    "title": "老婆工作强度太大，如何破局。",
+    "url": "https://www.v2ex.com/t/1232618",
+    "description": "老婆在一家生物医药公司就职，任职 SD 。",
+    "metric": "42 回复",
+    "metric_value": 42,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "Harbor0202",
+      "last_touched": 1786073305
     }
   }
 ]
