@@ -1,132 +1,118 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-08T02:12:55+00:00",
-  "count": 9,
+  "updated_at": "2026-08-08T03:51:36+00:00",
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "稳定运行一个月的 GPT 中转站，支持 GPT5.5, GPT5.6, Codex 满血，回帖送 5 刀",
-      "url": "https://www.v2ex.com/t/1232638",
-      "description": "地址： https://tokenduoduo.cc\n稳定性优先\n支持多种 GPT 模型\n低倍率使用\nGPT 生图\n支持模型：\nGPT-5.3\nGPT-5.4\nGPT-5.5\nGPT-5.6\nGPT-IMAGE-1\nGPT-IMAGE-2\n留言附用户 ID ，赠送 5 刀额度。\n地址： https://tokenduoduo.cc 。",
-      "metric": "120 回复",
-      "metric_value": 120,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "lraining",
-        "last_touched": 1786154616
-      }
-    },
-    {
-      "rank": 2,
-      "title": "尝了尝动态血糖仪的咸淡，我觉得很 OK",
-      "url": "https://www.v2ex.com/t/1232632",
-      "description": "从京东薅的七天全返的动态血糖仪戴了两天目前感觉良好平均血糖 5.0昨日早餐：桂格即食燕麦片+牛奶 200ml+一个全蛋+一块全麦煎饼+一小碟猪肉丝餐后 1 小时血糖飚到 7.7   昨日午餐： 印尼虾仔谷物饭+炙烤鸡腿肉（去皮）+蔬菜餐后 1.5 小时血糖达到峰值 6.7  昨日晚餐：一整个红心火龙果+一小盒煎烤鸡胸肉餐后 1 小时血糖达到峰值 6.3   今日早餐： 500 毫升牛奶+桂格即食燕麦片+两个全蛋 餐后 1 小时血糖到达峰值 7.1    蛋白质增加+碳水减少的情况下，血糖峰值降低了 0.7    总体来说这个数值变化对于饮食控制还是很有参考价值的  今天是立秋，特意跟我老公发了",
-      "metric": "119 回复",
-      "metric_value": 119,
-      "extra": {
-        "node": "健康",
-        "node_name": "fit",
-        "author": "FaustinaD",
-        "last_touched": 1786107645
-      }
-    },
-    {
-      "rank": 3,
       "title": "从 windows 切换到 MacOS，感觉 MacOS 不好用。",
       "url": "https://www.v2ex.com/t/1232697",
       "description": "码农，一直用 Windows(基本所有操作都是快捷键，比较少用鼠标，完全不影响工作)，本月切换到 Mac OS （ Macmini M4 Pro ）之后，感觉非常不好用，甚至反人类。\n我知道很多的程序员、大牛都是用 Mac OS ，现在甚至怀疑是我自己的问题。 想听听大家的看法。\n文件夹中有 14 张图片（参见图片），编号从 1 到 14 。\n\n鼠标双击打开一张之后，方向键(或者 PageUp\\PageDown 键无法切换上一张下一张)；\n鼠标点中，按回车键，不是打开，是更名。电脑存在这么多年，回车不一直是确认吗；\n鼠标选中，空格打开，按方向键可以切换展示，但只能切换到这一行的最后一张，如果想",
-      "metric": "113 回复",
-      "metric_value": 113,
+      "metric": "118 回复",
+      "metric_value": 118,
       "extra": {
         "node": "macOS",
         "node_name": "macos",
         "author": "notcry",
-        "last_touched": 1786152586
+        "last_touched": 1786160501
       }
     },
     {
-      "rank": 4,
-      "title": "[分享创造] 16 年业余时间写 PDF 核心，近两年做了一款 Mac PDF 编辑器：全功能编辑 + AI 智能体， 1.0 已上 Mac App Store，送 20 个终生会员求反馈",
-      "url": "https://www.v2ex.com/t/1232634",
-      "description": "## 这是什么AetherPDF ，Mac 上的 PDF 编辑器：1. **自研 PDF 引擎**——不依赖 PDFium 或任何第三方库，从零写了 16 年，约 15 万行 C++。能做内容流级文本编辑（直接改 PDF 内容流里的文字对象，不是注释层覆盖），编辑后的文件在任何 PDF 阅读器里显示一致。2. **AI Agent 直接调用引擎每一项原子能力**——不是套壳 ChatGPT 跟你聊文档，是 AI 直接动手改 PDF 。比如「把这份合同里所有『甲方』替换成公司名」「把所有章节标题改成 18pt 深蓝色 Helvetica 」「给每页加页码」，AI 直接执行，所有操作走 Undo/",
-      "metric": "90 回复",
-      "metric_value": 90,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "zencher",
-        "last_touched": 1786133506
-      }
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "如果女朋友转发这个，你们会给吗",
       "url": "https://www.v2ex.com/t/1232701",
       "description": "抖音评论区挺多晒收钱的，还有这个秋天第一杯奶茶也是，也不知道什么时候营销出来的\nhttps://imgur.com/a/G3o7gZT",
-      "metric": "88 回复",
-      "metric_value": 88,
+      "metric": "93 回复",
+      "metric_value": 93,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "ydong",
-        "last_touched": 1786152038
+        "last_touched": 1786160113
       }
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布",
       "url": "https://www.v2ex.com/t/1232738",
       "description": "特点：完全免费、开箱即用、没有登录注册、没有营销弹窗。\n截图\n\n本次更新主要功能\n\n微软翻译接口失效修复\nYouTube 双语字幕\n\n引入更加可定制化的网站翻译规则系统 (控制翻译和不翻译区域, 提升阅读体验)\n\n常用翻译场景均已覆盖，chrome 插件地址直达，更多功能介绍请访问github和官网。\n三大浏览器商店均已上架，欢迎大家尝试和提意见。\n碎碎念:\n1 、最近（ 8 月 4 日）微软翻译接口调整，导致大部分插件微软翻译都失效了，感觉应该当天就先发布一个最小修复版本（那天卸载量 40 ，当天发布应该数据就打正了😢）。主要由于新增的功能还有很多问题需要解决，就拖到昨天才提交商店审核，今天",
-      "metric": "85 回复",
-      "metric_value": 85,
+      "metric": "89 回复",
+      "metric_value": 89,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "trumpmaga",
-        "last_touched": 1786154726
+        "last_touched": 1786160712
+      }
+    },
+    {
+      "rank": 4,
+      "title": "WorkBuddy 是真好用",
+      "url": "https://www.v2ex.com/t/1232713",
+      "description": "一开始用的动机就是现在有送的额度，而且用 hy 模型还免费，不消耗额度\n这几天就在重度使用\n现在的感觉是用过的这类工具里面最好用的\n个人最喜欢的几点：\n1 ，内置的专家团丰富，都是多智能体协作，我用的几个效果都很好，远超预期。这几天基本上全是在用专家和专家团\n2 ，UI 干净，对于我来说布局很清晰也很合理，没啥理解成本，根据选择的文件夹进行归类点赞，这里我就不点名批评某些应用了，都平铺在一起，还得我自己分辨\n3 ，生态对接很简单。比如微信小程序能直接跟本地应用同步，扫个码就行。做图标的时候对接另一个平台也是点一下就举行\n来做个自来水，趁现在有优惠，感受一下",
+      "metric": "48 回复",
+      "metric_value": 48,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "cowcomic",
+        "last_touched": 1786130224
+      }
+    },
+    {
+      "rank": 5,
+      "title": "两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流",
+      "url": "https://www.v2ex.com/t/1232688",
+      "description": "前天看 x 上有人做成这事, 觉得很不错, 下单买了两台, 6 万 8,  nvidia 原厂 dgx spark  带并连线实测两台刚好能拿捏 deepseek v4 flash 0731 ，vibe coding 单流 60–70 tok/s 的体验足以覆盖日常 ；不是“能跑起来”的演示水平，而是可以当主力开发机稳定干活。主要是为了本地化隐私部署, 经常会跟 ai 聊很多机密信息, 不放心, 靠硬件出 token 得好几年才能回本.欢迎交流github: https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731",
+      "metric": "42 回复",
+      "metric_value": 42,
+      "extra": {
+        "node": "Local LLM",
+        "node_name": "localllm",
+        "author": "dbow",
+        "last_touched": 1786121618
+      }
+    },
+    {
+      "rank": 6,
+      "title": "如果是这种情况你们还跑路吗？",
+      "url": "https://www.v2ex.com/t/1232711",
+      "description": "如果你最初提涨新，公司因为种种原因不给涨。你寒心了，开始投简历约面试，公司看你真的要走，开始找你谈话。说一定涨，而且是你先前要求涨幅的双倍。哪怕最后实在没办法，给其他同事降薪也要给你涨。你还想留在这公司吗？",
+      "metric": "42 回复",
+      "metric_value": 42,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "erbin",
+        "last_touched": 1786108417
       }
     },
     {
       "rank": 7,
-      "title": "大家有用小米或者其他手机替代 iPhone 的吗",
-      "url": "https://www.v2ex.com/t/1232628",
-      "description": "目前在用 iPhone17 AppleWatch 两台 Mac 两台 HomePod 一个 AirPodsPro3 ，想问问大家有没有用小米手机或者安卓手机来替代 iPhone 的",
-      "metric": "77 回复",
-      "metric_value": 77,
+      "title": "AI Coding 还看源代码吗？要是不看，会害怕血崩吗？",
+      "url": "https://www.v2ex.com/t/1232732",
+      "description": "V2EX 帖子，AI Coding 到无法掌控局面：\nhttps://v2ex.com/t/1224558\n还有报道 AI Coding 9 秒内删除整个业务数据库的：\nhttps://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database\n我个人也有经历。去年 8 月份开始，给公司做一个爬虫项目，AI coding 上功能很快，\n住宅 ip 轮换这一块，用的供应商平台接口，自动按城市地区动态返回。\n后面对需求，要求每个社交媒体的账户，要尽量固定一个 ip 地址，不能每次发起请求都变。\n这个功能也很快",
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
-        "node": "Apple",
-        "node_name": "apple",
-        "author": "guanmengyuan",
-        "last_touched": 1786137752
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "edgeedge",
+        "last_touched": 1786115557
       }
     },
     {
       "rank": 8,
-      "title": "妹妹毕业一年了，传媒设计类专业，一直找不到工作",
-      "url": "https://www.v2ex.com/t/1232635",
-      "description": "妹妹本科多媒体设计类专业，刚毕业回到家做了一年和专业无关的工作，今年回杭州开始找工作，发现投递 ui 、产品、美工类的岗位，全是已读不回，已经找了好久了。 现在应该怎么办，是要换个行业投递吗，设计类相关行业进不去了吗？是行业不招人了还是不是应届又没相关经验",
-      "metric": "50 回复",
-      "metric_value": 50,
+      "title": "彩礼，嫁女儿与卖女儿",
+      "url": "https://www.v2ex.com/t/1232678",
+      "description": "最近我稍微理解了国内彩礼的逻辑，彩礼这个习俗有好有坏。\n男方给高额彩礼，然后女方父母回礼，并添一笔自己的钱 或是 房子 车子。  回礼 &gt; 彩礼 = 嫁女儿\n这种习俗就属于好习俗，类似于某种资金互助模式：双方父母一起出钱，帮助两个年轻人建立新的家庭。\n而有些女方父母不做人的， 拿了男方彩礼，拿了男方的彩礼却基本不回礼。或是拿了 28 万 8 ，然后回礼 8 万，这种就属于卖女儿。",
+      "metric": "32 回复",
+      "metric_value": 32,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "ningmengpian886",
-        "last_touched": 1786122082
-      }
-    },
-    {
-      "rank": 9,
-      "title": "[推广]GPT 中转站，目前只做 PRO，注册免费送 DeepSeek 调用 15 天，总额度大约 700 人民币，先到先得，用完截止",
-      "url": "https://www.v2ex.com/t/1232658",
-      "description": "https://calltoken.top\n基本上就是成本价多一点，赚的就是没有用完和额外重置的钱。\n1 个 pro 20 的菲律宾卡充大搞 1200 rmb ，1 个月只能跑 8-9000 刀左右，大家可以自己算一算。\n目前百分百 pro20 的号池，欢迎测试和监督。\n只想维护一百人以内的稳定人群，这样双方都好。\n如果大家需要 puls 的低价的，后面再看看要不要做，puls 日抛价格不稳定。\n注册完成后留下邮箱，我给你们分配 DeepSeek 免费调用，总额度用完就下掉。",
-      "metric": "49 回复",
-      "metric_value": 49,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "WLK43",
-        "last_touched": 1786119900
+        "node": "生活",
+        "node_name": "life",
+        "author": "nathandoge",
+        "last_touched": 1786103663
       }
     }
   ]
