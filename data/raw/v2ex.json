@@ -18,13 +18,13 @@
     "title": "说说为什么明明只用一把键盘,家里还有七把",
     "url": "https://www.v2ex.com/t/1232899",
     "description": "说个机械键盘的事,前几天又剁手了。\n本来说好这个月不买了的,结果晚上刷购物车,看到某轴体出了个新配色,手指头比脑子反应快,点了立即购买,付完款那三秒钟脑子才反应过来,又输了。\n家里现在攒了七把,常用的就一把,剩下六把摆柜子里,跟供着似的。我媳妇——啊不对不能提家里人,反正身边人问我这堆键盘干嘛用,我也说不上来,只能说\"手感不一样\"。什么叫不一样,其实我自己也说不清,可能就跟老烟枪分不清这包和那包烟有啥区别,但就是觉得不一样。\n最离谱的是有一阵子迷上了润轴,买了润滑剂、开轴器,一整套家伙事儿,拆了装装了拆,一把键盘捣鼓两周,代码倒是没写几行。产品经理天天在群里 at 我要进度,我心想再等等,这个",
-    "metric": "68 回复",
-    "metric_value": 68,
+    "metric": "69 回复",
+    "metric_value": 69,
     "extra": {
       "node": "机械键盘",
       "node_name": "mechanical",
       "author": "ybkjcxy",
-      "last_touched": 1786226219
+      "last_touched": 1786230415
     }
   },
   {
@@ -52,7 +52,7 @@
       "node": "OpenAI",
       "node_name": "openai",
       "author": "zw2019",
-      "last_touched": 1786198149
+      "last_touched": 1786212549
     }
   },
   {
@@ -60,13 +60,13 @@
     "title": "厄运专找苦命人，看中山大学 23 岁博士确诊胃癌晚期有感",
     "url": "https://www.v2ex.com/t/1232900",
     "description": "农村出身，家里父母都是打工人，好不容易考上名牌大学还直博。就在全家人以为苦尽甘来的时候，命运却给一个相信天道酬勤的人开了一个大大的玩笑。这剧本搁谁身上都免不了要心理奔溃。有些人出生就在罗马，有些人虽然出生贫穷但上天给了他逆势翻盘一路打怪升级的剧本，真正苦命的是明明很努力明明已经快要成功了，却被命运突然打断。想起以前大学时期也曾经有一位保研的学长被诊断出癌症，家里也是贫苦出身，后面学院里号召大家捐款，可惜最后还是走了。 天地不仁，以万物为刍狗。",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "zencitta",
-      "last_touched": 1786209546
+      "last_touched": 1786213146
     }
   },
   {
@@ -88,13 +88,13 @@
     "title": "分享一个 ublock origin 规则，屏蔽 x 上的黄色评论",
     "url": "https://www.v2ex.com/t/1232883",
     "description": "x.com##[data-testid=\"tweetText\"]:has-text(/比我骚|没我好看|我的福|我福不黑/):upward(8)\n感兴趣的朋友可以加一下这个规则，文字内容可以自行修改，改善下体验。",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "metric": "28 回复",
+    "metric_value": 28,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "Need4more",
-      "last_touched": 1786204594
+      "last_touched": 1786208194
     }
   },
   {
@@ -113,6 +113,20 @@
   },
   {
     "rank": 9,
+    "title": "[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）",
+    "url": "https://www.v2ex.com/t/1232965",
+    "description": "下载地址： https://mirasim.ai/\n前 1000 人注册(需要邀请码注册)送 12 个月 $89/月套餐，额度差不多为 Codex Pro 5×和 Claude Code Max 5×。\n邀请 10 人继续升级到 $199/月套餐\n注意：不是送 Claude / ChatGPT 官方账号，模型额度只能在 Mirasim 里用。\n感兴趣可以去试一下。\n邀请码：MIRA-AB7G-TKYM-YR0N ，还有 3 个名额",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "fltv",
+      "last_touched": 1786231725
+    }
+  },
+  {
+    "rank": 10,
     "title": "真的不建议任何人用中转 2",
     "url": "https://www.v2ex.com/t/1232923",
     "description": "前文： https://v2ex.com/t/1205344\n上次聊的是价格和安全性，这次说说使用体验\n\n本文（及前文）的中转特指各种类型的廉价中转，不包括 openrouter / cloudflare ai gateway 之类的商业中转\n\n自 GPT 5.6 发布以后 Pro 20x 已经不够我用了，就开始尝试了一些中转用作套餐耗尽时的补充，体验就两个字：糟糕\n问题一：速度\n首先最大的问题就是速度，GPT 5.6 Sol 官方的平均 TTFT 大概是在 3-4s ，但是中转的往往在这里能慢上数倍，我尝试了几个中转，普遍的平均 TTFT 都能达到 10s 以上，甚至有遇到过一些请求偶尔能达",
@@ -123,20 +137,6 @@
       "node_name": "programmer",
       "author": "SingeeKing",
       "last_touched": 1786203135
-    }
-  },
-  {
-    "rank": 10,
-    "title": "codex 接 deepseek 的 api 能用么？",
-    "url": "https://www.v2ex.com/t/1232858",
-    "description": "openai 成本感觉有点高",
-    "metric": "22 回复",
-    "metric_value": 22,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "revival83",
-      "last_touched": 1786201272
     }
   }
 ]
