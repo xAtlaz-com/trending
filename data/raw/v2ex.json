@@ -4,13 +4,13 @@
     "title": "从 windows 切换到 MacOS，感觉 MacOS 不好用。",
     "url": "https://www.v2ex.com/t/1232697",
     "description": "码农，一直用 Windows(基本所有操作都是快捷键，比较少用鼠标，完全不影响工作)，本月切换到 Mac OS （ Macmini M4 Pro ）之后，感觉非常不好用，甚至反人类。\n我知道很多的程序员、大牛都是用 Mac OS ，现在甚至怀疑是我自己的问题。 想听听大家的看法。\n文件夹中有 14 张图片（参见图片），编号从 1 到 14 。\n\n鼠标双击打开一张之后，方向键(或者 PageUp\\PageDown 键无法切换上一张下一张)；\n鼠标点中，按回车键，不是打开，是更名。电脑存在这么多年，回车不一直是确认吗；\n鼠标选中，空格打开，按方向键可以切换展示，但只能切换到这一行的最后一张，如果想",
-    "metric": "118 回复",
-    "metric_value": 118,
+    "metric": "121 回复",
+    "metric_value": 121,
     "extra": {
       "node": "macOS",
       "node_name": "macos",
       "author": "notcry",
-      "last_touched": 1786160501
+      "last_touched": 1786164545
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "如果女朋友转发这个，你们会给吗",
     "url": "https://www.v2ex.com/t/1232701",
     "description": "抖音评论区挺多晒收钱的，还有这个秋天第一杯奶茶也是，也不知道什么时候营销出来的\nhttps://imgur.com/a/G3o7gZT",
-    "metric": "93 回复",
-    "metric_value": 93,
+    "metric": "95 回复",
+    "metric_value": 95,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "ydong",
-      "last_touched": 1786160113
+      "last_touched": 1786163013
     }
   },
   {
@@ -32,13 +32,13 @@
     "title": "沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布",
     "url": "https://www.v2ex.com/t/1232738",
     "description": "特点：完全免费、开箱即用、没有登录注册、没有营销弹窗。\n截图\n\n本次更新主要功能\n\n微软翻译接口失效修复\nYouTube 双语字幕\n\n引入更加可定制化的网站翻译规则系统 (控制翻译和不翻译区域, 提升阅读体验)\n\n常用翻译场景均已覆盖，chrome 插件地址直达，更多功能介绍请访问github和官网。\n三大浏览器商店均已上架，欢迎大家尝试和提意见。\n碎碎念:\n1 、最近（ 8 月 4 日）微软翻译接口调整，导致大部分插件微软翻译都失效了，感觉应该当天就先发布一个最小修复版本（那天卸载量 40 ，当天发布应该数据就打正了😢）。主要由于新增的功能还有很多问题需要解决，就拖到昨天才提交商店审核，今天",
-    "metric": "89 回复",
-    "metric_value": 89,
+    "metric": "90 回复",
+    "metric_value": 90,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "trumpmaga",
-      "last_touched": 1786160712
+      "last_touched": 1786163840
     }
   },
   {
@@ -46,69 +46,83 @@
     "title": "WorkBuddy 是真好用",
     "url": "https://www.v2ex.com/t/1232713",
     "description": "一开始用的动机就是现在有送的额度，而且用 hy 模型还免费，不消耗额度\n这几天就在重度使用\n现在的感觉是用过的这类工具里面最好用的\n个人最喜欢的几点：\n1 ，内置的专家团丰富，都是多智能体协作，我用的几个效果都很好，远超预期。这几天基本上全是在用专家和专家团\n2 ，UI 干净，对于我来说布局很清晰也很合理，没啥理解成本，根据选择的文件夹进行归类点赞，这里我就不点名批评某些应用了，都平铺在一起，还得我自己分辨\n3 ，生态对接很简单。比如微信小程序能直接跟本地应用同步，扫个码就行。做图标的时候对接另一个平台也是点一下就举行\n来做个自来水，趁现在有优惠，感受一下",
-    "metric": "48 回复",
-    "metric_value": 48,
+    "metric": "51 回复",
+    "metric_value": 51,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "cowcomic",
-      "last_touched": 1786130224
+      "last_touched": 1786141024
     }
   },
   {
     "rank": 5,
-    "title": "两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流",
-    "url": "https://www.v2ex.com/t/1232688",
-    "description": "前天看 x 上有人做成这事, 觉得很不错, 下单买了两台, 6 万 8,  nvidia 原厂 dgx spark  带并连线实测两台刚好能拿捏 deepseek v4 flash 0731 ，vibe coding 单流 60–70 tok/s 的体验足以覆盖日常 ；不是“能跑起来”的演示水平，而是可以当主力开发机稳定干活。主要是为了本地化隐私部署, 经常会跟 ai 聊很多机密信息, 不放心, 靠硬件出 token 得好几年才能回本.欢迎交流github: https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731",
-    "metric": "42 回复",
-    "metric_value": 42,
-    "extra": {
-      "node": "Local LLM",
-      "node_name": "localllm",
-      "author": "dbow",
-      "last_touched": 1786121618
-    }
-  },
-  {
-    "rank": 6,
     "title": "如果是这种情况你们还跑路吗？",
     "url": "https://www.v2ex.com/t/1232711",
     "description": "如果你最初提涨新，公司因为种种原因不给涨。你寒心了，开始投简历约面试，公司看你真的要走，开始找你谈话。说一定涨，而且是你先前要求涨幅的双倍。哪怕最后实在没办法，给其他同事降薪也要给你涨。你还想留在这公司吗？",
-    "metric": "42 回复",
-    "metric_value": 42,
+    "metric": "44 回复",
+    "metric_value": 44,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "erbin",
-      "last_touched": 1786108417
+      "last_touched": 1786112017
     }
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "AI Coding 还看源代码吗？要是不看，会害怕血崩吗？",
     "url": "https://www.v2ex.com/t/1232732",
     "description": "V2EX 帖子，AI Coding 到无法掌控局面：\nhttps://v2ex.com/t/1224558\n还有报道 AI Coding 9 秒内删除整个业务数据库的：\nhttps://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database\n我个人也有经历。去年 8 月份开始，给公司做一个爬虫项目，AI coding 上功能很快，\n住宅 ip 轮换这一块，用的供应商平台接口，自动按城市地区动态返回。\n后面对需求，要求每个社交媒体的账户，要尽量固定一个 ip 地址，不能每次发起请求都变。\n这个功能也很快",
-    "metric": "33 回复",
-    "metric_value": 33,
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "edgeedge",
-      "last_touched": 1786115557
+      "last_touched": 1786119157
+    }
+  },
+  {
+    "rank": 7,
+    "title": "抽奖：量产 AI 硬件的通讯协议和小程序源码全开源了，配合 AI 编程可以直接改成自己的产品",
+    "url": "https://www.v2ex.com/t/1232693",
+    "description": "先亮明身份：我是做硬件的（四博智联 DOIT ），这帖是广告\n购买地址淘宝： https://item.taobao.com/item.htm?id=1068722425053\n但下面链的东西是真开源，MIT 协议，不用注册不用留资，clone 下来就能编译。\nGitHub: https://github.com/doit-open-org\n一、开源了什么\n不是开源某个玩具项目，是把已经量产、淘宝上能直接买到的几款设备，它们的通讯协议文档和微信小程序源码完整放了出来。\nesp32s3_chat_badge —— 电子吧唧 Wi-Fi 款（ MZ46-S3-DZ V1.0 ）\n完整的 ESP-I",
+    "metric": "27 回复",
+    "metric_value": 27,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "liqinliqin",
+      "last_touched": 1786159059
     }
   },
   {
     "rank": 8,
-    "title": "彩礼，嫁女儿与卖女儿",
-    "url": "https://www.v2ex.com/t/1232678",
-    "description": "最近我稍微理解了国内彩礼的逻辑，彩礼这个习俗有好有坏。\n男方给高额彩礼，然后女方父母回礼，并添一笔自己的钱 或是 房子 车子。  回礼 &gt; 彩礼 = 嫁女儿\n这种习俗就属于好习俗，类似于某种资金互助模式：双方父母一起出钱，帮助两个年轻人建立新的家庭。\n而有些女方父母不做人的， 拿了男方彩礼，拿了男方的彩礼却基本不回礼。或是拿了 28 万 8 ，然后回礼 8 万，这种就属于卖女儿。",
-    "metric": "32 回复",
-    "metric_value": 32,
+    "title": "准备做一个反假货网站，有得搞吗？",
+    "url": "https://www.v2ex.com/t/1232714",
+    "description": "最近在闲鱼买到了假药，而且上面同类型的假药有很多，但想到其他人应该不知道或者不会辨别假药。所以想做一个反假货的网站，曝光卖假货的商家，包括如果辨别这是假货。防止再有人受骗。请各位大佬，用你最严厉的语言反驳这个需求，看下这个是不是伪需求。",
+    "metric": "27 回复",
+    "metric_value": 27,
     "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "nathandoge",
-      "last_touched": 1786103663
+      "node": "产品经理茶话会",
+      "node_name": "pm",
+      "author": "LaLy",
+      "last_touched": 1786105387
+    }
+  },
+  {
+    "rank": 9,
+    "title": "ChatGPT 这次真要解禁成人内容了？",
+    "url": "https://www.v2ex.com/t/1232700",
+    "description": "Hi xxx,We use age-related information to determine when teen safety protections should apply to ChatGPT accounts, to provide the right experience.On August 11, 2026, these protections are scheduled to be removed from your account, and you’ll gain access to features and settings for adults.If this ti",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "Freeego",
+      "last_touched": 1786111857
     }
   }
 ]
