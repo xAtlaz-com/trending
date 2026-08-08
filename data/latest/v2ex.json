@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-08T08:45:53+00:00",
+  "updated_at": "2026-08-08T09:41:14+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用",
       "url": "https://www.v2ex.com/t/1232881",
       "description": "看了一下整个评论区，给我的感觉好像就是要用 Mac ，你得去看官网的教程，你得去了解各种插件，各种快捷方式，然后你还得熟悉使用触摸板。但是想想最早小时候接触 win ，好像没有那么多东西要学习的...像是自来熟一样，根本就不需要学习，拿起鼠标键盘就能用了，不知道各位有没有类似的感触？然后就是，国区账号非常不友好，想下一个东西，就是搜不到，之前为了连远程桌面下 Windows APP 就得切外区账户，除此之外别无其他安装方式，好多东西没有提供 dmg 安装包....像微软这边，就只需要把区域切成美国就好了",
-      "metric": "74 回复",
-      "metric_value": 74,
+      "metric": "77 回复",
+      "metric_value": 77,
       "extra": {
-        "node": "问与答",
-        "node_name": "qna",
+        "node": "macOS",
+        "node_name": "macos",
         "author": "Ryanzlab",
-        "last_touched": 1786178352
+        "last_touched": 1786180836
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "codex 似乎要重置啦",
       "url": "https://www.v2ex.com/t/1232843",
       "description": "快点重置吧 不然下周上班天才程序员要陨落啦",
-      "metric": "32 回复",
-      "metric_value": 32,
+      "metric": "34 回复",
+      "metric_value": 34,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "zw2019",
-        "last_touched": 1786178144
+        "last_touched": 1786180081
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "说说为什么明明只用一把键盘,家里还有七把",
       "url": "https://www.v2ex.com/t/1232899",
       "description": "说个机械键盘的事,前几天又剁手了。\n本来说好这个月不买了的,结果晚上刷购物车,看到某轴体出了个新配色,手指头比脑子反应快,点了立即购买,付完款那三秒钟脑子才反应过来,又输了。\n家里现在攒了七把,常用的就一把,剩下六把摆柜子里,跟供着似的。我媳妇——啊不对不能提家里人,反正身边人问我这堆键盘干嘛用,我也说不上来,只能说\"手感不一样\"。什么叫不一样,其实我自己也说不清,可能就跟老烟枪分不清这包和那包烟有啥区别,但就是觉得不一样。\n最离谱的是有一阵子迷上了润轴,买了润滑剂、开轴器,一整套家伙事儿,拆了装装了拆,一把键盘捣鼓两周,代码倒是没写几行。产品经理天天在群里 at 我要进度,我心想再等等,这个",
-      "metric": "29 回复",
-      "metric_value": 29,
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
         "node": "机械键盘",
         "node_name": "mechanical",
         "author": "ybkjcxy",
-        "last_touched": 1786177107
+        "last_touched": 1786181004
       }
     },
     {
@@ -50,8 +50,8 @@
       "title": "WitNote 2.0.1：一次 macOS 原生重构，也把本地 AI 放回了自己的 Mac",
       "url": "https://www.v2ex.com/t/1232801",
       "description": "大家好，我是 WitNote 的独立开发者。\n这是 WitNote 2.0.1 。对我来说，它不是一次普通更新，而是一次把自己第一个 Vibe Coding 项目推翻重做的记录。\n去年开始做 WitNote 时，我会写 Markdown ，也会大量使用 AI ，于是想做一个真正围绕写作的工具：不把文章复制进网页，而是在自己的文件夹里写作，让 Markdown 、本地文件和 AI 放在同一个工作流里。为了快速验证想法，第一版用了 Electron 。\nElectron 让我很快做出了能运行的产品，也让我第一次经历了开源、上架、审核、推广和有人付费。但真实用户出现以后，启动速度、内存、界面响应和 ",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "metric": "31 回复",
+      "metric_value": 31,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
@@ -75,20 +75,6 @@
     },
     {
       "rank": 6,
-      "title": "中了甲状腺癌之后，才知道原来得这个癌的人这么多？",
-      "url": "https://www.v2ex.com/t/1232777",
-      "description": "男，中招了，才知道年轻人现在好多得这个的特别是女生，建议大家着重检查下唉",
-      "metric": "22 回复",
-      "metric_value": 22,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "iiimichael",
-        "last_touched": 1786099228
-      }
-    },
-    {
-      "rank": 7,
       "title": "Grok 4.5 做的江湖武侠游戏",
       "url": "https://www.v2ex.com/t/1232867",
       "description": "前段时间发现 Grok 印度区年费只要 400 多，果断开通了。\n开通后想着拿来玩玩做游戏，结果效果出乎意料的好！\nGrok 生成游戏素材的效率真的太高了，Grok Build 也超级好用。整个游戏绝大部分内容都是用 Grok Build + Grok 4.5 生成的，只有部分素材用了 Image2~\n体验地址: https://wx.shiyu.dev\n欢迎来玩",
@@ -102,17 +88,31 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "一几年的黄焖鸡彻底消失了吗?有没有教程想自己做,太想念那一口汤拌饭了!",
       "url": "https://www.v2ex.com/t/1232805",
       "description": "现在的黄焖鸡一言难尽....哪里还能吃到当年的味道",
+      "metric": "20 回复",
+      "metric_value": 20,
+      "extra": {
+        "node": "美酒与美食",
+        "node_name": "taste",
+        "author": "Margelator",
+        "last_touched": 1786140360
+      }
+    },
+    {
+      "rank": 8,
+      "title": "codex 接 deepseek 的 api 能用么？",
+      "url": "https://www.v2ex.com/t/1232858",
+      "description": "openai 成本感觉有点高",
       "metric": "18 回复",
       "metric_value": 18,
       "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "Margelator",
-        "last_touched": 1786133160
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "revival83",
+        "last_touched": 1786179902
       }
     },
     {
@@ -134,13 +134,13 @@
       "title": "Claude Code 能不能接便宜点的 Claude 中转？官方有点用不起了",
       "url": "https://www.v2ex.com/t/1232879",
       "description": "最近开始认真用 Claudecode 官方 API 按量算下来有点顶不住。主要是我平时用得比较多，改几个文件、跑几轮测试，就几块十几块出去了有点遭不住看了一下，很多人会给 ClaudeCode 接中转，但我对这块还不太熟。是直接改 base_url 和 api_key 就行，还是还要改其他配置？模型这块大家一般用 Sonnet 还是 Opus ？我主要是拿来写代码、看项目，不太想每次用之前还研究半天配置。有没有长期这么用的朋友，分享下你们现在的用法？如果只是个人开发和日常写代码，一个月大概多少额度比较够用？",
-      "metric": "16 回复",
-      "metric_value": 16,
+      "metric": "17 回复",
+      "metric_value": 17,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "XIAOemma",
-        "last_touched": 1786177425
+        "last_touched": 1786179334
       }
     }
   ]
