@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-08-08T11:32:01+00:00",
-  "count": 17,
+  "updated_at": "2026-08-08T12:54:29+00:00",
+  "count": 12,
   "items": [
     {
       "rank": 1,
       "title": "PrimeIntellect-ai / prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "metric": "★ 7,510",
+      "metric": "★ 7,682",
       "extra": {
         "language": "TypeScript",
-        "stars": "7,510",
-        "forks": "623",
+        "stars": "7,682",
+        "forks": "649",
         "stars_today": "2,293 stars today"
       }
     },
@@ -21,51 +21,51 @@
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 84,177",
+      "metric": "★ 84,215",
       "extra": {
         "language": "JavaScript",
-        "stars": "84,177",
-        "forks": "8,990",
+        "stars": "84,215",
+        "forks": "8,994",
         "stars_today": "1,131 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "cloudflare / computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "metric": "★ 6,191",
+      "title": "TapXWorld / ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "metric": "★ 77,698",
       "extra": {
-        "language": "TypeScript",
-        "stars": "6,191",
-        "forks": "309",
-        "stars_today": "872 stars today"
+        "language": "Roff",
+        "stars": "77,698",
+        "forks": "17,548",
+        "stars_today": "591 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 209,391",
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "metric": "★ 16,477",
       "extra": {
-        "language": "Shell",
-        "stars": "209,391",
-        "forks": "18,088",
-        "stars_today": "2,152 stars today"
+        "language": "Python",
+        "stars": "16,477",
+        "forks": "1,304",
+        "stars_today": "327 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 269,028",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 209,479",
       "extra": {
         "language": "Shell",
-        "stars": "269,028",
-        "forks": "24,027",
-        "stars_today": "782 stars today"
+        "stars": "209,479",
+        "forks": "18,098",
+        "stars_today": "2,152 stars today"
       }
     },
     {
@@ -73,155 +73,90 @@
       "title": "goauthentik / authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
-      "metric": "★ 23,807",
+      "metric": "★ 23,825",
       "extra": {
         "language": "Python",
-        "stars": "23,807",
-        "forks": "1,822",
+        "stars": "23,825",
+        "forks": "1,823",
         "stars_today": "530 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "semantica-agi / semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "metric": "★ 2,473",
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "metric": "★ 96,159",
       "extra": {
         "language": "Python",
-        "stars": "2,473",
-        "forks": "314",
-        "stars_today": "122 stars today"
+        "stars": "96,159",
+        "forks": "18,618",
+        "stars_today": "126 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "666ghj / MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "metric": "★ 70,696",
-      "extra": {
-        "language": "Python",
-        "stars": "70,696",
-        "forks": "11,005",
-        "stars_today": "141 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "chenyme / grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "metric": "★ 7,191",
-      "extra": {
-        "language": "Go",
-        "stars": "7,191",
-        "forks": "2,175",
-        "stars_today": "55 stars today"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "jdx / mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "metric": "★ 32,141",
-      "extra": {
-        "language": "Rust",
-        "stars": "32,141",
-        "forks": "1,339",
-        "stars_today": "135 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "Significant-Gravitas / AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "metric": "★ 186,425",
-      "extra": {
-        "language": "Python",
-        "stars": "186,425",
-        "forks": "46,065",
-        "stars_today": "355 stars today"
-      }
-    },
-    {
-      "rank": 12,
       "title": "google / guava",
       "url": "https://github.com/google/guava",
       "description": "Google core libraries for Java",
-      "metric": "★ 51,796",
+      "metric": "★ 51,800",
       "extra": {
         "language": "Java",
-        "stars": "51,796",
+        "stars": "51,800",
         "forks": "11,177",
         "stars_today": "152 stars today"
       }
     },
     {
-      "rank": 13,
-      "title": "unclebob / swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "metric": "★ 1,930",
+      "rank": 9,
+      "title": "LadybirdBrowser / ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "metric": "★ 64,868",
       "extra": {
-        "language": "Clojure",
-        "stars": "1,930",
-        "forks": "206",
-        "stars_today": "81 stars today"
+        "language": "C++",
+        "stars": "64,868",
+        "forks": "3,098",
+        "stars_today": "42 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 10,
       "title": "denoland / celld",
       "url": "https://github.com/denoland/celld",
       "description": "self-hosted, distributed Durable Objects",
-      "metric": "★ 2,371",
+      "metric": "★ 2,391",
       "extra": {
         "language": "Rust",
-        "stars": "2,371",
+        "stars": "2,391",
         "forks": "67",
         "stars_today": "516 stars today"
       }
     },
     {
-      "rank": 15,
-      "title": "K2SOsint / Legendary_OSINT",
-      "url": "https://github.com/K2SOsint/Legendary_OSINT",
-      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
-      "metric": "★ 1,623",
+      "rank": 11,
+      "title": "litu54 / DevOps-Interview-Guide",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "metric": "★ 591",
       "extra": {
         "language": null,
-        "stars": "1,623",
-        "forks": "204",
-        "stars_today": "109 stars today"
+        "stars": "591",
+        "forks": "853",
+        "stars_today": "59 stars today"
       }
     },
     {
-      "rank": 16,
-      "title": "pranshuparmar / witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "metric": "★ 20,019",
+      "rank": 12,
+      "title": "bannedbook / fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "metric": "★ 49,700",
       "extra": {
-        "language": "Go",
-        "stars": "20,019",
-        "forks": "653",
-        "stars_today": "234 stars today"
-      }
-    },
-    {
-      "rank": 17,
-      "title": "google / skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "metric": "★ 16,450",
-      "extra": {
-        "language": "Python",
-        "stars": "16,450",
-        "forks": "1,301",
-        "stars_today": "327 stars today"
+        "language": "Kotlin",
+        "stars": "49,700",
+        "forks": "8,235",
+        "stars_today": "140 stars today"
       }
     }
   ]
