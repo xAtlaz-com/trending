@@ -18,17 +18,31 @@
     "title": "从手冲党叛变到胶囊党,说说为什么",
     "url": "https://www.v2ex.com/t/1233017",
     "description": "之前一直看不上胶囊咖啡,觉得跟手冲比就是\"咖啡味饮料\",结果上个月手冲机送去保养,借了同事的胶囊机应急用了两周,现在……回不去了。\n主要是真的太方便了,睡眼惺忪的时候按一下就有,根本不用动脑子。唯一的问题是钱包,按杯算真的比自己磨豆贵不少,而且喝多了发现自己开始能分辨出哪几款是\"看着挺贵其实一股焦苦味\"的,踩雷踩出经验了。\n现在囤了两款轮着喝,上班日喝浓一点的续命,周末喝偏果酸的当饮料。\n求推荐几款好喝不踩雷的胶囊,预算别太离谱就行,谢谢各位。",
-    "metric": "40 回复",
-    "metric_value": 40,
+    "metric": "45 回复",
+    "metric_value": 45,
     "extra": {
       "node": "咖啡",
       "node_name": "coffee",
       "author": "xiaohongt3",
-      "last_touched": 1786279090
+      "last_touched": 1786282948
     }
   },
   {
     "rank": 3,
+    "title": "Codex 把我电脑文件都删了",
+    "url": "https://www.v2ex.com/t/1233011",
+    "description": "昨天为了赶在额度重置前把额度用完，出门前交代 codex 自己去远程验证整个项目脚本和文档的正确性，开了 full access ，回来一看悲剧了，把我 C 盘和 D 盘文件全删了……估计删了我两三百 G 的数据，上百万个文件……\n用的模型是 gpt-5.6-sol xhigh fast 。真他妈快啊，除了少数被进程占用的文件，全给我删了。\n让 Claude Code 分析了下 codex 的记录：\n  wsl.exe bash -lc 'set -e; d=$(mktemp -d); cd \"$d\";\n    apt-get download sshpass &gt;/dev/null;\n ",
+    "metric": "40 回复",
+    "metric_value": 40,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "kneo",
+      "last_touched": 1786283084
+    }
+  },
+  {
+    "rank": 4,
     "title": "Linux .sb 突然爆火，你怎么看？",
     "url": "https://www.v2ex.com/t/1232993",
     "description": "RT.",
@@ -39,20 +53,6 @@
       "node_name": "share",
       "author": "HRTops",
       "last_touched": 1786245236
-    }
-  },
-  {
-    "rank": 4,
-    "title": "Codex 把我电脑文件都删了",
-    "url": "https://www.v2ex.com/t/1233011",
-    "description": "昨天为了赶在额度重置前把额度用完，出门前交代 codex 自己去远程验证整个项目脚本和文档的正确性，开了 full access ，回来一看悲剧了，把我 C 盘和 D 盘文件全删了……估计删了我两三百 G 的数据，上百万个文件……\n用的模型是 gpt-5.6-sol xhigh fast 。真他妈快啊，除了少数被进程占用的文件，全给我删了。\n让 Claude Code 分析了下 codex 的记录：\n  wsl.exe bash -lc 'set -e; d=$(mktemp -d); cd \"$d\";\n    apt-get download sshpass &gt;/dev/null;\n ",
-    "metric": "38 回复",
-    "metric_value": 38,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "kneo",
-      "last_touched": 1786278053
     }
   },
   {
@@ -74,13 +74,13 @@
     "title": "Mac 和 Windows 可以共用一套键鼠吗",
     "url": "https://www.v2ex.com/t/1233018",
     "description": "想买个 Macmini 和 Windows 共用一套键鼠和显示器，不然桌子上摆不下",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
       "node": "Apple",
       "node_name": "apple",
       "author": "revival83",
-      "last_touched": 1786276839
+      "last_touched": 1786281498
     }
   },
   {
@@ -88,13 +88,13 @@
     "title": "claude 被封了 3 次，用了 3 个苹果账号订阅",
     "url": "https://www.v2ex.com/t/1232990",
     "description": "用 3 个苹果账号订阅了 3 次 claude ，都被封了。申请退款都是部分退款，退到 apple 账号了。\n想注册第 4 个，又得新开 apple 账号，大概率还是用个几天就退款。\napple 账号越来越多，退款也越来越多，都太分散了，不知道能干啥？\n大家有更好的充值方式吗？\n另外，请问 apple 账号与 claude 账号绑定期是多长时间啊？ 180 天吗？但我看有人说是终身绑定。网页也查过，是绑定 1 个月，即 apple 订阅里看不到 claude 已取消的信息就能订阅新账号，有没有人有过经历啊？能否分享下，谢谢",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "Berin",
-      "last_touched": 1786278963
+      "last_touched": 1786282927
     }
   },
   {
@@ -102,13 +102,13 @@
     "title": "做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用",
     "url": "https://www.v2ex.com/t/1232978",
     "description": "2026 年，软件编程的范式已经彻底变化了。 我们大部分时间已经不是敲键盘写代码，而是一个项目开着十几个 Agent 会话, Claude Code 、Codex 、OpenCode, Pi... 给 Agent 描述编程意图， 编排他们执行这些意图。传统为手写代码进行优化的 IDE ，其布局功能已经不再适合 AI 编程了，这也是最近很多人在做 ADE （ Agent Development Environment ）的原因。\n我最近也开发了一个 ADE ，Termio ，一个原生 Mac 终端 ADE ，内核用 libghostty （和 Ghostty 同款），agent 的 TUI 渲染",
-    "metric": "25 回复",
-    "metric_value": 25,
+    "metric": "26 回复",
+    "metric_value": 26,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "YuanJiwei",
-      "last_touched": 1786264011
+      "last_touched": 1786267611
     }
   },
   {
