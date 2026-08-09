@@ -4,13 +4,13 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sun, 09 Aug 2026 21:35:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 22:35:18 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>从手冲党叛变到胶囊党,说说为什么</title>
 <link>https://www.v2ex.com/t/1233017</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1233017</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#1 | 68 回复 | 之前一直看不上胶囊咖啡,觉得跟手冲比就是"咖啡味饮料",结果上个月手冲机送去保养,借了同事的胶囊机应急用了两周,现在……回不去了。
 主要是真的太方便了,睡眼惺忪的时候按一下就有,根本不用动脑子。唯一的问题是钱包,按杯算真的比自己磨豆贵不少,而且喝多了发现自己开始能分辨出哪几款是"看着挺贵其实一股焦苦味"的,踩雷踩出经验了。
 现在囤了两款轮着喝,上班日喝浓一点的续命,周末喝偏果酸的当饮料。
@@ -20,7 +20,7 @@
 <title>Codex 把我电脑文件都删了</title>
 <link>https://www.v2ex.com/t/1233011</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1233011</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#2 | 46 回复 | 昨天为了赶在额度重置前把额度用完，出门前交代 codex 自己去远程验证整个项目脚本和文档的正确性，开了 full access ，回来一看悲剧了，把我 C 盘和 D 盘文件全删了……估计删了我两三百 G 的数据，上百万个文件……
 用的模型是 gpt-5.6-sol xhigh fast 。真他妈快啊，除了少数被进程占用的文件，全给我删了。
 让 Claude Code 分析了下 codex 的记录：
@@ -31,14 +31,14 @@
 <title>Linux .sb 突然爆火，你怎么看？</title>
 <link>https://www.v2ex.com/t/1232993</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1232993</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#3 | 43 回复 | RT.</description>
 </item>
 <item>
 <title>claude 被封了 3 次，用了 3 个苹果账号订阅</title>
 <link>https://www.v2ex.com/t/1232990</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1232990</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#4 | 35 回复 | 用 3 个苹果账号订阅了 3 次 claude ，都被封了。申请退款都是部分退款，退到 apple 账号了。
 想注册第 4 个，又得新开 apple 账号，大概率还是用个几天就退款。
 apple 账号越来越多，退款也越来越多，都太分散了，不知道能干啥？
@@ -49,14 +49,14 @@ apple 账号越来越多，退款也越来越多，都太分散了，不知道�
 <title>Mac 和 Windows 可以共用一套键鼠吗</title>
 <link>https://www.v2ex.com/t/1233018</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1233018</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#5 | 34 回复 | 想买个 Macmini 和 Windows 共用一套键鼠和显示器，不然桌子上摆不下</description>
 </item>
 <item>
 <title>昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准</title>
 <link>https://www.v2ex.com/t/1233022</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1233022</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#6 | 33 回复 | 昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准啊。
 AI 算法能力已经超过博士了，我看了下代码和思路，和我当年读博的思路基本一致，在算法和实现上比我当时的强。</description>
 </item>
@@ -64,7 +64,7 @@ AI 算法能力已经超过博士了，我看了下代码和思路，和我当�
 <title>做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用</title>
 <link>https://www.v2ex.com/t/1232978</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1232978</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#7 | 29 回复 | 2026 年，软件编程的范式已经彻底变化了。 我们大部分时间已经不是敲键盘写代码，而是一个项目开着十几个 Agent 会话, Claude Code 、Codex 、OpenCode, Pi... 给 Agent 描述编程意图， 编排他们执行这些意图。传统为手写代码进行优化的 IDE ，其布局功能已经不再适合 AI 编程了，这也是最近很多人在做 ADE （ Agent Development Environment ）的原因。
 我最近也开发了一个 ADE ，Termio ，一个原生 Mac 终端 ADE ，内核用 libghostty （和 Ghostt</description>
 </item>
@@ -72,26 +72,26 @@ AI 算法能力已经超过博士了，我看了下代码和思路，和我当�
 <title>Claude Code 一天花了 68 块，正常吗？</title>
 <link>https://www.v2ex.com/t/1233003</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1233003</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
 <description>#8 | 26 回复 | 最近几天 Claudecode 用得比较多，昨天看了一下账单，一天扣了 68 ，感觉有点离大谱，其实也没做什么特别夸张的事情，就是让它读项目、改几个文件，中间来回跑了几次测试。白天断断续续用了三四个小时，没想到加起来这么多。之前偶尔调用 API ，一天也就几块钱，所以突然到 68 块有点没概念。按这个速度算，一个月可能要两千多，感觉还是有点顶不住。想问下大家，你们平时用 Claudecode 一天大概会花多少？我是几块钱的时候没感觉，超过 30 块之后就开始注意了。想问问有什么方法可以用到好用有不降智的 claude 模型方案？也想知道，如果只是日常写代</description>
-</item>
-<item>
-<title>你们都如何 review AI 生成的大量代码，保障功能质量</title>
-<link>https://www.v2ex.com/t/1233025</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1233025</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
-<description>#9 | 24 回复 | 用 codex 这么久，从刚开始的屎山横飞慢慢调教到现在 99%的代码都由 AI 生成，并且上线质量比我自己写的还高，我以为我自己练成了。
-直到我最近接了一个新模块的需求，灾难发生了。
-这个模块因为比较老，从代码风格到项目规范都与我一直在维护的模块差异很大，并且由于我从来没碰过这块业务的细节，导致 codex 也没有这个模块的记忆。
-为了补业务细节，从阅读需求开始我就让 AI 全程参与，并且让$Grill with Docs 一致拷问我，讨论并设计完后生成了一堆 ticket ，AI 照着 ticket 一个个执行并验收。
-到了 review 代码的时候</description>
 </item>
 <item>
 <title>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</title>
 <link>https://www.v2ex.com/t/1233041</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1233041</guid>
-<pubDate>Sun, 09 Aug 2026 21:35:59 +0000</pubDate>
-<description>#10 | 24 回复</description>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
+<description>#9 | 26 回复</description>
+</item>
+<item>
+<title>你们都如何 review AI 生成的大量代码，保障功能质量</title>
+<link>https://www.v2ex.com/t/1233025</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1233025</guid>
+<pubDate>Sun, 09 Aug 2026 22:35:18 +0000</pubDate>
+<description>#10 | 25 回复 | 用 codex 这么久，从刚开始的屎山横飞慢慢调教到现在 99%的代码都由 AI 生成，并且上线质量比我自己写的还高，我以为我自己练成了。
+直到我最近接了一个新模块的需求，灾难发生了。
+这个模块因为比较老，从代码风格到项目规范都与我一直在维护的模块差异很大，并且由于我从来没碰过这块业务的细节，导致 codex 也没有这个模块的记忆。
+为了补业务细节，从阅读需求开始我就让 AI 全程参与，并且让$Grill with Docs 一致拷问我，讨论并设计完后生成了一堆 ticket ，AI 照着 ticket 一个个执行并验收。
+到了 review 代码的时候</description>
 </item>
 </channel>
 </rss>

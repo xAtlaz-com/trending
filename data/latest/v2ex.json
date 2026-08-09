@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-09T21:35:59+00:00",
+  "updated_at": "2026-08-09T22:35:18+00:00",
   "count": 10,
   "items": [
     {
@@ -117,30 +117,30 @@
     },
     {
       "rank": 9,
-      "title": "你们都如何 review AI 生成的大量代码，保障功能质量",
-      "url": "https://www.v2ex.com/t/1233025",
-      "description": "用 codex 这么久，从刚开始的屎山横飞慢慢调教到现在 99%的代码都由 AI 生成，并且上线质量比我自己写的还高，我以为我自己练成了。\n直到我最近接了一个新模块的需求，灾难发生了。\n这个模块因为比较老，从代码风格到项目规范都与我一直在维护的模块差异很大，并且由于我从来没碰过这块业务的细节，导致 codex 也没有这个模块的记忆。\n为了补业务细节，从阅读需求开始我就让 AI 全程参与，并且让$Grill with Docs 一致拷问我，讨论并设计完后生成了一堆 ticket ，AI 照着 ticket 一个个执行并验收。\n到了 review 代码的时候我人傻了，完全就是屎山，流程模糊、结构混",
-      "metric": "24 回复",
-      "metric_value": 24,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "VeryZero",
-        "last_touched": 1786299196
-      }
-    },
-    {
-      "rank": 10,
       "title": "大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议",
       "url": "https://www.v2ex.com/t/1233041",
       "description": "",
-      "metric": "24 回复",
-      "metric_value": 24,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "Tory12138",
-        "last_touched": 1786302909
+        "last_touched": 1786311930
+      }
+    },
+    {
+      "rank": 10,
+      "title": "你们都如何 review AI 生成的大量代码，保障功能质量",
+      "url": "https://www.v2ex.com/t/1233025",
+      "description": "用 codex 这么久，从刚开始的屎山横飞慢慢调教到现在 99%的代码都由 AI 生成，并且上线质量比我自己写的还高，我以为我自己练成了。\n直到我最近接了一个新模块的需求，灾难发生了。\n这个模块因为比较老，从代码风格到项目规范都与我一直在维护的模块差异很大，并且由于我从来没碰过这块业务的细节，导致 codex 也没有这个模块的记忆。\n为了补业务细节，从阅读需求开始我就让 AI 全程参与，并且让$Grill with Docs 一致拷问我，讨论并设计完后生成了一堆 ticket ，AI 照着 ticket 一个个执行并验收。\n到了 review 代码的时候我人傻了，完全就是屎山，流程模糊、结构混",
+      "metric": "25 回复",
+      "metric_value": 25,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "VeryZero",
+        "last_touched": 1786302796
       }
     }
   ]
