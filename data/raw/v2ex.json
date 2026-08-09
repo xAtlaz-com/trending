@@ -43,34 +43,6 @@
   },
   {
     "rank": 4,
-    "title": "iphone18 来了，大家倾向于怎样换机",
-    "url": "https://www.v2ex.com/t/1232921",
-    "description": "目前系统缓存占用 50G ，如何换机能不把旧系统的垃圾和可能的 BUG 带到新手机中。大家倾向于怎样换机。",
-    "metric": "33 回复",
-    "metric_value": 33,
-    "extra": {
-      "node": "iPhone",
-      "node_name": "iphone",
-      "author": "solecc",
-      "last_touched": 1786237562
-    }
-  },
-  {
-    "rank": 5,
-    "title": "真的不建议任何人用中转 2",
-    "url": "https://www.v2ex.com/t/1232923",
-    "description": "前文： https://v2ex.com/t/1205344\n上次聊的是价格和安全性，这次说说使用体验\n\n本文（及前文）的中转特指各种类型的廉价中转，不包括 openrouter / cloudflare ai gateway 之类的商业中转\n\n自 GPT 5.6 发布以后 Pro 20x 已经不够我用了，就开始尝试了一些中转用作套餐耗尽时的补充，体验就两个字：糟糕\n问题一：速度\n首先最大的问题就是速度，GPT 5.6 Sol 官方的平均 TTFT 大概是在 3-4s ，但是中转的往往在这里能慢上数倍，我尝试了几个中转，普遍的平均 TTFT 都能达到 10s 以上，甚至有遇到过一些请求偶尔能达",
-    "metric": "32 回复",
-    "metric_value": 32,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "SingeeKing",
-      "last_touched": 1786228335
-    }
-  },
-  {
-    "rank": 6,
     "title": "Linux .sb 突然爆火，你怎么看？",
     "url": "https://www.v2ex.com/t/1232993",
     "description": "RT.",
@@ -84,7 +56,21 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 5,
+    "title": "Mac 和 Windows 可以共用一套键鼠吗",
+    "url": "https://www.v2ex.com/t/1233018",
+    "description": "想买个 Macmini 和 Windows 共用一套键鼠和显示器，不然桌子上摆不下",
+    "metric": "28 回复",
+    "metric_value": 28,
+    "extra": {
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "revival83",
+      "last_touched": 1786268107
+    }
+  },
+  {
+    "rank": 6,
     "title": "如何看待 DeepSeek 在 X 上要求大家把自己的项目放上去以换取内测资格？以及后续的签约需要身份征等其他个人信息？",
     "url": "https://www.v2ex.com/t/1232938",
     "description": "",
@@ -95,6 +81,20 @@
       "node_name": "programmer",
       "author": "karashoukpan",
       "last_touched": 1786231767
+    }
+  },
+  {
+    "rank": 7,
+    "title": "从手冲党叛变到胶囊党,说说为什么",
+    "url": "https://www.v2ex.com/t/1233017",
+    "description": "之前一直看不上胶囊咖啡,觉得跟手冲比就是\"咖啡味饮料\",结果上个月手冲机送去保养,借了同事的胶囊机应急用了两周,现在……回不去了。\n主要是真的太方便了,睡眼惺忪的时候按一下就有,根本不用动脑子。唯一的问题是钱包,按杯算真的比自己磨豆贵不少,而且喝多了发现自己开始能分辨出哪几款是\"看着挺贵其实一股焦苦味\"的,踩雷踩出经验了。\n现在囤了两款轮着喝,上班日喝浓一点的续命,周末喝偏果酸的当饮料。\n求推荐几款好喝不踩雷的胶囊,预算别太离谱就行,谢谢各位。",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "咖啡",
+      "node_name": "coffee",
+      "author": "xiaohongt3",
+      "last_touched": 1786268519
     }
   },
   {
@@ -113,16 +113,16 @@
   },
   {
     "rank": 9,
-    "title": "从手冲党叛变到胶囊党,说说为什么",
-    "url": "https://www.v2ex.com/t/1233017",
-    "description": "之前一直看不上胶囊咖啡,觉得跟手冲比就是\"咖啡味饮料\",结果上个月手冲机送去保养,借了同事的胶囊机应急用了两周,现在……回不去了。\n主要是真的太方便了,睡眼惺忪的时候按一下就有,根本不用动脑子。唯一的问题是钱包,按杯算真的比自己磨豆贵不少,而且喝多了发现自己开始能分辨出哪几款是\"看着挺贵其实一股焦苦味\"的,踩雷踩出经验了。\n现在囤了两款轮着喝,上班日喝浓一点的续命,周末喝偏果酸的当饮料。\n求推荐几款好喝不踩雷的胶囊,预算别太离谱就行,谢谢各位。",
-    "metric": "25 回复",
-    "metric_value": 25,
+    "title": "codex 20260808 重置了",
+    "url": "https://www.v2ex.com/t/1232951",
+    "description": "",
+    "metric": "22 回复",
+    "metric_value": 22,
     "extra": {
-      "node": "咖啡",
-      "node_name": "coffee",
-      "author": "xiaohongt3",
-      "last_touched": 1786264518
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "jko123",
+      "last_touched": 1786259673
     }
   }
 ]
