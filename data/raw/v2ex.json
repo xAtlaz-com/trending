@@ -4,13 +4,13 @@
     "title": "给女儿做了一个 3D 史前动物博物馆，收录 18 种史前动物，免费开源，也分享给 V 友～",
     "url": "https://www.v2ex.com/t/1233153",
     "description": "2015 年注册 V2EX 到现在，我一直很喜欢逛「分享创造」。这里的老哥各个都是人才，各种新奇点子源源不断。\n以前大多数时候我都在看别人分享，这次终于也有一个自己做完、愿意拿出来的东西。\n我给三岁的女儿做了一座 3D 史前动物博物馆。\n在线体验：\nhttps://leon-made-this.work/museum\ngithub 链接：\nhttps://github.com/s010s/prehistoric-animal-museum\n目前一共有 18 种史前动物，陆地、天空和海洋三类。免费，不用注册，没有广告。\n为什么会做这个\n起因其实很小。\n我女儿现在三岁多，看动画里的恐龙，只要出现追",
-    "metric": "194 回复",
-    "metric_value": 194,
+    "metric": "202 回复",
+    "metric_value": 202,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "leonleung",
-      "last_touched": 1786357359
+      "last_touched": 1786359980
     }
   },
   {
@@ -32,41 +32,41 @@
     "title": "高速稳定的 GPT， Grok 中转站，支持 GPT5.5, GPT5.6, Grok Heavy, Codex 满血，回帖送 5 刀",
     "url": "https://www.v2ex.com/t/1233118",
     "description": "Token 多多 - GPT API 服务\n地址：https://tokenduoduo.cc\n主要特点\n\n🚀 稳定性优先\n💻 支持 Codex 、Codex CLI 编程\n🤖 支持多种 GPT 模型\n💰 低倍率使用\n🎨 支持 GPT 生图\n\n支持模型\n\nGPT-5.3\nGPT-5.4\nGPT-5.5\nGPT-5.6\nGPT-IMAGE-1\nGPT-IMAGE-2\nGrok Heavy\n\n福利\n留言附用户 ID ，赠送 5 刀额度。\n地址\nhttps://tokenduoduo.cc",
-    "metric": "117 回复",
-    "metric_value": 117,
+    "metric": "119 回复",
+    "metric_value": 119,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "lraining",
-      "last_touched": 1786358246
+      "last_touched": 1786361024
     }
   },
   {
     "rank": 4,
-    "title": "程序员怎么才能找到 965 的工作",
-    "url": "https://www.v2ex.com/t/1233131",
-    "description": "想换工作了，想问下干着 965 工作的大佬是怎么找到这份工作的，什么行业\n我是 4 年开发经验，1 年管理经验，想西安能找个 965 的工作吗，求指导",
-    "metric": "100 回复",
-    "metric_value": 100,
+    "title": "有人把「词元」一词塞进了 opencode",
+    "url": "https://www.v2ex.com/t/1233284",
+    "description": "今天看到 opencode 发版了, 才注意到这个三天前的 PR: https://github.com/anomalyco/opencode/pull/40977\nPR 里的讨论现在还不多，但是已经有偏离技术和翻译本身的迹象了。\n不过抛开其他因素不谈，我也自始至终都觉得这是个糟糕的翻译。",
+    "metric": "102 回复",
+    "metric_value": 102,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "lnbiuc",
-      "last_touched": 1786357465
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "Erona",
+      "last_touched": 1786362558
     }
   },
   {
     "rank": 5,
-    "title": "普通程序员用在 AI 方面的费用大概有多少了",
-    "url": "https://www.v2ex.com/t/1233146",
-    "description": "想赚钱，先花钱，目前你们在 AI 订阅方面都一个月花多少钱。之前 IDE 都是破解版，现在这笔钱还能省下吗？",
-    "metric": "96 回复",
-    "metric_value": 96,
+    "title": "程序员怎么才能找到 965 的工作",
+    "url": "https://www.v2ex.com/t/1233131",
+    "description": "想换工作了，想问下干着 965 工作的大佬是怎么找到这份工作的，什么行业\n我是 4 年开发经验，1 年管理经验，想西安能找个 965 的工作吗，求指导",
+    "metric": "102 回复",
+    "metric_value": 102,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "asmallcake",
-      "last_touched": 1786356072
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "lnbiuc",
+      "last_touched": 1786360842
     }
   },
   {
@@ -74,17 +74,31 @@
     "title": "探讨一下 [喝水都胖] 到底存不存在",
     "url": "https://www.v2ex.com/t/1233282",
     "description": "我个人认为是存在“喝水都胖”的人的（这是个夸张比喻），欢迎友好探讨。举个例子（我近几年基本不运动）：1. 控制变量法：同样每顿吃一碗饭，10 岁儿童一年后能从身高 140CM 长到 150CM ，体重从 30KG 长到 40KG ；而成年人每顿也是一碗饭，一年后体型可能不会有太大变化。（默认饭和菜都是吃一样的）2. 我个人体验：我正在注射替尔泊肽已经将近 6 个月了，瘦了 20 斤，中间停针过一个月，胖了 5 斤（饮食和打针时一样），我有记录过，停针的那一个月吃的饭菜量都和平时一样（公司食堂称重计费制，自己也会记录），我基本上每顿半碗饭，三个菜。但依旧会胖；3. 作息影响：加班多的那阵子，睡眠",
-    "metric": "93 回复",
-    "metric_value": 93,
+    "metric": "101 回复",
+    "metric_value": 101,
     "extra": {
       "node": "健康",
       "node_name": "fit",
       "author": "Tiger1994",
-      "last_touched": 1786358071
+      "last_touched": 1786361606
     }
   },
   {
     "rank": 7,
+    "title": "普通程序员用在 AI 方面的费用大概有多少了",
+    "url": "https://www.v2ex.com/t/1233146",
+    "description": "想赚钱，先花钱，目前你们在 AI 订阅方面都一个月花多少钱。之前 IDE 都是破解版，现在这笔钱还能省下吗？",
+    "metric": "98 回复",
+    "metric_value": 98,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "asmallcake",
+      "last_touched": 1786359495
+    }
+  },
+  {
+    "rank": 8,
     "title": "看了兄弟们的发言，感觉耗着没啥意义了，拖欠工资超过 3 个月了，能不能被迫离职，有类似经验的兄弟们么。。。",
     "url": "https://www.v2ex.com/t/1233123",
     "description": "今年 3 4 月 6 7 月没发工资了，领导也明确表示了，未来 789 月大概率没钱发，年底可能会好转，让自己出去有机会了看看工作机会，但是我已经在这家工作好几年了，我没录音。公司如果以没钱为理由，这能不能达到 被迫离职。。。有类似经历的没，指导下",
@@ -98,31 +112,17 @@
     }
   },
   {
-    "rank": 8,
-    "title": "有人把「词元」一词塞进了 opencode",
-    "url": "https://www.v2ex.com/t/1233284",
-    "description": "今天看到 opencode 发版了, 才注意到这个三天前的 PR: https://github.com/anomalyco/opencode/pull/40977\nPR 里的讨论现在还不多，但是已经有偏离技术和翻译本身的迹象了。\n不过抛开其他因素不谈，我也自始至终都觉得这是个糟糕的翻译。",
-    "metric": "87 回复",
-    "metric_value": 87,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "Erona",
-      "last_touched": 1786357992
-    }
-  },
-  {
     "rank": 9,
     "title": "大家第一次开高速什么感觉？最近准备出去自驾一下",
     "url": "https://www.v2ex.com/t/1233166",
     "description": "之前断断续续的也已经开过几次高速了。",
-    "metric": "85 回复",
-    "metric_value": 85,
+    "metric": "86 回复",
+    "metric_value": 86,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "squirrel7105",
-      "last_touched": 1786358035
+      "last_touched": 1786360647
     }
   },
   {
@@ -130,13 +130,13 @@
     "title": "你们的车还能卖多少钱？",
     "url": "https://www.v2ex.com/t/1233286",
     "description": "感觉最近几年，车的价格下降的很厉害，你们的油车、新能源都还值多少钱。会准备开到报废吗？我 17 年的速腾，落地快 15W ，24 年 4.1W 卖给个人（车商 3.5W 收）。24 年的领克 08 ，落地 20W ，现在估计 12W 左右",
-    "metric": "78 回复",
-    "metric_value": 78,
+    "metric": "81 回复",
+    "metric_value": 81,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "chniccs",
-      "last_touched": 1786358651
+      "last_touched": 1786358823
     }
   }
 ]
