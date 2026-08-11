@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-11T03:50:10+00:00",
+  "updated_at": "2026-08-11T05:12:33+00:00",
   "count": 9,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "有人把「词元」一词塞进了 opencode",
       "url": "https://www.v2ex.com/t/1233284",
       "description": "今天看到 opencode 发版了, 才注意到这个三天前的 PR: https://github.com/anomalyco/opencode/pull/40977\nPR 里的讨论现在还不多，但是已经有偏离技术和翻译本身的迹象了。\n不过抛开其他因素不谈，我也自始至终都觉得这是个糟糕的翻译。",
-      "metric": "197 回复",
-      "metric_value": 197,
+      "metric": "213 回复",
+      "metric_value": 213,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Erona",
-        "last_touched": 1786419922
+        "last_touched": 1786424765
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "不知道大家对“词元”这个翻译，为什么反应这么大",
       "url": "https://www.v2ex.com/t/1233318",
       "description": "虽然“词元”出现在学术怎章里时间不太长，至少也比 gpt3 时间长吧。\ntype-token 的概念在语言学里都上百年了。\n不知道大家吵的“词元”翻译有什么意思？ 如果不是搞 NLP 的，单拿出来 token ，谁会知道这是个“形符”？",
-      "metric": "155 回复",
-      "metric_value": 155,
+      "metric": "156 回复",
+      "metric_value": 156,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "akorn",
-        "last_touched": 1786419490
+        "last_touched": 1786425129
       }
     },
     {
@@ -36,27 +36,27 @@
       "title": "你们的车还能卖多少钱？",
       "url": "https://www.v2ex.com/t/1233286",
       "description": "感觉最近几年，车的价格下降的很厉害，你们的油车、新能源都还值多少钱。会准备开到报废吗？我 17 年的速腾，落地快 15W ，24 年 4.1W 卖给个人（车商 3.5W 收）。24 年的领克 08 ，落地 20W ，现在估计 12W 左右",
-      "metric": "130 回复",
-      "metric_value": 130,
+      "metric": "135 回复",
+      "metric_value": 135,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "chniccs",
-        "last_touched": 1786420086
+        "last_touched": 1786425009
       }
     },
     {
       "rank": 4,
-      "title": "重新掌握信息选择权， AI 原生 RSS 阅读器分享，送永久会员",
-      "url": "https://www.v2ex.com/t/1233346",
-      "description": "大家好，最近把自己一直在用的 AI 原生 RSS 阅读器 Tidings 正式上线了(官网:https://tidings.info)。\n做它的原因很简单：我不太想把阅读完全交给推荐算法，形成信息茧房。RSS 能让我自己决定关注谁，但传统阅读器面对大量未读、长文章和论坛讨论时，整理信息的效率还是不够高。所以我做了一个本地优先、AI 原生的桌面阅读器，希望既保留 RSS 的控制权，又减少筛选和消化信息的成本。\n主要亮点功能\nAI 是 Tidings 阅读流程里最重要的一部分：先从整个未读队列里找出值得关注的主题，再进入单篇文章做摘要、翻译和连续追问。主要功能包括：\n\nAI 雷达：全局分析 RSS",
-      "metric": "107 回复",
-      "metric_value": 107,
+      "title": "在“减肥”这个话题下刷“能量守恒”的人，可能要刷新一下认知了",
+      "url": "https://www.v2ex.com/t/1233438",
+      "description": "接上贴： https://www.v2ex.com/t/1233282有很多 V 友看到“喝水都胖”（夸张比喻）、“易胖体质”就容易触发到关键词，拿着初中阶段“守恒定律”的知识来简单粗暴的评论“人体”这一个复杂结构。我想这不太符合“理性、客观、中立、不情绪化”的原则。（其实本质上这跟中医粉拿着五行生克理论解释宇宙、算命粉拿着天干地支解释命运本质上没啥区别）我搜罗了一下，他们的回复包括且不限于以下几个主题：1. 守恒定律（比较常见的）2. 物理学不存在了3. 猪瘾犯了4. 又懒又管不住嘴5. 又能筛选一批人了6. 选择性忽略“喝水都胖（夸张比喻）”后面的四字注释7. 自己骗自己8. 送去当核燃料",
+      "metric": "124 回复",
+      "metric_value": 124,
       "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "fuxiao11",
-        "last_touched": 1786417778
+        "node": "生活",
+        "node_name": "life",
+        "author": "Tiger1994",
+        "last_touched": 1786425122
       }
     },
     {
@@ -64,27 +64,27 @@
       "title": "有没有人觉得 Codex 现在变成这种随机重置的模式，让人很不舒服",
       "url": "https://www.v2ex.com/t/1233409",
       "description": "现在这种模式把原本可预期的，规律的东西，变成了不可预期的，随机的，看某个人心情的模式。\n这种随机导致工作量根本无法提前安排，本来准备攒着用的统统变成了傻子。最后导致所有人一有额度就赶紧用光，然后天天喊着要重置。\n与其这样，宁可不要这种随机派糖，换周额度增加多一点点。\nTibo 应该很享受这种在推特上被人当圣人天天舔的感觉。人性就是这样，有了一点点权力，就要反复咀嚼，古今中外谁也逃不过。\n历史无数次证明过了，大善人，不如好规则。",
-      "metric": "105 回复",
-      "metric_value": 105,
+      "metric": "117 回复",
+      "metric_value": 117,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "FFM",
-        "last_touched": 1786420076
+        "last_touched": 1786425060
       }
     },
     {
       "rank": 6,
-      "title": "在“减肥”这个话题下刷“能量守恒”的人，可能要刷新一下认知了",
-      "url": "https://www.v2ex.com/t/1233438",
-      "description": "接上贴： https://www.v2ex.com/t/1233282有很多 V 友看到“喝水都胖”（夸张比喻）、“易胖体质”就容易触发到关键词，拿着初中阶段“守恒定律”的知识来简单粗暴的评论“人体”这一个复杂结构。我想这不太符合“理性、客观、中立、不情绪化”的原则。（其实本质上这跟中医粉拿着五行生克理论解释宇宙、算命粉拿着天干地支解释命运本质上没啥区别）我搜罗了一下，他们的回复包括且不限于以下几个主题：1. 守恒定律（比较常见的）2. 物理学不存在了3. 猪瘾犯了4. 又懒又管不住嘴5. 又能筛选一批人了6. 选择性忽略“喝水都胖（夸张比喻）”后面的四字注释7. 自己骗自己8. 送去当核燃料",
-      "metric": "103 回复",
-      "metric_value": 103,
+      "title": "重新掌握信息选择权， AI 原生 RSS 阅读器分享，送永久会员",
+      "url": "https://www.v2ex.com/t/1233346",
+      "description": "大家好，最近把自己一直在用的 AI 原生 RSS 阅读器 Tidings 正式上线了(官网:https://tidings.info)。\n做它的原因很简单：我不太想把阅读完全交给推荐算法，形成信息茧房。RSS 能让我自己决定关注谁，但传统阅读器面对大量未读、长文章和论坛讨论时，整理信息的效率还是不够高。所以我做了一个本地优先、AI 原生的桌面阅读器，希望既保留 RSS 的控制权，又减少筛选和消化信息的成本。\n主要亮点功能\nAI 是 Tidings 阅读流程里最重要的一部分：先从整个未读队列里找出值得关注的主题，再进入单篇文章做摘要、翻译和连续追问。主要功能包括：\n\nAI 雷达：全局分析 RSS",
+      "metric": "110 回复",
+      "metric_value": 110,
       "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "Tiger1994",
-        "last_touched": 1786420033
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "fuxiao11",
+        "last_touched": 1786422622
       }
     },
     {
@@ -92,41 +92,41 @@
       "title": "中登有多少在健身的...",
       "url": "https://www.v2ex.com/t/1233414",
       "description": "刚过 35,感觉还是得锻炼下...",
-      "metric": "89 回复",
-      "metric_value": 89,
+      "metric": "96 回复",
+      "metric_value": 96,
       "extra": {
         "node": "健身",
         "node_name": "fitness",
         "author": "OBJECTION",
-        "last_touched": 1786420026
+        "last_touched": 1786423017
       }
     },
     {
       "rank": 8,
-      "title": "求教， 27 应届生第一份工作多少就差不多了，后端，江苏大学软件工程（双非本）",
-      "url": "https://www.v2ex.com/t/1233225",
-      "description": "",
-      "metric": "70 回复",
-      "metric_value": 70,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "shanduduchen",
-        "last_touched": 1786419142
-      }
-    },
-    {
-      "rank": 9,
       "title": "“万一免五”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.11 日~8.17 日]",
       "url": "https://www.v2ex.com/t/1233404",
       "description": "这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+大笑脸开户，最近新增了很多新的低门槛免 5 券商，股票，etf 全网超低费率，欢迎来开！⚠️开户和推荐朋友都有红包！⚠️回帖即可参与抽奖！⚠️大笑脸低佣开户推荐：YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]GF 证券：ETF 万 0.5 免 5 [ETF 费率低]CC 证券：万 1 免 5  [低门槛股票 etf 双免 5]DB 证券：万 0.741 免 5 [国企券商，股票 etf 费率都很低]GT*证券：万 0.8 免 5  [头部龙",
-      "metric": "66 回复",
-      "metric_value": 66,
+      "metric": "75 回复",
+      "metric_value": 75,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "daxiaolian",
-        "last_touched": 1786419375
+        "last_touched": 1786425150
+      }
+    },
+    {
+      "rank": 9,
+      "title": "你会选择哪个颜色代表夏天？",
+      "url": "https://www.v2ex.com/t/1233418",
+      "description": "你会选择哪个颜色代表夏天？为什么？",
+      "metric": "51 回复",
+      "metric_value": 51,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "test848",
+        "last_touched": 1786421741
       }
     }
   ]
