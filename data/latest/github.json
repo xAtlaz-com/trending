@@ -1,226 +1,239 @@
 {
   "source": "github",
-  "updated_at": "2026-08-11T13:56:27+00:00",
-  "count": 17,
+  "updated_at": "2026-08-11T15:01:21+00:00",
+  "count": 18,
   "items": [
     {
       "rank": 1,
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "metric": "★ 142,471",
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "metric": "★ 5,860",
       "extra": {
-        "language": "Shell",
-        "stars": "142,471",
-        "forks": "23,196",
-        "stars_today": "971 stars today"
+        "language": "HTML",
+        "stars": "5,860",
+        "forks": "396",
+        "stars_today": "1,612 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "semantica-agi / semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "metric": "★ 4,609",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "metric": "★ 142,573",
       "extra": {
-        "language": "Python",
-        "stars": "4,609",
-        "forks": "510",
-        "stars_today": "884 stars today"
+        "language": "Shell",
+        "stars": "142,573",
+        "forks": "23,209",
+        "stars_today": "971 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "metric": "★ 94,420",
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "metric": "★ 4,645",
       "extra": {
-        "language": "Shell",
-        "stars": "94,420",
-        "forks": "10,347",
-        "stars_today": "18 stars today"
+        "language": "Python",
+        "stars": "4,645",
+        "forks": "512",
+        "stars_today": "884 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 86,066",
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "metric": "★ 94,429",
       "extra": {
-        "language": "JavaScript",
-        "stars": "86,066",
-        "forks": "9,255",
-        "stars_today": "571 stars today"
+        "language": "Shell",
+        "stars": "94,429",
+        "forks": "10,348",
+        "stars_today": "18 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "metric": "★ 61,951",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 86,087",
       "extra": {
-        "language": "Python",
-        "stars": "61,951",
-        "forks": "52,373",
-        "stars_today": "731 stars today"
+        "language": "JavaScript",
+        "stars": "86,087",
+        "forks": "9,256",
+        "stars_today": "571 stars today"
       }
     },
     {
       "rank": 6,
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "metric": "★ 61,997",
+      "extra": {
+        "language": "Python",
+        "stars": "61,997",
+        "forks": "52,392",
+        "stars_today": "731 stars today"
+      }
+    },
+    {
+      "rank": 7,
       "title": "vitali87 / code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "metric": "★ 3,709",
+      "metric": "★ 3,725",
       "extra": {
         "language": "Python",
-        "stars": "3,709",
+        "stars": "3,725",
         "forks": "557",
         "stars_today": "339 stars today"
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "anthropics / skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "metric": "★ 167,871",
+      "metric": "★ 167,908",
       "extra": {
         "language": "Python",
-        "stars": "167,871",
-        "forks": "20,009",
+        "stars": "167,908",
+        "forks": "20,010",
         "stars_today": "468 stars today"
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "3b1b / manim",
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
-      "metric": "★ 89,994",
+      "metric": "★ 90,024",
       "extra": {
         "language": "Python",
-        "stars": "89,994",
-        "forks": "7,469",
+        "stars": "90,024",
+        "forks": "7,468",
         "stars_today": "381 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "HKUDS / DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "metric": "★ 34,416",
+      "metric": "★ 34,475",
       "extra": {
         "language": "Python",
-        "stars": "34,416",
-        "forks": "4,405",
+        "stars": "34,475",
+        "forks": "4,406",
         "stars_today": "829 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "stablyai / orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "metric": "★ 42,255",
+      "metric": "★ 42,314",
       "extra": {
         "language": "TypeScript",
-        "stars": "42,255",
-        "forks": "2,955",
+        "stars": "42,314",
+        "forks": "2,960",
         "stars_today": "881 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "paperclipai / paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
-      "metric": "★ 76,958",
+      "metric": "★ 76,982",
       "extra": {
         "language": "TypeScript",
-        "stars": "76,958",
-        "forks": "14,223",
+        "stars": "76,982",
+        "forks": "14,228",
         "stars_today": "743 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "huggingface / transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "metric": "★ 163,627",
+      "metric": "★ 163,652",
       "extra": {
         "language": "Python",
-        "stars": "163,627",
+        "stars": "163,652",
         "forks": "34,192",
         "stars_today": "69 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "harveyai / harvey-labs",
       "url": "https://github.com/harveyai/harvey-labs",
       "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "metric": "★ 994",
+      "metric": "★ 1,008",
       "extra": {
         "language": "Python",
-        "stars": "994",
+        "stars": "1,008",
         "forks": "191",
         "stars_today": "24 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "jaywcjlove / awesome-mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "metric": "★ 110,239",
+      "metric": "★ 110,284",
       "extra": {
         "language": "Swift",
-        "stars": "110,239",
-        "forks": "8,404",
-        "stars_today": "414 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 47,044",
-      "extra": {
-        "language": "Python",
-        "stars": "47,044",
-        "forks": "5,877",
-        "stars_today": "436 stars today"
+        "stars": "110,284",
+        "forks": "8,406",
+        "stars_today": "334 stars today"
       }
     },
     {
       "rank": 16,
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "metric": "★ 47,088",
+      "extra": {
+        "language": "Python",
+        "stars": "47,088",
+        "forks": "5,883",
+        "stars_today": "436 stars today"
+      }
+    },
+    {
+      "rank": 17,
       "title": "practical-tutorials / project-based-learning",
       "url": "https://github.com/practical-tutorials/project-based-learning",
       "description": "Curated list of project-based tutorials",
-      "metric": "★ 278,198",
+      "metric": "★ 278,237",
       "extra": {
         "language": "Python",
-        "stars": "278,198",
+        "stars": "278,237",
         "forks": "35,762",
         "stars_today": "394 stars today"
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "PrimeIntellect-ai / prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "metric": "★ 13,724",
+      "metric": "★ 13,775",
       "extra": {
         "language": "TypeScript",
-        "stars": "13,724",
-        "forks": "1,408",
+        "stars": "13,775",
+        "forks": "1,417",
         "stars_today": "1,148 stars today"
       }
     }
