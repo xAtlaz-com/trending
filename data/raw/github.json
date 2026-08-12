@@ -1,222 +1,209 @@
 [
   {
     "rank": 1,
-    "title": "cathrynlavery / diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-    "metric": "★ 9,058",
-    "extra": {
-      "language": "HTML",
-      "stars": "9,058",
-      "forks": "585",
-      "stars_today": "2,951 stars today"
-    }
-  },
-  {
-    "rank": 2,
     "title": "macro-inc / macro",
     "url": "https://github.com/macro-inc/macro",
     "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-    "metric": "★ 1,409",
+    "metric": "★ 1,476",
     "extra": {
       "language": "Rust",
-      "stars": "1,409",
-      "forks": "195",
+      "stars": "1,476",
+      "forks": "198",
       "stars_today": "325 stars today"
     }
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "semantica-agi / semantica",
     "url": "https://github.com/semantica-agi/semantica",
     "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-    "metric": "★ 5,531",
+    "metric": "★ 5,556",
     "extra": {
       "language": "Python",
-      "stars": "5,531",
-      "forks": "611",
+      "stars": "5,556",
+      "forks": "612",
       "stars_today": "834 stars today"
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "stablyai / orca",
     "url": "https://github.com/stablyai/orca",
     "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-    "metric": "★ 43,582",
+    "metric": "★ 43,640",
     "extra": {
       "language": "TypeScript",
-      "stars": "43,582",
-      "forks": "3,041",
+      "stars": "43,640",
+      "forks": "3,043",
       "stars_today": "1,215 stars today"
     }
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "msitarzewski / agency-agents",
     "url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "metric": "★ 144,376",
+    "metric": "★ 144,409",
     "extra": {
       "language": "Shell",
-      "stars": "144,376",
-      "forks": "23,403",
+      "stars": "144,409",
+      "forks": "23,405",
       "stars_today": "1,969 stars today"
     }
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "shiyu-coder / Kronos",
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "metric": "★ 36,876",
+    "metric": "★ 36,895",
     "extra": {
       "language": "Python",
-      "stars": "36,876",
-      "forks": "6,143",
+      "stars": "36,895",
+      "forks": "6,144",
       "stars_today": "277 stars today"
     }
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "NanmiCoder / MediaCrawler",
     "url": "https://github.com/NanmiCoder/MediaCrawler",
     "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "metric": "★ 61,907",
+    "metric": "★ 61,923",
     "extra": {
       "language": "Python",
-      "stars": "61,907",
-      "forks": "12,115",
+      "stars": "61,923",
+      "forks": "12,118",
       "stars_today": "236 stars today"
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "hugohe3 / ppt-master",
     "url": "https://github.com/hugohe3/ppt-master",
     "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-    "metric": "★ 45,377",
+    "metric": "★ 45,420",
     "extra": {
       "language": "Python",
-      "stars": "45,377",
-      "forks": "3,701",
+      "stars": "45,420",
+      "forks": "3,706",
       "stars_today": "364 stars today"
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "infiniflow / ragflow",
     "url": "https://github.com/infiniflow/ragflow",
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "metric": "★ 87,444",
+    "metric": "★ 87,465",
     "extra": {
       "language": "Go",
-      "stars": "87,444",
-      "forks": "10,302",
-      "stars_today": "85 stars today"
+      "stars": "87,465",
+      "forks": "10,304",
+      "stars_today": "182 stars today"
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "paperclipai / paperclip",
     "url": "https://github.com/paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work",
-    "metric": "★ 77,559",
+    "metric": "★ 77,593",
     "extra": {
       "language": "TypeScript",
-      "stars": "77,559",
-      "forks": "14,290",
+      "stars": "77,593",
+      "forks": "14,291",
       "stars_today": "573 stars today"
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "NVIDIA-NeMo / Switchyard",
     "url": "https://github.com/NVIDIA-NeMo/Switchyard",
     "description": "",
-    "metric": "★ 686",
+    "metric": "★ 710",
     "extra": {
       "language": "Rust",
-      "stars": "686",
-      "forks": "76",
+      "stars": "710",
+      "forks": "77",
       "stars_today": "370 stars today"
     }
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "ZuodaoTech / everyone-can-use-english",
     "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
     "description": "人人都能用英语",
-    "metric": "★ 35,999",
+    "metric": "★ 36,019",
     "extra": {
       "language": "TypeScript",
-      "stars": "35,999",
+      "stars": "36,019",
       "forks": "5,025",
       "stars_today": "53 stars today"
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "smicallef / spiderfoot",
     "url": "https://github.com/smicallef/spiderfoot",
     "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-    "metric": "★ 20,262",
+    "metric": "★ 20,273",
     "extra": {
       "language": "Python",
-      "stars": "20,262",
+      "stars": "20,273",
       "forks": "3,288",
       "stars_today": "40 stars today"
     }
   },
   {
-    "rank": 14,
+    "rank": 13,
     "title": "localsend / localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open-source cross-platform alternative to AirDrop",
-    "metric": "★ 87,613",
+    "metric": "★ 87,649",
     "extra": {
       "language": "Dart",
-      "stars": "87,613",
-      "forks": "4,861",
-      "stars_today": "159 stars today"
+      "stars": "87,649",
+      "forks": "4,863",
+      "stars_today": "284 stars today"
     }
   },
   {
-    "rank": 15,
+    "rank": 14,
     "title": "Lightricks / LTX-2",
     "url": "https://github.com/Lightricks/LTX-2",
     "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-    "metric": "★ 8,633",
+    "metric": "★ 8,649",
     "extra": {
       "language": "Python",
-      "stars": "8,633",
-      "forks": "1,391",
+      "stars": "8,649",
+      "forks": "1,392",
       "stars_today": "40 stars today"
     }
   },
   {
-    "rank": 16,
+    "rank": 15,
     "title": "embabel / embabel-agent",
     "url": "https://github.com/embabel/embabel-agent",
     "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-    "metric": "★ 4,187",
+    "metric": "★ 4,191",
     "extra": {
       "language": "Kotlin",
-      "stars": "4,187",
+      "stars": "4,191",
       "forks": "410",
       "stars_today": "29 stars today"
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "title": "cactus-compute / needle",
     "url": "https://github.com/cactus-compute/needle",
     "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-    "metric": "★ 4,018",
+    "metric": "★ 4,051",
     "extra": {
       "language": "Python",
-      "stars": "4,018",
-      "forks": "298",
+      "stars": "4,051",
+      "forks": "299",
       "stars_today": "346 stars today"
     }
   }
