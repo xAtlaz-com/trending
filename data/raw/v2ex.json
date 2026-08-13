@@ -4,13 +4,13 @@
     "title": "local.ai",
     "url": "https://www.v2ex.com/t/1234095",
     "description": "一个关于本地模型的能力比较网站。欢迎使用我的链接注册：https://local.ai/v2ex/invite",
-    "metric": "381 回复",
-    "metric_value": 381,
+    "metric": "386 回复",
+    "metric_value": 386,
     "extra": {
       "node": "Local LLM",
       "node_name": "localllm",
       "author": "Livid",
-      "last_touched": 1786689220
+      "last_touched": 1786689370
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
     "url": "https://www.v2ex.com/t/1234077",
     "description": "我的简历： https://y06c8e8us2nknqg9.public.blob.vercel-storage.com/resumes/jie_resume_chinese.pdf\n主页：jingcjie.top\n我能想到的公司全都投了，能找内推的也推了，目前主投的字节，阿里，oppo 都没进面试。腾讯做世界模型的进了三面然后凉凉。\n现在手里的 offer 全是博后的，业界一个都还没有。\n我应该尝试一下哪些平台吗？之前试了下牛客，但我发现牛客也会引流到各大官网，然后和我让同学内推的其实是一个效果。大多帖子也不太有意义，只好让 codex 筛了我来投。",
-    "metric": "143 回复",
-    "metric_value": 143,
+    "metric": "145 回复",
+    "metric_value": 145,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "jingcjie",
-      "last_touched": 1786633537
+      "last_touched": 1786641699
     }
   },
   {
@@ -32,13 +32,13 @@
     "title": "感觉自己被这个社会判了死刑。",
     "url": "https://www.v2ex.com/t/1234133",
     "description": "我 24 年 7 月被裁后就一直在家宅着，当时是真的不想硬逼着自己赶紧去找下份工作，为了在家不无聊所以陆陆续续买了不少电子产品在家玩，也一直没投简历，今年年初才开始逼着自己找工作，本来是想着如果彻底没希望在这个行业混就回老家，别再在这里浪费钱了，但现在还是没办法逼自己回去。\n回不去的原因主要是因为在我小时候虐待我，当着我的面把我的宠物猫摔死的那个人渣还没死，今年年初听说它肺癌扩散了，肯定是活不了了，但就是不知道啥时候死，我很怕它再活个 1 年 2 年，那我就算把电脑全都卖了也撑不到那个时候。\n我本来不想发这种帖子脏 V 友的眼睛，但是我目前的情况去找 AI 倾诉已经不起任何作用了，所以还是想找",
-    "metric": "86 回复",
-    "metric_value": 86,
+    "metric": "90 回复",
+    "metric_value": 90,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "qemu32",
-      "last_touched": 1786579655
+      "last_touched": 1786594055
     }
   },
   {
@@ -74,17 +74,31 @@
     "title": "Cursor 的实际体验怎么样？",
     "url": "https://www.v2ex.com/t/1234043",
     "description": "同样的$20 订阅，对比 Codex/Claude $20 如何？不是很复杂的任务，希望模型能禁得住用一些。",
-    "metric": "66 回复",
-    "metric_value": 66,
+    "metric": "68 回复",
+    "metric_value": 68,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "DejavuMoe",
-      "last_touched": 1786633809
+      "last_touched": 1786642045
     }
   },
   {
     "rank": 7,
+    "title": "[限时福利] HyperAPI 的新老用户们，来领鸡蛋了",
+    "url": "https://www.v2ex.com/t/1234025",
+    "description": "只要剩余额度不到 $1 的用户，都可以领取$10 体验额度\n站点： https://hyperapi.cc/\nQQ 交流群：1095326876 ， 有任何使用上的问题，都可以在群里问，群里的佬友们都非常热心。",
+    "metric": "61 回复",
+    "metric_value": 61,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "WinterLord",
+      "last_touched": 1786638813
+    }
+  },
+  {
+    "rank": 8,
     "title": "Codex 重置后，账号额度明显缩水",
     "url": "https://www.v2ex.com/t/1233991",
     "description": "昨晚用了 8.13 的那个重置卡以后，我的两个 20x 的号额度基本都缩水了一半左右。\n有没有人遇到同样的情况？",
@@ -95,20 +109,6 @@
       "node_name": "openai",
       "author": "rhtututu",
       "last_touched": 1786635520
-    }
-  },
-  {
-    "rank": 8,
-    "title": "[限时福利] HyperAPI 的新老用户们，来领鸡蛋了",
-    "url": "https://www.v2ex.com/t/1234025",
-    "description": "只要剩余额度不到 $1 的用户，都可以领取$10 体验额度\n站点： https://hyperapi.cc/\nQQ 交流群：1095326876 ， 有任何使用上的问题，都可以在群里问，群里的佬友们都非常热心。",
-    "metric": "60 回复",
-    "metric_value": 60,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "WinterLord",
-      "last_touched": 1786632908
     }
   }
 ]
