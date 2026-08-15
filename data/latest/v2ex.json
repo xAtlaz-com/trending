@@ -1,10 +1,24 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T10:49:45+00:00",
+  "updated_at": "2026-08-15T11:23:05+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
+      "url": "https://www.v2ex.com/t/1234535",
+      "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
+      "metric": "72 回复",
+      "metric_value": 72,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "wKong753900",
+        "last_touched": 1786791278
+      }
+    },
+    {
+      "rank": 2,
       "title": "仅以此文，记录 6 年来单纯又愚蠢的自己和成瘾的她",
       "url": "https://www.v2ex.com/t/1234566",
       "description": "我，普通男生，22 年二本毕业她，普通女生，长得小小个，看起来很单纯的一个小女生她和我是同一个中学的，比我小一届。高中都很陌生，不认识，只是见过20 年，我还在二本学校，一次偶然的机会，她加上了我的 QQ ，因为老乡而且是同一个中学，有很多话题每天热聊，后面暧昧，后面开始异地恋，每半个月我都会坐火车去找她一次，两个小时的绿皮火车见面就是一起出去玩，一起吃好吃的，一次拍照，一起做爱等所有情侣都会做的事情那段时间真的好快乐，就像两个孩子每隔半个月一起出去玩一样，她喜欢拍照记录了非常多的照片做爱也很有激情，非常主动21 年暑假，她家里供不起她读书了（自考本），她来到深圳租了个单间，开始上班，暑假我也",
@@ -18,31 +32,17 @@
       }
     },
     {
-      "rank": 2,
-      "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
-      "url": "https://www.v2ex.com/t/1234535",
-      "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
-      "metric": "71 回复",
-      "metric_value": 71,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "wKong753900",
-        "last_touched": 1786790790
-      }
-    },
-    {
       "rank": 3,
       "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
       "url": "https://www.v2ex.com/t/1234521",
       "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
-      "metric": "45 回复",
-      "metric_value": 45,
+      "metric": "48 回复",
+      "metric_value": 48,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Livid",
-        "last_touched": 1786790103
+        "last_touched": 1786792693
       }
     },
     {
@@ -50,13 +50,13 @@
       "title": "刚买了个贝尔金充电器，准备做 Mac 充电器的平替，然后测了下纹波，结果震惊了",
       "url": "https://www.v2ex.com/t/1234506",
       "description": "以上是测试数据，居然是原装充电器纹波最大，然后贝尔金的纹波也不咋地，没想到联想的口红电源频谱最干净（家里有好多，因为啸叫+代工厂的原因，平时还看不上它）请各位电子大佬帮忙分析下，看下哪个充电器最好，然后还需要测哪些参数（专业仪器就别说了，没意义）",
-      "metric": "44 回复",
-      "metric_value": 44,
+      "metric": "45 回复",
+      "metric_value": 45,
       "extra": {
         "node": "配件",
         "node_name": "accessory",
         "author": "unt",
-        "last_touched": 1786789805
+        "last_touched": 1786791101
       }
     },
     {
@@ -75,6 +75,20 @@
     },
     {
       "rank": 6,
+      "title": "一章有意思的图，真有人找不到这么明显的东西吗？",
+      "url": "https://www.v2ex.com/t/1234534",
+      "description": "请找出这张图中正方形图片中绿色的六边形\n\n说真的按理说这个应该一眼就能看出来了，但是我问了几个我的同事，都说没看出来，还有个人花了一两分钟仔仔细细看了一遍，说没找出来，我还问了问其他朋友\n真的不能一眼看出来吗？\n结果两极分化:\n看得出来的人一眼就能看出来，还以为我在侮辱他的智商\n看不出来的人要找半天，最后都找不出来什么意思",
+      "metric": "28 回复",
+      "metric_value": 28,
+      "extra": {
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "litian98",
+        "last_touched": 1786792134
+      }
+    },
+    {
+      "rank": 7,
       "title": "做一个思想实验，如果 dsh 没有打着 deepseek 的旗号",
       "url": "https://www.v2ex.com/t/1234524",
       "description": "而是一个名不见经传的个人开发者推出的，你怎么评价它",
@@ -85,20 +99,6 @@
         "node_name": "programmer",
         "author": "leihaibo1992",
         "last_touched": 1786411325
-      }
-    },
-    {
-      "rank": 7,
-      "title": "一章有意思的图，真有人找不到这么明显的东西吗？",
-      "url": "https://www.v2ex.com/t/1234534",
-      "description": "请找出这张图中正方形图片中绿色的六边形\n\n说真的按理说这个应该一眼就能看出来了，但是我问了几个我的同事，都说没看出来，还有个人花了一两分钟仔仔细细看了一遍，说没找出来，我还问了问其他朋友\n真的不能一眼看出来吗？\n结果两极分化:\n看得出来的人一眼就能看出来，还以为我在侮辱他的智商\n看不出来的人要找半天，最后都找不出来什么意思",
-      "metric": "27 回复",
-      "metric_value": 27,
-      "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "litian98",
-        "last_touched": 1786789550
       }
     },
     {
