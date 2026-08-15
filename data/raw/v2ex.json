@@ -4,13 +4,13 @@
     "title": "没想到我也走到了仲裁的道路上",
     "url": "https://www.v2ex.com/t/1234453",
     "description": "昨天：2026 年 8 月 13 号，接到人力通知，说我被裁员了，和我谈话，说补偿尽公司最大能力给到 N \n我没有同意\n然后就逼着我做交接，我心想那就交接呗，反正我这的东西，同事手里也有，我不交接他们找别人也能拿到。\n补偿的主张 2N ，公司不同意，然后公司副总就拉个群，和我表明观点，肯定给不了。那就仲裁呗\n\n看到公司对仲裁一点也不在乎，这怎么办？\n我准备了打卡记录，钉钉聊天的截图，银行流水等等的证据，不知道有没有用，有仲裁过的兄弟给点意见",
-    "metric": "85 回复",
-    "metric_value": 85,
+    "metric": "86 回复",
+    "metric_value": 86,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "sunmoon1983",
-      "last_touched": 1786776577
+      "last_touched": 1786782677
     }
   },
   {
@@ -18,59 +18,73 @@
     "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
     "url": "https://www.v2ex.com/t/1234535",
     "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
-    "metric": "60 回复",
-    "metric_value": 60,
+    "metric": "62 回复",
+    "metric_value": 62,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "wKong753900",
-      "last_touched": 1786778972
+      "last_touched": 1786782507
     }
   },
   {
     "rank": 3,
-    "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
-    "url": "https://www.v2ex.com/t/1234521",
-    "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
-    "metric": "35 回复",
-    "metric_value": 35,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "Livid",
-      "last_touched": 1786777864
-    }
-  },
-  {
-    "rank": 4,
     "title": "仅以此文，记录 6 年来单纯又愚蠢的自己和成瘾的她",
     "url": "https://www.v2ex.com/t/1234566",
     "description": "我，普通男生，22 年二本毕业她，普通女生，长得小小个，看起来很单纯的一个小女生她和我是同一个中学的，比我小一届。高中都很陌生，不认识，只是见过20 年，我还在二本学校，一次偶然的机会，她加上了我的 QQ ，因为老乡而且是同一个中学，有很多话题每天热聊，后面暧昧，后面开始异地恋，每半个月我都会坐火车去找她一次，两个小时的绿皮火车见面就是一起出去玩，一起吃好吃的，一次拍照，一起做爱等所有情侣都会做的事情那段时间真的好快乐，就像两个孩子每隔半个月一起出去玩一样，她喜欢拍照记录了非常多的照片做爱也很有激情，非常主动21 年暑假，她家里供不起她读书了（自考本），她来到深圳租了个单间，开始上班，暑假我也",
-    "metric": "35 回复",
-    "metric_value": 35,
+    "metric": "51 回复",
+    "metric_value": 51,
     "extra": {
       "node": "情感问题",
       "node_name": "libido",
       "author": "xiao9469",
-      "last_touched": 1786778873
+      "last_touched": 1786782283
     }
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "刚买了个贝尔金充电器，准备做 Mac 充电器的平替，然后测了下纹波，结果震惊了",
     "url": "https://www.v2ex.com/t/1234506",
     "description": "以上是测试数据，居然是原装充电器纹波最大，然后贝尔金的纹波也不咋地，没想到联想的口红电源频谱最干净（家里有好多，因为啸叫+代工厂的原因，平时还看不上它）请各位电子大佬帮忙分析下，看下哪个充电器最好，然后还需要测哪些参数（专业仪器就别说了，没意义）",
-    "metric": "33 回复",
-    "metric_value": 33,
+    "metric": "38 回复",
+    "metric_value": 38,
     "extra": {
       "node": "配件",
       "node_name": "accessory",
       "author": "unt",
-      "last_touched": 1786779052
+      "last_touched": 1786780705
+    }
+  },
+  {
+    "rank": 5,
+    "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
+    "url": "https://www.v2ex.com/t/1234521",
+    "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
+    "metric": "38 回复",
+    "metric_value": 38,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "Livid",
+      "last_touched": 1786782495
     }
   },
   {
     "rank": 6,
+    "title": "大冤种！刚全额续费 Gemini Pro，给我账号封了！",
+    "url": "https://www.v2ex.com/t/1234459",
+    "description": "对 Gemini 感情很深，留下了非常多的交互。上个月底刚刚在官网续费了一年，今天发现突然就提示“Gemini 目前不支持你所在的地区。敬请期待！”，账号有种凉凉了的感觉。试了很多遍，发现不是代理的问题，只要一登录就有这个提示了，不登录还能免费用用，真是大冤种啊！都知道 Gemini 目前这个阶段是 tough period ，所以特意续费支持。真是有种“我本将心向明月，奈何明月照沟渠”的苍凉感。现在首要的目标：1. 希望尽可能恢复 Gemini 的使用；2. 如果确实不行，希望至少能退款吧...大家有谁也遇到类似的情况了么？能否分享一点相关经验？谢谢！",
+    "metric": "29 回复",
+    "metric_value": 29,
+    "extra": {
+      "node": "Google Gemini",
+      "node_name": "gemini",
+      "author": "APEC",
+      "last_touched": 1786725017
+    }
+  },
+  {
+    "rank": 7,
     "title": "有丰田荣放车主吗？值得购买吗？",
     "url": "https://www.v2ex.com/t/1234419",
     "description": "最近比较上头，计划年底购车，目前看丰田荣放还不错，",
@@ -84,35 +98,7 @@
     }
   },
   {
-    "rank": 7,
-    "title": "大冤种！刚全额续费 Gemini Pro，给我账号封了！",
-    "url": "https://www.v2ex.com/t/1234459",
-    "description": "对 Gemini 感情很深，留下了非常多的交互。上个月底刚刚在官网续费了一年，今天发现突然就提示“Gemini 目前不支持你所在的地区。敬请期待！”，账号有种凉凉了的感觉。试了很多遍，发现不是代理的问题，只要一登录就有这个提示了，不登录还能免费用用，真是大冤种啊！都知道 Gemini 目前这个阶段是 tough period ，所以特意续费支持。真是有种“我本将心向明月，奈何明月照沟渠”的苍凉感。现在首要的目标：1. 希望尽可能恢复 Gemini 的使用；2. 如果确实不行，希望至少能退款吧...大家有谁也遇到类似的情况了么？能否分享一点相关经验？谢谢！",
-    "metric": "28 回复",
-    "metric_value": 28,
-    "extra": {
-      "node": "Google Gemini",
-      "node_name": "gemini",
-      "author": "APEC",
-      "last_touched": 1786725017
-    }
-  },
-  {
     "rank": 8,
-    "title": "目前国内价格合适,能用的开发模型有哪些.",
-    "url": "https://www.v2ex.com/t/1234407",
-    "description": "这几天被 gpt5.6 搞的心态爆炸. 各种 bug,不按规范来. 一问就是“你说的对,我马上改”.  token 消耗又极快,plus 周额度基本也就一天. 想想还不如直接买国内模型,多写点约束也不是不能用.",
-    "metric": "27 回复",
-    "metric_value": 27,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "ainyyy",
-      "last_touched": 1786761282
-    }
-  },
-  {
-    "rank": 9,
     "title": "做一个思想实验，如果 dsh 没有打着 deepseek 的旗号",
     "url": "https://www.v2ex.com/t/1234524",
     "description": "而是一个名不见经传的个人开发者推出的，你怎么评价它",
@@ -126,7 +112,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "仲裁胜利-记一次不太艰辛的仲裁之路",
     "url": "https://www.v2ex.com/t/1234526",
     "description": "2025 年 5 月开始,公司发不出工资来,老是说有点困难,请大家一起努力共渡难关,工资一定会补上巴拉巴拉\n2025 年 5 月-9 月,公司开始各种理由不发工资,什么股东给别人担保,被银行封了账户之类的奇葩理由都出来了\n2025 年 9 月 18 号,决定不再相信公司的鬼话,把公司所有有价值的资产全部拍照列清单,包括老板的两瓶茅台酒\n2025 年 9 月 30 号上午,花 300 块咨询了律师朋友,扔下一张欠薪被迫解除劳动关系通知书后,扬长而去\n2025 年 9 月 30 号下午,朝阳区劳动仲裁立案,充分感觉到经济下行,来仲裁的人摩肩接踵  \n2025 年 10 月,仲裁试图调解,老板给的方",
@@ -137,6 +123,20 @@
       "node_name": "career",
       "author": "gezimonkey",
       "last_touched": 1786775559
+    }
+  },
+  {
+    "rank": 10,
+    "title": "使用 macbook 的话尽量使用知名品牌的无线鼠标吧",
+    "url": "https://www.v2ex.com/t/1234456",
+    "description": "原本使用的 漫步者（ EDIFIER ） HECATE G3M PRO 这个鼠标，在 windows pc 下无论是蓝牙还是 usb 2.4g 使用都很流畅正常。\n最近换了 macbook pro 之后，一开始使用蓝牙模式来连这个鼠标，然后偶尔会解锁后鼠标的回报率骤降只有一半，去网页测试的时候，只有 20-30hz 那种，这时候需要重置蓝牙或者重新开关鼠标才有机会恢复，恢复到 60-70hz 。\n因为这种骤降的情况太经常出现了，就买了一个 type c 转 usb 的，然后使用 usb 2.4g 的方式连接。然后就发现 3 个 type c 口就只有一个口可用，而且有时候解锁后就不生效了，需要",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "配件",
+      "node_name": "accessory",
+      "author": "lingyired",
+      "last_touched": 1786745320
     }
   }
 ]
