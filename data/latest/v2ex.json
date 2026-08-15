@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T02:35:14+00:00",
+  "updated_at": "2026-08-15T03:42:10+00:00",
   "count": 8,
   "items": [
     {
@@ -22,13 +22,13 @@
       "title": "没想到我也走到了仲裁的道路上",
       "url": "https://www.v2ex.com/t/1234453",
       "description": "昨天：2026 年 8 月 13 号，接到人力通知，说我被裁员了，和我谈话，说补偿尽公司最大能力给到 N \n我没有同意\n然后就逼着我做交接，我心想那就交接呗，反正我这的东西，同事手里也有，我不交接他们找别人也能拿到。\n补偿的主张 2N ，公司不同意，然后公司副总就拉个群，和我表明观点，肯定给不了。那就仲裁呗\n\n看到公司对仲裁一点也不在乎，这怎么办？\n我准备了打卡记录，钉钉聊天的截图，银行流水等等的证据，不知道有没有用，有仲裁过的兄弟给点意见",
-      "metric": "60 回复",
-      "metric_value": 60,
+      "metric": "70 回复",
+      "metric_value": 70,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "sunmoon1983",
-        "last_touched": 1786761112
+        "last_touched": 1786765017
       }
     },
     {
@@ -36,45 +36,17 @@
       "title": "讲一个我的朋友的人生故事吧——青年、骗子、爱情与生活",
       "url": "https://www.v2ex.com/t/1234360",
       "description": "出生\n其实这个故事就跟历史上王朝的迭代一样，在不同时代不同的人身上，重复了一轮又一轮，我之前也只是从书本上和影视中看到，而今在生活中见到了实在的例子。\n我的朋友 G 是贵州一个小村子里出来的，常年位居贫困县榜首。他的父母在在很小的去了老家的市里面做早点铺，打拼了三四年，挣了点钱，那个时候是他生活最好的时期，父母做了小生意，有些盈余，日常生活是能吃到肉的。\n后来所有的盈余全部填给了他的爷爷临终前欠下的债务。G 的父母或许出于别的考虑，也或是还债彻底没有了本钱，他们在我的朋友 G 大约六七岁的时候离开了老家，去了广州。\n广州市者，广东省会，古番禺县也，别号羊城。番禺居珠江三水之会，前临大海，背靠沃",
-      "metric": "58 回复",
-      "metric_value": 58,
+      "metric": "60 回复",
+      "metric_value": 60,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "happyma",
-        "last_touched": 1786755745
+        "last_touched": 1786764963
       }
     },
     {
       "rank": 4,
-      "title": "婚纱照选择",
-      "url": "https://www.v2ex.com/t/1234285",
-      "description": "最近女友想拍婚纱照想问问大家都是在哪里找的店，有没有什么需要注意避雷的小红书上不是拖就是推或者有没有推荐的，地点福州打算每周末带她去线下体验几家综合选择",
-      "metric": "48 回复",
-      "metric_value": 48,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "CareFreeSc",
-        "last_touched": 1786707782
-      }
-    },
-    {
-      "rank": 5,
-      "title": "大家有什么好的资产汇总管理方式吗？",
-      "url": "https://www.v2ex.com/t/1234316",
-      "description": "国内银行卡多张就不说了，重点是港卡、港股、国外券商这类。\n如何定期方便地回顾自己所有资产的情况？",
-      "metric": "39 回复",
-      "metric_value": 39,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "killva4624",
-        "last_touched": 1786754450
-      }
-    },
-    {
-      "rank": 6,
       "title": "支付宝 iOS 碰一下的支付流程改变了",
       "url": "https://www.v2ex.com/t/1234346",
       "description": "不知道是支付宝改了，还是从某个 iOS 版本开始，进入支付宝.app 然后碰一下也再需要点一下了之前的版本进入支付宝.app 之后，碰一下可以直接完成支付",
@@ -88,21 +60,35 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "你们周末都是怎么快速放松的？",
       "url": "https://www.v2ex.com/t/1234355",
       "description": "正经方式哈，自从有了孩子之后，周末的时间也越来越少了，工作压力也大，大家有什么好的快速调节的方式吗",
-      "metric": "34 回复",
-      "metric_value": 34,
+      "metric": "36 回复",
+      "metric_value": 36,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "exiaoxing",
-        "last_touched": 1786724173
+        "last_touched": 1786731373
       }
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
+      "url": "https://www.v2ex.com/t/1234535",
+      "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
+      "metric": "32 回复",
+      "metric_value": 32,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "wKong753900",
+        "last_touched": 1786765307
+      }
+    },
+    {
+      "rank": 7,
       "title": "接力一下 local.ai",
       "url": "https://www.v2ex.com/t/1234324",
       "description": "https://local.ai/alliot/invite",
@@ -113,6 +99,20 @@
         "node_name": "localllm",
         "author": "Alliot",
         "last_touched": 1786232956
+      }
+    },
+    {
+      "rank": 8,
+      "title": "购买 88vip 带的夸克会员要慎重，基本上一个月要验证一次",
+      "url": "https://www.v2ex.com/t/1234327",
+      "description": "去年买了一个 88vip 夸克，用了一年也没遇到验证问题。\n今年又买了一个，没想到一个月就要验证一次。这次购买的 v 友第一次验证之后就删了我的微信，第二次通过发好友申请提示之后帮我验证了，这个月又要验证，联系了两天联系不上了。总之购买夸克要慎重，不如自己开 88vip 了。",
+      "metric": "31 回复",
+      "metric_value": 31,
+      "extra": {
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "whosphp",
+        "last_touched": 1786702236
       }
     }
   ]
