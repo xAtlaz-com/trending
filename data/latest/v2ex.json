@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T15:24:23+00:00",
+  "updated_at": "2026-08-15T15:47:51+00:00",
   "count": 10,
   "items": [
     {
@@ -36,13 +36,13 @@
       "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
       "url": "https://www.v2ex.com/t/1234521",
       "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
-      "metric": "60 回复",
-      "metric_value": 60,
+      "metric": "64 回复",
+      "metric_value": 64,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Livid",
-        "last_touched": 1786807025
+        "last_touched": 1786808390
       }
     },
     {
@@ -50,13 +50,13 @@
       "title": "一章有意思的图，真有人找不到这么明显的东西吗？",
       "url": "https://www.v2ex.com/t/1234534",
       "description": "请找出这张图中正方形图片中绿色的六边形\n\n说真的按理说这个应该一眼就能看出来了，但是我问了几个我的同事，都说没看出来，还有个人花了一两分钟仔仔细细看了一遍，说没找出来，我还问了问其他朋友\n真的不能一眼看出来吗？\n结果两极分化:\n看得出来的人一眼就能看出来，还以为我在侮辱他的智商\n看不出来的人要找半天，最后都找不出来什么意思",
-      "metric": "34 回复",
-      "metric_value": 34,
+      "metric": "35 回复",
+      "metric_value": 35,
       "extra": {
         "node": "分享发现",
         "node_name": "share",
         "author": "litian98",
-        "last_touched": 1786806266
+        "last_touched": 1786808216
       }
     },
     {
@@ -103,11 +103,25 @@
     },
     {
       "rank": 8,
+      "title": "用了十几年的 github 号被封了",
+      "url": "https://www.v2ex.com/t/1234561",
+      "description": "copilot 持续订阅了几年，2 个月之前停止订阅，全是走的自己建行 visa 卡。 其他的原因可能是认证过教育账号？但是那都是很多年前了，还是用的自己的学校教育网邮箱。",
+      "metric": "24 回复",
+      "metric_value": 24,
+      "extra": {
+        "node": "GitHub",
+        "node_name": "github",
+        "author": "tinx",
+        "last_touched": 1786808618
+      }
+    },
+    {
+      "rank": 9,
       "title": "个人开发，选哪个性价比更高？",
       "url": "https://www.v2ex.com/t/1234528",
       "description": "个人开发一些 app 或者小游戏，哪个 AI 工具性价比更合适？\n大家用下来，推荐哪个？ Claude code ，Codex ？国内有也不错的吗？\n谢谢",
-      "metric": "22 回复",
-      "metric_value": 22,
+      "metric": "23 回复",
+      "metric_value": 23,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
@@ -116,7 +130,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "local.ai 邀请注册教程，分享几个可以用的 3 位用户名",
       "url": "https://www.v2ex.com/t/1234537",
       "description": "点击邀请链接：\n\nhttps://local.ai/uqp/invite\n\n\n打开邀请链接\n点击 Continue with Hugging Face\n点击 Don't have an account? Sign Up\n输入邮箱和密码完成注册\n填写用户名等资料\n完成邮箱验证\n登录 Hugging Face\n重新打开邀请链接\n再次点击 Continue with Hugging Face 完成授权\n注册成功 \n\n\n很多人注册后直接关闭页面，导致邀请关系没有绑定。完成邮箱验证并登录后，记得重新进入邀请链接完成授权，这是最关键的一步。",
@@ -127,20 +141,6 @@
         "node_name": "localllm",
         "author": "agood",
         "last_touched": 1786506793
-      }
-    },
-    {
-      "rank": 10,
-      "title": "用了十几年的 github 号被封了",
-      "url": "https://www.v2ex.com/t/1234561",
-      "description": "copilot 持续订阅了几年，2 个月之前停止订阅，全是走的自己建行 visa 卡。 其他的原因可能是认证过教育账号？但是那都是很多年前了，还是用的自己的学校教育网邮箱。",
-      "metric": "20 回复",
-      "metric_value": 20,
-      "extra": {
-        "node": "GitHub",
-        "node_name": "github",
-        "author": "tinx",
-        "last_touched": 1786805336
       }
     }
   ]
