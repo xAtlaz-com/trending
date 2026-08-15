@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T04:34:57+00:00",
+  "updated_at": "2026-08-15T05:28:32+00:00",
   "count": 8,
   "items": [
     {
@@ -36,31 +36,17 @@
       "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
       "url": "https://www.v2ex.com/t/1234535",
       "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
-      "metric": "41 回复",
-      "metric_value": 41,
+      "metric": "44 回复",
+      "metric_value": 44,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "wKong753900",
-        "last_touched": 1786768249
+        "last_touched": 1786771529
       }
     },
     {
       "rank": 4,
-      "title": "支付宝 iOS 碰一下的支付流程改变了",
-      "url": "https://www.v2ex.com/t/1234346",
-      "description": "不知道是支付宝改了，还是从某个 iOS 版本开始，进入支付宝.app 然后碰一下也再需要点一下了之前的版本进入支付宝.app 之后，碰一下可以直接完成支付",
-      "metric": "38 回复",
-      "metric_value": 38,
-      "extra": {
-        "node": "iPhone",
-        "node_name": "iphone",
-        "author": "zyu0090",
-        "last_touched": 1786720136
-      }
-    },
-    {
-      "rank": 5,
       "title": "你们周末都是怎么快速放松的？",
       "url": "https://www.v2ex.com/t/1234355",
       "description": "正经方式哈，自从有了孩子之后，周末的时间也越来越少了，工作压力也大，大家有什么好的快速调节的方式吗",
@@ -74,17 +60,31 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "[稳定中转] plus0.1-0.12 自建正价 pro20x 稳定号池 0.18x 可用性拉满",
       "url": "https://www.v2ex.com/t/1234372",
       "description": "从开放注册到现在三个月左右了，目前服务器已迁移到 ovh ，前置加了 1 台 dmit pro 做了国内线路优化 稳定性拉满 openai  claude gemini ，生图的模型都有  站内主推的是 gpt:           plus: 倍率 0.1x-0.12x 随市场价格波动（基本稳定，会随官方风控波动）           pro: 是纯自建的正价 20x 号池，稳定性拉满，适合追求稳定又兼顾性价比的老板         下面附上监控图  新用户可以加 qq 群:995462157 ，群里不定时送额度兑换码, v 友可以在评论区发注册后的 id/用户名/邮箱 ，送体验额度，欢迎各",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "metric": "33 回复",
+      "metric_value": 33,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "doveray",
-        "last_touched": 1786721695
+        "last_touched": 1786728895
+      }
+    },
+    {
+      "rank": 6,
+      "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
+      "url": "https://www.v2ex.com/t/1234521",
+      "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
+      "metric": "29 回复",
+      "metric_value": 29,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "Livid",
+        "last_touched": 1786771019
       }
     },
     {
@@ -103,16 +103,16 @@
     },
     {
       "rank": 8,
-      "title": "有丰田荣放车主吗？值得购买吗？",
-      "url": "https://www.v2ex.com/t/1234419",
-      "description": "最近比较上头，计划年底购车，目前看丰田荣放还不错，",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "title": "刚买了个贝尔金充电器，准备做 Mac 充电器的平替，然后测了下纹波，结果震惊了",
+      "url": "https://www.v2ex.com/t/1234506",
+      "description": "以上是测试数据，居然是原装充电器纹波最大，然后贝尔金的纹波也不咋地，没想到联想的口红电源频谱最干净（家里有好多，因为啸叫+代工厂的原因，平时还看不上它）请各位电子大佬帮忙分析下，看下哪个充电器最好，然后还需要测哪些参数（专业仪器就别说了，没意义）",
+      "metric": "27 回复",
+      "metric_value": 27,
       "extra": {
-        "node": "汽车",
-        "node_name": "car",
-        "author": "xlLee",
-        "last_touched": 1786580697
+        "node": "配件",
+        "node_name": "accessory",
+        "author": "unt",
+        "last_touched": 1786768750
       }
     }
   ]
