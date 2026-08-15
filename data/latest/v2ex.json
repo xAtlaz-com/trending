@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T12:42:32+00:00",
+  "updated_at": "2026-08-15T13:33:29+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "仅以此文，记录 6 年来单纯又愚蠢的自己和成瘾的她",
       "url": "https://www.v2ex.com/t/1234566",
       "description": "我，普通男生，22 年二本毕业她，普通女生，长得小小个，看起来很单纯的一个小女生她和我是同一个中学的，比我小一届。高中都很陌生，不认识，只是见过20 年，我还在二本学校，一次偶然的机会，她加上了我的 QQ ，因为老乡而且是同一个中学，有很多话题每天热聊，后面暧昧，后面开始异地恋，每半个月我都会坐火车去找她一次，两个小时的绿皮火车见面就是一起出去玩，一起吃好吃的，一次拍照，一起做爱等所有情侣都会做的事情那段时间真的好快乐，就像两个孩子每隔半个月一起出去玩一样，她喜欢拍照记录了非常多的照片做爱也很有激情，非常主动21 年暑假，她家里供不起她读书了（自考本），她来到深圳租了个单间，开始上班，暑假我也",
-      "metric": "78 回复",
-      "metric_value": 78,
+      "metric": "82 回复",
+      "metric_value": 82,
       "extra": {
         "node": "情感问题",
         "node_name": "libido",
         "author": "xiao9469",
-        "last_touched": 1786797483
+        "last_touched": 1786800150
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
       "url": "https://www.v2ex.com/t/1234535",
       "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
-      "metric": "75 回复",
-      "metric_value": 75,
+      "metric": "76 回复",
+      "metric_value": 76,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "wKong753900",
-        "last_touched": 1786797644
+        "last_touched": 1786797822
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
       "url": "https://www.v2ex.com/t/1234521",
       "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
-      "metric": "53 回复",
-      "metric_value": 53,
+      "metric": "56 回复",
+      "metric_value": 56,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Livid",
-        "last_touched": 1786797474
+        "last_touched": 1786799737
       }
     },
     {
@@ -106,13 +106,13 @@
       "title": "西安电信疑似拉入“白名单”限速原因思考",
       "url": "https://www.v2ex.com/t/1234557",
       "description": "目前已经尝试过工信部申诉/通管局申诉（信访）均转到省申诉处理中心。目前正在尝试通管局举报，等待受理。（运营商不承认限速阶段，工作人员说是省上限制的）想了一下原因，很有可能是 UU 远控使用时长过多，记得当时是在学校 v6 p2p 成功后，画质是自动，连了一个下午自那之后就被限制了。 所以很可能是 p2p+大上传两个因素触发的。如果使用服务器中转的话，大厂云服务器应该是属于是白名单应该是没问题。",
-      "metric": "23 回复",
-      "metric_value": 23,
+      "metric": "24 回复",
+      "metric_value": 24,
       "extra": {
         "node": "宽带症候群",
         "node_name": "bb",
         "author": "xiaonian233",
-        "last_touched": 1786795917
+        "last_touched": 1786799859
       }
     },
     {
@@ -120,8 +120,8 @@
       "title": "个人开发，选哪个性价比更高？",
       "url": "https://www.v2ex.com/t/1234528",
       "description": "个人开发一些 app 或者小游戏，哪个 AI 工具性价比更合适？\n大家用下来，推荐哪个？ Claude code ，Codex ？国内有也不错的吗？\n谢谢",
-      "metric": "20 回复",
-      "metric_value": 20,
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
