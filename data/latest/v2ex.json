@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T20:25:44+00:00",
+  "updated_at": "2026-08-15T20:49:56+00:00",
   "count": 10,
   "items": [
     {
@@ -36,13 +36,13 @@
       "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
       "url": "https://www.v2ex.com/t/1234521",
       "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
-      "metric": "70 回复",
-      "metric_value": 70,
+      "metric": "71 回复",
+      "metric_value": 71,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Livid",
-        "last_touched": 1786824979
+        "last_touched": 1786825725
       }
     },
     {
