@@ -4,13 +4,13 @@
     "title": "仅以此文，记录 6 年来单纯又愚蠢的自己和成瘾的她",
     "url": "https://www.v2ex.com/t/1234566",
     "description": "我，普通男生，22 年二本毕业她，普通女生，长得小小个，看起来很单纯的一个小女生她和我是同一个中学的，比我小一届。高中都很陌生，不认识，只是见过20 年，我还在二本学校，一次偶然的机会，她加上了我的 QQ ，因为老乡而且是同一个中学，有很多话题每天热聊，后面暧昧，后面开始异地恋，每半个月我都会坐火车去找她一次，两个小时的绿皮火车见面就是一起出去玩，一起吃好吃的，一次拍照，一起做爱等所有情侣都会做的事情那段时间真的好快乐，就像两个孩子每隔半个月一起出去玩一样，她喜欢拍照记录了非常多的照片做爱也很有激情，非常主动21 年暑假，她家里供不起她读书了（自考本），她来到深圳租了个单间，开始上班，暑假我也",
-    "metric": "96 回复",
-    "metric_value": 96,
+    "metric": "97 回复",
+    "metric_value": 97,
     "extra": {
       "node": "情感问题",
       "node_name": "libido",
       "author": "xiao9469",
-      "last_touched": 1786807273
+      "last_touched": 1786809076
     }
   },
   {
@@ -32,13 +32,13 @@
     "title": "在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731",
     "url": "https://www.v2ex.com/t/1234521",
     "description": "这样填即可：\n\nBase URL: https://edge.v2ex.com/chat/v1\nModel: coder-ds4-0731\n\n\nAPI token 可以从这里获得：\nhttps://edge.v2ex.com/settings/tokens\n关于 V2EX 提供的 LLM API 服务的用量规则：\nhttps://edge.v2ex.com/help/quota\n\n然后就可以愉快地使用了。",
-    "metric": "64 回复",
-    "metric_value": 64,
+    "metric": "65 回复",
+    "metric_value": 65,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "Livid",
-      "last_touched": 1786808390
+      "last_touched": 1786810595
     }
   },
   {
@@ -74,17 +74,31 @@
     "title": "做一个思想实验，如果 dsh 没有打着 deepseek 的旗号",
     "url": "https://www.v2ex.com/t/1234524",
     "description": "而是一个名不见经传的个人开发者推出的，你怎么评价它",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "metric": "28 回复",
+    "metric_value": 28,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "leihaibo1992",
-      "last_touched": 1786411325
+      "last_touched": 1786510733
     }
   },
   {
     "rank": 7,
+    "title": "用了十几年的 github 号被封了",
+    "url": "https://www.v2ex.com/t/1234561",
+    "description": "copilot 持续订阅了几年，2 个月之前停止订阅，全是走的自己建行 visa 卡。 其他的原因可能是认证过教育账号？但是那都是很多年前了，还是用的自己的学校教育网邮箱。",
+    "metric": "28 回复",
+    "metric_value": 28,
+    "extra": {
+      "node": "GitHub",
+      "node_name": "github",
+      "author": "tinx",
+      "last_touched": 1786810673
+    }
+  },
+  {
+    "rank": 8,
     "title": "西安电信疑似拉入“白名单”限速原因思考",
     "url": "https://www.v2ex.com/t/1234557",
     "description": "目前已经尝试过工信部申诉/通管局申诉（信访）均转到省申诉处理中心。目前正在尝试通管局举报，等待受理。（运营商不承认限速阶段，工作人员说是省上限制的）想了一下原因，很有可能是 UU 远控使用时长过多，记得当时是在学校 v6 p2p 成功后，画质是自动，连了一个下午自那之后就被限制了。 所以很可能是 p2p+大上传两个因素触发的。如果使用服务器中转的话，大厂云服务器应该是属于是白名单应该是没问题。",
@@ -95,20 +109,6 @@
       "node_name": "bb",
       "author": "xiaonian233",
       "last_touched": 1786799859
-    }
-  },
-  {
-    "rank": 8,
-    "title": "用了十几年的 github 号被封了",
-    "url": "https://www.v2ex.com/t/1234561",
-    "description": "copilot 持续订阅了几年，2 个月之前停止订阅，全是走的自己建行 visa 卡。 其他的原因可能是认证过教育账号？但是那都是很多年前了，还是用的自己的学校教育网邮箱。",
-    "metric": "24 回复",
-    "metric_value": 24,
-    "extra": {
-      "node": "GitHub",
-      "node_name": "github",
-      "author": "tinx",
-      "last_touched": 1786808618
     }
   },
   {
@@ -130,13 +130,13 @@
     "title": "local.ai 邀请注册教程，分享几个可以用的 3 位用户名",
     "url": "https://www.v2ex.com/t/1234537",
     "description": "点击邀请链接：\n\nhttps://local.ai/uqp/invite\n\n\n打开邀请链接\n点击 Continue with Hugging Face\n点击 Don't have an account? Sign Up\n输入邮箱和密码完成注册\n填写用户名等资料\n完成邮箱验证\n登录 Hugging Face\n重新打开邀请链接\n再次点击 Continue with Hugging Face 完成授权\n注册成功 \n\n\n很多人注册后直接关闭页面，导致邀请关系没有绑定。完成邮箱验证并登录后，记得重新进入邀请链接完成授权，这是最关键的一步。",
-    "metric": "20 回复",
-    "metric_value": 20,
+    "metric": "21 回复",
+    "metric_value": 21,
     "extra": {
       "node": "Local LLM",
       "node_name": "localllm",
       "author": "agood",
-      "last_touched": 1786506793
+      "last_touched": 1786582729
     }
   }
 ]
