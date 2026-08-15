@@ -1,48 +1,48 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-15T03:42:10+00:00",
+  "updated_at": "2026-08-15T04:34:57+00:00",
   "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "第一次在本站拉黑人",
-      "url": "https://www.v2ex.com/t/1234332",
-      "description": "在互联网上交流时我一直秉持着这样的观点：如果某人的某条言论让我很反感或者不赞同，那也只是在这件事情上。 在别的事情上 Ta 可能会给我带来不一样的观点和思考，因此我不会因为观点相左便拉黑别人。\n然而最近我注意到了两名用户，第一位肆意使用 AI 产出各种垃圾来污染回复，每次看到后都会让我皱起双眉； 另一位则是无论在什么帖子下都要唱反调和阴阳怪气嘲讽，甚至在两个帖子中出现了观点左右互搏的现象，让我第一次觉得拉黑人是如此必要。",
-      "metric": "84 回复",
-      "metric_value": 84,
-      "extra": {
-        "node": "随想",
-        "node_name": "random",
-        "author": "Danswerme",
-        "last_touched": 1786712908
-      }
-    },
-    {
-      "rank": 2,
       "title": "没想到我也走到了仲裁的道路上",
       "url": "https://www.v2ex.com/t/1234453",
       "description": "昨天：2026 年 8 月 13 号，接到人力通知，说我被裁员了，和我谈话，说补偿尽公司最大能力给到 N \n我没有同意\n然后就逼着我做交接，我心想那就交接呗，反正我这的东西，同事手里也有，我不交接他们找别人也能拿到。\n补偿的主张 2N ，公司不同意，然后公司副总就拉个群，和我表明观点，肯定给不了。那就仲裁呗\n\n看到公司对仲裁一点也不在乎，这怎么办？\n我准备了打卡记录，钉钉聊天的截图，银行流水等等的证据，不知道有没有用，有仲裁过的兄弟给点意见",
-      "metric": "70 回复",
-      "metric_value": 70,
+      "metric": "75 回复",
+      "metric_value": 75,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "sunmoon1983",
-        "last_touched": 1786765017
+        "last_touched": 1786767802
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "讲一个我的朋友的人生故事吧——青年、骗子、爱情与生活",
       "url": "https://www.v2ex.com/t/1234360",
       "description": "出生\n其实这个故事就跟历史上王朝的迭代一样，在不同时代不同的人身上，重复了一轮又一轮，我之前也只是从书本上和影视中看到，而今在生活中见到了实在的例子。\n我的朋友 G 是贵州一个小村子里出来的，常年位居贫困县榜首。他的父母在在很小的去了老家的市里面做早点铺，打拼了三四年，挣了点钱，那个时候是他生活最好的时期，父母做了小生意，有些盈余，日常生活是能吃到肉的。\n后来所有的盈余全部填给了他的爷爷临终前欠下的债务。G 的父母或许出于别的考虑，也或是还债彻底没有了本钱，他们在我的朋友 G 大约六七岁的时候离开了老家，去了广州。\n广州市者，广东省会，古番禺县也，别号羊城。番禺居珠江三水之会，前临大海，背靠沃",
-      "metric": "60 回复",
-      "metric_value": 60,
+      "metric": "62 回复",
+      "metric_value": 62,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "happyma",
-        "last_touched": 1786764963
+        "last_touched": 1786768272
+      }
+    },
+    {
+      "rank": 3,
+      "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
+      "url": "https://www.v2ex.com/t/1234535",
+      "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
+      "metric": "41 回复",
+      "metric_value": 41,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "wKong753900",
+        "last_touched": 1786768249
       }
     },
     {
@@ -75,44 +75,44 @@
     },
     {
       "rank": 6,
-      "title": "突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法",
-      "url": "https://www.v2ex.com/t/1234535",
-      "description": "先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。\n现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  \n讨论讨论：\n1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。\n(作为一名老牌程序员，我自己是有",
-      "metric": "32 回复",
-      "metric_value": 32,
+      "title": "[稳定中转] plus0.1-0.12 自建正价 pro20x 稳定号池 0.18x 可用性拉满",
+      "url": "https://www.v2ex.com/t/1234372",
+      "description": "从开放注册到现在三个月左右了，目前服务器已迁移到 ovh ，前置加了 1 台 dmit pro 做了国内线路优化 稳定性拉满 openai  claude gemini ，生图的模型都有  站内主推的是 gpt:           plus: 倍率 0.1x-0.12x 随市场价格波动（基本稳定，会随官方风控波动）           pro: 是纯自建的正价 20x 号池，稳定性拉满，适合追求稳定又兼顾性价比的老板         下面附上监控图  新用户可以加 qq 群:995462157 ，群里不定时送额度兑换码, v 友可以在评论区发注册后的 id/用户名/邮箱 ，送体验额度，欢迎各",
+      "metric": "31 回复",
+      "metric_value": 31,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "wKong753900",
-        "last_touched": 1786765307
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "doveray",
+        "last_touched": 1786721695
       }
     },
     {
       "rank": 7,
-      "title": "接力一下 local.ai",
-      "url": "https://www.v2ex.com/t/1234324",
-      "description": "https://local.ai/alliot/invite",
-      "metric": "32 回复",
-      "metric_value": 32,
+      "title": "大冤种！刚全额续费 Gemini Pro，给我账号封了！",
+      "url": "https://www.v2ex.com/t/1234459",
+      "description": "对 Gemini 感情很深，留下了非常多的交互。上个月底刚刚在官网续费了一年，今天发现突然就提示“Gemini 目前不支持你所在的地区。敬请期待！”，账号有种凉凉了的感觉。试了很多遍，发现不是代理的问题，只要一登录就有这个提示了，不登录还能免费用用，真是大冤种啊！都知道 Gemini 目前这个阶段是 tough period ，所以特意续费支持。真是有种“我本将心向明月，奈何明月照沟渠”的苍凉感。现在首要的目标：1. 希望尽可能恢复 Gemini 的使用；2. 如果确实不行，希望至少能退款吧...大家有谁也遇到类似的情况了么？能否分享一点相关经验？谢谢！",
+      "metric": "27 回复",
+      "metric_value": 27,
       "extra": {
-        "node": "Local LLM",
-        "node_name": "localllm",
-        "author": "Alliot",
-        "last_touched": 1786232956
+        "node": "Google Gemini",
+        "node_name": "gemini",
+        "author": "APEC",
+        "last_touched": 1786721417
       }
     },
     {
       "rank": 8,
-      "title": "购买 88vip 带的夸克会员要慎重，基本上一个月要验证一次",
-      "url": "https://www.v2ex.com/t/1234327",
-      "description": "去年买了一个 88vip 夸克，用了一年也没遇到验证问题。\n今年又买了一个，没想到一个月就要验证一次。这次购买的 v 友第一次验证之后就删了我的微信，第二次通过发好友申请提示之后帮我验证了，这个月又要验证，联系了两天联系不上了。总之购买夸克要慎重，不如自己开 88vip 了。",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "title": "有丰田荣放车主吗？值得购买吗？",
+      "url": "https://www.v2ex.com/t/1234419",
+      "description": "最近比较上头，计划年底购车，目前看丰田荣放还不错，",
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "whosphp",
-        "last_touched": 1786702236
+        "node": "汽车",
+        "node_name": "car",
+        "author": "xlLee",
+        "last_touched": 1786580697
       }
     }
   ]
