@@ -4,13 +4,13 @@
     "title": "和朋友弄了个 AI API 中转小站， V2EX 网友注册送 20 元额度",
     "url": "https://www.v2ex.com/t/1234770",
     "description": "大家好，第一次来推广节点发帖。\n前段时间我和朋友一起弄了个 AI API 中转小站，叫 TokenMarket：\n地址： https://tokenmarket.cheap\n不是什么大公司，也没有专业运营团队，就是我们几个人自己维护。做这个站的想法也很简单：尽量把价格压低一点，同时把常用模型和线路多接一些，方便大家在 Codex 、Claude Code 、Cherry Studio 之类的工具里直接使用。\n目前站里有 GPT / Codex 、Claude 、Gemini 、Grok 、DeepSeek 、Qwen 、Kimi 、GLM 等模型，支持 OpenAI 、Anthropic 和 ",
-    "metric": "120 回复",
-    "metric_value": 120,
+    "metric": "125 回复",
+    "metric_value": 125,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "tokenmarket",
-      "last_touched": 1786894790
+      "last_touched": 1786896663
     }
   },
   {
@@ -46,13 +46,13 @@
     "title": "2026 剃须刀求推荐",
     "url": "https://www.v2ex.com/t/1234735",
     "description": "",
-    "metric": "45 回复",
-    "metric_value": 45,
+    "metric": "46 回复",
+    "metric_value": 46,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "ly1836",
-      "last_touched": 1786894529
+      "last_touched": 1786896897
     }
   },
   {
@@ -102,8 +102,8 @@
     "title": "一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！",
     "url": "https://www.v2ex.com/t/1234707",
     "description": "",
-    "metric": "21 回复",
-    "metric_value": 21,
+    "metric": "22 回复",
+    "metric_value": 22,
     "extra": {
       "node": "全球工单系统",
       "node_name": "gts",
@@ -113,6 +113,20 @@
   },
   {
     "rank": 9,
+    "title": "跑跑卡丁车网页版",
+    "url": "https://www.v2ex.com/t/1234766",
+    "description": "这两天继续在写 d3d9 - webgpu proxy ，现在跑跑卡丁车也能在网页上跑了https://retrogaming.dpdns.org/game.html?id=kartrider&amp;v8ft=1视频展示：",
+    "metric": "22 回复",
+    "metric_value": 22,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "professionaler",
+      "last_touched": 1786897119
+    }
+  },
+  {
+    "rank": 10,
     "title": "如何无缝丝滑切换使用 Codex 和 DeepSeek",
     "url": "https://www.v2ex.com/t/1234734",
     "description": "Codex 不太够用了， 想用 deepseek 作为补充\n最佳实践是怎么样的？ 求助🙏",
@@ -123,20 +137,6 @@
       "node_name": "programmer",
       "author": "orcx",
       "last_touched": 1786894704
-    }
-  },
-  {
-    "rank": 10,
-    "title": "跑跑卡丁车网页版",
-    "url": "https://www.v2ex.com/t/1234766",
-    "description": "这两天继续在写 d3d9 - webgpu proxy ，现在跑跑卡丁车也能在网页上跑了https://retrogaming.dpdns.org/game.html?id=kartrider&amp;v8ft=1视频展示：",
-    "metric": "21 回复",
-    "metric_value": 21,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "professionaler",
-      "last_touched": 1786893715
     }
   }
 ]
