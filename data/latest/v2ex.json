@@ -1,10 +1,24 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-16T10:51:07+00:00",
+  "updated_at": "2026-08-16T11:23:33+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "title": "小学同学和他对象直播卖衣服一个月赚十几万",
+      "url": "https://www.v2ex.com/t/1234730",
+      "description": "他之前是干列车员的，他对象是瑜伽老师，然后直播卖衣服，在郑州买了房，他俩付了 160w ，他爸付了 60w \n视频通话听我妈说的\n这直播卖衣服真赚钱啊",
+      "metric": "56 回复",
+      "metric_value": 56,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "qwqqwq",
+        "last_touched": 1786879006
+      }
+    },
+    {
+      "rank": 2,
       "title": "一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的",
       "url": "https://www.v2ex.com/t/1234711",
       "description": "昨天发帖分享了一个刚做的小网站，叫 锐评。\n网站可以给不同社区打分，档位是：\n\n夯 / 顶级 / 人上人 / NPC / 拉完了\n\n我怕兄弟们连快捷登录都懒得点，跟别提注册登录了，就把游客权限也打开了：不登录可以评分，也可以评论。让大家先进来玩玩，真有人乱搞的话，我再去后台关掉游客权限。\n当时觉得这个方案挺宽松灵活的，现在看，确实宽松，主要是方便攻击脚本发挥。\n我的帖子没爆，服务器先爆了\n当天晚上我先后在几个社区发了帖子：\n\n20:50：2Libra\n21:01：V2EX\n后来又发到了 Linux Bi\n\n本来以为能来几十个人，帮忙测测功能、提点意见。没想到互联网上有坏人，没过多久，网站就打不",
@@ -18,31 +32,17 @@
       }
     },
     {
-      "rank": 2,
-      "title": "小学同学和他对象直播卖衣服一个月赚十几万",
-      "url": "https://www.v2ex.com/t/1234730",
-      "description": "他之前是干列车员的，他对象是瑜伽老师，然后直播卖衣服，在郑州买了房，他俩付了 160w ，他爸付了 60w \n视频通话听我妈说的\n这直播卖衣服真赚钱啊",
-      "metric": "55 回复",
-      "metric_value": 55,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "qwqqwq",
-        "last_touched": 1786876265
-      }
-    },
-    {
       "rank": 3,
       "title": "我如何在 AI 帮助下， 7 天带着 35TB 数据逃离某联系统",
       "url": "https://www.v2ex.com/t/1234656",
       "description": "引言\n时光荏苒，距离我写出《双十一买的 DX4600 Pro ，玩了两个星期，系统基本被我摸明白了，非常逆天》、《深入解析某联云 DX4600 Pro UGOS 系统(1)》、《深入解析某联云 DX4600 Pro UGOS 系统 (2)》、《深入浅出玩转某联 UGOS (上)》、《深入浅出玩转某联 UGOS (下)》这些文章已经过去了将近 3 年的时间，严格来说是练习时长 2 年半。这一坤年以来随着我对自动化体系的逐步建设成熟，加上客户群（同学朋友）的逐渐固定，这台 NAS 基本变成了一台跑着 Jellyfin 生态链的服务器，一开始兴致勃勃给家里人开启的相册同步也随着家长的设备换成鸿蒙慢慢",
-      "metric": "47 回复",
-      "metric_value": 47,
+      "metric": "48 回复",
+      "metric_value": 48,
       "extra": {
         "node": "NAS",
         "node_name": "nas",
         "author": "HOMO114514",
-        "last_touched": 1786875257
+        "last_touched": 1786877793
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "2026 剃须刀求推荐",
       "url": "https://www.v2ex.com/t/1234735",
       "description": "",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "metric": "31 回复",
+      "metric_value": 31,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "ly1836",
-        "last_touched": 1786876867
+        "last_touched": 1786877744
       }
     },
     {
@@ -103,6 +103,34 @@
     },
     {
       "rank": 8,
+      "title": "和朋友弄了个 AI API 中转小站， V2EX 网友注册送 20 元额度",
+      "url": "https://www.v2ex.com/t/1234770",
+      "description": "大家好，第一次来推广节点发帖。\n前段时间我和朋友一起弄了个 AI API 中转小站，叫 TokenMarket：\n地址： https://tokenmarket.cheap\n不是什么大公司，也没有专业运营团队，就是我们几个人自己维护。做这个站的想法也很简单：尽量把价格压低一点，同时把常用模型和线路多接一些，方便大家在 Codex 、Claude Code 、Cherry Studio 之类的工具里直接使用。\n目前站里有 GPT / Codex 、Claude 、Gemini 、Grok 、DeepSeek 、Qwen 、Kimi 、GLM 等模型，支持 OpenAI 、Anthropic 和 ",
+      "metric": "26 回复",
+      "metric_value": 26,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "tokenmarket",
+        "last_touched": 1786878637
+      }
+    },
+    {
+      "rank": 9,
+      "title": "有什么办法把复印件和扫描件的内容提取出来吗？",
+      "url": "https://www.v2ex.com/t/1234753",
+      "description": "有哪家 ai 的 ocr 强大的吗？或者是哪个插件和库强大的？我想把扫描文件和复印文件，使用 ocr 把文件的内容提取出来，主流的 ai 我都试了下，我发现老是不理想。有更好的办法吗？提高精准度提取的方案。",
+      "metric": "24 回复",
+      "metric_value": 24,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "BaiLinfeng",
+        "last_touched": 1786877910
+      }
+    },
+    {
+      "rank": 10,
       "title": "你们回娘家会洗碗吗",
       "url": "https://www.v2ex.com/t/1234654",
       "description": "吃饭完了收拾桌子之类的",
@@ -113,34 +141,6 @@
         "node_name": "life",
         "author": "sport123",
         "last_touched": 1786840808
-      }
-    },
-    {
-      "rank": 9,
-      "title": "有什么办法把复印件和扫描件的内容提取出来吗？",
-      "url": "https://www.v2ex.com/t/1234753",
-      "description": "有哪家 ai 的 ocr 强大的吗？或者是哪个插件和库强大的？我想把扫描文件和复印文件，使用 ocr 把文件的内容提取出来，主流的 ai 我都试了下，我发现老是不理想。有更好的办法吗？提高精准度提取的方案。",
-      "metric": "22 回复",
-      "metric_value": 22,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "BaiLinfeng",
-        "last_touched": 1786876183
-      }
-    },
-    {
-      "rank": 10,
-      "title": "一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！",
-      "url": "https://www.v2ex.com/t/1234707",
-      "description": "",
-      "metric": "19 回复",
-      "metric_value": 19,
-      "extra": {
-        "node": "全球工单系统",
-        "node_name": "gts",
-        "author": "biochen",
-        "last_touched": 1786875711
       }
     }
   ]
