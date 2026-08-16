@@ -32,13 +32,13 @@
     "title": "我如何在 AI 帮助下， 7 天带着 35TB 数据逃离某联系统",
     "url": "https://www.v2ex.com/t/1234656",
     "description": "引言\n时光荏苒，距离我写出《双十一买的 DX4600 Pro ，玩了两个星期，系统基本被我摸明白了，非常逆天》、《深入解析某联云 DX4600 Pro UGOS 系统(1)》、《深入解析某联云 DX4600 Pro UGOS 系统 (2)》、《深入浅出玩转某联 UGOS (上)》、《深入浅出玩转某联 UGOS (下)》这些文章已经过去了将近 3 年的时间，严格来说是练习时长 2 年半。这一坤年以来随着我对自动化体系的逐步建设成熟，加上客户群（同学朋友）的逐渐固定，这台 NAS 基本变成了一台跑着 Jellyfin 生态链的服务器，一开始兴致勃勃给家里人开启的相册同步也随着家长的设备换成鸿蒙慢慢",
-    "metric": "46 回复",
-    "metric_value": 46,
+    "metric": "47 回复",
+    "metric_value": 47,
     "extra": {
       "node": "NAS",
       "node_name": "nas",
       "author": "HOMO114514",
-      "last_touched": 1786872808
+      "last_touched": 1786875257
     }
   },
   {
@@ -74,13 +74,13 @@
     "title": "2026 剃须刀求推荐",
     "url": "https://www.v2ex.com/t/1234735",
     "description": "",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "ly1836",
-      "last_touched": 1786872461
+      "last_touched": 1786875422
     }
   },
   {
@@ -113,6 +113,20 @@
   },
   {
     "rank": 9,
+    "title": "有什么办法把复印件和扫描件的内容提取出来吗？",
+    "url": "https://www.v2ex.com/t/1234753",
+    "description": "有哪家 ai 的 ocr 强大的吗？或者是哪个插件和库强大的？我想把扫描文件和复印文件，使用 ocr 把文件的内容提取出来，主流的 ai 我都试了下，我发现老是不理想。有更好的办法吗？提高精准度提取的方案。",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "BaiLinfeng",
+      "last_touched": 1786875745
+    }
+  },
+  {
+    "rank": 10,
     "title": "爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了",
     "url": "https://www.v2ex.com/t/1234671",
     "description": "爆肝了一下午把 DeepSeek Harness 做了个轻量桌面壳子，开源在  \nGitHub： https://github.com/qufei1993/dsh-desktop\n原则 “不改 DeepSeek Harness 本体内容”，只做桌面端包装；默认启动直接打开官方的 DeepSeek Harness 页面。也就是说，你进来看到的还是原生态界面。\n另外做了两个实用点：一是内置 Node.js 运行时，解决“没装/版本不一致”导致的麻烦；二是做了版本管理和切换（可选更新到新版本、也可保留旧版本），让桌面端用起来更可控。\n目前支持 macOS + Windows ，目标就是把“网页打开+",
@@ -123,20 +137,6 @@
       "node_name": "programmer",
       "author": "qufei1993",
       "last_touched": 1786835821
-    }
-  },
-  {
-    "rank": 10,
-    "title": "一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！",
-    "url": "https://www.v2ex.com/t/1234707",
-    "description": "",
-    "metric": "15 回复",
-    "metric_value": 15,
-    "extra": {
-      "node": "全球工单系统",
-      "node_name": "gts",
-      "author": "biochen",
-      "last_touched": 1786869608
     }
   }
 ]
