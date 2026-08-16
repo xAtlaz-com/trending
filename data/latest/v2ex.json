@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-16T11:23:33+00:00",
+  "updated_at": "2026-08-16T11:47:24+00:00",
   "count": 10,
   "items": [
     {
@@ -28,7 +28,7 @@
         "node": "分享创造",
         "node_name": "create",
         "author": "gxlwm",
-        "last_touched": 1786873169
+        "last_touched": 1786880031
       }
     },
     {
@@ -47,20 +47,6 @@
     },
     {
       "rank": 4,
-      "title": "[OpenAI Pro 号池] GPT-5.6 Sol 输入约 ¥0.425/MTok｜实际人民币成本约 0.125 折｜注册送$2",
-      "url": "https://www.v2ex.com/t/1234651",
-      "description": "大家好\n最近整理上线了一条 OpenAI Pro 号池线路，主要面向 Codex 、Responses API 以及其他 OpenAI 兼容客户端用户，邀请 V 友来实际体验一下。\n站点： https://quick-pivot.com/\n目前支持 OpenAI Chat Completions 和 Responses API ，当前线路配置包括：\n\nGPT-5.6 Sol / Terra / Luna\nGPT-5.6 Fast 系列\nGPT-5.5 / GPT-5.5 Fast\nGPT-5.4 / GPT-5.4 Mini\nGPT Image 2\n\n具体可用模型以控制台及 API Key 实",
-      "metric": "45 回复",
-      "metric_value": 45,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "doanything",
-        "last_touched": 1786869769
-      }
-    },
-    {
-      "rank": 5,
       "title": "每天上午 9-10 点左右都开始困，有什么好的方法吗？",
       "url": "https://www.v2ex.com/t/1234714",
       "description": "有条件时眯一会，没条件时有什么好的方法硬撑吗？\n喝茶，喝咖啡，呼吸新鲜空气都试过，偶尔还行，长时间不太管用。",
@@ -74,17 +60,31 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "2026 剃须刀求推荐",
       "url": "https://www.v2ex.com/t/1234735",
       "description": "",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "metric": "35 回复",
+      "metric_value": 35,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "ly1836",
-        "last_touched": 1786877744
+        "last_touched": 1786880629
+      }
+    },
+    {
+      "rank": 6,
+      "title": "和朋友弄了个 AI API 中转小站， V2EX 网友注册送 20 元额度",
+      "url": "https://www.v2ex.com/t/1234770",
+      "description": "大家好，第一次来推广节点发帖。\n前段时间我和朋友一起弄了个 AI API 中转小站，叫 TokenMarket：\n地址： https://tokenmarket.cheap\n不是什么大公司，也没有专业运营团队，就是我们几个人自己维护。做这个站的想法也很简单：尽量把价格压低一点，同时把常用模型和线路多接一些，方便大家在 Codex 、Claude Code 、Cherry Studio 之类的工具里直接使用。\n目前站里有 GPT / Codex 、Claude 、Gemini 、Grok 、DeepSeek 、Qwen 、Kimi 、GLM 等模型，支持 OpenAI 、Anthropic 和 ",
+      "metric": "31 回复",
+      "metric_value": 31,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "tokenmarket",
+        "last_touched": 1786880540
       }
     },
     {
@@ -103,25 +103,11 @@
     },
     {
       "rank": 8,
-      "title": "和朋友弄了个 AI API 中转小站， V2EX 网友注册送 20 元额度",
-      "url": "https://www.v2ex.com/t/1234770",
-      "description": "大家好，第一次来推广节点发帖。\n前段时间我和朋友一起弄了个 AI API 中转小站，叫 TokenMarket：\n地址： https://tokenmarket.cheap\n不是什么大公司，也没有专业运营团队，就是我们几个人自己维护。做这个站的想法也很简单：尽量把价格压低一点，同时把常用模型和线路多接一些，方便大家在 Codex 、Claude Code 、Cherry Studio 之类的工具里直接使用。\n目前站里有 GPT / Codex 、Claude 、Gemini 、Grok 、DeepSeek 、Qwen 、Kimi 、GLM 等模型，支持 OpenAI 、Anthropic 和 ",
-      "metric": "26 回复",
-      "metric_value": 26,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "tokenmarket",
-        "last_touched": 1786878637
-      }
-    },
-    {
-      "rank": 9,
       "title": "有什么办法把复印件和扫描件的内容提取出来吗？",
       "url": "https://www.v2ex.com/t/1234753",
       "description": "有哪家 ai 的 ocr 强大的吗？或者是哪个插件和库强大的？我想把扫描文件和复印文件，使用 ocr 把文件的内容提取出来，主流的 ai 我都试了下，我发现老是不理想。有更好的办法吗？提高精准度提取的方案。",
-      "metric": "24 回复",
-      "metric_value": 24,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
@@ -130,7 +116,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "你们回娘家会洗碗吗",
       "url": "https://www.v2ex.com/t/1234654",
       "description": "吃饭完了收拾桌子之类的",
@@ -141,6 +127,20 @@
         "node_name": "life",
         "author": "sport123",
         "last_touched": 1786840808
+      }
+    },
+    {
+      "rank": 10,
+      "title": "一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！",
+      "url": "https://www.v2ex.com/t/1234707",
+      "description": "",
+      "metric": "19 回复",
+      "metric_value": 19,
+      "extra": {
+        "node": "全球工单系统",
+        "node_name": "gts",
+        "author": "biochen",
+        "last_touched": 1786875711
       }
     }
   ]
