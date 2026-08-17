@@ -1,19 +1,19 @@
 {
   "source": "github",
-  "updated_at": "2026-08-17T14:31:41+00:00",
-  "count": 10,
+  "updated_at": "2026-08-17T15:28:25+00:00",
+  "count": 11,
   "items": [
     {
       "rank": 1,
       "title": "harry0703 / MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "metric": "★ 105,448",
+      "metric": "★ 105,512",
       "extra": {
         "language": "Python",
-        "stars": "105,448",
-        "forks": "16,035",
-        "stars_today": "494 stars today"
+        "stars": "105,512",
+        "forks": "16,046",
+        "stars_today": "1,275 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "usestrix / strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "metric": "★ 53,752",
+      "metric": "★ 53,785",
       "extra": {
         "language": "Python",
-        "stars": "53,752",
-        "forks": "5,755",
-        "stars_today": "856 stars today"
+        "stars": "53,785",
+        "forks": "5,758",
+        "stars_today": "656 stars today"
       }
     },
     {
@@ -34,102 +34,115 @@
       "title": "nautechsystems / nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "metric": "★ 25,716",
+      "metric": "★ 25,732",
       "extra": {
         "language": "Rust",
-        "stars": "25,716",
-        "forks": "3,362",
+        "stars": "25,732",
+        "forks": "3,363",
         "stars_today": "115 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "metric": "★ 28,143",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "metric": "★ 1,843",
       "extra": {
-        "language": "Python",
-        "stars": "28,143",
-        "forks": "3,423",
-        "stars_today": "156 stars today"
+        "language": "Rust",
+        "stars": "1,843",
+        "forks": "181",
+        "stars_today": "207 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "metric": "★ 32,064",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "metric": "★ 28,166",
       "extra": {
-        "language": "Rust",
-        "stars": "32,064",
-        "forks": "1,988",
-        "stars_today": "187 stars today"
+        "language": "Python",
+        "stars": "28,166",
+        "forks": "3,426",
+        "stars_today": "156 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "santifer / career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "metric": "★ 64,294",
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "metric": "★ 32,079",
       "extra": {
-        "language": "JavaScript",
-        "stars": "64,294",
-        "forks": "12,640",
-        "stars_today": "147 stars today"
+        "language": "Rust",
+        "stars": "32,079",
+        "forks": "1,989",
+        "stars_today": "239 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "jundot / omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "metric": "★ 18,868",
+      "title": "santifer / career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "metric": "★ 64,318",
       "extra": {
-        "language": "Python",
-        "stars": "18,868",
-        "forks": "1,638",
-        "stars_today": "60 stars today"
+        "language": "JavaScript",
+        "stars": "64,318",
+        "forks": "12,641",
+        "stars_today": "147 stars today"
       }
     },
     {
       "rank": 8,
+      "title": "jundot / omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "metric": "★ 18,875",
+      "extra": {
+        "language": "Python",
+        "stars": "18,875",
+        "forks": "1,641",
+        "stars_today": "96 stars today"
+      }
+    },
+    {
+      "rank": 9,
       "title": "immich-app / immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
-      "metric": "★ 110,897",
+      "metric": "★ 110,914",
       "extra": {
         "language": "TypeScript",
-        "stars": "110,897",
+        "stars": "110,914",
         "forks": "6,565",
         "stars_today": "140 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "cordiverse / cordis",
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
-      "metric": "★ 5,422",
+      "metric": "★ 5,439",
       "extra": {
         "language": "TypeScript",
-        "stars": "5,422",
+        "stars": "5,439",
         "forks": "291",
         "stars_today": "959 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "agalwood / Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
-      "metric": "★ 52,883",
+      "metric": "★ 52,898",
       "extra": {
         "language": "TypeScript",
-        "stars": "52,883",
-        "forks": "4,916",
+        "stars": "52,898",
+        "forks": "4,918",
         "stars_today": "295 stars today"
       }
     }
