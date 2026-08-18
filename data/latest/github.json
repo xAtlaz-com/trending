@@ -1,58 +1,58 @@
 {
   "source": "github",
-  "updated_at": "2026-08-18T10:32:36+00:00",
-  "count": 11,
+  "updated_at": "2026-08-18T11:28:37+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "harry0703 / MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "metric": "★ 107,328",
+      "metric": "★ 107,428",
       "extra": {
         "language": "Python",
-        "stars": "107,328",
-        "forks": "16,271",
+        "stars": "107,428",
+        "forks": "16,285",
         "stars_today": "1,189 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "metric": "★ 54,754",
+      "title": "chaitanyagiri / munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "metric": "★ 1,622",
       "extra": {
-        "language": "Python",
-        "stars": "54,754",
-        "forks": "5,847",
-        "stars_today": "598 stars today"
+        "language": "TypeScript",
+        "stars": "1,622",
+        "forks": "208",
+        "stars_today": "256 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "nautechsystems / nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "metric": "★ 26,182",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "metric": "★ 2,429",
       "extra": {
         "language": "Rust",
-        "stars": "26,182",
-        "forks": "3,392",
-        "stars_today": "120 stars today"
+        "stars": "2,429",
+        "forks": "214",
+        "stars_today": "207 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "metric": "★ 2,408",
+      "title": "volcengine / OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "metric": "★ 29,010",
       "extra": {
-        "language": "Rust",
-        "stars": "2,408",
-        "forks": "213",
-        "stars_today": "207 stars today"
+        "language": "Python",
+        "stars": "29,010",
+        "forks": "2,284",
+        "stars_today": "239 stars today"
       }
     },
     {
@@ -60,90 +60,116 @@
       "title": "mukul975 / Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "metric": "★ 28,744",
+      "metric": "★ 28,773",
       "extra": {
         "language": "Python",
-        "stars": "28,744",
-        "forks": "3,465",
+        "stars": "28,773",
+        "forks": "3,468",
         "stars_today": "198 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "metric": "★ 32,581",
+      "title": "public-apis / public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "metric": "★ 463,635",
       "extra": {
-        "language": "Rust",
-        "stars": "32,581",
-        "forks": "2,013",
-        "stars_today": "198 stars today"
+        "language": "Python",
+        "stars": "463,635",
+        "forks": "51,241",
+        "stars_today": "1,907 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "santifer / career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "metric": "★ 65,219",
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "metric": "★ 26,168",
       "extra": {
-        "language": "JavaScript",
-        "stars": "65,219",
-        "forks": "12,677",
-        "stars_today": "218 stars today"
+        "language": "Shell",
+        "stars": "26,168",
+        "forks": "2,667",
+        "stars_today": "710 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "jundot / omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "metric": "★ 19,165",
+      "title": "agalwood / Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "metric": "★ 53,403",
       "extra": {
-        "language": "Python",
-        "stars": "19,165",
-        "forks": "1,649",
-        "stars_today": "78 stars today"
+        "language": "TypeScript",
+        "stars": "53,403",
+        "forks": "4,935",
+        "stars_today": "344 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "immich-app / immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "metric": "★ 111,471",
+      "title": "NawfalMotii79 / PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "metric": "★ 24,142",
       "extra": {
-        "language": "TypeScript",
-        "stars": "111,471",
-        "forks": "6,592",
-        "stars_today": "175 stars today"
+        "language": "PLSQL",
+        "stars": "24,142",
+        "forks": "5,565",
+        "stars_today": "204 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "cordiverse / cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "metric": "★ 5,946",
+      "title": "jundot / omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "metric": "★ 19,176",
       "extra": {
-        "language": "TypeScript",
-        "stars": "5,946",
-        "forks": "323",
-        "stars_today": "957 stars today"
+        "language": "Python",
+        "stars": "19,176",
+        "forks": "1,650",
+        "stars_today": "78 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "agalwood / Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "metric": "★ 53,370",
+      "title": "bojieli / ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "metric": "★ 38,863",
+      "extra": {
+        "language": "Python",
+        "stars": "38,863",
+        "forks": "4,287",
+        "stars_today": "556 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "genlayerlabs / genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "metric": "★ 15,702",
       "extra": {
         "language": "TypeScript",
-        "stars": "53,370",
-        "forks": "4,935",
-        "stars_today": "344 stars today"
+        "stars": "15,702",
+        "forks": "791",
+        "stars_today": "543 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "metric": "★ 84,466",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "84,466",
+        "forks": "8,333",
+        "stars_today": "682 stars today"
       }
     }
   ]
