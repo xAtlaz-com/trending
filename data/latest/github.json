@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-08-18T17:30:12+00:00",
-  "count": 12,
+  "updated_at": "2026-08-18T17:57:45+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "harry0703 / MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "metric": "★ 108,188",
+      "metric": "★ 108,225",
       "extra": {
         "language": "Python",
-        "stars": "108,188",
-        "forks": "16,422",
+        "stars": "108,225",
+        "forks": "16,432",
         "stars_today": "2,306 stars today"
       }
     },
@@ -21,140 +21,153 @@
       "title": "chaitanyagiri / munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
-      "metric": "★ 1,857",
+      "metric": "★ 1,874",
       "extra": {
         "language": "TypeScript",
-        "stars": "1,857",
-        "forks": "226",
+        "stars": "1,874",
+        "forks": "227",
         "stars_today": "256 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "volcengine / OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "metric": "★ 29,207",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "metric": "★ 2,604",
       "extra": {
-        "language": "Python",
-        "stars": "29,207",
-        "forks": "2,297",
-        "stars_today": "298 stars today"
+        "language": "Rust",
+        "stars": "2,604",
+        "forks": "226",
+        "stars_today": "730 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "metric": "★ 28,986",
+      "title": "volcengine / OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "metric": "★ 29,221",
       "extra": {
         "language": "Python",
-        "stars": "28,986",
-        "forks": "3,479",
-        "stars_today": "726 stars today"
+        "stars": "29,221",
+        "forks": "2,298",
+        "stars_today": "298 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "public-apis / public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "metric": "★ 464,154",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "metric": "★ 29,002",
       "extra": {
         "language": "Python",
-        "stars": "464,154",
-        "forks": "51,286",
-        "stars_today": "1,139 stars today"
+        "stars": "29,002",
+        "forks": "3,480",
+        "stars_today": "726 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "metric": "★ 26,302",
+      "title": "public-apis / public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "metric": "★ 464,189",
       "extra": {
-        "language": "Shell",
-        "stars": "26,302",
-        "forks": "2,680",
-        "stars_today": "710 stars today"
+        "language": "Python",
+        "stars": "464,189",
+        "forks": "51,290",
+        "stars_today": "1,139 stars today"
       }
     },
     {
       "rank": 7,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "metric": "★ 26,315",
+      "extra": {
+        "language": "Shell",
+        "stars": "26,315",
+        "forks": "2,681",
+        "stars_today": "710 stars today"
+      }
+    },
+    {
+      "rank": 8,
       "title": "agalwood / Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
-      "metric": "★ 53,545",
+      "metric": "★ 53,556",
       "extra": {
         "language": "TypeScript",
-        "stars": "53,545",
+        "stars": "53,556",
         "forks": "4,945",
         "stars_today": "607 stars today"
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "NawfalMotii79 / PLFM_RADAR",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "metric": "★ 24,233",
+      "metric": "★ 24,235",
       "extra": {
         "language": "PLSQL",
-        "stars": "24,233",
-        "forks": "5,578",
+        "stars": "24,235",
+        "forks": "5,580",
         "stars_today": "204 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "jundot / omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "metric": "★ 19,301",
+      "metric": "★ 19,307",
       "extra": {
         "language": "Python",
-        "stars": "19,301",
-        "forks": "1,657",
+        "stars": "19,307",
+        "forks": "1,659",
         "stars_today": "366 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "bojieli / ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "metric": "★ 39,003",
+      "metric": "★ 39,012",
       "extra": {
         "language": "Python",
-        "stars": "39,003",
-        "forks": "4,304",
+        "stars": "39,012",
+        "forks": "4,305",
         "stars_today": "556 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "genlayerlabs / genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "description": "",
-      "metric": "★ 15,877",
+      "metric": "★ 15,885",
       "extra": {
         "language": "TypeScript",
-        "stars": "15,877",
-        "forks": "798",
+        "stars": "15,885",
+        "forks": "799",
         "stars_today": "543 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "OpenCut-app / OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
-      "metric": "★ 84,629",
+      "metric": "★ 84,641",
       "extra": {
         "language": "TypeScript",
-        "stars": "84,629",
+        "stars": "84,641",
         "forks": "8,342",
         "stars_today": "288 stars today"
       }
