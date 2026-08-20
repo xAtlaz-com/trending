@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-08-20T07:44:12+00:00",
-  "count": 13,
+  "updated_at": "2026-08-20T08:42:20+00:00",
+  "count": 14,
   "items": [
     {
       "rank": 1,
       "title": "harry0703 / MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "metric": "★ 111,794",
+      "metric": "★ 111,972",
       "extra": {
         "language": "Python",
-        "stars": "111,794",
-        "forks": "16,935",
+        "stars": "111,972",
+        "forks": "16,960",
         "stars_today": "2,221 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "volcengine / OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "metric": "★ 30,569",
+      "metric": "★ 30,633",
       "extra": {
         "language": "Python",
-        "stars": "30,569",
-        "forks": "2,363",
+        "stars": "30,633",
+        "forks": "2,368",
         "stars_today": "804 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "chaitanyagiri / munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
-      "metric": "★ 2,850",
+      "metric": "★ 2,875",
       "extra": {
         "language": "TypeScript",
-        "stars": "2,850",
-        "forks": "332",
+        "stars": "2,875",
+        "forks": "335",
         "stars_today": "795 stars today"
       }
     },
@@ -47,128 +47,141 @@
       "title": "mukul975 / Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "metric": "★ 30,083",
+      "metric": "★ 30,110",
       "extra": {
         "language": "Python",
-        "stars": "30,083",
-        "forks": "3,568",
+        "stars": "30,110",
+        "forks": "3,574",
         "stars_today": "766 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "nautechsystems / nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "metric": "★ 26,566",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "metric": "★ 3,313",
       "extra": {
         "language": "Rust",
-        "stars": "26,566",
-        "forks": "3,429",
-        "stars_today": "80 stars today"
+        "stars": "3,313",
+        "forks": "272",
+        "stars_today": "606 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 224,381",
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "metric": "★ 26,587",
       "extra": {
-        "language": "Shell",
-        "stars": "224,381",
-        "forks": "19,284",
-        "stars_today": "1,894 stars today"
+        "language": "Rust",
+        "stars": "26,587",
+        "forks": "3,430",
+        "stars_today": "80 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 274,492",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 224,463",
       "extra": {
         "language": "Shell",
-        "stars": "274,492",
-        "forks": "24,573",
-        "stars_today": "557 stars today"
+        "stars": "224,463",
+        "forks": "19,292",
+        "stars_today": "1,894 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "jundot / omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "metric": "★ 19,938",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 274,537",
       "extra": {
-        "language": "Python",
-        "stars": "19,938",
-        "forks": "1,698",
-        "stars_today": "472 stars today"
+        "language": "Shell",
+        "stars": "274,537",
+        "forks": "24,574",
+        "stars_today": "557 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "santifer / career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "metric": "★ 66,054",
+      "title": "jundot / omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "metric": "★ 19,952",
       "extra": {
-        "language": "JavaScript",
-        "stars": "66,054",
-        "forks": "12,769",
-        "stars_today": "198 stars today"
+        "language": "Python",
+        "stars": "19,952",
+        "forks": "1,700",
+        "stars_today": "472 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "immich-app / immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "metric": "★ 112,037",
+      "title": "santifer / career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "metric": "★ 66,086",
       "extra": {
-        "language": "TypeScript",
-        "stars": "112,037",
-        "forks": "6,640",
-        "stars_today": "128 stars today"
+        "language": "JavaScript",
+        "stars": "66,086",
+        "forks": "12,774",
+        "stars_today": "198 stars today"
       }
     },
     {
       "rank": 11,
+      "title": "immich-app / immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "metric": "★ 112,063",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "112,063",
+        "forks": "6,642",
+        "stars_today": "128 stars today"
+      }
+    },
+    {
+      "rank": 12,
       "title": "amadeusprotocol / node",
       "url": "https://github.com/amadeusprotocol/node",
       "description": "",
-      "metric": "★ 4,828",
+      "metric": "★ 4,867",
       "extra": {
         "language": "Rust",
-        "stars": "4,828",
+        "stars": "4,867",
         "forks": "89",
         "stars_today": "1,397 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "marceloprates / prettymaps",
       "url": "https://github.com/marceloprates/prettymaps",
       "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
-      "metric": "★ 13,354",
+      "metric": "★ 13,383",
       "extra": {
         "language": "Python",
-        "stars": "13,354",
-        "forks": "663",
+        "stars": "13,383",
+        "forks": "665",
         "stars_today": "63 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "genlayerlabs / genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "description": "",
-      "metric": "★ 16,265",
+      "metric": "★ 16,272",
       "extra": {
         "language": "TypeScript",
-        "stars": "16,265",
-        "forks": "810",
+        "stars": "16,272",
+        "forks": "812",
         "stars_today": "430 stars today"
       }
     }
