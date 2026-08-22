@@ -4,13 +4,13 @@
     "title": "你们开梯子会有反诈中心的电话打来吗",
     "url": "https://www.v2ex.com/t/1236394",
     "description": "国产手机，开梯子会有反诈中心 96110 电话打来吗，如何预防呢？",
-    "metric": "91 回复",
-    "metric_value": 91,
+    "metric": "92 回复",
+    "metric_value": 92,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "asmallcake",
-      "last_touched": 1787420545
+      "last_touched": 1787423086
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "李彦宏提出要让文心一言回到第一梯队",
     "url": "https://www.v2ex.com/t/1236348",
     "description": "8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。",
-    "metric": "56 回复",
-    "metric_value": 56,
+    "metric": "57 回复",
+    "metric_value": 57,
     "extra": {
       "node": "人工智能",
       "node_name": "aigc",
       "author": "yfixx",
-      "last_touched": 1787416934
+      "last_touched": 1787422777
     }
   },
   {
@@ -99,6 +99,20 @@
   },
   {
     "rank": 8,
+    "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
+    "url": "https://www.v2ex.com/t/1236462",
+    "description": "起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；1.各位是否有同感呢？2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
+    "metric": "32 回复",
+    "metric_value": 32,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "LimaEcho",
+      "last_touched": 1787423381
+    }
+  },
+  {
+    "rank": 9,
     "title": "35+男士保养有哪些？？",
     "url": "https://www.v2ex.com/t/1236333",
     "description": "平时健身哈 肌酸啥的 鱼油有必要加吗？ \n主要是平时随餐的 VB 和葡萄糖酸辛片 很便宜的那种(记得好像是 tb 上的虎扑五件套)  就中午随餐两粒\n大家还有啥可以分享的？？\n自己平时也有眼袋 然后看 douyin 肝素钠。。但是发现自己用了 没啥效果 反而容易眼睛红。。。",
@@ -112,7 +126,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码",
     "url": "https://www.v2ex.com/t/1236410",
     "description": "大家好，我开发的《像素数织》 Google Play 版本推进到封闭测试阶段了，想找几位平时喜欢益智游戏的朋友，帮我实际体验一下。\n《像素数织》是一款通过行列数字线索，还原像素图案的逻辑益智游戏。玩法比较简单：根据数字判断哪些格子应该填满，哪些格子应该留空，一步步推理，最后把隐藏的图案拼出来。\n它不太考验反应速度，主要是慢慢分析和排除。顺利解出一道比较大的题时，还是挺有成就感的。\n宣传截图如下：\n\n\n\n\n \n参与方式：\n\n需要有 Android 手机，并且可以正常使用 Google Play\n留下邮箱我会邀请加入测试，并发放邀请码，数量有限(50 个)\n实际体验几关，或者试试自由模式、创造模式",
@@ -123,20 +137,6 @@
       "node_name": "create",
       "author": "sherlockGou",
       "last_touched": 1787418767
-    }
-  },
-  {
-    "rank": 10,
-    "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
-    "url": "https://www.v2ex.com/t/1236462",
-    "description": "起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；1.各位是否有同感呢？2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
-    "metric": "28 回复",
-    "metric_value": 28,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "LimaEcho",
-      "last_touched": 1787419040
     }
   }
 ]
