@@ -18,13 +18,13 @@
     "title": "李彦宏提出要让文心一言回到第一梯队",
     "url": "https://www.v2ex.com/t/1236348",
     "description": "8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。",
-    "metric": "57 回复",
-    "metric_value": 57,
+    "metric": "60 回复",
+    "metric_value": 60,
     "extra": {
       "node": "人工智能",
       "node_name": "aigc",
       "author": "yfixx",
-      "last_touched": 1787422777
+      "last_touched": 1787426607
     }
   },
   {
@@ -74,17 +74,31 @@
     "title": "[送码] 做了一个 Apple tv 上的小红书 Rouge",
     "url": "https://www.v2ex.com/t/1236360",
     "description": "Apple tv 上已经可以刷 B 站、抖音了，还缺少一个小红书，毕竟现在看小红书视频的时间已经超过了 B 站和抖音，自己有需求于是做了一款 tv OS 端的小红书 APP 。目标场景在沙发上刷起 Apple tv 就不想拿手机来看，看久了电影电视剧长视频想刷一刷社交媒体和短视频放松一下。\n核心功能：\n\n浏览小红书推荐瀑布流\n浏览小红书笔记图文和评论\n独立的视频页签，专门沉浸式播放视频流\n查看个人主页，笔记、点赞、收藏\n支持多帐号登录切换\n\n \n\n\n \n目前已经发布到 appstore 直接搜索名称 Rouge 或者通过 商店链接 下载，目前早期版本售价：2$，后续功能完善后可能会涨价。\n同时",
-    "metric": "33 回复",
-    "metric_value": 33,
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
       "node": "Apple",
       "node_name": "apple",
       "author": "mdah233",
-      "last_touched": 1787413188
+      "last_touched": 1787424877
     }
   },
   {
     "rank": 7,
+    "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
+    "url": "https://www.v2ex.com/t/1236462",
+    "description": "起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；1.各位是否有同感呢？2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
+    "metric": "33 回复",
+    "metric_value": 33,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "LimaEcho",
+      "last_touched": 1787424507
+    }
+  },
+  {
+    "rank": 8,
     "title": "[Air Router] GPT Plus 0.1 风控期间依然稳健, 还有 CC 1x, Pro 0.2, Grok Heavy 0.2, 新用户留言 ID 可得 5$额度,现在充值额外赠 10%",
     "url": "https://www.v2ex.com/t/1236362",
     "description": "Air Router：希望提供和呼吸一样便捷的 AI 服务\n\n站点地址： https://www.air-router.com\n充值地址： https://catfk.com/shop/air-router\n\n价格\n\n\n\n模型\n倍率\n备注\n\n\n\n\nGPT Plus\n0.1x\n最近拉闸的很厉害，但依然比较稳定\n\n\nGPT Pro\n0.2x\n正价号池，非黑\n\n\nClaude Max\n1.0x\n缓存读取 5 折, 不是逆向, 毛子渠道, 是 CC Max\n\n\nGROK Super\n0.1x\n—\n\n\nGROK Heavy\n0.2x\n—\n\n最近 24H 可用率\nsub2api 自带的, 每秒 token",
@@ -95,20 +109,6 @@
       "node_name": "promotions",
       "author": "violin84",
       "last_touched": 1787415465
-    }
-  },
-  {
-    "rank": 8,
-    "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
-    "url": "https://www.v2ex.com/t/1236462",
-    "description": "起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；1.各位是否有同感呢？2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
-    "metric": "32 回复",
-    "metric_value": 32,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "LimaEcho",
-      "last_touched": 1787423381
     }
   },
   {
