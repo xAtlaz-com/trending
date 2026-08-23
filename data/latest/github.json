@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-08-23T10:27:35+00:00",
+  "updated_at": "2026-08-23T10:53:12+00:00",
   "count": 17,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "openai / codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
-      "metric": "★ 114,554",
+      "metric": "★ 114,613",
       "extra": {
         "language": "Rust",
-        "stars": "114,554",
-        "forks": "17,477",
+        "stars": "114,613",
+        "forks": "17,484",
         "stars_today": "1,544 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 233,007",
+      "metric": "★ 233,056",
       "extra": {
         "language": "Shell",
-        "stars": "233,007",
-        "forks": "19,877",
+        "stars": "233,056",
+        "forks": "19,882",
         "stars_today": "2,683 stars today"
       }
     },
@@ -34,10 +34,10 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 242,330",
+      "metric": "★ 242,341",
       "extra": {
         "language": "JavaScript",
-        "stars": "242,330",
+        "stars": "242,341",
         "forks": "36,710",
         "stars_today": "411 stars today"
       }
@@ -47,11 +47,11 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 276,438",
+      "metric": "★ 276,444",
       "extra": {
         "language": "Shell",
-        "stars": "276,438",
-        "forks": "24,729",
+        "stars": "276,444",
+        "forks": "24,731",
         "stars_today": "592 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "Wei-Shaw / sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "metric": "★ 38,948",
+      "metric": "★ 38,953",
       "extra": {
         "language": "Go",
-        "stars": "38,948",
-        "forks": "8,055",
+        "stars": "38,953",
+        "forks": "8,056",
         "stars_today": "278 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "makeplane / plane",
       "url": "https://github.com/makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "metric": "★ 57,402",
+      "metric": "★ 57,410",
       "extra": {
         "language": "TypeScript",
-        "stars": "57,402",
-        "forks": "5,455",
+        "stars": "57,410",
+        "forks": "5,454",
         "stars_today": "263 stars today"
       }
     },
@@ -86,10 +86,10 @@
       "title": "n8n-io / n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "metric": "★ 202,014",
+      "metric": "★ 202,030",
       "extra": {
         "language": "TypeScript",
-        "stars": "202,014",
+        "stars": "202,030",
         "forks": "60,321",
         "stars_today": "149 stars today"
       }
@@ -99,10 +99,10 @@
       "title": "anthropics / claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "metric": "★ 142,693",
+      "metric": "★ 142,697",
       "extra": {
         "language": "Python",
-        "stars": "142,693",
+        "stars": "142,697",
         "forks": "22,850",
         "stars_today": "127 stars today"
       }
@@ -112,11 +112,11 @@
       "title": "AprilNEA / OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "metric": "★ 14,329",
+      "metric": "★ 14,345",
       "extra": {
         "language": "Rust",
-        "stars": "14,329",
-        "forks": "382",
+        "stars": "14,345",
+        "forks": "381",
         "stars_today": "959 stars today"
       }
     },
@@ -125,10 +125,10 @@
       "title": "modular / modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
-      "metric": "★ 28,915",
+      "metric": "★ 28,916",
       "extra": {
         "language": "Mojo",
-        "stars": "28,915",
+        "stars": "28,916",
         "forks": "3,068",
         "stars_today": "395 stars today"
       }
@@ -138,11 +138,11 @@
       "title": "multica-ai / andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "metric": "★ 205,546",
+      "metric": "★ 205,555",
       "extra": {
         "language": null,
-        "stars": "205,546",
-        "forks": "21,025",
+        "stars": "205,555",
+        "forks": "21,026",
         "stars_today": "315 stars today"
       }
     },
@@ -151,10 +151,10 @@
       "title": "mahlernim / google-timeline-visualizer",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "description": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "metric": "★ 2,644",
+      "metric": "★ 2,646",
       "extra": {
         "language": "Kotlin",
-        "stars": "2,644",
+        "stars": "2,646",
         "forks": "311",
         "stars_today": "441 stars today"
       }
@@ -164,10 +164,10 @@
       "title": "ripienaar / free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "metric": "★ 134,126",
+      "metric": "★ 134,138",
       "extra": {
         "language": "HTML",
-        "stars": "134,126",
+        "stars": "134,138",
         "forks": "14,038",
         "stars_today": "829 stars today"
       }
@@ -177,10 +177,10 @@
       "title": "microsoft / TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "metric": "★ 110,603",
+      "metric": "★ 110,606",
       "extra": {
         "language": "Go",
-        "stars": "110,603",
+        "stars": "110,606",
         "forks": "13,748",
         "stars_today": "104 stars today"
       }
@@ -190,10 +190,10 @@
       "title": "cursor / plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
-      "metric": "★ 4,740",
+      "metric": "★ 4,744",
       "extra": {
         "language": "TypeScript",
-        "stars": "4,740",
+        "stars": "4,744",
         "forks": "386",
         "stars_today": "286 stars today"
       }
@@ -203,10 +203,10 @@
       "title": "PostHog / posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "metric": "★ 38,740",
+      "metric": "★ 38,747",
       "extra": {
         "language": "Python",
-        "stars": "38,740",
+        "stars": "38,747",
         "forks": "3,249",
         "stars_today": "286 stars today"
       }
@@ -216,10 +216,10 @@
       "title": "Tencent / AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "metric": "★ 5,636",
+      "metric": "★ 5,642",
       "extra": {
         "language": "Python",
-        "stars": "5,636",
+        "stars": "5,642",
         "forks": "529",
         "stars_today": "150 stars today"
       }
