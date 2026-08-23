@@ -4,31 +4,17 @@
     "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
     "url": "https://www.v2ex.com/t/1236462",
     "description": "起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；1.各位是否有同感呢？2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
-    "metric": "65 回复",
-    "metric_value": 65,
+    "metric": "66 回复",
+    "metric_value": 66,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "LimaEcho",
-      "last_touched": 1787463928
+      "last_touched": 1787467045
     }
   },
   {
     "rank": 2,
-    "title": "亲人去世后的手机破解问题",
-    "url": "https://www.v2ex.com/t/1236385",
-    "description": "现在有一亲人去世了，他留下了一部锁屏的红米手机。\n现在需要输入四位数的数字密码来解锁。\n我问了几个 AI ，能不能通过电脑连接手机，然后尝试自动破解，也就是不停的不停的输入各种四位数的组合，直到解锁。\nAI 不知道是受到安全限制，还是真的无法做到。\n说是只能通过人工来输入四位数的数字来尝试暴力破解。\n我想在这里问一下大家。还有没有其他的更好的方案？\n人工输入四位数字的话，需要输入 1 万次。\n每次输入后的平均等待时间大概是 5 分钟，这个耗时太久了。",
-    "metric": "48 回复",
-    "metric_value": 48,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "q307990588",
-      "last_touched": 1787386136
-    }
-  },
-  {
-    "rank": 3,
     "title": "[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码",
     "url": "https://www.v2ex.com/t/1236410",
     "description": "大家好，我开发的《像素数织》 Google Play 版本推进到封闭测试阶段了，想找几位平时喜欢益智游戏的朋友，帮我实际体验一下。\n《像素数织》是一款通过行列数字线索，还原像素图案的逻辑益智游戏。玩法比较简单：根据数字判断哪些格子应该填满，哪些格子应该留空，一步步推理，最后把隐藏的图案拼出来。\n它不太考验反应速度，主要是慢慢分析和排除。顺利解出一道比较大的题时，还是挺有成就感的。\n宣传截图如下：\n\n\n\n\n \n参与方式：\n\n需要有 Android 手机，并且可以正常使用 Google Play\n留下邮箱我会邀请加入测试，并发放邀请码，数量有限(50 个)\n实际体验几关，或者试试自由模式、创造模式",
@@ -42,7 +28,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "BAT，这个 B，记得当初还是百度，现在应该是字节了吧？这种转变是什么时候开始的呢？如何而发生的呢？又何以至此呢？",
     "url": "https://www.v2ex.com/t/1236403",
     "description": "希望大家赐教。",
@@ -53,6 +39,20 @@
       "node_name": "qna",
       "author": "oldlamp",
       "last_touched": 1787434477
+    }
+  },
+  {
+    "rank": 4,
+    "title": "Bun 1.4 发布了，有人关心吗？",
+    "url": "https://www.v2ex.com/t/1236482",
+    "description": "https://bun.com/blog/bun-v1.4被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust\"它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%\"",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "liuliuliuliu",
+      "last_touched": 1787467119
     }
   },
   {
@@ -71,30 +71,44 @@
   },
   {
     "rank": 6,
-    "title": "Bun 1.4 发布了，有人关心吗？",
-    "url": "https://www.v2ex.com/t/1236482",
-    "description": "https://bun.com/blog/bun-v1.4被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust\"它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%\"",
-    "metric": "16 回复",
-    "metric_value": 16,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "liuliuliuliu",
-      "last_touched": 1787459489
-    }
-  },
-  {
-    "rank": 7,
     "title": "你有 token 用量和上下文焦虑吗？",
     "url": "https://www.v2ex.com/t/1236509",
     "description": "公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。\n开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。\n\n有需要的自己可以用 dsh 命令添加\ndsh plugin --profile web add dsh-plugin-model-usage-meter",
-    "metric": "14 回复",
-    "metric_value": 14,
+    "metric": "15 回复",
+    "metric_value": 15,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "Rogeryxx",
-      "last_touched": 1787462413
+      "last_touched": 1787466867
+    }
+  },
+  {
+    "rank": 7,
+    "title": "我把全网在赚钱的站点变成了一张榜单",
+    "url": "https://www.v2ex.com/t/1236529",
+    "description": "以前找产品方向，我会在 Product Hunt 、X 、Reddit 收藏一大堆链接。\n但最后还是回答不了一个问题：\n这些产品只是有人讨论，还是真的在赚钱？\n所以我做了 Build or Skip （ buildorskip.dev)。\n现在站内收录了 14 万+ 在赚钱的产品，可以查看估算订单、增长状态、趋势、DR 、产品分类、定价、收入模式、广告平台和目标用户。\n现在我只需要看那个产品我能打得过，然后“先抄再超”就行了。",
+    "metric": "15 回复",
+    "metric_value": 15,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "mrergouwang666",
+      "last_touched": 1787465915
+    }
+  },
+  {
+    "rank": 8,
+    "title": "你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?",
+    "url": "https://www.v2ex.com/t/1236538",
+    "description": "你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？",
+    "metric": "15 回复",
+    "metric_value": 15,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "yfixx",
+      "last_touched": 1787467281
     }
   }
 ]
