@@ -1,10 +1,24 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-23T14:26:53+00:00",
+  "updated_at": "2026-08-23T14:52:35+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "title": "大家现在日常/办公中，语音输入占比大概有多少？",
+      "url": "https://www.v2ex.com/t/1236583",
+      "description": "大概 7 个月前，我做了一个预言，说 1 年之后语音输入将会成为主流，现在半年都过去了，我说一下我现在情况\n不得不说，现在语音转文字准确率越来越高，所以现在在手机上几乎不怎么打字了（除非敲一些命令），各种聊天 发帖子 或者是 跟 agent 协同等，基本上都是靠语音转文字来输入了\n电脑上也是如此，基本上 80 ～ 90% 的场景吧，都是语音转文字来进行输入\n办公场景可能会稍低一些，有时候不方便说的还是靠打字，大部分情况下都还好。\n想看看大家的占比是怎么样的。",
+      "metric": "42 回复",
+      "metric_value": 42,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "287854442",
+        "last_touched": 1787496308
+      }
+    },
+    {
+      "rank": 2,
       "title": "2026 年键盘求推荐",
       "url": "https://www.v2ex.com/t/1236534",
       "description": "用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？",
@@ -15,20 +29,6 @@
         "node_name": "qna",
         "author": "metrue",
         "last_touched": 1787494969
-      }
-    },
-    {
-      "rank": 2,
-      "title": "大家现在日常/办公中，语音输入占比大概有多少？",
-      "url": "https://www.v2ex.com/t/1236583",
-      "description": "大概 7 个月前，我做了一个预言，说 1 年之后语音输入将会成为主流，现在半年都过去了，我说一下我现在情况\n不得不说，现在语音转文字准确率越来越高，所以现在在手机上几乎不怎么打字了（除非敲一些命令），各种聊天 发帖子 或者是 跟 agent 协同等，基本上都是靠语音转文字来输入了\n电脑上也是如此，基本上 80 ～ 90% 的场景吧，都是语音转文字来进行输入\n办公场景可能会稍低一些，有时候不方便说的还是靠打字，大部分情况下都还好。\n想看看大家的占比是怎么样的。",
-      "metric": "35 回复",
-      "metric_value": 35,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "287854442",
-        "last_touched": 1787494590
       }
     },
     {
@@ -64,8 +64,8 @@
       "title": "你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?",
       "url": "https://www.v2ex.com/t/1236538",
       "description": "你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？",
-      "metric": "30 回复",
-      "metric_value": 30,
+      "metric": "31 回复",
+      "metric_value": 31,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
@@ -92,17 +92,31 @@
       "title": "你们都是怎么给 chatgpt plus 充值的？",
       "url": "https://www.v2ex.com/t/1236551",
       "description": "用了一个月官方 plus 后，再也不想用中转站了，又慢又不稳定。那么要自己充值，你们都用什么方案充呢？",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "metric": "28 回复",
+      "metric_value": 28,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "vzyw",
-        "last_touched": 1787494672
+        "last_touched": 1787495462
       }
     },
     {
       "rank": 8,
+      "title": "[招人]杭州，产品研发，后端开发 3 年以上经验来看",
+      "url": "https://www.v2ex.com/t/1236533",
+      "description": "你好，根据本岗位的实际需要，需要求职者具备以下必要条件，为了节省双方时间，请仔细核对后决定是否进行下一步沟通：1.计科、软工、网工、大数据、人工智能、信管等计算机相关专业毕业；2.具有从毕业后 3 年以上（含 3 年）的工作经验；3.熟练掌握 Python 或 golang 开发语言，并能够进行 AI 应用的开发，仅能 vibe coding 进行工作的此项不合格；4.具备真实的 AI 商业项目落地经验。以上条件都满足，请选择一个参与的项目进行简短介绍。",
+      "metric": "26 回复",
+      "metric_value": 26,
+      "extra": {
+        "node": "求职",
+        "node_name": "cv",
+        "author": "SocratesQ",
+        "last_touched": 1787495779
+      }
+    },
+    {
+      "rank": 9,
       "title": "Bun 1.4 发布了，有人关心吗？",
       "url": "https://www.v2ex.com/t/1236482",
       "description": "https://bun.com/blog/bun-v1.4被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust\"它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%\"",
@@ -116,26 +130,12 @@
       }
     },
     {
-      "rank": 9,
-      "title": "[招人]杭州，产品研发，后端开发 3 年以上经验来看",
-      "url": "https://www.v2ex.com/t/1236533",
-      "description": "你好，根据本岗位的实际需要，需要求职者具备以下必要条件，为了节省双方时间，请仔细核对后决定是否进行下一步沟通：1.计科、软工、网工、大数据、人工智能、信管等计算机相关专业毕业；2.具有从毕业后 3 年以上（含 3 年）的工作经验；3.熟练掌握 Python 或 golang 开发语言，并能够进行 AI 应用的开发，仅能 vibe coding 进行工作的此项不合格；4.具备真实的 AI 商业项目落地经验。以上条件都满足，请选择一个参与的项目进行简短介绍。",
-      "metric": "23 回复",
-      "metric_value": 23,
-      "extra": {
-        "node": "求职",
-        "node_name": "cv",
-        "author": "SocratesQ",
-        "last_touched": 1787493550
-      }
-    },
-    {
       "rank": 10,
       "title": "Codex 又要重置了",
       "url": "https://www.v2ex.com/t/1236559",
       "description": "Tibo • @thsottiaux•19 分钟\nUpdate on rate limits in Codex.\nWe've found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than inte",
-      "metric": "23 回复",
-      "metric_value": 23,
+      "metric": "24 回复",
+      "metric_value": 24,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
