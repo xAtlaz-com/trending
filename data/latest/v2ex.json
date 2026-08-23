@@ -1,20 +1,20 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-23T03:05:50+00:00",
-  "count": 10,
+  "updated_at": "2026-08-23T04:10:28+00:00",
+  "count": 9,
   "items": [
     {
       "rank": 1,
       "title": "你们开梯子会有反诈中心的电话打来吗",
       "url": "https://www.v2ex.com/t/1236394",
       "description": "国产手机，开梯子会有反诈中心 96110 电话打来吗，如何预防呢？",
-      "metric": "99 回复",
-      "metric_value": 99,
+      "metric": "101 回复",
+      "metric_value": 101,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "asmallcake",
-        "last_touched": 1787451792
+        "last_touched": 1787455804
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
       "url": "https://www.v2ex.com/t/1236462",
       "description": "起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；1.各位是否有同感呢？2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
-      "metric": "58 回复",
-      "metric_value": 58,
+      "metric": "62 回复",
+      "metric_value": 62,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "LimaEcho",
-        "last_touched": 1787454116
+        "last_touched": 1787458098
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "白菜用甲醛防腐..还有啥是安全的吗",
       "url": "https://www.v2ex.com/t/1236404",
       "description": "抖音博主爆出河北白菜用甲醛防腐.检测证实甲醛含量很高, 我还挺喜欢吃白菜南方做泡药杨梅, 北方搞甲醛白菜...还有啥能吃的吗 :)",
-      "metric": "50 回复",
-      "metric_value": 50,
+      "metric": "53 回复",
+      "metric_value": 53,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "zsxzy",
-        "last_touched": 1787453965
+        "last_touched": 1787456178
       }
     },
     {
@@ -64,73 +64,45 @@
       "title": "[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码",
       "url": "https://www.v2ex.com/t/1236410",
       "description": "大家好，我开发的《像素数织》 Google Play 版本推进到封闭测试阶段了，想找几位平时喜欢益智游戏的朋友，帮我实际体验一下。\n《像素数织》是一款通过行列数字线索，还原像素图案的逻辑益智游戏。玩法比较简单：根据数字判断哪些格子应该填满，哪些格子应该留空，一步步推理，最后把隐藏的图案拼出来。\n它不太考验反应速度，主要是慢慢分析和排除。顺利解出一道比较大的题时，还是挺有成就感的。\n宣传截图如下：\n\n\n\n\n \n参与方式：\n\n需要有 Android 手机，并且可以正常使用 Google Play\n留下邮箱我会邀请加入测试，并发放邀请码，数量有限(50 个)\n实际体验几关，或者试试自由模式、创造模式",
-      "metric": "36 回复",
-      "metric_value": 36,
+      "metric": "38 回复",
+      "metric_value": 38,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "sherlockGou",
-        "last_touched": 1787425967
+        "last_touched": 1787429567
       }
     },
     {
       "rank": 6,
-      "title": "关于程序员与 ai 的协作关系之我见-到底是谁是司机谁是乘客",
-      "url": "https://www.v2ex.com/t/1236368",
-      "description": "如果你只需要一个“可以用的”软件，那我觉得全程 vibecoding 没问题\n但是如果真的要上生产环境，一个 bug 会有影响成千上万的用户，对公司造成巨额损失，你确定你还要采取黑盒编程的方案。\n我理解对大部分付费软件，必须保证可控，不然如何做到对用户负责呢\n举个例子：\n从 A 地到 B 地，你可以买张机票、上飞机就睡，驾驶员会负责把你送到。但企业级开发不是这种情况： 工程师更像驾驶员，开着一辆自己改装的车，去一个也许从没人去过的地方。 乘客可以睡，驾驶员不能睡：路线必须自己规划，每个岔口必须自己决定。 让 AI 当驾驶员、自己当乘客，对企业开发我觉得是可怕的。",
-      "metric": "24 回复",
-      "metric_value": 24,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "l764191074537",
-        "last_touched": 1787412331
-      }
-    },
-    {
-      "rank": 7,
       "title": "BAT，这个 B，记得当初还是百度，现在应该是字节了吧？这种转变是什么时候开始的呢？如何而发生的呢？又何以至此呢？",
       "url": "https://www.v2ex.com/t/1236403",
       "description": "希望大家赐教。",
-      "metric": "20 回复",
-      "metric_value": 20,
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "oldlamp",
-        "last_touched": 1787416477
+        "last_touched": 1787420077
+      }
+    },
+    {
+      "rank": 7,
+      "title": "claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付",
+      "url": "https://www.v2ex.com/t/1236430",
+      "description": "大家的也都是这样吗，不想走苹果买礼品卡了感觉好麻烦，求大佬支支招",
+      "metric": "17 回复",
+      "metric_value": 17,
+      "extra": {
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "kyrie2",
+        "last_touched": 1787427768
       }
     },
     {
       "rank": 8,
-      "title": "codex 发重置卡都收到了吗",
-      "url": "https://www.v2ex.com/t/1236364",
-      "description": "怎么我的几个 pro 都没收到",
-      "metric": "18 回复",
-      "metric_value": 18,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "boisy",
-        "last_touched": 1787405044
-      }
-    },
-    {
-      "rank": 9,
-      "title": "有没有人和我做过一样的梦：乘坐电梯飞速上升",
-      "url": "https://www.v2ex.com/t/1236366",
-      "description": "目的地楼层可以用高不可测来形容，电梯速度极快，最可怕的是电梯还不稳定！\n醒来后心跳怕是要达到 150 了！\n这是什么原因，怎么会做这么可怕的梦？有人也做过可怕电梯的梦吗？",
-      "metric": "15 回复",
-      "metric_value": 15,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "cxshou",
-        "last_touched": 1787394483
-      }
-    },
-    {
-      "rank": 10,
       "title": "关于一个老哥帖子里认为的程序员指挥 ai 是弯路的话题下我的看法",
       "url": "https://www.v2ex.com/t/1236380",
       "description": "由于我注册时间不够 270 天，没办法在原帖下面评论，于是新开一帖记录一下自己的思考过程，如果有缘听到其他朋友的想法就更好了。 又因为发帖出现了几次 270 ，查了一下，可能是因为我关键词命中某些规则的问题，下面的是我将一些词修改了表达后的版本。我认为我先知道自己不知道，是知道的前提；经过奥卡姆剃刀之后还留下来的信念，才更可能有意义。原帖在这里： https://www.v2ex.com/t/1236256原楼主 @qiayue 的观点大致是：多年后回头看，让程序员指挥 ai 写代码，可能是我们人类走过的一段弯路，应该让真正懂产品、对产品负责的人来指挥 ai 。下面用“原楼主”指代祂。我没能发",
@@ -141,6 +113,20 @@
         "node_name": "share",
         "author": "chjqpmain",
         "last_touched": 1787400510
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Bun 1.4 发布了，有人关心吗？",
+      "url": "https://www.v2ex.com/t/1236482",
+      "description": "https://bun.com/blog/bun-v1.4被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust\"它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%\"",
+      "metric": "13 回复",
+      "metric_value": 13,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "liuliuliuliu",
+        "last_touched": 1787449625
       }
     }
   ]
