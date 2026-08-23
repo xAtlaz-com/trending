@@ -57,6 +57,20 @@
   },
   {
     "rank": 5,
+    "title": "你们都是怎么给 chatgpt plus 充值的？",
+    "url": "https://www.v2ex.com/t/1236551",
+    "description": "用了一个月官方 plus 后，再也不想用中转站了，又慢又不稳定。那么要自己充值，你们都用什么方案充呢？",
+    "metric": "35 回复",
+    "metric_value": 35,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "vzyw",
+      "last_touched": 1787509282
+    }
+  },
+  {
+    "rank": 6,
     "title": "你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?",
     "url": "https://www.v2ex.com/t/1236538",
     "description": "你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？",
@@ -70,35 +84,35 @@
     }
   },
   {
-    "rank": 6,
-    "title": "你们都是怎么给 chatgpt plus 充值的？",
-    "url": "https://www.v2ex.com/t/1236551",
-    "description": "用了一个月官方 plus 后，再也不想用中转站了，又慢又不稳定。那么要自己充值，你们都用什么方案充呢？",
-    "metric": "34 回复",
-    "metric_value": 34,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "vzyw",
-      "last_touched": 1787505682
-    }
-  },
-  {
     "rank": 7,
     "title": "每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？",
     "url": "https://www.v2ex.com/t/1236570",
     "description": "我用了半小时，装了 im 插件，使用 web profile 就成了网页版 OpenClaw 。\n装了桌面版，装个新的 UI ，就成了 Claude Code/Codex 。\n这个东西定制起来太有可玩性了。",
-    "metric": "33 回复",
-    "metric_value": 33,
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "eccstartup",
-      "last_touched": 1787510361
+      "last_touched": 1787513961
     }
   },
   {
     "rank": 8,
+    "title": "Codex 又要重置了",
+    "url": "https://www.v2ex.com/t/1236559",
+    "description": "Tibo • @thsottiaux•19 分钟\nUpdate on rate limits in Codex.\nWe've found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than inte",
+    "metric": "32 回复",
+    "metric_value": 32,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "nanoxx",
+      "last_touched": 1787526924
+    }
+  },
+  {
+    "rank": 9,
     "title": "很多过去认为在 apple 上不可能的实现的事现在都实现了",
     "url": "https://www.v2ex.com/t/1236556",
     "description": "以前大家都认为* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。下一个不可能到可能的功能会是什么？",
@@ -112,7 +126,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "[招人]杭州，产品研发，后端开发 3 年以上经验来看",
     "url": "https://www.v2ex.com/t/1236533",
     "description": "你好，根据本岗位的实际需要，需要求职者具备以下必要条件，为了节省双方时间，请仔细核对后决定是否进行下一步沟通：1.计科、软工、网工、大数据、人工智能、信管等计算机相关专业毕业；2.具有从毕业后 3 年以上（含 3 年）的工作经验；3.熟练掌握 Python 或 golang 开发语言，并能够进行 AI 应用的开发，仅能 vibe coding 进行工作的此项不合格；4.具备真实的 AI 商业项目落地经验。以上条件都满足，请选择一个参与的项目进行简短介绍。",
@@ -123,20 +137,6 @@
       "node_name": "cv",
       "author": "SocratesQ",
       "last_touched": 1787500406
-    }
-  },
-  {
-    "rank": 10,
-    "title": "Codex 又要重置了",
-    "url": "https://www.v2ex.com/t/1236559",
-    "description": "Tibo • @thsottiaux•19 分钟\nUpdate on rate limits in Codex.\nWe've found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than inte",
-    "metric": "29 回复",
-    "metric_value": 29,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "nanoxx",
-      "last_touched": 1787506308
     }
   }
 ]
