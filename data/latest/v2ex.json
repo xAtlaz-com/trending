@@ -1,20 +1,20 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-23T04:10:28+00:00",
-  "count": 9,
+  "updated_at": "2026-08-23T05:03:35+00:00",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "你们开梯子会有反诈中心的电话打来吗",
       "url": "https://www.v2ex.com/t/1236394",
       "description": "国产手机，开梯子会有反诈中心 96110 电话打来吗，如何预防呢？",
-      "metric": "101 回复",
-      "metric_value": 101,
+      "metric": "103 回复",
+      "metric_value": 103,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "asmallcake",
-        "last_touched": 1787455804
+        "last_touched": 1787461384
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "白菜用甲醛防腐..还有啥是安全的吗",
       "url": "https://www.v2ex.com/t/1236404",
       "description": "抖音博主爆出河北白菜用甲醛防腐.检测证实甲醛含量很高, 我还挺喜欢吃白菜南方做泡药杨梅, 北方搞甲醛白菜...还有啥能吃的吗 :)",
-      "metric": "53 回复",
-      "metric_value": 53,
+      "metric": "55 回复",
+      "metric_value": 55,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "zsxzy",
-        "last_touched": 1787456178
+        "last_touched": 1787459031
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "BAT，这个 B，记得当初还是百度，现在应该是字节了吧？这种转变是什么时候开始的呢？如何而发生的呢？又何以至此呢？",
       "url": "https://www.v2ex.com/t/1236403",
       "description": "希望大家赐教。",
-      "metric": "21 回复",
-      "metric_value": 21,
+      "metric": "23 回复",
+      "metric_value": 23,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "oldlamp",
-        "last_touched": 1787420077
+        "last_touched": 1787427277
       }
     },
     {
@@ -103,6 +103,20 @@
     },
     {
       "rank": 8,
+      "title": "Bun 1.4 发布了，有人关心吗？",
+      "url": "https://www.v2ex.com/t/1236482",
+      "description": "https://bun.com/blog/bun-v1.4被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust\"它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%\"",
+      "metric": "15 回复",
+      "metric_value": 15,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "liuliuliuliu",
+        "last_touched": 1787459489
+      }
+    },
+    {
+      "rank": 9,
       "title": "关于一个老哥帖子里认为的程序员指挥 ai 是弯路的话题下我的看法",
       "url": "https://www.v2ex.com/t/1236380",
       "description": "由于我注册时间不够 270 天，没办法在原帖下面评论，于是新开一帖记录一下自己的思考过程，如果有缘听到其他朋友的想法就更好了。 又因为发帖出现了几次 270 ，查了一下，可能是因为我关键词命中某些规则的问题，下面的是我将一些词修改了表达后的版本。我认为我先知道自己不知道，是知道的前提；经过奥卡姆剃刀之后还留下来的信念，才更可能有意义。原帖在这里： https://www.v2ex.com/t/1236256原楼主 @qiayue 的观点大致是：多年后回头看，让程序员指挥 ai 写代码，可能是我们人类走过的一段弯路，应该让真正懂产品、对产品负责的人来指挥 ai 。下面用“原楼主”指代祂。我没能发",
@@ -116,17 +130,17 @@
       }
     },
     {
-      "rank": 9,
-      "title": "Bun 1.4 发布了，有人关心吗？",
-      "url": "https://www.v2ex.com/t/1236482",
-      "description": "https://bun.com/blog/bun-v1.4被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust\"它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%\"",
+      "rank": 10,
+      "title": "你有 token 用量和上下文焦虑吗？",
+      "url": "https://www.v2ex.com/t/1236509",
+      "description": "公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。\n开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。\n\n有需要的自己可以用 dsh 命令添加\ndsh plugin --profile web add dsh-plugin-model-usage-meter",
       "metric": "13 回复",
       "metric_value": 13,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
-        "author": "liuliuliuliu",
-        "last_touched": 1787449625
+        "author": "Rogeryxx",
+        "last_touched": 1787461027
       }
     }
   ]
