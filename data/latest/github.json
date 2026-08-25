@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-08-25T17:34:43+00:00",
-  "count": 15,
+  "updated_at": "2026-08-25T18:43:12+00:00",
+  "count": 16,
   "items": [
     {
       "rank": 1,
       "title": "freestylefly / awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "metric": "★ 17,305",
+      "metric": "★ 17,388",
       "extra": {
         "language": "JavaScript",
-        "stars": "17,305",
-        "forks": "1,793",
+        "stars": "17,388",
+        "forks": "1,802",
         "stars_today": "1,698 stars today"
       }
     },
@@ -21,179 +21,192 @@
       "title": "anthropics / claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "metric": "★ 1,638",
+      "metric": "★ 1,654",
       "extra": {
         "language": "Python",
-        "stars": "1,638",
-        "forks": "174",
+        "stars": "1,654",
+        "forks": "176",
         "stars_today": "350 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "apache / maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "metric": "★ 3,227",
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "metric": "★ 35,089",
       "extra": {
-        "language": "TypeScript",
-        "stars": "3,227",
-        "forks": "323",
-        "stars_today": "538 stars today"
+        "language": "Python",
+        "stars": "35,089",
+        "forks": "12,093",
+        "stars_today": "1,266 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "TauricResearch / TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "metric": "★ 100,034",
+      "title": "apache / maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "metric": "★ 3,246",
       "extra": {
-        "language": "Python",
-        "stars": "100,034",
-        "forks": "19,336",
-        "stars_today": "191 stars today"
+        "language": "TypeScript",
+        "stars": "3,246",
+        "forks": "325",
+        "stars_today": "538 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "AgriciDaniel / claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "metric": "★ 12,512",
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "metric": "★ 100,065",
       "extra": {
         "language": "Python",
-        "stars": "12,512",
-        "forks": "1,378",
-        "stars_today": "810 stars today"
+        "stars": "100,065",
+        "forks": "19,342",
+        "stars_today": "191 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "metric": "★ 48,793",
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "metric": "★ 12,545",
       "extra": {
         "language": "Python",
-        "stars": "48,793",
-        "forks": "8,550",
-        "stars_today": "572 stars today"
+        "stars": "12,545",
+        "forks": "1,379",
+        "stars_today": "810 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "metric": "★ 37,642",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "metric": "★ 48,821",
       "extra": {
-        "language": "Rust",
-        "stars": "37,642",
-        "forks": "3,725",
-        "stars_today": "541 stars today"
+        "language": "Python",
+        "stars": "48,821",
+        "forks": "8,553",
+        "stars_today": "572 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "metric": "★ 30,993",
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "metric": "★ 37,665",
       "extra": {
-        "language": "Shell",
-        "stars": "30,993",
-        "forks": "3,156",
-        "stars_today": "1,080 stars today"
+        "language": "Rust",
+        "stars": "37,665",
+        "forks": "3,727",
+        "stars_today": "541 stars today"
       }
     },
     {
       "rank": 9,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "metric": "★ 31,044",
+      "extra": {
+        "language": "Shell",
+        "stars": "31,044",
+        "forks": "3,162",
+        "stars_today": "1,080 stars today"
+      }
+    },
+    {
+      "rank": 10,
       "title": "Shubhamsaboo / awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "metric": "★ 134,097",
+      "metric": "★ 134,116",
       "extra": {
         "language": "Python",
-        "stars": "134,097",
+        "stars": "134,116",
         "forks": "19,734",
         "stars_today": "161 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "multica-ai / andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "metric": "★ 207,052",
+      "metric": "★ 207,069",
       "extra": {
         "language": null,
-        "stars": "207,052",
-        "forks": "21,138",
+        "stars": "207,069",
+        "forks": "21,139",
         "stars_today": "828 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "openai / codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
-      "metric": "★ 117,970",
+      "metric": "★ 117,995",
       "extra": {
         "language": "Rust",
-        "stars": "117,970",
-        "forks": "17,990",
+        "stars": "117,995",
+        "forks": "17,991",
         "stars_today": "1,183 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "marin-community / marin",
       "url": "https://github.com/marin-community/marin",
       "description": "Open-source framework for the research and development of foundation models.",
-      "metric": "★ 2,031",
+      "metric": "★ 2,045",
       "extra": {
         "language": "Python",
-        "stars": "2,031",
-        "forks": "189",
+        "stars": "2,045",
+        "forks": "190",
         "stars_today": "277 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "DietrichGebert / ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 110,665",
+      "metric": "★ 110,725",
       "extra": {
         "language": "JavaScript",
-        "stars": "110,665",
-        "forks": "6,085",
+        "stars": "110,725",
+        "forks": "6,087",
         "stars_today": "944 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "anthropics / claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "metric": "★ 34,005",
+      "metric": "★ 34,012",
       "extra": {
         "language": "Python",
-        "stars": "34,005",
+        "stars": "34,012",
         "forks": "3,866",
         "stars_today": "47 stars today"
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "asciimoo / hister",
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
-      "metric": "★ 2,673",
+      "metric": "★ 2,689",
       "extra": {
         "language": "Go",
-        "stars": "2,673",
+        "stars": "2,689",
         "forks": "121",
         "stars_today": "166 stars today"
       }
