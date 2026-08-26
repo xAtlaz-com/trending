@@ -1,71 +1,71 @@
 {
   "source": "github",
-  "updated_at": "2026-08-26T11:33:20+00:00",
+  "updated_at": "2026-08-26T12:57:59+00:00",
   "count": 16,
   "items": [
     {
       "rank": 1,
-      "title": "freestylefly / awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "metric": "★ 20,368",
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "metric": "★ 16,903",
       "extra": {
-        "language": "JavaScript",
-        "stars": "20,368",
-        "forks": "2,051",
-        "stars_today": "1,698 stars today"
+        "language": "HTML",
+        "stars": "16,903",
+        "forks": "1,178",
+        "stars_today": "1,002 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "anthropics / claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "metric": "★ 2,015",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "metric": "★ 20,552",
       "extra": {
-        "language": "Python",
-        "stars": "2,015",
-        "forks": "185",
-        "stars_today": "351 stars today"
+        "language": "JavaScript",
+        "stars": "20,552",
+        "forks": "2,069",
+        "stars_today": "4,044 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "metric": "★ 35,934",
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "metric": "★ 34,246",
       "extra": {
         "language": "Python",
-        "stars": "35,934",
-        "forks": "12,262",
-        "stars_today": "1,265 stars today"
+        "stars": "34,246",
+        "forks": "3,879",
+        "stars_today": "307 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "apache / maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "metric": "★ 3,536",
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "metric": "★ 50,093",
       "extra": {
-        "language": "TypeScript",
-        "stars": "3,536",
-        "forks": "346",
-        "stars_today": "543 stars today"
+        "language": "Python",
+        "stars": "50,093",
+        "forks": "8,130",
+        "stars_today": "1,047 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "TauricResearch / TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "metric": "★ 100,638",
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "metric": "★ 36,011",
       "extra": {
         "language": "Python",
-        "stars": "100,638",
-        "forks": "19,403",
-        "stars_today": "218 stars today"
+        "stars": "36,011",
+        "forks": "12,283",
+        "stars_today": "1,299 stars today"
       }
     },
     {
@@ -73,142 +73,142 @@
       "title": "AgriciDaniel / claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "metric": "★ 13,079",
+      "metric": "★ 13,113",
       "extra": {
         "language": "Python",
-        "stars": "13,079",
+        "stars": "13,113",
         "forks": "1,393",
-        "stars_today": "813 stars today"
+        "stars_today": "812 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "metric": "★ 49,371",
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "metric": "★ 31,709",
       "extra": {
-        "language": "Python",
-        "stars": "49,371",
-        "forks": "8,607",
-        "stars_today": "569 stars today"
+        "language": "Shell",
+        "stars": "31,709",
+        "forks": "3,220",
+        "stars_today": "1,021 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "metric": "★ 38,003",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "metric": "★ 49,406",
       "extra": {
-        "language": "Rust",
-        "stars": "38,003",
-        "forks": "3,744",
-        "stars_today": "542 stars today"
+        "language": "Python",
+        "stars": "49,406",
+        "forks": "8,611",
+        "stars_today": "837 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "metric": "★ 31,659",
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "metric": "★ 38,031",
       "extra": {
-        "language": "Shell",
-        "stars": "31,659",
-        "forks": "3,215",
-        "stars_today": "1,083 stars today"
+        "language": "Rust",
+        "stars": "38,031",
+        "forks": "3,745",
+        "stars_today": "522 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "metric": "★ 134,481",
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "metric": "★ 111,903",
       "extra": {
-        "language": "Python",
-        "stars": "134,481",
-        "forks": "19,767",
-        "stars_today": "161 stars today"
+        "language": "JavaScript",
+        "stars": "111,903",
+        "forks": "6,142",
+        "stars_today": "1,598 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "metric": "★ 207,495",
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "metric": "★ 2,039",
       "extra": {
-        "language": null,
-        "stars": "207,495",
-        "forks": "21,157",
-        "stars_today": "830 stars today"
+        "language": "Python",
+        "stars": "2,039",
+        "forks": "186",
+        "stars_today": "537 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "metric": "★ 118,593",
+      "title": "ConardLi / garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "metric": "★ 10,758",
       "extra": {
-        "language": "Rust",
-        "stars": "118,593",
-        "forks": "18,075",
-        "stars_today": "1,181 stars today"
+        "language": "CSS",
+        "stars": "10,758",
+        "forks": "1,382",
+        "stars_today": "136 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "marin-community / marin",
-      "url": "https://github.com/marin-community/marin",
-      "description": "Open-source framework for the research and development of foundation models.",
-      "metric": "★ 2,331",
+      "title": "browser-use / browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "metric": "★ 110,612",
       "extra": {
         "language": "Python",
-        "stars": "2,331",
-        "forks": "204",
-        "stars_today": "231 stars today"
+        "stars": "110,612",
+        "forks": "12,172",
+        "stars_today": "135 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 111,802",
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "metric": "★ 34,537",
       "extra": {
-        "language": "JavaScript",
-        "stars": "111,802",
-        "forks": "6,139",
-        "stars_today": "982 stars today"
+        "language": "Python",
+        "stars": "34,537",
+        "forks": "3,352",
+        "stars_today": "130 stars today"
       }
     },
     {
       "rank": 15,
-      "title": "anthropics / claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "metric": "★ 34,229",
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "metric": "★ 2,349",
       "extra": {
         "language": "Python",
-        "stars": "34,229",
-        "forks": "3,877",
-        "stars_today": "55 stars today"
+        "stars": "2,349",
+        "forks": "206",
+        "stars_today": "443 stars today"
       }
     },
     {
       "rank": 16,
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "metric": "★ 3,019",
+      "title": "VoltAgent / awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "metric": "★ 32,410",
       "extra": {
-        "language": "Go",
-        "stars": "3,019",
-        "forks": "134",
-        "stars_today": "98 stars today"
+        "language": null,
+        "stars": "32,410",
+        "forks": "3,441",
+        "stars_today": "488 stars today"
       }
     }
   ]
