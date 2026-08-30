@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-30T20:58:21+00:00",
+  "updated_at": "2026-08-30T23:23:30+00:00",
   "count": 10,
   "items": [
     {
@@ -8,17 +8,31 @@
       "title": "手上有很多 Token 用不完，自己搭了个中转站",
       "url": "https://www.v2ex.com/t/1238174",
       "description": "[分享/福利] 自建 Gemini 反代中转，注册即送额度，闲置 Token 免费分享\n之前一直用 OpenAI Codex / GPT 写代码，上个月账号不幸被封了。后来看到站内 V 友分享的 Google AntiGravity 反代 Gemini 方案，跟进实践了一下，发现用来辅助编程体验相当不错。\n目前自己搭了一套中转服务，和 4 个朋友日常使用了一段时间，整体非常稳定，没遇到什么问题。主要接入的是 Gemini 系列模型，虽然和最顶级的闭源模型相比仍有一定差距，但应对日常编码、重构和日常问答完全够用，省心不折腾。\n由于配额比较充裕，闲置也是闲着，特地分享给有需要的 V 友：\n\n🎁 福",
-      "metric": "60 回复",
-      "metric_value": 60,
+      "metric": "61 回复",
+      "metric_value": 61,
       "extra": {
         "node": "Token",
         "node_name": "token",
         "author": "ddhy",
-        "last_touched": 1788111113
+        "last_touched": 1788114713
       }
     },
     {
       "rank": 2,
+      "title": "记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训",
+      "url": "https://www.v2ex.com/t/1238217",
+      "description": "本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。\n结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time machine 备份，恢复不了了，损失惨",
+      "metric": "50 回复",
+      "metric_value": 50,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "IC0ZB",
+        "last_touched": 1788129817
+      }
+    },
+    {
+      "rank": 3,
       "title": "丈母娘医院手术出院半月后从体内取出一块纱布该如何维权",
       "url": "https://www.v2ex.com/t/1238162",
       "description": "丈母娘因为漏尿的问题,在浙江省妇保余杭院区做了经阴道无张力尿道悬吊术的手术。出院半个月后,自己在家发现体内还留着一块纱布（厕所取出来了）。但整个住院期间到出院,医院都没有提过要取出这块纱布,也没有任何告知。\n周六发现之后,第一时间打了 12345 投诉。然后去医院想办病历封存,结果被告知因为不是本人办理,需要授权委托书,而且必须是本人签名+手印的原件,拍照和电子版都不认。丈母娘现在人在老家,只能先签好委托书邮寄过来,医院这边说要等材料到了(最早也要周一)才能办。\n想请教大家:\n\n这种情况算不算医疗事故/医疗过错?\n后续是等 12345 回复、找医院医患办、还是直接请律师?\n\n有没有人遇到过类似",
@@ -29,20 +43,6 @@
         "node_name": "hangzhou",
         "author": "momo31",
         "last_touched": 1788101560
-      }
-    },
-    {
-      "rank": 3,
-      "title": "记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训",
-      "url": "https://www.v2ex.com/t/1238217",
-      "description": "本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。\n结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time machine 备份，恢复不了了，损失惨",
-      "metric": "46 回复",
-      "metric_value": 46,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "IC0ZB",
-        "last_touched": 1788114028
       }
     },
     {
@@ -103,6 +103,20 @@
     },
     {
       "rank": 8,
+      "title": "工业软件行业对创业公司机会怎么样",
+      "url": "https://www.v2ex.com/t/1238113",
+      "description": "自己离职创业折腾快一年了，目前以做外包软件开发为生目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg",
+      "metric": "31 回复",
+      "metric_value": 31,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "kingwing",
+        "last_touched": 1788113000
+      }
+    },
+    {
+      "rank": 9,
       "title": "智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
       "url": "https://www.v2ex.com/t/1238121",
       "description": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。\n我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！\n由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们 QQ 客服",
@@ -116,31 +130,17 @@
       }
     },
     {
-      "rank": 9,
-      "title": "工业软件行业对创业公司机会怎么样",
-      "url": "https://www.v2ex.com/t/1238113",
-      "description": "自己离职创业折腾快一年了，目前以做外包软件开发为生目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg",
-      "metric": "28 回复",
-      "metric_value": 28,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "kingwing",
-        "last_touched": 1788102200
-      }
-    },
-    {
       "rank": 10,
-      "title": "SceneMint Pro - 做了个 AI 出图网站，便宜大碗！",
-      "url": "https://www.v2ex.com/t/1238126",
-      "description": "支持文生图和参考图修改，使用的模型是 gpt-image-2 效果还是不错的\n现在注册送 10 次生成额度，原图会保留 7 天，然后会压缩归档\n还在持续优化，后面会加入提示词库，多参考图等，欢迎体验 \n地址：images.sunls.de\n备用 (CF)：image.sunls.de\n评论区回复注册邮箱会再送 50 次生成额度，看到会处理",
-      "metric": "21 回复",
-      "metric_value": 21,
+      "title": "不消费不结婚之类的都是“果”，那么“因”是什么？",
+      "url": "https://www.v2ex.com/t/1238212",
+      "description": "为什么会变成这个样子",
+      "metric": "25 回复",
+      "metric_value": 25,
       "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "sunls",
-        "last_touched": 1788110952
+        "node": "生活",
+        "node_name": "life",
+        "author": "sport123",
+        "last_touched": 1788131973
       }
     }
   ]
