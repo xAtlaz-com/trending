@@ -4,55 +4,55 @@
     "title": "AI 时代，软件已经不值钱了",
     "url": "https://www.v2ex.com/t/1238096",
     "description": "纯软件很难建立起优势了，包括个人和企业",
-    "metric": "51 回复",
-    "metric_value": 51,
+    "metric": "71 回复",
+    "metric_value": 71,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "jedeft",
-      "last_touched": 1788076679
+      "last_touched": 1788097406
     }
   },
   {
     "rank": 2,
-    "title": "我的网站被入侵了，损失了几千块",
-    "url": "https://www.v2ex.com/t/1238129",
-    "description": "经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。",
-    "metric": "32 回复",
-    "metric_value": 32,
+    "title": "手上有很多 Token 用不完，自己搭了个中转站",
+    "url": "https://www.v2ex.com/t/1238174",
+    "description": "[分享/福利] 自建 Gemini 反代中转，注册即送额度，闲置 Token 免费分享\n之前一直用 OpenAI Codex / GPT 写代码，上个月账号不幸被封了。后来看到站内 V 友分享的 Google AntiGravity 反代 Gemini 方案，跟进实践了一下，发现用来辅助编程体验相当不错。\n目前自己搭了一套中转服务，和 4 个朋友日常使用了一段时间，整体非常稳定，没遇到什么问题。主要接入的是 Gemini 系列模型，虽然和最顶级的闭源模型相比仍有一定差距，但应对日常编码、重构和日常问答完全够用，省心不折腾。\n由于配额比较充裕，闲置也是闲着，特地分享给有需要的 V 友：\n\n🎁 福",
+    "metric": "45 回复",
+    "metric_value": 45,
     "extra": {
-      "node": "信息安全",
-      "node_name": "security",
-      "author": "loveshuyuan",
-      "last_touched": 1788076954
+      "node": "Token",
+      "node_name": "token",
+      "author": "ddhy",
+      "last_touched": 1788097775
     }
   },
   {
     "rank": 3,
-    "title": "独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了",
-    "url": "https://www.v2ex.com/t/1238099",
-    "description": "先自报家门，我做了一个 Mac AI 语音输入工具，叫 Openbroca ，官网是 openbroca.com 。\n今天终于收到了第一个真实付费用户。\n我原本以为自己会很开心，可能会截图纪念，或者找朋友喝一杯。真正看到订单的时候，我只是盯着后台确认了几遍，然后长出了一口气。\n第一笔收入当然值得记录，可我心里更多的感觉是累。\nOpenbroca 最早来源于我自己的需求。我在 Mac 上写邮件、文档和长消息时，经常觉得思考速度比打字快很多。普通语音输入又会保留大量停顿、重复和口头语，最后还要重新修改一遍。\n所以我做了 Openbroca 。\n按下快捷键直接说话，它会把自然口述整理成清晰文字，再写",
-    "metric": "30 回复",
-    "metric_value": 30,
+    "title": "丈母娘医院手术出院半月后从体内取出一块纱布该如何维权",
+    "url": "https://www.v2ex.com/t/1238162",
+    "description": "丈母娘因为漏尿的问题,在浙江省妇保余杭院区做了经阴道无张力尿道悬吊术的手术。出院半个月后,自己在家发现体内还留着一块纱布（厕所取出来了）。但整个住院期间到出院,医院都没有提过要取出这块纱布,也没有任何告知。\n周六发现之后,第一时间打了 12345 投诉。然后去医院想办病历封存,结果被告知因为不是本人办理,需要授权委托书,而且必须是本人签名+手印的原件,拍照和电子版都不认。丈母娘现在人在老家,只能先签好委托书邮寄过来,医院这边说要等材料到了(最早也要周一)才能办。\n想请教大家:\n\n这种情况算不算医疗事故/医疗过错?\n后续是等 12345 回复、找医院医患办、还是直接请律师?\n\n有没有人遇到过类似",
+    "metric": "44 回复",
+    "metric_value": 44,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "liupeiqiang",
-      "last_touched": 1788074923
+      "node": "杭州",
+      "node_name": "hangzhou",
+      "author": "momo31",
+      "last_touched": 1788097080
     }
   },
   {
     "rank": 4,
-    "title": "免费，开源， V2EX Android 客户端首个正式版本， Kotlin + Jetpack Compose 构建。",
-    "url": "https://www.v2ex.com/t/1238073",
-    "description": "在被苹果审核教育一番之后以及 V 友的邀请之下做了安卓版本\n\nKotlin + Jetpack Compose 全原生构建\n凭据加密存储（ Android Keystore + EncryptedSharedPreferences ）\n支持折叠屏，内外屏无缝切换\n站内完成全部互动 —— 回复、发帖、收藏，@ 补全、通知直达\n分享为卡片 —— 一键生成带二维码的话题图片卡\n\nGitHub：https://github.com/xinghelee/v2ex-android\n\nGitHub：https://github.com/xinghelee/v2ex-android",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "title": "我的网站被入侵了，损失了几千块",
+    "url": "https://www.v2ex.com/t/1238129",
+    "description": "经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。",
+    "metric": "40 回复",
+    "metric_value": 40,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "xinghelee",
-      "last_touched": 1788033987
+      "node": "信息安全",
+      "node_name": "security",
+      "author": "loveshuyuan",
+      "last_touched": 1787814329
     }
   },
   {
@@ -60,27 +60,27 @@
     "title": "北京如果想中午吃饭健康又好吃",
     "url": "https://www.v2ex.com/t/1238108",
     "description": "普通家常菜，排除自己动手各位有什么推荐其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。想听听大家的推荐",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "metric": "33 回复",
+    "metric_value": 33,
     "extra": {
       "node": "北京",
       "node_name": "beijing",
       "author": "dvbs2000",
-      "last_touched": 1788074627
+      "last_touched": 1788096943
     }
   },
   {
     "rank": 6,
-    "title": "刚哥开发新的编程语言 TypePHP，周三放到 Github ， 3 天 star 就快 900 个了,https://github.com/swoole/typephp，大家用 AI 体验下编程",
-    "url": "https://www.v2ex.com/t/1238044",
-    "description": "https://github.com/swoole/typephp",
-    "metric": "20 回复",
-    "metric_value": 20,
+    "title": "独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了",
+    "url": "https://www.v2ex.com/t/1238099",
+    "description": "先自报家门，我做了一个 Mac AI 语音输入工具，叫 Openbroca ，官网是 openbroca.com 。\n今天终于收到了第一个真实付费用户。\n我原本以为自己会很开心，可能会截图纪念，或者找朋友喝一杯。真正看到订单的时候，我只是盯着后台确认了几遍，然后长出了一口气。\n第一笔收入当然值得记录，可我心里更多的感觉是累。\nOpenbroca 最早来源于我自己的需求。我在 Mac 上写邮件、文档和长消息时，经常觉得思考速度比打字快很多。普通语音输入又会保留大量停顿、重复和口头语，最后还要重新修改一遍。\n所以我做了 Openbroca 。\n按下快捷键直接说话，它会把自然口述整理成清晰文字，再写",
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
-      "node": "PHP",
-      "node_name": "php",
-      "author": "liqinliqin",
-      "last_touched": 1788076653
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "liupeiqiang",
+      "last_touched": 1788079599
     }
   },
   {
@@ -88,55 +88,55 @@
     "title": "德芙巧克力 求平替",
     "url": "https://www.v2ex.com/t/1238124",
     "description": "如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了",
-    "metric": "20 回复",
-    "metric_value": 20,
+    "metric": "32 回复",
+    "metric_value": 32,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "ysxb1145",
-      "last_touched": 1788075689
+      "last_touched": 1788097143
     }
   },
   {
     "rank": 8,
-    "title": "工业软件行业对创业公司机会怎么样",
-    "url": "https://www.v2ex.com/t/1238113",
-    "description": "自己离职创业折腾快一年了，目前以做外包软件开发为生目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg",
-    "metric": "19 回复",
-    "metric_value": 19,
+    "title": "求 100 USD AI 订阅推荐， grok 还是 gemini？",
+    "url": "https://www.v2ex.com/t/1238150",
+    "description": "公司提供的每月报销额度还剩下 100 USD ，想在 grok supergrok plus 和 gemini ultra 里面选一个，哪个比较好？\n背景：\n已经订阅了 ChatGPT Max 20 和 Claude Max 5 ，日常开发完全够用了，想再订阅个有多模态能力并且写作能力强的 AI 来写文档。看了下这俩都符合需求，比较纠结。",
+    "metric": "31 回复",
+    "metric_value": 31,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "kingwing",
-      "last_touched": 1788074244
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "zxypro",
+      "last_touched": 1788097320
     }
   },
   {
     "rank": 9,
-    "title": "codex 今天凌晨又重置了么",
-    "url": "https://www.v2ex.com/t/1238122",
-    "description": "昨晚 /goal 跑了一个长任务，早上看额度又 100% 了。\n之前用插件看账号额度似乎降了，还遇到模型限流提示，现在这么频繁重置是怕用户流失么？",
-    "metric": "19 回复",
-    "metric_value": 19,
+    "title": "iPhone 上用 Gmail 还是邮件 App",
+    "url": "https://www.v2ex.com/t/1238151",
+    "description": "大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢",
+    "metric": "31 回复",
+    "metric_value": 31,
     "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "stardust21",
-      "last_touched": 1788069527
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "ylual",
+      "last_touched": 1788095923
     }
   },
   {
     "rank": 10,
-    "title": "支持命令行操作开和关的电源市面上有吗？",
-    "url": "https://www.v2ex.com/t/1238058",
-    "description": "配合 AI 使用，AI debug 经常要重启硬件。所以需要搞一个支持命令行操作开和关的电源，市面上有吗？",
-    "metric": "18 回复",
-    "metric_value": 18,
+    "title": "工业软件行业对创业公司机会怎么样",
+    "url": "https://www.v2ex.com/t/1238113",
+    "description": "自己离职创业折腾快一年了，目前以做外包软件开发为生目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg",
+    "metric": "27 回复",
+    "metric_value": 27,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "huangya",
-      "last_touched": 1788039152
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "kingwing",
+      "last_touched": 1788090300
     }
   }
 ]

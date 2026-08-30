@@ -1,253 +1,253 @@
 {
   "source": "github",
-  "updated_at": "2026-08-30T08:03:40+00:00",
+  "updated_at": "2026-08-30T13:56:23+00:00",
   "count": 19,
   "items": [
     {
       "rank": 1,
-      "title": "tt-a1i / archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "metric": "★ 32,165",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "32,165",
-        "forks": "2,013",
-        "stars_today": "3,902 stars today"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "bilawalsidhu / gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "metric": "★ 13,015",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "13,015",
-        "forks": "2,568",
-        "stars_today": "1,855 stars today"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "metric": "★ 38,195",
-      "extra": {
-        "language": "Python",
-        "stars": "38,195",
-        "forks": "3,595",
-        "stars_today": "1,587 stars today"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "tailscale / tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "metric": "★ 3,797",
-      "extra": {
-        "language": "Go",
-        "stars": "3,797",
-        "forks": "115",
-        "stars_today": "789 stars today"
-      }
-    },
-    {
-      "rank": 5,
       "title": "THU-MAIC / OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "metric": "★ 22,647",
+      "metric": "★ 23,133",
       "extra": {
         "language": "TypeScript",
-        "stars": "22,647",
-        "forks": "4,364",
+        "stars": "23,133",
+        "forks": "4,414",
         "stars_today": "907 stars today"
       }
     },
     {
-      "rank": 6,
+      "rank": 2,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "metric": "★ 38,541",
+      "extra": {
+        "language": "Python",
+        "stars": "38,541",
+        "forks": "3,610",
+        "stars_today": "1,113 stars today"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "metric": "★ 9,407",
+      "extra": {
+        "language": "Swift",
+        "stars": "9,407",
+        "forks": "1,276",
+        "stars_today": "633 stars today"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "metric": "★ 33,223",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "33,223",
+        "forks": "2,091",
+        "stars_today": "3,730 stars today"
+      }
+    },
+    {
+      "rank": 5,
       "title": "p-e-w / heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
-      "metric": "★ 28,824",
+      "metric": "★ 28,940",
       "extra": {
         "language": "Python",
-        "stars": "28,824",
-        "forks": "3,175",
+        "stars": "28,940",
+        "forks": "3,184",
         "stars_today": "150 stars today"
       }
     },
     {
-      "rank": 7,
-      "title": "bigskysoftware / htmx",
-      "url": "https://github.com/bigskysoftware/htmx",
-      "description": "</> htmx - high power tools for HTML",
-      "metric": "★ 49,182",
+      "rank": 6,
+      "title": "unclecode / crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "metric": "★ 80,033",
       "extra": {
-        "language": "JavaScript",
-        "stars": "49,182",
-        "forks": "1,641",
-        "stars_today": "32 stars today"
+        "language": "Python",
+        "stars": "80,033",
+        "forks": "8,296",
+        "stars_today": "229 stars today"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "metric": "★ 60,336",
+      "extra": {
+        "language": "Python",
+        "stars": "60,336",
+        "forks": "5,288",
+        "stars_today": "272 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "JetBrains / go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "metric": "★ 2,930",
+      "title": "majd / ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "metric": "★ 10,058",
       "extra": {
         "language": "Go",
-        "stars": "2,930",
-        "forks": "82",
-        "stars_today": "303 stars today"
+        "stars": "10,058",
+        "forks": "869",
+        "stars_today": "56 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "ComposioHQ / awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "metric": "★ 74,002",
+      "title": "punkpeye / awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "metric": "★ 93,135",
       "extra": {
-        "language": "Python",
-        "stars": "74,002",
-        "forks": "8,474",
-        "stars_today": "73 stars today"
+        "language": null,
+        "stars": "93,135",
+        "forks": "15,276",
+        "stars_today": "65 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 54,278",
+      "title": "checkstyle / checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "metric": "★ 9,125",
       "extra": {
-        "language": "Python",
-        "stars": "54,278",
-        "forks": "6,728",
-        "stars_today": "806 stars today"
+        "language": "Java",
+        "stars": "9,125",
+        "forks": "4,192",
+        "stars_today": "78 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "every-app / open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "metric": "★ 14,772",
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "metric": "★ 73,702",
       "extra": {
-        "language": "TypeScript",
-        "stars": "14,772",
-        "forks": "1,771",
-        "stars_today": "517 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "Osmantic / ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "metric": "★ 5,074",
-      "extra": {
-        "language": "Python",
-        "stars": "5,074",
-        "forks": "744",
-        "stars_today": "35 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "abi / screenshot-to-code",
-      "url": "https://github.com/abi/screenshot-to-code",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "metric": "★ 76,157",
-      "extra": {
-        "language": "Python",
-        "stars": "76,157",
-        "forks": "9,273",
-        "stars_today": "550 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "anthropics / claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "metric": "★ 35,523",
-      "extra": {
-        "language": "Python",
-        "stars": "35,523",
-        "forks": "3,964",
-        "stars_today": "358 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "metric": "★ 39,351",
-      "extra": {
-        "language": "C++",
-        "stars": "39,351",
-        "forks": "10,879",
-        "stars_today": "128 stars today"
-      }
-    },
-    {
-      "rank": 16,
-      "title": "actions / checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
-      "metric": "★ 8,820",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "8,820",
-        "forks": "2,756",
-        "stars_today": "5 stars today"
-      }
-    },
-    {
-      "rank": 17,
-      "title": "kaifcodec / user-scanner",
-      "url": "https://github.com/kaifcodec/user-scanner",
-      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
-      "metric": "★ 3,765",
-      "extra": {
-        "language": "Python",
-        "stars": "3,765",
-        "forks": "426",
-        "stars_today": "39 stars today"
-      }
-    },
-    {
-      "rank": 18,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 90,814",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "90,814",
-        "forks": "9,714",
+        "language": "Java",
+        "stars": "73,702",
+        "forks": "8,045",
         "stars_today": "196 stars today"
       }
     },
     {
-      "rank": 19,
-      "title": "workweave / router",
-      "url": "https://github.com/workweave/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "metric": "★ 2,914",
+      "rank": 12,
+      "title": "pollen-robotics / microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "metric": "★ 672",
       "extra": {
-        "language": "Go",
-        "stars": "2,914",
-        "forks": "82",
-        "stars_today": "284 stars today"
+        "language": "Python",
+        "stars": "672",
+        "forks": "122",
+        "stars_today": "147 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "handsomestWei / patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "metric": "★ 5,548",
+      "extra": {
+        "language": "Python",
+        "stars": "5,548",
+        "forks": "692",
+        "stars_today": "38 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "corsairdev / corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "metric": "★ 10,792",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "10,792",
+        "forks": "515",
+        "stars_today": "99 stars today"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "every-app / open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "metric": "★ 14,917",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "14,917",
+        "forks": "1,787",
+        "stars_today": "517 stars today"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "colinhacks / zod",
+      "url": "https://github.com/colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
+      "metric": "★ 43,590",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "43,590",
+        "forks": "2,154",
+        "stars_today": "17 stars today"
+      }
+    },
+    {
+      "rank": 17,
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "metric": "★ 22,465",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "22,465",
+        "forks": "3,128",
+        "stars_today": "505 stars today"
+      }
+    },
+    {
+      "rank": 18,
+      "title": "livekit / agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "metric": "★ 13,610",
+      "extra": {
+        "language": "Python",
+        "stars": "13,610",
+        "forks": "3,647",
+        "stars_today": "131 stars today"
+      }
+    },
+    {
+      "rank": 19,
+      "title": "abhigyanpatwari / GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "metric": "★ 46,458",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "46,458",
+        "forks": "5,120",
+        "stars_today": "181 stars today"
       }
     }
   ]
