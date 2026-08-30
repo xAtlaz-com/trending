@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-08-30T17:59:45+00:00",
+  "updated_at": "2026-08-30T20:58:21+00:00",
   "count": 10,
   "items": [
     {
@@ -36,17 +36,31 @@
       "title": "记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训",
       "url": "https://www.v2ex.com/t/1238217",
       "description": "本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。\n结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time machine 备份，恢复不了了，损失惨",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "metric": "46 回复",
+      "metric_value": 46,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "IC0ZB",
-        "last_touched": 1788112114
+        "last_touched": 1788114028
       }
     },
     {
       "rank": 4,
+      "title": "iPhone 上用 Gmail 还是邮件 App",
+      "url": "https://www.v2ex.com/t/1238151",
+      "description": "大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢",
+      "metric": "42 回复",
+      "metric_value": 42,
+      "extra": {
+        "node": "Apple",
+        "node_name": "apple",
+        "author": "ylual",
+        "last_touched": 1788115736
+      }
+    },
+    {
+      "rank": 5,
       "title": "我的网站被入侵了，损失了几千块",
       "url": "https://www.v2ex.com/t/1238129",
       "description": "经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。",
@@ -60,35 +74,7 @@
       }
     },
     {
-      "rank": 5,
-      "title": "iPhone 上用 Gmail 还是邮件 App",
-      "url": "https://www.v2ex.com/t/1238151",
-      "description": "大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢",
-      "metric": "40 回复",
-      "metric_value": 40,
-      "extra": {
-        "node": "Apple",
-        "node_name": "apple",
-        "author": "ylual",
-        "last_touched": 1788109791
-      }
-    },
-    {
       "rank": 6,
-      "title": "北京如果想中午吃饭健康又好吃",
-      "url": "https://www.v2ex.com/t/1238108",
-      "description": "普通家常菜，排除自己动手各位有什么推荐其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。想听听大家的推荐",
-      "metric": "38 回复",
-      "metric_value": 38,
-      "extra": {
-        "node": "北京",
-        "node_name": "beijing",
-        "author": "dvbs2000",
-        "last_touched": 1788103290
-      }
-    },
-    {
-      "rank": 7,
       "title": "求 100 USD AI 订阅推荐， grok 还是 gemini？",
       "url": "https://www.v2ex.com/t/1238150",
       "description": "公司提供的每月报销额度还剩下 100 USD ，想在 grok supergrok plus 和 gemini ultra 里面选一个，哪个比较好？\n背景：\n已经订阅了 ChatGPT Max 20 和 Claude Max 5 ，日常开发完全够用了，想再订阅个有多模态能力并且写作能力强的 AI 来写文档。看了下这俩都符合需求，比较纠结。",
@@ -102,7 +88,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "德芙巧克力 求平替",
       "url": "https://www.v2ex.com/t/1238124",
       "description": "如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了",
@@ -113,6 +99,20 @@
         "node_name": "qna",
         "author": "ysxb1145",
         "last_touched": 1788098731
+      }
+    },
+    {
+      "rank": 8,
+      "title": "智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
+      "url": "https://www.v2ex.com/t/1238121",
+      "description": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。\n我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！\n由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们 QQ 客服",
+      "metric": "29 回复",
+      "metric_value": 29,
+      "extra": {
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "Ai2You",
+        "last_touched": 1788123273
       }
     },
     {
@@ -131,16 +131,16 @@
     },
     {
       "rank": 10,
-      "title": "智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
-      "url": "https://www.v2ex.com/t/1238121",
-      "description": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。\n我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！\n由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们 QQ 客服",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "title": "SceneMint Pro - 做了个 AI 出图网站，便宜大碗！",
+      "url": "https://www.v2ex.com/t/1238126",
+      "description": "支持文生图和参考图修改，使用的模型是 gpt-image-2 效果还是不错的\n现在注册送 10 次生成额度，原图会保留 7 天，然后会压缩归档\n还在持续优化，后面会加入提示词库，多参考图等，欢迎体验 \n地址：images.sunls.de\n备用 (CF)：image.sunls.de\n评论区回复注册邮箱会再送 50 次生成额度，看到会处理",
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "Ai2You",
-        "last_touched": 1788112075
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "sunls",
+        "last_touched": 1788110952
       }
     }
   ]

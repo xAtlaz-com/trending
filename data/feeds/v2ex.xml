@@ -4,13 +4,13 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sun, 30 Aug 2026 17:59:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 20:58:21 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>手上有很多 Token 用不完，自己搭了个中转站</title>
 <link>https://www.v2ex.com/t/1238174</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238174</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
 <description>#1 | 60 回复 | [分享/福利] 自建 Gemini 反代中转，注册即送额度，闲置 Token 免费分享
 之前一直用 OpenAI Codex / GPT 写代码，上个月账号不幸被封了。后来看到站内 V 友分享的 Google AntiGravity 反代 Gemini 方案，跟进实践了一下，发现用来辅助编程体验相当不错。
 目前自己搭了一套中转服务，和 4 个朋友日常使用了一段时间，整体非常稳定，没遇到什么问题。主要接入的是 Gemini 系列模型，虽然和最顶级的闭源模型相比仍有一定差距，但应对日常编码、重构和日常问答完全够用，省心不折腾。
@@ -20,7 +20,7 @@
 <title>丈母娘医院手术出院半月后从体内取出一块纱布该如何维权</title>
 <link>https://www.v2ex.com/t/1238162</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238162</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
 <description>#2 | 49 回复 | 丈母娘因为漏尿的问题,在浙江省妇保余杭院区做了经阴道无张力尿道悬吊术的手术。出院半个月后,自己在家发现体内还留着一块纱布（厕所取出来了）。但整个住院期间到出院,医院都没有提过要取出这块纱布,也没有任何告知。
 周六发现之后,第一时间打了 12345 投诉。然后去医院想办病历封存,结果被告知因为不是本人办理,需要授权委托书,而且必须是本人签名+手印的原件,拍照和电子版都不认。丈母娘现在人在老家,只能先签好委托书邮寄过来,医院这边说要等材料到了(最早也要周一)才能办。
 想请教大家:
@@ -32,37 +32,30 @@
 <title>记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训</title>
 <link>https://www.v2ex.com/t/1238217</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238217</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#3 | 43 回复 | 本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#3 | 46 回复 | 本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。
 结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time </description>
-</item>
-<item>
-<title>我的网站被入侵了，损失了几千块</title>
-<link>https://www.v2ex.com/t/1238129</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238129</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#4 | 41 回复 | 经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。</description>
 </item>
 <item>
 <title>iPhone 上用 Gmail 还是邮件 App</title>
 <link>https://www.v2ex.com/t/1238151</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238151</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#5 | 40 回复 | 大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢</description>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#4 | 42 回复 | 大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢</description>
 </item>
 <item>
-<title>北京如果想中午吃饭健康又好吃</title>
-<link>https://www.v2ex.com/t/1238108</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238108</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#6 | 38 回复 | 普通家常菜，排除自己动手各位有什么推荐其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。想听听大家的推荐</description>
+<title>我的网站被入侵了，损失了几千块</title>
+<link>https://www.v2ex.com/t/1238129</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238129</guid>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#5 | 41 回复 | 经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。</description>
 </item>
 <item>
 <title>求 100 USD AI 订阅推荐， grok 还是 gemini？</title>
 <link>https://www.v2ex.com/t/1238150</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238150</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#7 | 36 回复 | 公司提供的每月报销额度还剩下 100 USD ，想在 grok supergrok plus 和 gemini ultra 里面选一个，哪个比较好？
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#6 | 36 回复 | 公司提供的每月报销额度还剩下 100 USD ，想在 grok supergrok plus 和 gemini ultra 里面选一个，哪个比较好？
 背景：
 已经订阅了 ChatGPT Max 20 和 Claude Max 5 ，日常开发完全够用了，想再订阅个有多模态能力并且写作能力强的 AI 来写文档。看了下这俩都符合需求，比较纠结。</description>
 </item>
@@ -70,24 +63,36 @@
 <title>德芙巧克力 求平替</title>
 <link>https://www.v2ex.com/t/1238124</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238124</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#8 | 33 回复 | 如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了</description>
-</item>
-<item>
-<title>工业软件行业对创业公司机会怎么样</title>
-<link>https://www.v2ex.com/t/1238113</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238113</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#9 | 28 回复 | 自己离职创业折腾快一年了，目前以做外包软件开发为生目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg</description>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#7 | 33 回复 | 如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了</description>
 </item>
 <item>
 <title>智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号</title>
 <link>https://www.v2ex.com/t/1238121</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238121</guid>
-<pubDate>Sun, 30 Aug 2026 17:59:45 +0000</pubDate>
-<description>#10 | 26 回复 | 各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#8 | 29 回复 | 各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。
 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！
 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小</description>
+</item>
+<item>
+<title>工业软件行业对创业公司机会怎么样</title>
+<link>https://www.v2ex.com/t/1238113</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238113</guid>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#9 | 28 回复 | 自己离职创业折腾快一年了，目前以做外包软件开发为生目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg</description>
+</item>
+<item>
+<title>SceneMint Pro - 做了个 AI 出图网站，便宜大碗！</title>
+<link>https://www.v2ex.com/t/1238126</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238126</guid>
+<pubDate>Sun, 30 Aug 2026 20:58:21 +0000</pubDate>
+<description>#10 | 21 回复 | 支持文生图和参考图修改，使用的模型是 gpt-image-2 效果还是不错的
+现在注册送 10 次生成额度，原图会保留 7 天，然后会压缩归档
+还在持续优化，后面会加入提示词库，多参考图等，欢迎体验 
+地址：images.sunls.de
+备用 (CF)：image.sunls.de
+评论区回复注册邮箱会再送 50 次生成额度，看到会处理</description>
 </item>
 </channel>
 </rss>
