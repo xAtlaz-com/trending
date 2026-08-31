@@ -4,90 +4,72 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Mon, 31 Aug 2026 01:31:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 08:20:24 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
-<title>手上有很多 Token 用不完，自己搭了个中转站</title>
-<link>https://www.v2ex.com/t/1238174</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238174</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#1 | 80 回复 | [分享/福利] 自建 Gemini 反代中转，注册即送额度，闲置 Token 免费分享
-之前一直用 OpenAI Codex / GPT 写代码，上个月账号不幸被封了。后来看到站内 V 友分享的 Google AntiGravity 反代 Gemini 方案，跟进实践了一下，发现用来辅助编程体验相当不错。
-目前自己搭了一套中转服务，和 4 个朋友日常使用了一段时间，整体非常稳定，没遇到什么问题。主要接入的是 Gemini 系列模型，虽然和最顶级的闭源模型相比仍有一定差距，但应对日常编码、重构和日常问答完全够用，省心不折腾。
-由于配额比较充裕，闲置也是闲着</description>
-</item>
-<item>
-<title>记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训</title>
-<link>https://www.v2ex.com/t/1238217</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238217</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#2 | 63 回复 | 本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。
-结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time </description>
-</item>
-<item>
-<title>丈母娘医院手术出院半月后从体内取出一块纱布该如何维权</title>
-<link>https://www.v2ex.com/t/1238162</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238162</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#3 | 57 回复 | 丈母娘因为漏尿的问题,在浙江省妇保余杭院区做了经阴道无张力尿道悬吊术的手术。出院半个月后,自己在家发现体内还留着一块纱布（厕所取出来了）。但整个住院期间到出院,医院都没有提过要取出这块纱布,也没有任何告知。
-周六发现之后,第一时间打了 12345 投诉。然后去医院想办病历封存,结果被告知因为不是本人办理,需要授权委托书,而且必须是本人签名+手印的原件,拍照和电子版都不认。丈母娘现在人在老家,只能先签好委托书邮寄过来,医院这边说要等材料到了(最早也要周一)才能办。
-想请教大家:
-
-这种情况算不算医疗事故/医疗过错?
-后续是等 12345 回复、找医院医患办</description>
-</item>
-<item>
-<title>不消费不结婚之类的都是“果”，那么“因”是什么？</title>
-<link>https://www.v2ex.com/t/1238212</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238212</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#4 | 56 回复 | 为什么会变成这个样子</description>
-</item>
-<item>
-<title>iPhone 上用 Gmail 还是邮件 App</title>
-<link>https://www.v2ex.com/t/1238151</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238151</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#5 | 44 回复 | 大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢</description>
-</item>
-<item>
-<title>智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号</title>
-<link>https://www.v2ex.com/t/1238121</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238121</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#6 | 42 回复 | 各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。
-我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！
-由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小</description>
-</item>
-<item>
-<title>我的网站被入侵了，损失了几千块</title>
-<link>https://www.v2ex.com/t/1238129</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238129</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#7 | 42 回复 | 经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。</description>
-</item>
-<item>
-<title>求 100 USD AI 订阅推荐， grok 还是 gemini？</title>
-<link>https://www.v2ex.com/t/1238150</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238150</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#8 | 38 回复 | 公司提供的每月报销额度还剩下 100 USD ，想在 grok supergrok plus 和 gemini ultra 里面选一个，哪个比较好？
-背景：
-已经订阅了 ChatGPT Max 20 和 Claude Max 5 ，日常开发完全够用了，想再订阅个有多模态能力并且写作能力强的 AI 来写文档。看了下这俩都符合需求，比较纠结。</description>
-</item>
-<item>
-<title>德芙巧克力 求平替</title>
-<link>https://www.v2ex.com/t/1238124</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1238124</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#9 | 37 回复 | 如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了</description>
+<title>大家对孩子跟着媳妇姓怎么看</title>
+<link>https://www.v2ex.com/t/1238336</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238336</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#1 | 263 回复 | 如题，跟媳妇结婚一年，不是倒插门，也是给的彩礼三金娶回家的，前两天沟通生孩子的问题，因为之前我一直觉得最多生一个，但是媳妇现在的想法是，想生 2 个，第二个孩子跟她姓，为此爆发了激烈的争吵，我觉得两个孩子不同姓，从小就感觉不像一家人的感觉，不知道大家对这件事怎么看</description>
 </item>
 <item>
 <title>“万 1 免 5”股票 etf 低佣大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.31 日~9.7 日]</title>
 <link>https://www.v2ex.com/t/1238262</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1238262</guid>
-<pubDate>Mon, 31 Aug 2026 01:31:44 +0000</pubDate>
-<description>#10 | 27 回复 | 这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+大笑脸开户，低门槛免 5 券商，股票基金 etf 全网超低费率，可转债免五港股通免五两融免五量化免五，欢迎来开！⚠️开户和推荐朋友都有红包！⚠️回帖即可参与抽奖！⚠️大笑脸低佣开户推荐：YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]GF 证券：ETF 万 0.5 免 5 [ETF 费率低]CC 证券：万 1 免 5 [低门槛股票 etf 双免 5]GD 证券：万 1 免 5 [低门槛股票 etf 双免</description>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#2 | 107 回复 | 这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+大笑脸开户，低门槛免 5 券商，股票基金 etf 全网超低费率，可转债免五港股通免五两融免五量化免五，欢迎来开！⚠️开户和推荐朋友都有红包！⚠️回帖即可参与抽奖！⚠️大笑脸低佣开户推荐：YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]GF 证券：ETF 万 0.5 免 5 [ETF 费率低]CC 证券：万 1 免 5 [低门槛股票 etf 双免 5]GD 证券：万 1 免 5 [低门槛股票 etf 双免</description>
+</item>
+<item>
+<title>记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训</title>
+<link>https://www.v2ex.com/t/1238217</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238217</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#3 | 103 回复 | 本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。
+结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time </description>
+</item>
+<item>
+<title>骨子里是悲观的，有没有一些悲情的书/音乐/电影推荐？</title>
+<link>https://www.v2ex.com/t/1238277</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238277</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#4 | 96 回复 | 可能是小时候的经历
+现在无论多大了，骨子里还是悲观的
+有没有一些悲情的书/音乐/电影介绍看看？</description>
+</item>
+<item>
+<title>github 开启了 2fa , 但是手机系统升级了，秘钥丢了。。。怎么办</title>
+<link>https://www.v2ex.com/t/1238282</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238282</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#5 | 87 回复 | 开了 2fa
+之前一直用的 github mobile app 解决登录问题的，没太在意。
+但是手机系统升级后,登录不上去了。。。。
+邮箱密码都在，就是登录不上去，得找个设备确认下。。。。
+真蛋疼，找回也不行。
+找到 github 邮件支持的网站，一周都没回复了，怎么办。这个账号的内容就丢了。
+求助下，万能的 v 友</description>
+</item>
+<item>
+<title>plus 已经没法用了</title>
+<link>https://www.v2ex.com/t/1238341</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238341</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#6 | 74 回复 | 打个包五小时额度用完了没打好，太 noob 了</description>
+</item>
+<item>
+<title>一直以为教培行业真的凉了，没想到还有很多人在偷偷做，赚的也不少</title>
+<link>https://www.v2ex.com/t/1238241</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238241</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#7 | 68 回复 | 小红书上有人晒一个暑假赚七八万的都有</description>
+</item>
+<item>
+<title>26 年之前只干后端，现在前后端一起干，后面产品也取消了，我们直接去收集需求，有一样的吗</title>
+<link>https://www.v2ex.com/t/1238264</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1238264</guid>
+<pubDate>Mon, 31 Aug 2026 08:20:24 +0000</pubDate>
+<description>#8 | 66 回复</description>
 </item>
 </channel>
 </rss>
