@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-09-02T13:49:32+00:00",
-  "count": 18,
+  "updated_at": "2026-09-02T17:44:19+00:00",
+  "count": 19,
   "items": [
     {
       "rank": 1,
       "title": "fmtlib / fmt",
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
-      "metric": "★ 23,869",
+      "metric": "★ 24,052",
       "extra": {
         "language": "C++",
-        "stars": "23,869",
-        "forks": "2,968",
+        "stars": "24,052",
+        "forks": "2,976",
         "stars_today": "3 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "google-research / timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "metric": "★ 29,085",
+      "metric": "★ 29,391",
       "extra": {
         "language": "Python",
-        "stars": "29,085",
-        "forks": "2,826",
+        "stars": "29,391",
+        "forks": "2,846",
         "stars_today": "326 stars today"
       }
     },
@@ -34,206 +34,219 @@
       "title": "DietrichGebert / ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 120,780",
+      "metric": "★ 121,095",
       "extra": {
         "language": "JavaScript",
-        "stars": "120,780",
-        "forks": "6,533",
+        "stars": "121,095",
+        "forks": "6,549",
         "stars_today": "1,364 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "sngyai / Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-      "metric": "★ 5,942",
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "metric": "★ 14,303",
       "extra": {
         "language": "Python",
-        "stars": "5,942",
-        "forks": "1,236",
-        "stars_today": "195 stars today"
+        "stars": "14,303",
+        "forks": "2,086",
+        "stars_today": "834 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "metric": "★ 50,519",
+      "title": "sngyai / Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "metric": "★ 5,996",
       "extra": {
-        "language": "TypeScript",
-        "stars": "50,519",
-        "forks": "3,551",
-        "stars_today": "140 stars today"
+        "language": "Python",
+        "stars": "5,996",
+        "forks": "1,243",
+        "stars_today": "138 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "metric": "★ 239,839",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "metric": "★ 50,565",
       "extra": {
-        "language": "Python",
-        "stars": "239,839",
-        "forks": "49,048",
-        "stars_today": "529 stars today"
+        "language": "TypeScript",
+        "stars": "50,565",
+        "forks": "3,553",
+        "stars_today": "140 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "superlinked / sie",
-      "url": "https://github.com/superlinked/sie",
-      "description": "Open-source inference server and production cluster for all the models your agent needs.",
-      "metric": "★ 2,980",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "metric": "★ 239,975",
       "extra": {
         "language": "Python",
-        "stars": "2,980",
-        "forks": "297",
-        "stars_today": "61 stars today"
+        "stars": "239,975",
+        "forks": "49,097",
+        "stars_today": "529 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "metric": "★ 2,674",
+      "title": "superlinked / sie",
+      "url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "metric": "★ 3,007",
       "extra": {
-        "language": "Rust",
-        "stars": "2,674",
-        "forks": "181",
-        "stars_today": "895 stars today"
+        "language": "Python",
+        "stars": "3,007",
+        "forks": "299",
+        "stars_today": "61 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "zyronon / TypeWords",
-      "url": "https://github.com/zyronon/TypeWords",
-      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-      "metric": "★ 9,219",
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "metric": "★ 2,745",
       "extra": {
-        "language": "Vue",
-        "stars": "9,219",
-        "forks": "1,121",
-        "stars_today": "68 stars today"
+        "language": "Rust",
+        "stars": "2,745",
+        "forks": "182",
+        "stars_today": "895 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "Imbad0202 / academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "metric": "★ 45,391",
+      "title": "zyronon / TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "metric": "★ 9,264",
       "extra": {
-        "language": "Python",
-        "stars": "45,391",
-        "forks": "3,574",
-        "stars_today": "801 stars today"
+        "language": "Vue",
+        "stars": "9,264",
+        "forks": "1,126",
+        "stars_today": "68 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 246,042",
+      "title": "Imbad0202 / academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "metric": "★ 45,463",
       "extra": {
-        "language": "JavaScript",
-        "stars": "246,042",
-        "forks": "37,113",
-        "stars_today": "516 stars today"
+        "language": "Python",
+        "stars": "45,463",
+        "forks": "3,576",
+        "stars_today": "801 stars today"
       }
     },
     {
       "rank": 12,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "metric": "★ 246,132",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "246,132",
+        "forks": "37,125",
+        "stars_today": "516 stars today"
+      }
+    },
+    {
+      "rank": 13,
       "title": "protocolbuffers / protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
-      "metric": "★ 71,886",
+      "metric": "★ 71,903",
       "extra": {
         "language": "C++",
-        "stars": "71,886",
+        "stars": "71,903",
         "forks": "16,271",
         "stars_today": "16 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "vercel-labs / portless",
       "url": "https://github.com/vercel-labs/portless",
       "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
-      "metric": "★ 11,534",
+      "metric": "★ 11,608",
       "extra": {
         "language": "TypeScript",
-        "stars": "11,534",
-        "forks": "379",
+        "stars": "11,608",
+        "forks": "380",
         "stars_today": "69 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "blader / humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
-      "metric": "★ 39,926",
+      "metric": "★ 40,127",
       "extra": {
         "language": "Python",
-        "stars": "39,926",
-        "forks": "3,480",
+        "stars": "40,127",
+        "forks": "3,487",
         "stars_today": "366 stars today"
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "JuliusBrussee / caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "metric": "★ 102,407",
+      "metric": "★ 102,508",
       "extra": {
         "language": "Go",
-        "stars": "102,407",
-        "forks": "5,963",
+        "stars": "102,508",
+        "forks": "5,967",
         "stars_today": "234 stars today"
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 244,718",
+      "metric": "★ 244,968",
       "extra": {
         "language": "Shell",
-        "stars": "244,718",
-        "forks": "20,807",
+        "stars": "244,968",
+        "forks": "20,832",
         "stars_today": "1,103 stars today"
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Gitlawb / openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "description": "runs anywhere. uses anything",
-      "metric": "★ 31,784",
+      "metric": "★ 31,858",
       "extra": {
         "language": "TypeScript",
-        "stars": "31,784",
-        "forks": "8,986",
+        "stars": "31,858",
+        "forks": "8,985",
         "stars_today": "776 stars today"
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "firecrawl / pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "metric": "★ 18,298",
+      "metric": "★ 18,381",
       "extra": {
         "language": "Rust",
-        "stars": "18,298",
-        "forks": "1,240",
+        "stars": "18,381",
+        "forks": "1,242",
         "stars_today": "589 stars today"
       }
     }
