@@ -1,7 +1,7 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-04T16:59:11+00:00",
-  "count": 9,
+  "updated_at": "2026-09-04T19:25:45+00:00",
+  "count": 8,
   "items": [
     {
       "rank": 1,
@@ -19,48 +19,34 @@
     },
     {
       "rank": 2,
-      "title": "为什么一般政府网站就会比较 low，把你看到的烂站贴在这里",
-      "url": "https://www.v2ex.com/t/1239413",
-      "description": "是他们缺钱吗？",
-      "metric": "116 回复",
-      "metric_value": 116,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "nileblack",
-        "last_touched": 1788537966
-      }
-    },
-    {
-      "rank": 3,
       "title": "中国的考公考编还能火多久？",
       "url": "https://www.v2ex.com/t/1239471",
       "description": "如题，优秀人才都跑去吃公粮了，那么民营企业如何才能发展起来？私企的福利什么时候才能跟得上公家的福利？考公考编热会一直火下去吗？",
-      "metric": "80 回复",
-      "metric_value": 80,
+      "metric": "81 回复",
+      "metric_value": 81,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "Void000",
-        "last_touched": 1788535987
+        "last_touched": 1788549443
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "多年经验总结，经常发送消息有错字的人工作能力都不佳，这是为啥？",
       "url": "https://www.v2ex.com/t/1239475",
       "description": "这么多年在不同公司接触了各类同事，发现一个很奇妙的事情。\n如果某人经常在消息/代码注释里面有错别字/typo ，接触久了我发现他的工作能力都多多少少有些问题。太奇怪了，这到底是什么原因？\nV 友们会有发消息前检查一遍的习惯吗？",
-      "metric": "74 回复",
-      "metric_value": 74,
+      "metric": "76 回复",
+      "metric_value": 76,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "Jas0nG",
-        "last_touched": 1788539630
+        "last_touched": 1788543967
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开",
       "url": "https://www.v2ex.com/t/1239359",
       "description": "前段时间买了个临期 20XPro 可以爽蹬了",
@@ -74,7 +60,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "医院术后漏取纱布 后续更新",
       "url": "https://www.v2ex.com/t/1239373",
       "description": "上期回顾:（ https://v2ex.com/t/1238162#reply75 ）\n这周二拿到授权书后去医院办了病历封存,共 78 页。翻阅发现手术记录写着放入纱布\"24 小时后取出\",但后续护理记录里完全没有取出记录。截图如下。医患沟通办的工作人员看了也觉得说不过去。\n当晚医疗组组长和主任打电话承认问题,我要求书面回复和处置方案,对方说回去写。\n周四中午院长、主任都到场,先表达歉意,重点问会不会有后续影响,提出安排检查、医疗费全包,甚至提出派医生去江西检查——考虑到当地没有对应医疗条件,我拒绝了,改成回浙江检查、车费全包。我问请假陪同的务工费怎么算,对方表示不算。\n对方说赔偿要看最终后果",
@@ -88,7 +74,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "有没有什么每日必薅的小羊毛？",
       "url": "https://www.v2ex.com/t/1239384",
       "description": "比如 xx 平台签到累计奖励或者什么低价纸巾之类的？",
@@ -102,31 +88,31 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "手机远程控制电脑跑 Agent 方案",
       "url": "https://www.v2ex.com/t/1239387",
       "description": "刚刚使用 chatgpt remote ，非常经验，获得了和电脑一样的体验。但是 remote 经常比较难连接成功，成功后加载会话也不是很顺畅。我的是 Android + Mac 体验较差。 试过 iPhone 好像容易连接成功，也稳定一点。后面切换到了 orca + tailscale ， 还部署了 peer-relay ， 手机端的 tailscale 显示连接成功了。但是 orca app 还是经常重连。 体验非常丝滑。经常杀掉 app ，再打开，就能连接成功。准备接入蒲公英 X1 或者他们的开发者异地组网服务怎么样？你们还有更好的经验吗？补充：https://www.onorca.de",
-      "metric": "68 回复",
-      "metric_value": 68,
+      "metric": "69 回复",
+      "metric_value": 69,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "ares001",
-        "last_touched": 1788538958
+        "last_touched": 1788546804
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "如果公司报销 200 USD 每月， Claude & ChatGPT 选哪个",
       "url": "https://www.v2ex.com/t/1239403",
       "description": "ChatGPT 自费好几个月了，总体感觉还不错，但是总是陷入各种 corner case ，非常浪费时间\nClaude 还没用过，不知道怎么样",
-      "metric": "58 回复",
-      "metric_value": 58,
+      "metric": "59 回复",
+      "metric_value": 59,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "einvince",
-        "last_touched": 1788528158
+        "last_touched": 1788531758
       }
     }
   ]
