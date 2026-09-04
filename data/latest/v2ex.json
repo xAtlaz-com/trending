@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-04T21:42:18+00:00",
+  "updated_at": "2026-09-04T23:49:42+00:00",
   "count": 8,
   "items": [
     {
@@ -61,20 +61,6 @@
     },
     {
       "rank": 5,
-      "title": "厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开",
-      "url": "https://www.v2ex.com/t/1239359",
-      "description": "前段时间买了个临期 20XPro 可以爽蹬了",
-      "metric": "73 回复",
-      "metric_value": 73,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "581996",
-        "last_touched": 1788516623
-      }
-    },
-    {
-      "rank": 6,
       "title": "有没有什么每日必薅的小羊毛？",
       "url": "https://www.v2ex.com/t/1239384",
       "description": "比如 xx 平台签到累计奖励或者什么低价纸巾之类的？",
@@ -88,7 +74,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "手机远程控制电脑跑 Agent 方案",
       "url": "https://www.v2ex.com/t/1239387",
       "description": "刚刚使用 chatgpt remote ，非常经验，获得了和电脑一样的体验。但是 remote 经常比较难连接成功，成功后加载会话也不是很顺畅。我的是 Android + Mac 体验较差。 试过 iPhone 好像容易连接成功，也稳定一点。后面切换到了 orca + tailscale ， 还部署了 peer-relay ， 手机端的 tailscale 显示连接成功了。但是 orca app 还是经常重连。 体验非常丝滑。经常杀掉 app ，再打开，就能连接成功。准备接入蒲公英 X1 或者他们的开发者异地组网服务怎么样？你们还有更好的经验吗？补充：https://www.onorca.de",
@@ -102,7 +88,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "如果公司报销 200 USD 每月， Claude & ChatGPT 选哪个",
       "url": "https://www.v2ex.com/t/1239403",
       "description": "ChatGPT 自费好几个月了，总体感觉还不错，但是总是陷入各种 corner case ，非常浪费时间\nClaude 还没用过，不知道怎么样",
@@ -113,6 +99,20 @@
         "node_name": "qna",
         "author": "einvince",
         "last_touched": 1788531758
+      }
+    },
+    {
+      "rank": 8,
+      "title": "请教下今天我们的大 A 暴涨的原因是什么",
+      "url": "https://www.v2ex.com/t/1239398",
+      "description": "",
+      "metric": "56 回复",
+      "metric_value": 56,
+      "extra": {
+        "node": "投资",
+        "node_name": "invest",
+        "author": "nanxiaonan",
+        "last_touched": 1788519474
       }
     }
   ]
