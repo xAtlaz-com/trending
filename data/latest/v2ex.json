@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-05T21:34:33+00:00",
+  "updated_at": "2026-09-05T23:38:26+00:00",
   "count": 10,
   "items": [
     {
@@ -50,13 +50,13 @@
       "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
       "url": "https://www.v2ex.com/t/1239707",
       "description": "官网\nhttps://conflux.kami.asia\nApple Store 地址\nhttps://apps.apple.com/hk/app/id6787873453\n特性\n\napple 全家桶，多端 icloud  自动同步数据和配置\n支持看弹幕，并且还能发送弹幕（抖音调研中）\n云端开播通知，主播开播后，1 分钟内收到推送\n自定义弹幕样式、热词显示、屏蔽关键词正则等自定义能力\niOS 画中画并支持画中画弹幕\niOS 支持 3 套好看的主题\nmacOS 支持新窗口打开，并置顶，摸鱼神器\n免费版可以体验核心能力，完整版解锁全部能力\n\n想直接购买懒得等开奖的朋友，也可以直接私信我索要 5 折",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "metric": "32 回复",
+      "metric_value": 32,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "cai709962401",
-        "last_touched": 1788640105
+        "last_touched": 1788644987
       }
     },
     {
@@ -131,16 +131,16 @@
     },
     {
       "rank": 10,
-      "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
-      "url": "https://www.v2ex.com/t/1239687",
-      "description": "大概率是自己部署的，不清楚量化程度，有 1M 上下文我测试了 deepseek v4 flash ，输出比较忙，只有 40t/s 的水平（牛来水平）目前公测，仅用免费挡位，5 小时窗口 60000 积分，周额度 600000 积分（ 10 倍 5 小时）但是有意思的是，在我测试 deepseekv4flash 的时候，1M 的 token ，80%的缓存，大约用了 2000 积分也就是说它 5 小时窗口有 30M 的 deepseek v4 flash ，一周有 3 亿这个是免费的啊？笑，甚至还有个生图模型",
+      "title": "外接显示器时，你会把 Mac 打开作为副屏用吗？",
+      "url": "https://www.v2ex.com/t/1239671",
+      "description": "本来外接两台显示器，但副显示器和桌面音响有点冲突，桌面实在不好摆。现在改成只接一台显示器，Mac 盒盖使用后，桌面一下整洁了不少。但不知道为什么，总感觉 Mac 一直盒盖着，有点浪费……",
       "metric": "24 回复",
       "metric_value": 24,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "yiranw09",
-        "last_touched": 1788623377
+        "node": "MacBook Pro",
+        "node_name": "mbp",
+        "author": "CNN",
+        "last_touched": 1788645780
       }
     }
   ]
