@@ -1,10 +1,24 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-05T08:12:02+00:00",
+  "updated_at": "2026-09-05T11:58:04+00:00",
   "count": 9,
   "items": [
     {
       "rank": 1,
+      "title": "现在做什么技术的最容易找工作",
+      "url": "https://www.v2ex.com/t/1239623",
+      "description": "",
+      "metric": "47 回复",
+      "metric_value": 47,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "pureGirl",
+        "last_touched": 1788607869
+      }
+    },
+    {
+      "rank": 2,
       "title": "周六清早起来快蹬 马上又要重置了....",
       "url": "https://www.v2ex.com/t/1239621",
       "description": "怀疑这次的重置是直接重置 不是发重置卡",
@@ -18,31 +32,17 @@
       }
     },
     {
-      "rank": 2,
-      "title": "现在做什么技术的最容易找工作",
-      "url": "https://www.v2ex.com/t/1239623",
-      "description": "",
-      "metric": "35 回复",
-      "metric_value": 35,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "pureGirl",
-        "last_touched": 1788593457
-      }
-    },
-    {
       "rank": 3,
-      "title": "微软真的是大善人",
-      "url": "https://www.v2ex.com/t/1239542",
-      "description": "忘记是什么时候了.从 chrome 浏览器切到了 edge 浏览器.刚才打开一看 .已经 7w+积分了.自己没有主动做过任何任务.朋友 n 年前就和我说过这个羊毛.但是由于国内受 pdd 荼毒太久. 对羊毛也有阴影.总感觉积分获取很麻烦.各种冷却,刁钻任务.今天看着冰冷的 7w 积分 ,陷入了幸福之中, 不知道 v 站上面有没有其他牛人.积分更高一些?     附上 https://rewards.bing.com/welcome?rh=F11A45E5&amp;ref=rafsrchae",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+      "url": "https://www.v2ex.com/t/1239673",
+      "description": "自己搭的站，TokenUs： https://tokenus.net\n先说清楚，这就是个 API 中转站，基于 new-api 改的，没什么黑科技。接的都是开源模型，DeepSeek V4 全系、GLM 5.x 、Kimi K2.5/K3 、Qwen3.8 ，一共 15 个。接口和 OpenAI 兼容，base_url 换掉就能用。\n价格是官方价的 3.5 折，举两个例子：\n\nDeepSeek V4 Flash：输入 $0.049 / 1M tokens\nKimi K3：输入 $1.05 / 1M tokens （站内最贵的一个）\n\n正常聊一次天（ 2K 输入 + 500 输出）大概 $0.0",
+      "metric": "36 回复",
+      "metric_value": 36,
       "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "changdy",
-        "last_touched": 1788563458
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "TokenUs",
+        "last_touched": 1788601533
       }
     },
     {
@@ -50,55 +50,55 @@
       "title": "Claude 是不是又重置了？",
       "url": "https://www.v2ex.com/t/1239616",
       "description": "",
-      "metric": "24 回复",
-      "metric_value": 24,
+      "metric": "28 回复",
+      "metric_value": 28,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
         "author": "v2dev",
-        "last_touched": 1788595241
+        "last_touched": 1788600117
       }
     },
     {
       "rank": 5,
-      "title": "GPT-6 Astra - 新的 O1 时刻",
-      "url": "https://www.v2ex.com/t/1239617",
-      "description": "Astra 正式推送后我和我的小伙伴立马试了一下。\n这是他的一些结果：\n\n你以为我要和 x 上那些网红开始吹他的出色的“one-shot”生成 xxx 游戏吗？或者他的视觉或者 3d 能力提升吗？\n这些提升都很重要，比如按照反馈，之前 5.6 完全识别不了这些游戏的素材，以及这些素材能干什么，有什么用而 astra 则可以轻松解决，但是这些提升完全对不上这个标题。\n真正的突破是，比如这个可玩的游戏，astra 仅仅使用了 40 分钟，和以下的 token 用量和分布。\nInput: 8,354,979\nCached input: 8,145,408\nUncached input: 209,57",
-      "metric": "20 回复",
-      "metric_value": 20,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "maolon",
-        "last_touched": 1788591966
-      }
-    },
-    {
-      "rank": 6,
       "title": "有没有成色好的二手笔记本网店推荐",
       "url": "https://www.v2ex.com/t/1239638",
       "description": "又是上大学，今天有个同事找我推荐，吓，全新的拯救者这么贵，又比去年贵了 3000 。。。京东随便哪个新的都是 1 万以上。电脑市场很乱，之前自己竟然花 4500 从 PPD 买了一台 thinkpad E15 。再看看那些翻新机带显卡才 3000 左右的价格。买过 2 次 PDD 的 ThinkPad 官翻机旗舰店 ，机器倒是像 99 新，E16 4199/T16 3791,但价格波动很大。大家有买过成色好，使用稳定的网店嘛。真不应该掺合人家这种买电脑的事情，有问题麻烦多多。无奈钱包票票少。",
-      "metric": "20 回复",
-      "metric_value": 20,
+      "metric": "25 回复",
+      "metric_value": 25,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "datocp",
-        "last_touched": 1788595666
+        "last_touched": 1788607540
+      }
+    },
+    {
+      "rank": 6,
+      "title": "GPT-6 Astra - 新的 O1 时刻",
+      "url": "https://www.v2ex.com/t/1239617",
+      "description": "Astra 正式推送后我和我的小伙伴立马试了一下。\n这是他的一些结果：\n\n你以为我要和 x 上那些网红开始吹他的出色的“one-shot”生成 xxx 游戏吗？或者他的视觉或者 3d 能力提升吗？\n这些提升都很重要，比如按照反馈，之前 5.6 完全识别不了这些游戏的素材，以及这些素材能干什么，有什么用而 astra 则可以轻松解决，但是这些提升完全对不上这个标题。\n真正的突破是，比如这个可玩的游戏，astra 仅仅使用了 40 分钟，和以下的 token 用量和分布。\nInput: 8,354,979\nCached input: 8,145,408\nUncached input: 209,57",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "maolon",
+        "last_touched": 1788608831
       }
     },
     {
       "rank": 7,
-      "title": "Scout 是不是一个常用语",
-      "url": "https://www.v2ex.com/t/1239571",
-      "description": "一直用 gpt ，被迫灌输了 scout 的意义：原意侦察，指扫描仓库找出相关代码。\n今天 gpt 卡得要死就换成了 deepseek flash 0731 ， 就说了一句“实现 xxx 会有哪些修改点，scout 一下”，结果它在那转了十分钟……\n展开 thinking 一看，一直在找 scout 是什么意思，翻了仓库没有，翻了文档没有，翻了 git log 没有……😂😂\n😂大模型也有语言障碍吗，还是说 scout 是 gpt 独特用语",
-      "metric": "19 回复",
-      "metric_value": 19,
+      "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
+      "url": "https://www.v2ex.com/t/1239651",
+      "description": "每月固定发放的「真金白银」\n\n💾 5 TB 超大云空间：Drive / Gmail / 相册共用，支持家庭共享且文件各自私密。\n🎬 1,000 点/月 视频创作积分：用于 Google Flow 和 Whisk ，可生成约 66 条 720p 短视频（基于 Veo/Omni 模型）。\n🎵 10,000 点/月 音乐创作积分：独立于视频点数，用于 Lyria 3 音乐生成。\n💵 $10/月 GCP 云积分：需在开发者后台手动领取，可直接抵扣官方 Gemini API / Vertex AI 调用费用。\n\n白送的「生态订阅全家桶」\n\n📺 YouTube Premium Lite：大多数视频免广告（",
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "nsjs",
-        "last_touched": 1788576036
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "duangthef1rst",
+        "last_touched": 1788609165
       }
     },
     {
@@ -106,27 +106,27 @@
       "title": "我又又又重构了我的站点",
       "url": "https://www.v2ex.com/t/1239655",
       "description": "接上次帖子，站点重构 /t/1227951地址： https://www.oolaf.top1. 我又重构了我的页面 UI ，增加了黑夜白天模式，增加了 agent （虽然很弱）2. 一点点扣细节，自我感觉相对比之前提升了很多，下面会贴图之前的：https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp现在的:https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-",
-      "metric": "18 回复",
-      "metric_value": 18,
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "jenhe",
-        "last_touched": 1788595359
+        "last_touched": 1788608507
       }
     },
     {
       "rank": 9,
-      "title": "ChatGPT 今天重置是收到卡还是重置额度？",
-      "url": "https://www.v2ex.com/t/1239633",
-      "description": "你们是收到重置卡，还是重置了额度？\n我这边可以使用 Astra 了，今天连重置卡都没给我",
-      "metric": "17 回复",
-      "metric_value": 17,
+      "title": "GPT-6 Astra Ultra 消耗有点大",
+      "url": "https://www.v2ex.com/t/1239618",
+      "description": "今天发现可以用 GPT-6 Astra 了, 让它操作我的一个在线的 google spreadsheet 表格按以往的 pattern 预测未来一年的数据,  发送 prompt 的时候手多 拉到最满选了 Ultra 级别, 最后跑了十分钟, 生成了百多行新数据, 数据质量看起来还可以. \n一看用量, 我是 plus 的周额度一下掉了 15%,  要这么跑的话 一个小时就能烧掉我一周的额度",
+      "metric": "18 回复",
+      "metric_value": 18,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
-        "author": "ldy619354397",
-        "last_touched": 1788595468
+        "author": "kkwa56188",
+        "last_touched": 1788609180
       }
     }
   ]
