@@ -18,13 +18,13 @@
     "title": "GPT 6 Astra 重构的我的博客首页，有点喜欢",
     "url": "https://www.v2ex.com/t/1239777",
     "description": "https://justin3go.com提示词就不赘述了，代码都是开源的，直接叫 AI 参考一下就 O 了",
-    "metric": "52 回复",
-    "metric_value": 52,
+    "metric": "55 回复",
+    "metric_value": 55,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "Justin3go",
-      "last_touched": 1788711572
+      "last_touched": 1788720706
     }
   },
   {
@@ -88,27 +88,27 @@
     "title": "法拍 iPhone 的 ID 解锁问题让人心里没底",
     "url": "https://www.v2ex.com/t/1239788",
     "description": "法拍 iPhone 要是只有开机密码、没有 ID 密码，这 ID 到底能不能解啊？我本来想拍台当备用机，但一直不敢下手。可那些参拍的人咋就那么敢冲？有没有真拍过的大佬，来聊聊到底有没有成功把原 ID 给搞掉的？",
-    "metric": "28 回复",
-    "metric_value": 28,
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
       "node": "iPhone",
       "node_name": "iphone",
       "author": "JINVTEX",
-      "last_touched": 1788706721
+      "last_touched": 1788710321
     }
   },
   {
     "rank": 8,
-    "title": "昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了",
-    "url": "https://www.v2ex.com/t/1239792",
-    "description": "CDN 用的 cloudflare ，没用优选 IP ，一直觉得两个域名实在太麻烦了。而且俺网络学得不好，很多概念没搞清楚。IP 和协议应该同时被墙。首先 IPv4 的地址 ping 不通了，IPv6 还能 ping 通。遂让本地 v2ray 客户端改成 IPv6 ，但仍然连不上。现在暂时用着其它协议，这几年出了很多新协议，VMESS 好像确实有点过时了。另外不知道 V 友有什么 CDN 推荐没有，没有信用卡，付费或者限时免费的就算了。",
+    "title": "有没有曾经患过焦虑症的 v 友，后面康复了吗？",
+    "url": "https://www.v2ex.com/t/1239818",
+    "description": "最近 3 周情绪持续低落，今天下午去医院复诊，医生认为我已经有焦虑症+抑郁情绪，但她觉得不算严重，因为我还能吃饭上班，睡眠差但也不至于完全睡不着，就开了抗焦虑的药，让我按时服用，1~2 周后再来复查。让我陷入焦虑的议题都很宏大，而且没办法解决，所以一直走不出来，以前觉得看电影、刷剧、吃美食、徒步、爬山、骑行、旅游、找朋友/家人聊天这些细水长流的日常，以及以后搬进自己的房子，按自己的喜好装修一个温馨的家，养养自己喜欢的植物，再搞个草缸，平时躲在懒人沙发上打游戏刷剧，找兴趣圈子交朋友，时不时邀请朋友来我家聚会，想想就很幸福，至少三周前我还是这种状态，觉得人生多体验，多做自己喜欢的事，多交志同道合不",
     "metric": "26 回复",
     "metric_value": 26,
     "extra": {
-      "node": "宽带症候群",
-      "node_name": "bb",
-      "author": "L4Linux",
-      "last_touched": 1788712855
+      "node": "生活",
+      "node_name": "life",
+      "author": "xiyy02",
+      "last_touched": 1788716234
     }
   }
 ]
