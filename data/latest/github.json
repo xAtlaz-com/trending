@@ -1,227 +1,175 @@
 {
   "source": "github",
-  "updated_at": "2026-09-09T06:29:59+00:00",
-  "count": 17,
+  "updated_at": "2026-09-09T11:47:35+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "ayghri / i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "metric": "★ 31,508",
+      "metric": "★ 32,627",
       "extra": {
         "language": "Python",
-        "stars": "31,508",
-        "forks": "1,894",
+        "stars": "32,627",
+        "forks": "1,945",
         "stars_today": "656 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "cathrynlavery / diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 35,417",
+      "title": "Tencent / teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "metric": "★ 2,639",
       "extra": {
-        "language": "HTML",
-        "stars": "35,417",
-        "forks": "2,226",
-        "stars_today": "710 stars today"
+        "language": "TypeScript",
+        "stars": "2,639",
+        "forks": "169",
+        "stars_today": "1,083 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "openai / skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "metric": "★ 26,641",
-      "extra": {
-        "language": "Python",
-        "stars": "26,641",
-        "forks": "1,786",
-        "stars_today": "490 stars today"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 254,546",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "254,546",
-        "forks": "38,132",
-        "stars_today": "1,427 stars today"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "heygen-com / hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "metric": "★ 48,001",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "48,001",
-        "forks": "4,408",
-        "stars_today": "2,627 stars today"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "metric": "★ 48,981",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "48,981",
-        "forks": "7,503",
-        "stars_today": "666 stars today"
-      }
-    },
-    {
-      "rank": 7,
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 283,524",
+      "metric": "★ 283,692",
       "extra": {
         "language": "Shell",
-        "stars": "283,524",
-        "forks": "25,383",
+        "stars": "283,692",
+        "forks": "25,391",
         "stars_today": "452 stars today"
       }
     },
     {
+      "rank": 4,
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "metric": "★ 22,664",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "22,664",
+        "forks": "2,885",
+        "stars_today": "442 stars today"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "metric": "★ 14,824",
+      "extra": {
+        "language": "Python",
+        "stars": "14,824",
+        "forks": "1,557",
+        "stars_today": "97 stars today"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "metric": "★ 35,979",
+      "extra": {
+        "language": "HTML",
+        "stars": "35,979",
+        "forks": "2,264",
+        "stars_today": "710 stars today"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "metric": "★ 103,553",
+      "extra": {
+        "language": "Python",
+        "stars": "103,553",
+        "forks": "19,922",
+        "stars_today": "506 stars today"
+      }
+    },
+    {
       "rank": 8,
-      "title": "multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "metric": "★ 211,619",
-      "extra": {
-        "language": null,
-        "stars": "211,619",
-        "forks": "21,478",
-        "stars_today": "333 stars today"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "microsoft / markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "metric": "★ 181,912",
-      "extra": {
-        "language": "Python",
-        "stars": "181,912",
-        "forks": "13,360",
-        "stars_today": "2,047 stars today"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "jo-inc / camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "metric": "★ 10,670",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "10,670",
-        "forks": "1,061",
-        "stars_today": "871 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "MoonTechLab / LunaTV",
-      "url": "https://github.com/MoonTechLab/LunaTV",
-      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-      "metric": "★ 10,281",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "10,281",
-        "forks": "9,059",
-        "stars_today": "505 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "browser-use / browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "Agents that use the browser.",
-      "metric": "★ 113,727",
-      "extra": {
-        "language": "Python",
-        "stars": "113,727",
-        "forks": "12,499",
-        "stars_today": "228 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "metric": "★ 21,498",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "21,498",
-        "forks": "1,548",
-        "stars_today": "651 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "The-Swarm-Corporation / AutoHedge",
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "metric": "★ 5,819",
-      "extra": {
-        "language": "Python",
-        "stars": "5,819",
-        "forks": "846",
-        "stars_today": "494 stars today"
-      }
-    },
-    {
-      "rank": 15,
       "title": "liquidslr / system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "metric": "★ 17,092",
+      "metric": "★ 17,490",
       "extra": {
         "language": null,
-        "stars": "17,092",
-        "forks": "3,258",
+        "stars": "17,490",
+        "forks": "3,333",
         "stars_today": "910 stars today"
       }
     },
     {
-      "rank": 16,
-      "title": "viarotel-org / escrcpy",
-      "url": "https://github.com/viarotel-org/escrcpy",
-      "description": "📱 Display and control your Android device graphically with scrcpy.",
-      "metric": "★ 11,504",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "11,504",
-        "forks": "800",
-        "stars_today": "178 stars today"
-      }
-    },
-    {
-      "rank": 17,
+      "rank": 9,
       "title": "openai / plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
-      "metric": "★ 5,931",
+      "metric": "★ 6,055",
       "extra": {
         "language": "JavaScript",
-        "stars": "5,931",
-        "forks": "806",
+        "stars": "6,055",
+        "forks": "812",
         "stars_today": "105 stars today"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "metric": "★ 29,605",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "29,605",
+        "forks": "2,844",
+        "stars_today": "612 stars today"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "metric": "★ 53,343",
+      "extra": {
+        "language": "Python",
+        "stars": "53,343",
+        "forks": "9,343",
+        "stars_today": "356 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "vastsa / PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "metric": "★ 1,435",
+      "extra": {
+        "language": "TypeScript",
+        "stars": "1,435",
+        "forks": "144",
+        "stars_today": "393 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "metric": "★ 254,733",
+      "extra": {
+        "language": "JavaScript",
+        "stars": "254,733",
+        "forks": "38,158",
+        "stars_today": "1,427 stars today"
       }
     }
   ]
