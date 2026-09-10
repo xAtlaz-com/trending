@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-10T17:06:46+00:00",
+  "updated_at": "2026-09-10T19:58:46+00:00",
   "count": 9,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "iPhone Duo 并没有多惊艳",
       "url": "https://www.v2ex.com/t/1240866",
       "description": "手机拿出来的时候也就 UI 有点意思，其他地方并没有什么惊艳的地方，不支持实体卡，软件适配还是个问题，V2er 会冲吗",
-      "metric": "143 回复",
-      "metric_value": 143,
+      "metric": "145 回复",
+      "metric_value": 145,
       "extra": {
         "node": "Apple",
         "node_name": "apple",
         "author": "P1ath",
-        "last_touched": 1789052252
+        "last_touched": 1789060967
       }
     },
     {
@@ -61,6 +61,20 @@
     },
     {
       "rank": 5,
+      "title": "openai，我 qnmd！",
+      "url": "https://www.v2ex.com/t/1241024",
+      "description": "用着 astra 的钱给我 5.5mini 的模型环境搞坏了紧急修复直接不给用了一个月花 1500 刀就给这样的体验？？？",
+      "metric": "78 回复",
+      "metric_value": 78,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "Pantheonn",
+        "last_touched": 1789066070
+      }
+    },
+    {
+      "rank": 6,
       "title": "油皮有没有性价比高的洗面奶和爽肤水推荐？",
       "url": "https://www.v2ex.com/t/1240880",
       "description": "温和不刺激皮肤，目前在用 freeplus ，想看看有没有别的推荐",
@@ -74,21 +88,21 @@
       }
     },
     {
-      "rank": 6,
-      "title": "openai，我 qnmd！",
-      "url": "https://www.v2ex.com/t/1241024",
-      "description": "用着 astra 的钱给我 5.5mini 的模型环境搞坏了紧急修复直接不给用了一个月花 1500 刀就给这样的体验？？？",
-      "metric": "76 回复",
-      "metric_value": 76,
+      "rank": 7,
+      "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
+      "url": "https://www.v2ex.com/t/1241018",
+      "description": "自用 API 中转站分享，注册自动送：$1 ，留下用户 ID 再送 $10。  \n用户 ID ，在左上角 LOGO 旁边查看。  \n付费用户，升级为更优惠的 SVIP限时倍率 0.02，赠送余额会折算成倍率差对应余额。  \n活动时间截至：2026/9/11 00:00:00  \n目前支持注册邮箱后缀：qq ，163 ，gmail  \n网站： https://aiask.me/ \n这半年里，我们始终坚持：稳定优先、服务优先、相对有性价比 \n完善了文档与服务网关，并有客服可以远程协助配置。整体服务体验还算不错，退款也很快。  \nTG：@aiask_me",
+      "metric": "77 回复",
+      "metric_value": 77,
       "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "Pantheonn",
-        "last_touched": 1789058183
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "tianmenshan",
+        "last_touched": 1789066531
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "头大，到底要怎么宣传自己的产品啊",
       "url": "https://www.v2ex.com/t/1240867",
       "description": "做了个笔记工具 深度笔记\n每天只有一两个新用户，该怎么推广。\n自媒体也在发，不过只有 100 个粉丝...\n我的小红书",
@@ -99,20 +113,6 @@
         "node_name": "create",
         "author": "lerongwan1",
         "last_touched": 1789041392
-      }
-    },
-    {
-      "rank": 8,
-      "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
-      "url": "https://www.v2ex.com/t/1241018",
-      "description": "自用 API 中转站分享，注册自动送：$1 ，留下用户 ID 再送 $10。  \n用户 ID ，在左上角 LOGO 旁边查看。  \n付费用户，升级为更优惠的 SVIP限时倍率 0.02，赠送余额会折算成倍率差对应余额。  \n活动时间截至：2026/9/11 00:00:00  \n目前支持注册邮箱后缀：qq ，163 ，gmail  \n网站： https://aiask.me/ \n这半年里，我们始终坚持：稳定优先、服务优先、相对有性价比 \n完善了文档与服务网关，并有客服可以远程协助配置。整体服务体验还算不错，退款也很快。  \nTG：@aiask_me",
-      "metric": "75 回复",
-      "metric_value": 75,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "tianmenshan",
-        "last_touched": 1789059729
       }
     },
     {
