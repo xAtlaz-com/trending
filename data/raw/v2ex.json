@@ -1,114 +1,128 @@
 [
   {
     "rank": 1,
-    "title": "vibe coding 的代码你怎么放心上线？",
-    "url": "https://www.v2ex.com/t/1241529",
-    "description": "用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。\n但如果上线给用户用，出问题了总会是很麻烦的事情。\n大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？",
-    "metric": "62 回复",
-    "metric_value": 62,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "wildwind2333",
-      "last_touched": 1789275214
-    }
-  },
-  {
-    "rank": 2,
-    "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
-    "url": "https://www.v2ex.com/t/1241596",
-    "description": "今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比\n我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -&gt; 改代码 -&gt; 问题还在 -&gt; 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已",
-    "metric": "56 回复",
-    "metric_value": 56,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "baicai321",
-      "last_touched": 1789269219
-    }
-  },
-  {
-    "rank": 3,
-    "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
-    "url": "https://www.v2ex.com/t/1241528",
-    "description": "一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。第一次有了换华为的冲动",
-    "metric": "47 回复",
-    "metric_value": 47,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "aaa0009",
-      "last_touched": 1789238617
-    }
-  },
-  {
-    "rank": 4,
     "title": "你们一天喝多少咖啡的？",
     "url": "https://www.v2ex.com/t/1241624",
     "description": "我大概一天得喝 4 杯浓缩液美式，如果出差就 2 杯瑞幸美式，上午下午都得喝。 \n你们一天喝多少咖啡的，身体怎么样。",
-    "metric": "40 回复",
-    "metric_value": 40,
+    "metric": "64 回复",
+    "metric_value": 64,
     "extra": {
       "node": "咖啡",
       "node_name": "coffee",
       "author": "nathandoge",
-      "last_touched": 1789276233
+      "last_touched": 1789294331
     }
   },
   {
-    "rank": 5,
-    "title": "养育孩子的牙齿，父母应该知道的事",
-    "url": "https://www.v2ex.com/t/1241532",
-    "description": "养育了两个孩子，也看到周围的人在牙齿的花费，以下两件事情父母越早知道越好\n\n未满 6 岁以前，孩子的牙齿尽可能大人帮忙刷，因为靠孩子真的不行。\n不要把水果削成块，一定要让孩子从小啃东西，因为十多岁牙齿矫正至少 1 万起。",
-    "metric": "26 回复",
-    "metric_value": 26,
+    "rank": 2,
+    "title": "陶哲轩等数学家反对 AI，论失败的意义",
+    "url": "https://www.v2ex.com/t/1241637",
+    "description": "[反 AI 声明] 本文 AI 含量为零，未使用 AI 辅助创作，也未使用 AI 润色2026 年 9 月 12 日，陶哲轩、邓煜等 25 位菲尔兹奖得主联合警告，AI 攻破数学难题可能有害。这件事有点反直觉，很多人不理解，为什么人类破解难题就是大好事，而 AI 破解难题却是坏事？如果你了解人类数学的发展历史，就很容易理解了。在数学专业的圈子里，最想得到的从来不是一道难题的答案，而是在解决难题的过程中发展出来的全新数学工具。数学是一种“工具”，只有在解决难题的过程中经历无数次失败，才可能改善工具、发明新工具。有无数的商业案例表明，如果你独占一种技术，完全不让别人使用，那么别人就会有极大的动力去",
+    "metric": "48 回复",
+    "metric_value": 48,
     "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "luojiedev",
-      "last_touched": 1789250522
+      "node": "随想",
+      "node_name": "random",
+      "author": "QingXuJiaZhi",
+      "last_touched": 1789291853
     }
   },
   {
-    "rank": 6,
+    "rank": 3,
+    "title": "API 中转站能看到你全部 prompt 和回复，为什么没有一个「厂商端到端加密」的标准？",
+    "url": "https://www.v2ex.com/t/1241650",
+    "description": "最近 X 上几家比较知名的中转站被曝出售 / 泄露用户的 key 和对话记录，正好把我憋了一阵子的一个想法说出来，请大家看看这个方案在密码学上有没有硬伤。## 现状：中转站是个能拆信的邮递员用第三方中转的都知道，你的请求体——prompt 、系统提示词、附件内容、模型回复——对中转站是完全的明文。它技术上可以做缓存、做审计日志、做「模型质量分析」，当然也可以直接拿走你的代码和商业数据。TLS 只保护你和它之间、它和厂商之间这两段传输，中转服务器内存里躺着的永远是明文。等于你把信用快递寄信，快递公司全程可以拆阅。## 一个思路：非对称的 E2E 信封我在想能不能这样：1. 厂商为每个账号发布一对",
+    "metric": "48 回复",
+    "metric_value": 48,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "MaskerPRC",
+      "last_touched": 1789294487
+    }
+  },
+  {
+    "rank": 4,
     "title": "18PM 抢到了， 10099 元",
     "url": "https://www.v2ex.com/t/1241578",
     "description": "发不发货就不知道了",
-    "metric": "25 回复",
-    "metric_value": 25,
+    "metric": "30 回复",
+    "metric_value": 30,
     "extra": {
       "node": "iPhone",
       "node_name": "iphone",
       "author": "CNN",
-      "last_touched": 1789249624
+      "last_touched": 1789267624
+    }
+  },
+  {
+    "rank": 5,
+    "title": "SRE 岗 offer 选择",
+    "url": "https://www.v2ex.com/t/1241623",
+    "description": "北京小米玄戒 sre vs 上海网易互娱游戏 sre\n薪资\n小米：月 base 高 15 薪\n网易：月 base 低 16~18+薪，总包差不多，绩效好的话网易略高一点，17 薪时基本持平。\n当前所在公司只拿过中等绩效，没拿到过好或差的绩效。网易 hr 反馈部门最近绩效好，70-80%都能拿超过 16 薪的，而且 18 薪居多（如果按这个比例对标我现在公司的绩效占位，那我保 17 争 18 ，但算不准进去之后部门绩效怎么样）\n大致工作内容\n小米：芯片研发需要跑仿真模拟，sre 负责运维用到的软硬件资源。\n网易互娱：中台部门，入职后与某个游戏项目组对接，配合线上的各种运维。\n工作强度\n小米：9:",
+    "metric": "28 回复",
+    "metric_value": 28,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "alacine",
+      "last_touched": 1789291166
+    }
+  },
+  {
+    "rank": 6,
+    "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
+    "url": "https://www.v2ex.com/t/1241660",
+    "description": "用前几年拍过的照片，加上最近发布的 Astra 还原出了一个 3D 的外婆家。龙岩的一个小镇，不过因为水库的缘故，已经不方便主人了。有点吃性能，之后再看看能否让 AI 在不影响画质的情况下优化性能 ==http://yuuki.fans/项目已开源到，感觉这片白噪声还挺棒（就是性能太糟糕了--）。https://github.com/yuukiLike/bamboo-old-house",
+    "metric": "24 回复",
+    "metric_value": 24,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "dirstart",
+      "last_touched": 1789295216
     }
   },
   {
     "rank": 7,
-    "title": "你们 ChatGPT 重置了吗？",
-    "url": "https://www.v2ex.com/t/1241535",
-    "description": "网上说今日重置预测是北京时间 15:00 ，但是目前来看，还没有重置",
+    "title": "郁闷， mac 坏了，又要破费了！",
+    "url": "https://www.v2ex.com/t/1241595",
+    "description": "2 年前买的 m3 max ，3 万多，前两天坏了，我就是插拔了一下插排，结果就无法充电了，电池供电情况下还能正常使用，但是当时没意识到坏了，结果就是电池没电了，数据也没来得及备份\n到了官方售后，说是主板坏了需要换主板，费用 7000 ，有点儿不舍得\n所以今天就找了一个第三方维修店，结果更糟糕，修不了，检测不到坏的地方，猜测是主板板子里面坏了\n最后师傅给我搭了个电池让我备份数据，可惜只备份了一部分就没电了，跟人家说好话让再给换个电池，可惜没合适的（电池排线短了点儿 插不上），这里要感谢人家师傅，忙活半天 一分钱没要\n回来后预约了明天的官方售后，去换主板",
     "metric": "23 回复",
     "metric_value": 23,
     "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "ldy619354397",
-      "last_touched": 1789212226
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "klgd",
+      "last_touched": 1789250108
     }
   },
   {
     "rank": 8,
-    "title": "再折腾了下旁路由，用 debian+mihomo 做透明网关",
-    "url": "https://www.v2ex.com/t/1241566",
-    "description": "之前是 armbian 宿主机运行 docker ，docker 启动 openwrt 容器。但是 openwrt 不太好用，openclash 启动/加载慢，页面太卡了，设置复杂花哨多。加上想要自己编译把插件集成进去 openwrt 镜像，但是老是编译失败。然后看到 v2 有人用 alpine+mihomo 裸跑，写了个 docker compose 文件，容器基于 debian+mihomo+macvlan, 配置文件基于 mihomo 官方示例，然后自己手搓代理分组，用运营商 dns ，用起来体验比 openwrt 那一套舒服多了。配置更新、重启内核、重载配置都能在 web 页面执行，不",
-    "metric": "23 回复",
-    "metric_value": 23,
+    "title": "有没有什么工具，可以远程让 codex 干活？",
+    "url": "https://www.v2ex.com/t/1241635",
+    "description": "就是我经常用 /goal 运行一些长时间的任务，一般都要半个小时到一个小时一上。我也不可能一直在家里等着它，完事再部署下个任务。\n所以现在有没有可以让我出门后，在手机上就能下达下个任务的工具？\n谢谢各位。",
+    "metric": "21 回复",
+    "metric_value": 21,
     "extra": {
-      "node": "宽带症候群",
-      "node_name": "bb",
-      "author": "Donahue",
-      "last_touched": 1789235852
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "gegeligegeligo",
+      "last_touched": 1789294952
+    }
+  },
+  {
+    "rank": 9,
+    "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
+    "url": "https://www.v2ex.com/t/1241642",
+    "description": "- 改了大圆角，就是为了 1：1.4 去掉圆角空间刚好接近 16:9 ；- 一直维护 16:9 的 iPhone SE ，为了让软件还能兼容 Duo ；- iPad Pro 11 寸不知道为什么突然变成 1:1.4 ，原来是 Duo 展开是 1:1.4 啊；还有什么我没注意到。",
+    "metric": "20 回复",
+    "metric_value": 20,
+    "extra": {
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "deemoe",
+      "last_touched": 1789294484
     }
   }
 ]
