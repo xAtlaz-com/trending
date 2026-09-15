@@ -1,41 +1,41 @@
 [
   {
     "rank": 1,
-    "title": "JustVugg / colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-    "metric": "★ 32,466",
-    "extra": {
-      "language": "C",
-      "stars": "32,466",
-      "forks": "3,417",
-      "stars_today": "2,173 stars today"
-    }
-  },
-  {
-    "rank": 2,
     "title": "alibaba / open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "metric": "★ 26,342",
+    "metric": "★ 27,056",
     "extra": {
       "language": "Go",
-      "stars": "26,342",
-      "forks": "1,898",
+      "stars": "27,056",
+      "forks": "1,940",
       "stars_today": "1,571 stars today"
     }
   },
   {
-    "rank": 3,
-    "title": "multimodal-art-projection / YuE",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-    "metric": "★ 8,589",
+    "rank": 2,
+    "title": "JustVugg / colibri",
+    "url": "https://github.com/JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "metric": "★ 32,999",
     "extra": {
-      "language": "Python",
-      "stars": "8,589",
-      "forks": "922",
-      "stars_today": "559 stars today"
+      "language": "C",
+      "stars": "32,999",
+      "forks": "3,463",
+      "stars_today": "2,173 stars today"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "ever-co / ever-gauzy",
+    "url": "https://github.com/ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+    "metric": "★ 6,277",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "6,277",
+      "forks": "1,006",
+      "stars_today": "1,130 stars today"
     }
   },
   {
@@ -43,220 +43,142 @@
     "title": "debpalash / VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "metric": "★ 29,710",
+    "metric": "★ 30,163",
     "extra": {
       "language": "Python",
-      "stars": "29,710",
-      "forks": "3,600",
+      "stars": "30,163",
+      "forks": "3,641",
       "stars_today": "2,776 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "666ghj / MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "metric": "★ 73,385",
+    "title": "Homebrew / BrewUI",
+    "url": "https://github.com/Homebrew/BrewUI",
+    "description": "📺 Homebrew's official macOS GUI",
+    "metric": "★ 1,023",
     "extra": {
-      "language": "Python",
-      "stars": "73,385",
-      "forks": "11,297",
-      "stars_today": "560 stars today"
+      "language": "Swift",
+      "stars": "1,023",
+      "forks": "21",
+      "stars_today": "388 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "metric": "★ 81,576",
+    "title": "melgarafael / DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "metric": "★ 2,584",
     "extra": {
-      "language": "Python",
-      "stars": "81,576",
-      "forks": "7,095",
-      "stars_today": "651 stars today"
+      "language": "TypeScript",
+      "stars": "2,584",
+      "forks": "651",
+      "stars_today": "408 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "asgeirtj / system_prompts_leaks",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-    "metric": "★ 66,952",
+    "title": "alphaXiv / OpenResearch",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "metric": "★ 2,865",
     "extra": {
-      "language": "JavaScript",
-      "stars": "66,952",
-      "forks": "10,881",
-      "stars_today": "764 stars today"
+      "language": "Rust",
+      "stars": "2,865",
+      "forks": "197",
+      "stars_today": "568 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "rlaope / oh-my-hermes",
-    "url": "https://github.com/rlaope/oh-my-hermes",
-    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-    "metric": "★ 2,205",
+    "title": "NationalSecurityAgency / ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "metric": "★ 76,224",
     "extra": {
-      "language": "Python",
-      "stars": "2,205",
-      "forks": "168",
-      "stars_today": "77 stars today"
+      "language": "Java",
+      "stars": "76,224",
+      "forks": "8,404",
+      "stars_today": "700 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "localsend / localsend",
-    "url": "https://github.com/localsend/localsend",
-    "description": "An open-source cross-platform alternative to AirDrop",
-    "metric": "★ 91,457",
+    "title": "danny-avila / LibreChat",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "metric": "★ 43,616",
     "extra": {
-      "language": "Dart",
-      "stars": "91,457",
-      "forks": "5,103",
-      "stars_today": "251 stars today"
+      "language": "TypeScript",
+      "stars": "43,616",
+      "forks": "9,008",
+      "stars_today": "286 stars today"
     }
   },
   {
     "rank": 10,
-    "title": "dani-garcia / vaultwarden",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-    "metric": "★ 67,590",
+    "title": "pacifio / atlas",
+    "url": "https://github.com/pacifio/atlas",
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "metric": "★ 4,451",
     "extra": {
       "language": "Rust",
-      "stars": "67,590",
-      "forks": "3,213",
-      "stars_today": "115 stars today"
+      "stars": "4,451",
+      "forks": "274",
+      "stars_today": "1,091 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "TauricResearch / TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "metric": "★ 106,321",
+    "title": "MG1937 / ASC",
+    "url": "https://github.com/MG1937/ASC",
+    "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+    "metric": "★ 1,005",
     "extra": {
       "language": "Python",
-      "stars": "106,321",
-      "forks": "20,330",
-      "stars_today": "745 stars today"
+      "stars": "1,005",
+      "forks": "181",
+      "stars_today": "122 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "ruvnet / RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "metric": "★ 93,964",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "metric": "★ 94,480",
     "extra": {
-      "language": "Rust",
-      "stars": "93,964",
-      "forks": "12,437",
-      "stars_today": "383 stars today"
+      "language": "JavaScript",
+      "stars": "94,480",
+      "forks": "10,040",
+      "stars_today": "354 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "tech-leads-club / agent-skills",
-    "url": "https://github.com/tech-leads-club/agent-skills",
-    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-    "metric": "★ 6,160",
+    "title": "tonhowtf / omniget",
+    "url": "https://github.com/tonhowtf/omniget",
+    "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+    "metric": "★ 12,414",
     "extra": {
-      "language": "TypeScript",
-      "stars": "6,160",
-      "forks": "520",
-      "stars_today": "512 stars today"
+      "language": "Rust",
+      "stars": "12,414",
+      "forks": "1,074",
+      "stars_today": "1,018 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "OpenBMB / VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "metric": "★ 37,468",
-    "extra": {
-      "language": "Python",
-      "stars": "37,468",
-      "forks": "4,253",
-      "stars_today": "216 stars today"
-    }
-  },
-  {
-    "rank": 15,
-    "title": "huggingface / transformers",
-    "url": "https://github.com/huggingface/transformers",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-    "metric": "★ 166,087",
-    "extra": {
-      "language": "Python",
-      "stars": "166,087",
-      "forks": "34,580",
-      "stars_today": "536 stars today"
-    }
-  },
-  {
-    "rank": 16,
-    "title": "ever-co / ever-gauzy",
-    "url": "https://github.com/ever-co/ever-gauzy",
-    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
-    "metric": "★ 6,131",
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "metric": "★ 105,402",
     "extra": {
       "language": "TypeScript",
-      "stars": "6,131",
-      "forks": "992",
-      "stars_today": "1,130 stars today"
-    }
-  },
-  {
-    "rank": 17,
-    "title": "Crosstalk-Solutions / project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-    "metric": "★ 37,013",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "37,013",
-      "forks": "3,691",
-      "stars_today": "40 stars today"
-    }
-  },
-  {
-    "rank": 18,
-    "title": "reconurge / flowsint",
-    "url": "https://github.com/reconurge/flowsint",
-    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-    "metric": "★ 8,442",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "8,442",
-      "forks": "1,032",
-      "stars_today": "280 stars today"
-    }
-  },
-  {
-    "rank": 19,
-    "title": "peetzweg / opendisplay",
-    "url": "https://github.com/peetzweg/opendisplay",
-    "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-    "metric": "★ 3,704",
-    "extra": {
-      "language": "Swift",
-      "stars": "3,704",
-      "forks": "252",
-      "stars_today": "229 stars today"
-    }
-  },
-  {
-    "rank": 20,
-    "title": "SnailSploit / Claude-Red",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-    "metric": "★ 4,921",
-    "extra": {
-      "language": "Python",
-      "stars": "4,921",
-      "forks": "641",
-      "stars_today": "579 stars today"
+      "stars": "105,402",
+      "forks": "13,253",
+      "stars_today": "437 stars today"
     }
   }
 ]
