@@ -4,11 +4,11 @@
     "title": "alibaba / open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "metric": "★ 32,409",
+    "metric": "★ 33,266",
     "extra": {
       "language": "Go",
-      "stars": "32,409",
-      "forks": "2,296",
+      "stars": "33,266",
+      "forks": "2,367",
       "stars_today": "3,231 stars today"
     }
   },
@@ -17,11 +17,11 @@
     "title": "cloudflare / security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "metric": "★ 7,646",
+    "metric": "★ 8,612",
     "extra": {
       "language": "JavaScript",
-      "stars": "7,646",
-      "forks": "433",
+      "stars": "8,612",
+      "forks": "477",
       "stars_today": "927 stars today"
     }
   },
@@ -30,11 +30,11 @@
     "title": "JustVugg / colibri",
     "url": "https://github.com/JustVugg/colibri",
     "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-    "metric": "★ 35,136",
+    "metric": "★ 35,343",
     "extra": {
       "language": "C",
-      "stars": "35,136",
-      "forks": "3,692",
+      "stars": "35,343",
+      "forks": "3,715",
       "stars_today": "1,546 stars today"
     }
   },
@@ -43,10 +43,10 @@
     "title": "abue-ammar / tinycast",
     "url": "https://github.com/abue-ammar/tinycast",
     "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-    "metric": "★ 5,703",
+    "metric": "★ 5,861",
     "extra": {
       "language": "Swift",
-      "stars": "5,703",
+      "stars": "5,861",
       "forks": "273",
       "stars_today": "1,179 stars today"
     }
@@ -56,11 +56,11 @@
     "title": "jamiepine / voicebox",
     "url": "https://github.com/jamiepine/voicebox",
     "description": "The open-source AI voice studio. Clone, dictate, create.",
-    "metric": "★ 54,484",
+    "metric": "★ 54,665",
     "extra": {
       "language": "TypeScript",
-      "stars": "54,484",
-      "forks": "6,794",
+      "stars": "54,665",
+      "forks": "6,802",
       "stars_today": "417 stars today"
     }
   },
@@ -69,11 +69,11 @@
     "title": "Lakr233 / vphone-cli",
     "url": "https://github.com/Lakr233/vphone-cli",
     "description": "",
-    "metric": "★ 13,415",
+    "metric": "★ 13,549",
     "extra": {
       "language": "Swift",
-      "stars": "13,415",
-      "forks": "1,593",
+      "stars": "13,549",
+      "forks": "1,606",
       "stars_today": "547 stars today"
     }
   },
@@ -82,11 +82,11 @@
     "title": "anthropics / knowledge-work-plugins",
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "metric": "★ 24,334",
+    "metric": "★ 24,399",
     "extra": {
       "language": "Python",
-      "stars": "24,334",
-      "forks": "2,922",
+      "stars": "24,399",
+      "forks": "2,929",
       "stars_today": "110 stars today"
     }
   },
@@ -95,11 +95,11 @@
     "title": "ever-co / ever-gauzy",
     "url": "https://github.com/ever-co/ever-gauzy",
     "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
-    "metric": "★ 7,379",
+    "metric": "★ 7,491",
     "extra": {
       "language": "TypeScript",
-      "stars": "7,379",
-      "forks": "1,094",
+      "stars": "7,491",
+      "forks": "1,103",
       "stars_today": "778 stars today"
     }
   },
@@ -108,11 +108,11 @@
     "title": "ankitects / anki",
     "url": "https://github.com/ankitects/anki",
     "description": "Anki is a smart spaced repetition flashcard program",
-    "metric": "★ 30,930",
+    "metric": "★ 31,032",
     "extra": {
       "language": "Rust",
-      "stars": "30,930",
-      "forks": "3,214",
+      "stars": "31,032",
+      "forks": "3,217",
       "stars_today": "58 stars today"
     }
   },
@@ -121,11 +121,11 @@
     "title": "NationalSecurityAgency / ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
-    "metric": "★ 77,946",
+    "metric": "★ 78,126",
     "extra": {
       "language": "Java",
-      "stars": "77,946",
-      "forks": "8,623",
+      "stars": "78,126",
+      "forks": "8,644",
       "stars_today": "1,059 stars today"
     }
   },
@@ -134,11 +134,11 @@
     "title": "anthropics / claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "metric": "★ 145,603",
+    "metric": "★ 145,729",
     "extra": {
       "language": "TypeScript",
-      "stars": "145,603",
-      "forks": "23,499",
+      "stars": "145,729",
+      "forks": "23,513",
       "stars_today": "165 stars today"
     }
   },
@@ -147,11 +147,11 @@
     "title": "roboflow / supervision",
     "url": "https://github.com/roboflow/supervision",
     "description": "We write your reusable computer vision tools. 💜",
-    "metric": "★ 50,649",
+    "metric": "★ 50,715",
     "extra": {
       "language": "Python",
-      "stars": "50,649",
-      "forks": "4,815",
+      "stars": "50,715",
+      "forks": "4,820",
       "stars_today": "260 stars today"
     }
   },
@@ -160,11 +160,11 @@
     "title": "alphaXiv / OpenResearch",
     "url": "https://github.com/alphaXiv/OpenResearch",
     "description": "Turn your coding agents into research agents",
-    "metric": "★ 4,523",
+    "metric": "★ 4,762",
     "extra": {
       "language": "Rust",
-      "stars": "4,523",
-      "forks": "278",
+      "stars": "4,762",
+      "forks": "287",
       "stars_today": "1,017 stars today"
     }
   },
@@ -173,11 +173,11 @@
     "title": "supabase / supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "metric": "★ 109,809",
+    "metric": "★ 109,952",
     "extra": {
       "language": "TypeScript",
-      "stars": "109,809",
-      "forks": "14,057",
+      "stars": "109,952",
+      "forks": "14,070",
       "stars_today": "120 stars today"
     }
   },
@@ -186,11 +186,11 @@
     "title": "rlaope / oh-my-hermes",
     "url": "https://github.com/rlaope/oh-my-hermes",
     "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-    "metric": "★ 2,600",
+    "metric": "★ 2,659",
     "extra": {
       "language": "Python",
-      "stars": "2,600",
-      "forks": "187",
+      "stars": "2,659",
+      "forks": "190",
       "stars_today": "80 stars today"
     }
   },
@@ -199,11 +199,11 @@
     "title": "Tencent / WeKnora",
     "url": "https://github.com/Tencent/WeKnora",
     "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-    "metric": "★ 25,535",
+    "metric": "★ 25,832",
     "extra": {
       "language": "Go",
-      "stars": "25,535",
-      "forks": "3,497",
+      "stars": "25,832",
+      "forks": "3,526",
       "stars_today": "1,197 stars today"
     }
   },
@@ -212,11 +212,11 @@
     "title": "SnailSploit / Claude-Red",
     "url": "https://github.com/SnailSploit/Claude-Red",
     "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-    "metric": "★ 5,836",
+    "metric": "★ 5,958",
     "extra": {
       "language": "Python",
-      "stars": "5,836",
-      "forks": "747",
+      "stars": "5,958",
+      "forks": "758",
       "stars_today": "367 stars today"
     }
   },
@@ -225,11 +225,11 @@
     "title": "multimodal-art-projection / YuE",
     "url": "https://github.com/multimodal-art-projection/YuE",
     "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-    "metric": "★ 9,434",
+    "metric": "★ 9,534",
     "extra": {
       "language": "Python",
-      "stars": "9,434",
-      "forks": "1,017",
+      "stars": "9,534",
+      "forks": "1,024",
       "stars_today": "332 stars today"
     }
   },
@@ -238,11 +238,11 @@
     "title": "addyosmani / agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
-    "metric": "★ 95,560",
+    "metric": "★ 95,716",
     "extra": {
       "language": "JavaScript",
-      "stars": "95,560",
-      "forks": "10,115",
+      "stars": "95,716",
+      "forks": "10,126",
       "stars_today": "658 stars today"
     }
   },
@@ -251,11 +251,11 @@
     "title": "cline / cline",
     "url": "https://github.com/cline/cline",
     "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-    "metric": "★ 68,422",
+    "metric": "★ 68,511",
     "extra": {
       "language": "TypeScript",
-      "stars": "68,422",
-      "forks": "7,387",
+      "stars": "68,511",
+      "forks": "7,402",
       "stars_today": "112 stars today"
     }
   },
@@ -264,11 +264,11 @@
     "title": "affaan-m / ECC",
     "url": "https://github.com/affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "metric": "★ 260,424",
+    "metric": "★ 260,696",
     "extra": {
       "language": "JavaScript",
-      "stars": "260,424",
-      "forks": "38,980",
+      "stars": "260,696",
+      "forks": "39,021",
       "stars_today": "1,057 stars today"
     }
   }
