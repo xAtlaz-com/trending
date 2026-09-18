@@ -4,11 +4,11 @@
     "title": "cloudflare / security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "metric": "★ 12,897",
+    "metric": "★ 13,279",
     "extra": {
       "language": "JavaScript",
-      "stars": "12,897",
-      "forks": "691",
+      "stars": "13,279",
+      "forks": "712",
       "stars_today": "3,019 stars today"
     }
   },
@@ -17,11 +17,11 @@
     "title": "anthropics / claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "metric": "★ 146,178",
+    "metric": "★ 146,231",
     "extra": {
       "language": "TypeScript",
-      "stars": "146,178",
-      "forks": "23,731",
+      "stars": "146,231",
+      "forks": "23,757",
       "stars_today": "442 stars today"
     }
   },
@@ -30,11 +30,11 @@
     "title": "alibaba / open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "metric": "★ 36,447",
+    "metric": "★ 36,532",
     "extra": {
       "language": "Go",
-      "stars": "36,447",
-      "forks": "2,600",
+      "stars": "36,532",
+      "forks": "2,604",
       "stars_today": "2,724 stars today"
     }
   },
@@ -43,11 +43,11 @@
     "title": "affaan-m / ECC",
     "url": "https://github.com/affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "metric": "★ 261,782",
+    "metric": "★ 261,905",
     "extra": {
       "language": "JavaScript",
-      "stars": "261,782",
-      "forks": "39,173",
+      "stars": "261,905",
+      "forks": "39,188",
       "stars_today": "965 stars today"
     }
   },
@@ -56,11 +56,11 @@
     "title": "Tencent / BrowserSkill",
     "url": "https://github.com/Tencent/BrowserSkill",
     "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-    "metric": "★ 5,129",
+    "metric": "★ 5,204",
     "extra": {
       "language": "TypeScript",
-      "stars": "5,129",
-      "forks": "358",
+      "stars": "5,204",
+      "forks": "360",
       "stars_today": "1,319 stars today"
     }
   },
@@ -69,11 +69,11 @@
     "title": "addyosmani / agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
-    "metric": "★ 96,259",
+    "metric": "★ 96,328",
     "extra": {
       "language": "JavaScript",
-      "stars": "96,259",
-      "forks": "10,177",
+      "stars": "96,328",
+      "forks": "10,181",
       "stars_today": "677 stars today"
     }
   },
@@ -82,11 +82,11 @@
     "title": "TencentCloud / Octop",
     "url": "https://github.com/TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "metric": "★ 3,882",
+    "metric": "★ 3,911",
     "extra": {
       "language": "Python",
-      "stars": "3,882",
-      "forks": "401",
+      "stars": "3,911",
+      "forks": "403",
       "stars_today": "571 stars today"
     }
   },
@@ -95,11 +95,11 @@
     "title": "Fission-AI / OpenSpec",
     "url": "https://github.com/Fission-AI/OpenSpec",
     "description": "Spec-driven development (SDD) for AI coding assistants.",
-    "metric": "★ 69,219",
+    "metric": "★ 69,280",
     "extra": {
       "language": "TypeScript",
-      "stars": "69,219",
-      "forks": "4,746",
+      "stars": "69,280",
+      "forks": "4,748",
       "stars_today": "298 stars today"
     }
   },
@@ -108,10 +108,10 @@
     "title": "ankitects / anki",
     "url": "https://github.com/ankitects/anki",
     "description": "Anki is a smart spaced repetition flashcard program",
-    "metric": "★ 31,143",
+    "metric": "★ 31,169",
     "extra": {
       "language": "Rust",
-      "stars": "31,143",
+      "stars": "31,169",
       "forks": "3,237",
       "stars_today": "177 stars today"
     }
@@ -121,11 +121,11 @@
     "title": "anthropics / knowledge-work-plugins",
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "metric": "★ 24,798",
+    "metric": "★ 24,838",
     "extra": {
       "language": "Python",
-      "stars": "24,798",
-      "forks": "2,961",
+      "stars": "24,838",
+      "forks": "2,966",
       "stars_today": "300 stars today"
     }
   },
@@ -134,11 +134,11 @@
     "title": "supermemoryai / supermemory",
     "url": "https://github.com/supermemoryai/supermemory",
     "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-    "metric": "★ 30,164",
+    "metric": "★ 30,213",
     "extra": {
       "language": "TypeScript",
-      "stars": "30,164",
-      "forks": "2,636",
+      "stars": "30,213",
+      "forks": "2,640",
       "stars_today": "140 stars today"
     }
   },
@@ -147,11 +147,11 @@
     "title": "tradesdontlie / tradingview-mcp",
     "url": "https://github.com/tradesdontlie/tradingview-mcp",
     "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-    "metric": "★ 6,403",
+    "metric": "★ 6,434",
     "extra": {
       "language": "JavaScript",
-      "stars": "6,403",
-      "forks": "2,712",
+      "stars": "6,434",
+      "forks": "2,715",
       "stars_today": "64 stars today"
     }
   },
@@ -160,10 +160,10 @@
     "title": "rustfs / rustfs",
     "url": "https://github.com/rustfs/rustfs",
     "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-    "metric": "★ 33,065",
+    "metric": "★ 33,110",
     "extra": {
       "language": "Rust",
-      "stars": "33,065",
+      "stars": "33,110",
       "forks": "1,482",
       "stars_today": "298 stars today"
     }
@@ -173,11 +173,11 @@
     "title": "supabase / supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "metric": "★ 110,054",
+    "metric": "★ 110,102",
     "extra": {
       "language": "TypeScript",
-      "stars": "110,054",
-      "forks": "14,243",
+      "stars": "110,102",
+      "forks": "14,264",
       "stars_today": "128 stars today"
     }
   },
@@ -186,11 +186,11 @@
     "title": "coder / coder",
     "url": "https://github.com/coder/coder",
     "description": "Secure environments for developers and their agents",
-    "metric": "★ 15,168",
+    "metric": "★ 15,226",
     "extra": {
       "language": "Go",
-      "stars": "15,168",
-      "forks": "1,498",
+      "stars": "15,226",
+      "forks": "1,501",
       "stars_today": "478 stars today"
     }
   },
@@ -199,11 +199,11 @@
     "title": "ahmedkhaleel2004 / gitdiagram",
     "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
     "description": "Free, simple, fast interactive diagrams for any GitHub repository",
-    "metric": "★ 16,373",
+    "metric": "★ 16,416",
     "extra": {
       "language": "TypeScript",
-      "stars": "16,373",
-      "forks": "1,253",
+      "stars": "16,416",
+      "forks": "1,254",
       "stars_today": "145 stars today"
     }
   },
@@ -212,11 +212,11 @@
     "title": "asciimoo / hister",
     "url": "https://github.com/asciimoo/hister",
     "description": "Your own search engine",
-    "metric": "★ 4,847",
+    "metric": "★ 4,904",
     "extra": {
       "language": "Go",
-      "stars": "4,847",
-      "forks": "201",
+      "stars": "4,904",
+      "forks": "203",
       "stars_today": "842 stars today"
     }
   }
