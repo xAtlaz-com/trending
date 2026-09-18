@@ -1,62 +1,62 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-18T10:00:04+00:00",
-  "count": 10,
+  "updated_at": "2026-09-18T14:22:51+00:00",
+  "count": 9,
   "items": [
     {
       "rank": 1,
       "title": "国内的麦当劳，肯德基，汉堡王，好像大部分人都不会收盘子",
       "url": "https://www.v2ex.com/t/1242932",
       "description": "无论是在马来西亚，韩国，日本，只要是这种类型的快餐店，大家吃完后，都会主动把盘子送到回收台，顺手把残余食物怼进垃圾桶。在韩国，有一个专门的回收窗口，吃完把盘子送进去。但是在国内，我发现很多人吃完后直接就走了。这就会造成一个问题，商家没有来得及收拾的时候，桌子上就会堆积之前的食物，结果食客直接推到旁边，在大量的食物残渣的夹缝中吃自己的那份。有次过节，我发现整个店变成了垃圾山了，根本收不过来，大量的食客只能背对着桌子坐着，场景一度陷入混乱，宁愿打包带走了。我每次都是送回去窗口的（前提是要有设置这种窗口，并且是配了食物餐盘的店），因为我觉得，既然我不想看到上一个食客留下的食物残渣，别人肯定也不想看到",
-      "metric": "198 回复",
-      "metric_value": 198,
+      "metric": "229 回复",
+      "metric_value": 229,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "clacf",
-        "last_touched": 1789725230
+        "last_touched": 1789741265
       }
     },
     {
       "rank": 2,
-      "title": "有用 zcode 的，马上关闭 ！它打包上传了你整个代码库！",
-      "url": "https://www.v2ex.com/t/1242973",
-      "description": "有用 zcode 的，马上关闭 ！ 亲自验证，它打包上传了你整个代码库！！！ 我的 win 和 mac 全中招。智谱必须出来给个解释了，你要公开认罪三次，分别说明你是真坏、真草台还是真不想做下去了破罐子破摔！！！！！！https://x.com/jameszz343698/status/2100833393294688257https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "metric": "92 回复",
-      "metric_value": 92,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "kuse2001",
-        "last_touched": 1789724609
-      }
-    },
-    {
-      "rank": 3,
       "title": "我的三十岁，以及从龟到独立人格的改变",
       "url": "https://www.v2ex.com/t/1242824",
       "description": "三十岁生日刚好过去一个月，这里应该没有熟人，也基本没有认识的人会翻墙过来刷帖，写一写心里话吧\n成长经历\n从小父母都在外地做事，跟着爷爷奶奶一起生活，不管是日常生活饮食还是学习，都没有人管，纯靠我自觉，我也就从小形成了不依靠别人的性格，同时也成为了一个在家听话懂事、在学校认真读书的好孩子，现在看来，只是那时候没有自保能力，装出来的。在家饮食不健康，经常跟着爷爷奶奶吃剩饭剩菜，导致从小就营养不良，身材矮小，在小学、初中、高中也受到了不同程度的霸凌。\n\n家庭\n父母都是很严重的 NPD ，特别在意外界别人的看法，做了点什么事情，总想着别人会怎么想，然后对别人也是格外的好，宁愿自己吃苦也要在别人那里有好",
-      "metric": "85 回复",
-      "metric_value": 85,
+      "metric": "93 回复",
+      "metric_value": 93,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "lastwhisper999",
-        "last_touched": 1789724236
+        "last_touched": 1789735447
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "[送终身会员] Termind： AI 驱动的 SSH 终端，现已支持 iOS",
       "url": "https://www.v2ex.com/t/1242844",
       "description": "上个星期我发布了自带 Agent 的 SSH 终端软件，意料之外地获得了不小的关注，也感谢各位 V 友的反馈和建议。经过一个星期的爆肝，我在 iOS 上实现了大部分核心功能。\n除了基本的修复外，新版本还实现了\n内置 MCP 服务器（外部 Agent ）\n\n实现了通过 HTTP 上传/下载转 SFTP 实现上传/下载服务器上的文件，Codex 等工具可以通过 curl 上传/下载服务器上的文件了。\n\nAssistant （内置 Agent ）\n\n实现持久化记忆（ Hermes Memory ），现在 Assistant 能记住你的偏好。\n\nMetrics （监控）\n\n卡片式监控汇总页面，显示服务",
-      "metric": "83 回复",
-      "metric_value": 83,
+      "metric": "88 回复",
+      "metric_value": 88,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "AkinoKaedeChan",
-        "last_touched": 1789724645
+        "last_touched": 1789740420
+      }
+    },
+    {
+      "rank": 4,
+      "title": "写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局",
+      "url": "https://www.v2ex.com/t/1242880",
+      "description": "最近刷视频刷多了，写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局，详细介绍如下：嘉靖三十九年，大明朝表面依旧风平浪静，朝堂之上却暗流涌动。严嵩、徐阶、高拱、张居正、胡宗宪、海瑞……那些熟悉的名字，将再次出现在你的故事里。但这一次，你不是海瑞。你只是一名身处大明官场的小官。从地方到京城，从一次次看似不起眼的选择开始，你将亲手决定自己的仕途与命运。做事时不问可不可能，但问应不应该。是坚持原则，还是学会变通？是积累官声，还是经营人脉？是明哲保身，还是冒险入局？每一次选择，都可能改变你的官声、圣眷、人脉、民望、家产与风险。游戏以《大明王朝 1566 》的剧情时代为背景，在",
+      "metric": "84 回复",
+      "metric_value": 84,
+      "extra": {
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "ha0719",
+        "last_touched": 1789736990
       }
     },
     {
@@ -64,27 +64,27 @@
       "title": "大家的 MacBook pro 是怎么散热的呀， 2017 款，能用，现在 vibe coding 发热巨烫，一直对着小风扇吹着的。",
       "url": "https://www.v2ex.com/t/1242836",
       "description": "",
-      "metric": "79 回复",
-      "metric_value": 79,
+      "metric": "81 回复",
+      "metric_value": 81,
       "extra": {
         "node": "MacBook Pro",
         "node_name": "mbp",
         "author": "f1197199424",
-        "last_touched": 1789725439
+        "last_touched": 1789739116
       }
     },
     {
       "rank": 6,
-      "title": "写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局",
-      "url": "https://www.v2ex.com/t/1242880",
-      "description": "最近刷视频刷多了，写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局，详细介绍如下：嘉靖三十九年，大明朝表面依旧风平浪静，朝堂之上却暗流涌动。严嵩、徐阶、高拱、张居正、胡宗宪、海瑞……那些熟悉的名字，将再次出现在你的故事里。但这一次，你不是海瑞。你只是一名身处大明官场的小官。从地方到京城，从一次次看似不起眼的选择开始，你将亲手决定自己的仕途与命运。做事时不问可不可能，但问应不应该。是坚持原则，还是学会变通？是积累官声，还是经营人脉？是明哲保身，还是冒险入局？每一次选择，都可能改变你的官声、圣眷、人脉、民望、家产与风险。游戏以《大明王朝 1566 》的剧情时代为背景，在",
-      "metric": "73 回复",
-      "metric_value": 73,
+      "title": "亲戚欠钱不还，要不要起诉",
+      "url": "https://www.v2ex.com/t/1242862",
+      "description": "平辈亲戚欠钱不还，已经明摆着要赖掉白嫖了\n想去起诉，之前告赢过扣押金房东，在线法院提交材料等立案开庭就行\n家里老人不让起诉，说起诉了亲戚就做不成了，他们老一辈关系还比较好\n纠结",
+      "metric": "75 回复",
+      "metric_value": 75,
       "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "ha0719",
-        "last_touched": 1789724512
+        "node": "生活",
+        "node_name": "life",
+        "author": "kafkaonsea",
+        "last_touched": 1789738884
       }
     },
     {
@@ -92,55 +92,41 @@
       "title": "最近找工作有点把我整不会了",
       "url": "https://www.v2ex.com/t/1242845",
       "description": "最近重新开始找工作，感觉和前两年完全不是一个难度。\n以前感觉会 React / Vue ，项目经验正常，基本还能找到一些能聊的岗位。\n现在刷招聘软件，经常看到一个前端岗位，要求前端、Node 、Next 、微前端、性能优化，有的还要懂 3D 、AI 之类的。\n要求越来越多，工资倒没感觉涨多少。\n而且现在写代码基本也离不开 AI 了。我自己用了之后感觉效率确实高很多，所以也有点怀疑，以后普通前端的岗位是不是还会继续变少。\n最近甚至在考虑，要不要干脆接受降薪，或者试试接外包。\n不知道是不是我最近找工作找麻了。\n今年也在找前端的，体感怎么样？",
-      "metric": "70 回复",
-      "metric_value": 70,
+      "metric": "72 回复",
+      "metric_value": 72,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "BennnnJi",
-        "last_touched": 1789723314
+        "last_touched": 1789735400
       }
     },
     {
       "rank": 8,
-      "title": "亲戚欠钱不还，要不要起诉",
-      "url": "https://www.v2ex.com/t/1242862",
-      "description": "平辈亲戚欠钱不还，已经明摆着要赖掉白嫖了\n想去起诉，之前告赢过扣押金房东，在线法院提交材料等立案开庭就行\n家里老人不让起诉，说起诉了亲戚就做不成了，他们老一辈关系还比较好\n纠结",
-      "metric": "69 回复",
-      "metric_value": 69,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "kafkaonsea",
-        "last_touched": 1789724376
-      }
-    },
-    {
-      "rank": 9,
       "title": "肝了！真的做了一个 PS，再也不用 photoshop 了",
       "url": "https://www.v2ex.com/t/1242849",
       "description": "相当不容易的，用了 claude 的最高挡(中间也有切换)，使用订阅加 api ，换算估计有几千块钱吧\n历时几十小时，中间有很多问题，改来改去，特别是性能架构思路方面。\n好像接近理想的状态了。\nhttps://picdone.com/tools/studio\n做完后有些空虚...",
-      "metric": "59 回复",
-      "metric_value": 59,
+      "metric": "70 回复",
+      "metric_value": 70,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "zackkk",
-        "last_touched": 1789724459
+        "last_touched": 1789734291
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Claude 封号问题，想使用 claude 不被封，这是我近半年 100+账号跌跌撞撞的一些心得",
       "url": "https://www.v2ex.com/t/1242854",
       "description": "我是 2025 年 4 月份左右正式用 Claude 的用户用到现在长达一年多了，早期用过 claude 的都没什么封号，后续因为蒸馏也越来越严，我最近半年多都在用开源的中转站，不是第三方的，我也不卖，自己公司内部员工使用的，多人用省 token （说白了用不起 API ），方便好管理，防止员工恶意滥用借用干私活，我吧我的整套流程说一下。我做中转给公司内部人用也死过很多号目前的方式还是比较稳定**适用个人和几个小伙\n伴以及公司小团队和中等团队（大团队没试过）做了视频没有我写的详细因为录制的时候声音丢了，声音是后补的。YouTube 视频：youtu.be/wKKJ9jNWBiA\n第一（邮箱） ",
-      "metric": "50 回复",
-      "metric_value": 50,
+      "metric": "63 回复",
+      "metric_value": 63,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
         "author": "xiaoyongzhu",
-        "last_touched": 1789717360
+        "last_touched": 1789737416
       }
     }
   ]
