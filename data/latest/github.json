@@ -1,201 +1,175 @@
 {
   "source": "github",
-  "updated_at": "2026-09-20T10:00:47+00:00",
-  "count": 15,
+  "updated_at": "2026-09-20T14:08:41+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "metric": "★ 17,255",
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "metric": "★ 263,353",
       "extra": {
         "language": "JavaScript",
-        "stars": "17,255",
-        "forks": "947",
-        "stars_today": "3,155 stars today"
+        "stars": "263,353",
+        "forks": "39,405",
+        "stars_today": "1,012 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "trycua / cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "metric": "★ 24,809",
+      "title": "BuilderIO / agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "metric": "★ 5,014",
       "extra": {
-        "language": "HTML",
-        "stars": "24,809",
-        "forks": "1,702",
-        "stars_today": "859 stars today"
+        "language": "TypeScript",
+        "stars": "5,014",
+        "forks": "470",
+        "stars_today": "89 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 97,341",
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "metric": "★ 17,533",
       "extra": {
         "language": "JavaScript",
-        "stars": "97,341",
-        "forks": "10,267",
-        "stars_today": "556 stars today"
+        "stars": "17,533",
+        "forks": "975",
+        "stars_today": "2,375 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "coder / coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "metric": "★ 15,774",
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "metric": "★ 24,924",
       "extra": {
-        "language": "Go",
-        "stars": "15,774",
-        "forks": "1,530",
-        "stars_today": "402 stars today"
+        "language": "HTML",
+        "stars": "24,924",
+        "forks": "1,712",
+        "stars_today": "1,012 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "metric": "★ 146,865",
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "metric": "★ 35,224",
       "extra": {
-        "language": "TypeScript",
-        "stars": "146,865",
-        "forks": "23,987",
-        "stars_today": "483 stars today"
+        "language": "Python",
+        "stars": "35,224",
+        "forks": "5,236",
+        "stars_today": "236 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "Open-Dev-Society / OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "metric": "★ 16,396",
+      "title": "paperless-ngx / paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "metric": "★ 45,392",
       "extra": {
-        "language": "TypeScript",
-        "stars": "16,396",
-        "forks": "2,112",
-        "stars_today": "472 stars today"
+        "language": "Python",
+        "stars": "45,392",
+        "forks": "3,137",
+        "stars_today": "32 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "higgsfield-ai / higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "metric": "★ 5,102",
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "metric": "★ 146,937",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "5,102",
-        "forks": "927",
-        "stars_today": "196 stars today"
+        "language": "TypeScript",
+        "stars": "146,937",
+        "forks": "23,991",
+        "stars_today": "415 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "docling-project / docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "metric": "★ 67,342",
+      "title": "mihail911 / modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "metric": "★ 4,443",
       "extra": {
         "language": "Python",
-        "stars": "67,342",
-        "forks": "4,846",
-        "stars_today": "129 stars today"
+        "stars": "4,443",
+        "forks": "1,006",
+        "stars_today": "174 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "cloudflare / quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "metric": "★ 12,119",
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "metric": "★ 5,178",
       "extra": {
-        "language": "Rust",
-        "stars": "12,119",
-        "forks": "1,123",
-        "stars_today": "31 stars today"
+        "language": "Jupyter Notebook",
+        "stars": "5,178",
+        "forks": "934",
+        "stars_today": "461 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "metric": "★ 5,365",
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "metric": "★ 16,510",
       "extra": {
-        "language": "Go",
-        "stars": "5,365",
-        "forks": "226",
-        "stars_today": "420 stars today"
+        "language": "TypeScript",
+        "stars": "16,510",
+        "forks": "2,119",
+        "stars_today": "752 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "ruanyf / weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "metric": "★ 103,572",
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "metric": "★ 15,847",
       "extra": {
-        "language": null,
-        "stars": "103,572",
-        "forks": "4,434",
-        "stars_today": "98 stars today"
+        "language": "Go",
+        "stars": "15,847",
+        "forks": "1,534",
+        "stars_today": "382 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "ZuodaoTech / everyone-can-use-english",
-      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-      "description": "人人都能用英语",
-      "metric": "★ 38,082",
+      "title": "vercel-labs / json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "metric": "★ 17,044",
       "extra": {
         "language": "TypeScript",
-        "stars": "38,082",
-        "forks": "5,221",
-        "stars_today": "48 stars today"
+        "stars": "17,044",
+        "forks": "906",
+        "stars_today": "585 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "anthropics / knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 25,229",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 97,448",
       "extra": {
-        "language": "Python",
-        "stars": "25,229",
-        "forks": "3,002",
-        "stars_today": "281 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "cactus-compute / needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "metric": "★ 11,787",
-      "extra": {
-        "language": "Python",
-        "stars": "11,787",
-        "forks": "755",
-        "stars_today": "234 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "yynxxxxx / Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "metric": "★ 3,525",
-      "extra": {
-        "language": "Rust",
-        "stars": "3,525",
-        "forks": "453",
-        "stars_today": "32 stars today"
+        "language": "JavaScript",
+        "stars": "97,448",
+        "forks": "10,277",
+        "stars_today": "729 stars today"
       }
     }
   ]
