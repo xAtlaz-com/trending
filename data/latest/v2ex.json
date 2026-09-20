@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-19T22:26:15+00:00",
+  "updated_at": "2026-09-20T00:18:17+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "结婚一年半，准备离婚了",
       "url": "https://www.v2ex.com/t/1243140",
       "description": "导火索：我妈拿饭来，和我说话，我老婆嫌我妈和我说她坏话了，今天已经收拾东西离家出走了。",
-      "metric": "93 回复",
-      "metric_value": 93,
+      "metric": "96 回复",
+      "metric_value": 96,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "YoungKing6",
-        "last_touched": 1789839688
+        "last_touched": 1789850488
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "（源头）包稳不智降企业级的 gpt6 倍率低至 0.24， codex pro 0.2，国模 0.19， Grok Heavy0.19，更有低价高缓存的官 k 首字 1S 缓存 95%。一对一服务，一键自助免点开票。注册回复皆送体验额度。",
       "url": "https://www.v2ex.com/t/1243121",
       "description": "网站：吉吉 api https://www.jiji.cc 注册直接用余额体验，回复用户名直接送体验客度。吉吉 api 目户用户过万，社区群服务目前 5000+，这是我们敢把价格压得这么低的底气，欢迎各大企业以及下游厂家以及个人对接。稳定：即使最近的 oai 异动下很多友商顶不住，我们依然坚挺。让你选择我们便可安心，不必来来去去的折腾。不降智：对的保的，降智带来的体验和浪费十分严重，一件事本来 5 分钟可以解决的，智障后估计花一天还没解决，把好脾气和时间都磨没了。不降智保障下，指拿打哪的感觉，让天才程序员一路过关斩将，所向披靡。模型，一站式用什么来我们这里就够了，codex pro 低至 0.",
-      "metric": "68 回复",
-      "metric_value": 68,
+      "metric": "71 回复",
+      "metric_value": 71,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "jijicc",
-        "last_touched": 1789854319
+        "last_touched": 1789861684
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "有什么比较好的方案让 AI 实现 24 小时自动化开发？",
       "url": "https://www.v2ex.com/t/1243154",
       "description": "复杂任务 AI 动不动执行要 1~2 个小时，人不可能一直坐在电脑旁等结果，有没比较好的方案能让 AI 实现 24 小时自动化开发，并且可以设定哪个 AI 负责验收和补充，哪个 AI 负责开发。以及 5 个小时额度耗尽，会自动等 5 小时额度恢复继续执行任务？",
-      "metric": "48 回复",
-      "metric_value": 48,
+      "metric": "49 回复",
+      "metric_value": 49,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "ldy619354397",
-        "last_touched": 1789847900
+        "last_touched": 1789856944
       }
     },
     {
@@ -78,17 +78,45 @@
       "title": "现在 reddit 太难养号了",
       "url": "https://www.v2ex.com/t/1243138",
       "description": "现在 reddit 太难养号了，干了两个月了 karma 还是 1 。",
-      "metric": "28 回复",
-      "metric_value": 28,
+      "metric": "29 回复",
+      "metric_value": 29,
       "extra": {
         "node": "Reddit",
         "node_name": "reddit",
         "author": "chiva",
-        "last_touched": 1789839849
+        "last_touched": 1789843449
       }
     },
     {
       "rank": 7,
+      "title": "来了， M1Max 升级 macOS27",
+      "url": "https://www.v2ex.com/t/1243139",
+      "description": "之前用的是 macOS14, 要不是 homebrew 和达芬奇不支持了，我也不想升，但是又总忍不住想尝试一下，折腾了一晚上，现在给大家一点参考。\n如果你之前用的是 macOS26, 想也别想，直接升吧，27 是对 26 的全面优化，26 这种既不符合设计美学，性能又差的玩意，真不想多说\n我之前一个 MacBook 升级到 26 后体验了一个星期受不了，能明显感觉到系统性能降低了，包括鼠标右键、菜单显示等，能明显感觉到‘慢’了， 就降回 14 了，可以看下我之前的帖子。\n后来换了 M1Max ，一直用的 14, 这次升级到 27 以后，没有任何‘慢’的感觉，所以单从性能讲，可以升。\n但是，\n2",
+      "metric": "22 回复",
+      "metric_value": 22,
+      "extra": {
+        "node": "macOS",
+        "node_name": "macos",
+        "author": "bokix",
+        "last_touched": 1789841114
+      }
+    },
+    {
+      "rank": 8,
+      "title": "刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款",
+      "url": "https://www.v2ex.com/t/1243198",
+      "description": "我是在 z.ai 开的 coding plan ，最近把个人的、公司的项目都放到 zcode 的客户端里跑，昨天的事情出来之后，我第一时间检查，全都被上传了！\n于是写了邮件给它们，要求退款\n\n太欺负人了！这妥妥的花钱找人偷数据，如果他们不退，我就直接 paypal 仲裁了。",
+      "metric": "22 回复",
+      "metric_value": 22,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "Shing",
+        "last_touched": 1789844842
+      }
+    },
+    {
+      "rank": 9,
       "title": "鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS",
       "url": "https://www.v2ex.com/t/1243155",
       "description": "项目地址： https://github.com/RicterZ/AL1S-WMS\n\n能做什么\n\n面向 AI Agent 设计，以下功能全部提供 MCP tools ，拍一个小票即可让 Agent 自动入库；\n库存与批次管理：按照批次入库，支持条形码扫描，支持保质期、位置、分类等属性；\n预警与盘点：临期、过期、临界、不足、缺货等预警信息；\n采购：购物清单、购物日历、购买后入库、缺货物资自动生成购物清单等；\n财务：当月预算规划、支出统计等信息，拥有简易的记账功能。\n\n不适用场景\n\n企业、工作室、门店或需要多人审批、供应商合同、订单履约和复杂权限模型的专业商用场景；\n需要银行账户同步、收入管理、发",
@@ -102,7 +130,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "有没有什么养成类游戏，可以刷 ，然后变现的，比如卖号，或者卖装备的这些操作；",
       "url": "https://www.v2ex.com/t/1243111",
       "description": "有没有什么养成类游戏，可以无脑刷，然后变现的，比如卖号，或者卖装备的这些操作；投入精力非常有限；",
@@ -113,34 +141,6 @@
         "node_name": "qna",
         "author": "runninghipp",
         "last_touched": 1789829932
-      }
-    },
-    {
-      "rank": 9,
-      "title": "来了， M1Max 升级 macOS27",
-      "url": "https://www.v2ex.com/t/1243139",
-      "description": "之前用的是 macOS14, 要不是 homebrew 和达芬奇不支持了，我也不想升，但是又总忍不住想尝试一下，折腾了一晚上，现在给大家一点参考。\n如果你之前用的是 macOS26, 想也别想，直接升吧，27 是对 26 的全面优化，26 这种既不符合设计美学，性能又差的玩意，真不想多说\n我之前一个 MacBook 升级到 26 后体验了一个星期受不了，能明显感觉到系统性能降低了，包括鼠标右键、菜单显示等，能明显感觉到‘慢’了， 就降回 14 了，可以看下我之前的帖子。\n后来换了 M1Max ，一直用的 14, 这次升级到 27 以后，没有任何‘慢’的感觉，所以单从性能讲，可以升。\n但是，\n2",
-      "metric": "20 回复",
-      "metric_value": 20,
-      "extra": {
-        "node": "macOS",
-        "node_name": "macos",
-        "author": "bokix",
-        "last_touched": 1789833914
-      }
-    },
-    {
-      "rank": 10,
-      "title": "刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款",
-      "url": "https://www.v2ex.com/t/1243198",
-      "description": "我是在 z.ai 开的 coding plan ，最近把个人的、公司的项目都放到 zcode 的客户端里跑，昨天的事情出来之后，我第一时间检查，全都被上传了！\n于是写了邮件给它们，要求退款\n\n太欺负人了！这妥妥的花钱找人偷数据，如果他们不退，我就直接 paypal 仲裁了。",
-      "metric": "20 回复",
-      "metric_value": 20,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "Shing",
-        "last_touched": 1789841242
       }
     }
   ]
