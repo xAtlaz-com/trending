@@ -1,175 +1,162 @@
 {
   "source": "github",
-  "updated_at": "2026-09-21T06:53:36+00:00",
-  "count": 13,
+  "updated_at": "2026-09-21T13:46:02+00:00",
+  "count": 12,
   "items": [
     {
       "rank": 1,
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 264,043",
+      "title": "BuilderIO / agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "metric": "★ 5,630",
       "extra": {
-        "language": "JavaScript",
-        "stars": "264,043",
-        "forks": "39,489",
-        "stars_today": "826 stars today"
+        "language": "TypeScript",
+        "stars": "5,630",
+        "forks": "523",
+        "stars_today": "607 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "BuilderIO / agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "metric": "★ 5,422",
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "metric": "★ 25,510",
       "extra": {
-        "language": "TypeScript",
-        "stars": "5,422",
-        "forks": "504",
-        "stars_today": "98 stars today"
+        "language": "HTML",
+        "stars": "25,510",
+        "forks": "1,755",
+        "stars_today": "609 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "metric": "★ 18,332",
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "metric": "★ 17,336",
       "extra": {
-        "language": "JavaScript",
-        "stars": "18,332",
-        "forks": "1,025",
-        "stars_today": "2,428 stars today"
+        "language": "TypeScript",
+        "stars": "17,336",
+        "forks": "2,163",
+        "stars_today": "843 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "trycua / cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "metric": "★ 25,328",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "metric": "★ 7,459",
       "extra": {
-        "language": "HTML",
-        "stars": "25,328",
-        "forks": "1,742",
-        "stars_today": "1,018 stars today"
+        "language": "Rust",
+        "stars": "7,459",
+        "forks": "512",
+        "stars_today": "114 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "metric": "★ 35,507",
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "metric": "★ 16,282",
       "extra": {
-        "language": "Python",
-        "stars": "35,507",
-        "forks": "5,258",
-        "stars_today": "260 stars today"
+        "language": "Go",
+        "stars": "16,282",
+        "forks": "1,559",
+        "stars_today": "461 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "paperless-ngx / paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "metric": "★ 45,692",
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "metric": "★ 35,645",
       "extra": {
         "language": "Python",
-        "stars": "45,692",
-        "forks": "3,159",
-        "stars_today": "57 stars today"
+        "stars": "35,645",
+        "forks": "5,264",
+        "stars_today": "425 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "metric": "★ 147,281",
+      "title": "cloudflare / quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "metric": "★ 12,182",
       "extra": {
-        "language": "TypeScript",
-        "stars": "147,281",
-        "forks": "24,089",
-        "stars_today": "419 stars today"
+        "language": "Rust",
+        "stars": "12,182",
+        "forks": "1,126",
+        "stars_today": "242 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "mihail911 / modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "metric": "★ 4,647",
+      "title": "mvt-project / mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "metric": "★ 13,395",
       "extra": {
         "language": "Python",
-        "stars": "4,647",
-        "forks": "1,016",
-        "stars_today": "172 stars today"
+        "stars": "13,395",
+        "forks": "1,311",
+        "stars_today": "177 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "higgsfield-ai / higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "metric": "★ 5,496",
+      "title": "zhouxiaoka / autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "metric": "★ 8,035",
       "extra": {
-        "language": "Jupyter Notebook",
-        "stars": "5,496",
-        "forks": "964",
-        "stars_today": "465 stars today"
+        "language": "Python",
+        "stars": "8,035",
+        "forks": "1,556",
+        "stars_today": "395 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "Open-Dev-Society / OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "metric": "★ 17,059",
+      "title": "ruanyf / weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "metric": "★ 103,814",
       "extra": {
-        "language": "TypeScript",
-        "stars": "17,059",
-        "forks": "2,147",
-        "stars_today": "755 stars today"
+        "language": null,
+        "stars": "103,814",
+        "forks": "4,445",
+        "stars_today": "621 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "coder / coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "metric": "★ 16,166",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "metric": "★ 37,622",
       "extra": {
-        "language": "Go",
-        "stars": "16,166",
-        "forks": "1,547",
-        "stars_today": "379 stars today"
+        "language": "TypeScript",
+        "stars": "37,622",
+        "forks": "3,753",
+        "stars_today": "360 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "vercel-labs / json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "metric": "★ 17,575",
+      "title": "yynxxxxx / Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "metric": "★ 3,602",
       "extra": {
-        "language": "TypeScript",
-        "stars": "17,575",
-        "forks": "928",
-        "stars_today": "291 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 97,857",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "97,857",
-        "forks": "10,303",
-        "stars_today": "736 stars today"
+        "language": "Rust",
+        "stars": "3,602",
+        "forks": "455",
+        "stars_today": "210 stars today"
       }
     }
   ]
