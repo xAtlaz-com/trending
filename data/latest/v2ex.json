@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-23T21:19:36+00:00",
+  "updated_at": "2026-09-23T23:54:35+00:00",
   "count": 10,
   "items": [
     {
@@ -22,13 +22,13 @@
       "title": "我说的话那里不好听了？谁能给我解释一下",
       "url": "https://www.v2ex.com/t/1244204",
       "description": "我通俗易懂的为他解释为什么请求会那么多，他（ Kwan9 ）阴阳怪气说我说话难听\n我实在是没懂哪里难听了？ 谁能给我解释一下，是台湾与大陆语言上的歧义吗\n另外他提到的 ipv6 的问题，因为我只适配了简体中文的 Windows 系统，他的是繁体中文的，所以 ipv6 是坏的，我在他提 issue 的当天给他修好了\nhttps://github.com/zanjie1999/tcp-over-websocket/issues/33\n \n这是我之前写的一个可以免费使用的开源项目，支持自动断连恢复，使用 websocket 的 tcp/udp 端口转发程序，支持自动的 cdn ip 优选\n禁止用于黑",
-      "metric": "145 回复",
-      "metric_value": 145,
+      "metric": "146 回复",
+      "metric_value": 146,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "zanjie1999",
-        "last_touched": 1790194365
+        "last_touched": 1790201567
       }
     },
     {
@@ -61,11 +61,25 @@
     },
     {
       "rank": 5,
+      "title": "注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]",
+      "url": "https://www.v2ex.com/t/1244201",
+      "description": "1.打开 gemini pro 的 spark--&gt;输入:打开 https://muse.ai/join--&gt;授予权限--&gt;在 remote 浏览器中进行注册--&gt;输入邮箱--&gt;接受验证码--&gt;要求验证年龄--&gt;选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡.我用的是招行的 visa)--&gt;注册成功.\n进入正常的桌面端浏览器,使用刚刚的注册信息进入 muse.ai,然后点击左下角设置--&gt;在通用--&gt;使用情况中进行邀请码填写,我的邀请码是: DBADDI\n使用邀请码我们各自可以获得 10 亿 token 额度,而且永不",
+      "metric": "102 回复",
+      "metric_value": 102,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "ranfenghs",
+        "last_touched": 1790207502
+      }
+    },
+    {
+      "rank": 6,
       "title": "如果有一个实名制且类似豆瓣的平台，只让男性用户注册，你会用么？",
       "url": "https://www.v2ex.com/t/1244147",
       "description": "如题：如果一个线上平台：\n1 、实名制\n2 、只让男性用户注册和使用\n3 、和豆瓣一样可以给电影、书籍、游戏、电视剧评分\n你会用么？有市场么？",
-      "metric": "99 回复",
-      "metric_value": 99,
+      "metric": "100 回复",
+      "metric_value": 100,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
@@ -74,31 +88,17 @@
       }
     },
     {
-      "rank": 6,
-      "title": "注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]",
-      "url": "https://www.v2ex.com/t/1244201",
-      "description": "1.打开 gemini pro 的 spark--&gt;输入:打开 https://muse.ai/join--&gt;授予权限--&gt;在 remote 浏览器中进行注册--&gt;输入邮箱--&gt;接受验证码--&gt;要求验证年龄--&gt;选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡.我用的是招行的 visa)--&gt;注册成功.\n进入正常的桌面端浏览器,使用刚刚的注册信息进入 muse.ai,然后点击左下角设置--&gt;在通用--&gt;使用情况中进行邀请码填写,我的邀请码是: DBADDI\n使用邀请码我们各自可以获得 10 亿 token 额度,而且永不",
-      "metric": "95 回复",
-      "metric_value": 95,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "ranfenghs",
-        "last_touched": 1790196250
-      }
-    },
-    {
       "rank": 7,
       "title": "现在如果 ai 突然全部消失了，还有多少人能古法编程？换句话说还有多少人能不靠 ai，从头到尾古法编程？",
       "url": "https://www.v2ex.com/t/1244137",
       "description": "反正我是不行了。刚入行那几年，我是可以。。到现在不用 ai ，我连代码都快不会写了",
-      "metric": "91 回复",
-      "metric_value": 91,
+      "metric": "92 回复",
+      "metric_value": 92,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "lynn1su",
-        "last_touched": 1790179176
+        "last_touched": 1790182776
       }
     },
     {
@@ -106,13 +106,13 @@
       "title": "纳斯达克又创历史新高了",
       "url": "https://www.v2ex.com/t/1244111",
       "description": "ε=(´ο｀*)))唉，纳斯达克又创历史新高了，相信国运，定投纳指",
-      "metric": "89 回复",
-      "metric_value": 89,
+      "metric": "91 回复",
+      "metric_value": 91,
       "extra": {
         "node": "股票",
         "node_name": "stock",
         "author": "lianleisuper66",
-        "last_touched": 1790167464
+        "last_touched": 1790174664
       }
     },
     {
@@ -134,13 +134,13 @@
       "title": "33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评",
       "url": "https://www.v2ex.com/t/1244262",
       "description": "失业三年后的自媒体与 Vibe Coding\n现状\n找了一个月，只有一个面试邀约，放弃了。\nGap 这三年积累了一些自媒体经验，也积累了一定数量的粉丝，但是和程序员赛道差别太大，决定新搞一个产品赛道。\nVibe Coding 三个月出来的 iOS 产品，以过去的视角看很牛，但是放在现在看没啥护城河。不过已经能平均每天 1 刀的收入了，是个很好的兆头。\n青梨相册 https://apps.apple.com/app/id6770469890\n \n我是一直用 GPT Plus 开发的，涨价前买的，所以成本就是网费、电费和一个月 10 刀的土耳其订阅。简单的活交给 WorkBuddy 的 DeepS",
-      "metric": "65 回复",
-      "metric_value": 65,
+      "metric": "67 回复",
+      "metric_value": 67,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "lowfrontend",
-        "last_touched": 1790179404
+        "last_touched": 1790183004
       }
     }
   ]
