@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-23T13:28:20+00:00",
+  "updated_at": "2026-09-23T17:56:52+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "[Token Unlimited 中转站] GPT 6 Sol & Luna 已上线，这 luna 简直和不要钱一样（留言最高赠 $20）",
       "url": "https://www.v2ex.com/t/1244101",
       "description": "全网独有的超低价 Azure OpenAI 渠道！\n\n本站一手直连 Azure Foundry API ，杜绝中间商注水可能\n超级高的缓存命中率，即使长上下文也一样\n保证满血不降智。微软直营，不受 OpenAI 风控策略影响\n超高质量的 GPT Image 生图\n1:1 充值，¥1 = $1\n限时 0.35x 倍率（原 0.7x 倍率），GPT Image ¥0.1/张，叠加充值满赠，最低至正价 API 的 0.4 折！\n\n网站入口： https://token-unlimited.com\n回帖留下用户 ID （登录后右上角点击头像菜单查看），基于你的 V2EX 注册时间，每满一年赠送 $1 ",
-      "metric": "274 回复",
-      "metric_value": 274,
+      "metric": "297 回复",
+      "metric_value": 297,
       "extra": {
         "node": "推广",
         "node_name": "promotions",
         "author": "jsq2627",
-        "last_touched": 1790168542
+        "last_touched": 1790185179
       }
     },
     {
@@ -22,73 +22,87 @@
       "title": "我说的话那里不好听了？谁能给我解释一下",
       "url": "https://www.v2ex.com/t/1244204",
       "description": "我通俗易懂的为他解释为什么请求会那么多，他（ Kwan9 ）阴阳怪气说我说话难听\n我实在是没懂哪里难听了？ 谁能给我解释一下，是台湾与大陆语言上的歧义吗\n另外他提到的 ipv6 的问题，因为我只适配了简体中文的 Windows 系统，他的是繁体中文的，所以 ipv6 是坏的，我在他提 issue 的当天给他修好了\nhttps://github.com/zanjie1999/tcp-over-websocket/issues/33\n \n这是我之前写的一个可以免费使用的开源项目，支持自动断连恢复，使用 websocket 的 tcp/udp 端口转发程序，支持自动的 cdn ip 优选\n禁止用于黑",
-      "metric": "121 回复",
-      "metric_value": 121,
+      "metric": "140 回复",
+      "metric_value": 140,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "zanjie1999",
-        "last_touched": 1790169702
+        "last_touched": 1790180291
       }
     },
     {
       "rank": 3,
-      "title": "试用期没通过，很迷茫，求指点🙏",
-      "url": "https://www.v2ex.com/t/1244105",
-      "description": "坐标美国，本科学历，大学专业是（历史+数字媒体）。7 月底在一家规模非常小（总计不超过 10 个人）的华人自媒体公司找了份摄影师的工作。入职前公司说试用期三个月，三个月后转正。今天公司通知我试用期没通过，理由是：1. 技术不过关，跟团队磨合的太慢，总是需要返工。实际情况：公司不提供入职培训，也没有入职指南，更没有老员工手把手的带。老板默认员工入职后立刻就能上手干，立刻就能满足团队的交付标准，并且默认摄影师可以同时拍摄“照片”和“视频”。2. 没法配合团队的工作时间，拖慢整体进度。实际情况：凌晨发消息问我工作相关的问题，我没有立即回复，第二天起床后回复的。以及对交付速度要求极高，大多数情况下要求",
-      "metric": "114 回复",
-      "metric_value": 114,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "IslandOwnerHuang",
-        "last_touched": 1790162415
-      }
-    },
-    {
-      "rank": 4,
       "title": "好像很少人知道曾经纳指跌过 75%？纳指现在明显就是“宝妈指数”。",
       "url": "https://www.v2ex.com/t/1244192",
       "description": "定投纳指。AI 革命。长期主义。闭眼拿 20 年。“正规市场。”\n各种小红书帖子，可以自行搜索。\n“姐妹们可以定投吗？”\n“长期持有是不是稳赢？”\n“每个月 5000 坚持 20 年。”\n是不是很熟悉？\n去年白银抢购。\n黄金暴涨。\n也是类似的剧情。\n一个资产涨起来。\n突然所有人都开始知道它。\n然后开始形成共识。\n我发现大家看纳指，很多都是在国内的 app 里搜 QDII 或者 etf 。\n看起来确实一直在涨。\n这里面有个大坑是纳指暴跌的时候，那些产品根本没退出。\n从我这几年的印象来看，国家场外限购政策每次都是保护了“宝妈脑子”的人，\n白银是这样，以前的原油基金也是这样。\n我不判断纳指现在该涨还",
-      "metric": "109 回复",
-      "metric_value": 109,
+      "metric": "118 回复",
+      "metric_value": 118,
       "extra": {
         "node": "股票",
         "node_name": "stock",
         "author": "byc4i",
-        "last_touched": 1790169906
+        "last_touched": 1790179242
+      }
+    },
+    {
+      "rank": 4,
+      "title": "试用期没通过，很迷茫，求指点🙏",
+      "url": "https://www.v2ex.com/t/1244105",
+      "description": "坐标美国，本科学历，大学专业是（历史+数字媒体）。7 月底在一家规模非常小（总计不超过 10 个人）的华人自媒体公司找了份摄影师的工作。入职前公司说试用期三个月，三个月后转正。今天公司通知我试用期没通过，理由是：1. 技术不过关，跟团队磨合的太慢，总是需要返工。实际情况：公司不提供入职培训，也没有入职指南，更没有老员工手把手的带。老板默认员工入职后立刻就能上手干，立刻就能满足团队的交付标准，并且默认摄影师可以同时拍摄“照片”和“视频”。2. 没法配合团队的工作时间，拖慢整体进度。实际情况：凌晨发消息问我工作相关的问题，我没有立即回复，第二天起床后回复的。以及对交付速度要求极高，大多数情况下要求",
+      "metric": "115 回复",
+      "metric_value": 115,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "IslandOwnerHuang",
+        "last_touched": 1790172729
       }
     },
     {
       "rank": 5,
-      "title": "[送码]庆祝我的 AppleTV 小红书客户端进入 AppStore 榜单，再次送码！",
-      "url": "https://www.v2ex.com/t/1244093",
-      "description": "发布一个多月，我的 APP 进入了美区 AppStore 的榜单，为了庆祝给大家带来了 10 个码（看情况再加），在评论区随机抽取随机楼层发送，3 天后开奖。\n\n简单介绍一下我的 APP ，在 AppleTV 上浏览小红书的推荐流、视频流和直播，查看我的笔记、点赞、收藏，支持搜索笔记，使用 swift 原生编写可以保证 UI 流畅。\n推荐流：\n\n\n视频流：\n\n搜索：\n\n我的页面：",
-      "metric": "107 回复",
-      "metric_value": 107,
-      "extra": {
-        "node": "Apple",
-        "node_name": "apple",
-        "author": "mdah233",
-        "last_touched": 1790169418
-      }
-    },
-    {
-      "rank": 6,
       "title": "如果有一个实名制且类似豆瓣的平台，只让男性用户注册，你会用么？",
       "url": "https://www.v2ex.com/t/1244147",
       "description": "如题：如果一个线上平台：\n1 、实名制\n2 、只让男性用户注册和使用\n3 、和豆瓣一样可以给电影、书籍、游戏、电视剧评分\n你会用么？有市场么？",
-      "metric": "97 回复",
-      "metric_value": 97,
+      "metric": "99 回复",
+      "metric_value": 99,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "fly89",
-        "last_touched": 1790157118
+        "last_touched": 1790160718
+      }
+    },
+    {
+      "rank": 6,
+      "title": "注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]",
+      "url": "https://www.v2ex.com/t/1244201",
+      "description": "1.打开 gemini pro 的 spark--&gt;输入:打开 https://muse.ai/join--&gt;授予权限--&gt;在 remote 浏览器中进行注册--&gt;输入邮箱--&gt;接受验证码--&gt;要求验证年龄--&gt;选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡.我用的是招行的 visa)--&gt;注册成功.\n进入正常的桌面端浏览器,使用刚刚的注册信息进入 muse.ai,然后点击左下角设置--&gt;在通用--&gt;使用情况中进行邀请码填写,我的邀请码是: DBADDI\n使用邀请码我们各自可以获得 10 亿 token 额度,而且永不",
+      "metric": "92 回复",
+      "metric_value": 92,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "ranfenghs",
+        "last_touched": 1790184971
       }
     },
     {
       "rank": 7,
+      "title": "现在如果 ai 突然全部消失了，还有多少人能古法编程？换句话说还有多少人能不靠 ai，从头到尾古法编程？",
+      "url": "https://www.v2ex.com/t/1244137",
+      "description": "反正我是不行了。刚入行那几年，我是可以。。到现在不用 ai ，我连代码都快不会写了",
+      "metric": "91 回复",
+      "metric_value": 91,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "lynn1su",
+        "last_touched": 1790179176
+      }
+    },
+    {
+      "rank": 8,
       "title": "纳斯达克又创历史新高了",
       "url": "https://www.v2ex.com/t/1244111",
       "description": "ε=(´ο｀*)))唉，纳斯达克又创历史新高了，相信国运，定投纳指",
@@ -102,45 +116,31 @@
       }
     },
     {
-      "rank": 8,
-      "title": "现在如果 ai 突然全部消失了，还有多少人能古法编程？换句话说还有多少人能不靠 ai，从头到尾古法编程？",
-      "url": "https://www.v2ex.com/t/1244137",
-      "description": "反正我是不行了。刚入行那几年，我是可以。。到现在不用 ai ，我连代码都快不会写了",
-      "metric": "89 回复",
-      "metric_value": 89,
-      "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "lynn1su",
-        "last_touched": 1790169249
-      }
-    },
-    {
       "rank": 9,
       "title": "300 万存款财务自由",
       "url": "https://www.v2ex.com/t/1244159",
       "description": "今天在知乎刷到一个很久以前的帖子,觉得很有意思,也给那些考虑多少钱财务自由的老哥一点参考\n由于时间问题,利率有所变动,仅供参考.\n另外小县城每个月有个 4-5k 的支出用于个人生活,简直爽翻天, 家庭支出就有点紧巴了.\n300 万大概是 6 个 50 万，50 万是 36 个 1.4X （计算器按一下）万\n找六家大银行，每个月每个银行存入 1.4X 万，每月合计存约 8.3 万\n每一笔都存三年定期，这样到了三年后，按照现在的利率 2.4 ，每个月银行会给你 8.3*0.7=0.58 万\n然后 9 万继续存 6 个 1.4X 万，利息自由支配\n从第四年起，每个月你将有固定的利息 5833 元，而",
-      "metric": "71 回复",
-      "metric_value": 71,
+      "metric": "74 回复",
+      "metric_value": 74,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "pipibai",
-        "last_touched": 1790165570
+        "last_touched": 1790182070
       }
     },
     {
       "rank": 10,
-      "title": "注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]",
-      "url": "https://www.v2ex.com/t/1244201",
-      "description": "1.打开 gemini pro 的 spark--&gt;输入:打开 https://muse.ai/join--&gt;授予权限--&gt;在 remote 浏览器中进行注册--&gt;输入邮箱--&gt;接受验证码--&gt;要求验证年龄--&gt;选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡.我用的是招行的 visa)--&gt;注册成功.\n进入正常的桌面端浏览器,使用刚刚的注册信息进入 muse.ai,然后点击左下角设置--&gt;在通用--&gt;使用情况中进行邀请码填写,我的邀请码是: DBADDI\n使用邀请码我们各自可以获得 10 亿 token 额度,而且永不",
-      "metric": "69 回复",
-      "metric_value": 69,
+      "title": "33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评",
+      "url": "https://www.v2ex.com/t/1244262",
+      "description": "失业三年后的自媒体与 Vibe Coding\n现状\n找了一个月，只有一个面试邀约，放弃了。\nGap 这三年积累了一些自媒体经验，也积累了一定数量的粉丝，但是和程序员赛道差别太大，决定新搞一个产品赛道。\nVibe Coding 三个月出来的 iOS 产品，以过去的视角看很牛，但是放在现在看没啥护城河。不过已经能平均每天 1 刀的收入了，是个很好的兆头。\n青梨相册 https://apps.apple.com/app/id6770469890\n \n我是一直用 GPT Plus 开发的，涨价前买的，所以成本就是网费、电费和一个月 10 刀的土耳其订阅。简单的活交给 WorkBuddy 的 DeepS",
+      "metric": "65 回复",
+      "metric_value": 65,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
-        "author": "ranfenghs",
-        "last_touched": 1790169842
+        "author": "lowfrontend",
+        "last_touched": 1790179404
       }
     }
   ]
