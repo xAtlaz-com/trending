@@ -1,227 +1,188 @@
 {
   "source": "github",
-  "updated_at": "2026-09-24T09:08:43+00:00",
-  "count": 17,
+  "updated_at": "2026-09-24T14:20:56+00:00",
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "title": "anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "metric": "★ 37,143",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "metric": "★ 56,052",
       "extra": {
         "language": "Python",
-        "stars": "37,143",
-        "forks": "5,403",
-        "stars_today": "664 stars today"
+        "stars": "56,052",
+        "forks": "9,885",
+        "stars_today": "310 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "google / ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "metric": "★ 9,557",
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "metric": "★ 27,081",
       "extra": {
-        "language": "Go",
-        "stars": "9,557",
-        "forks": "470",
-        "stars_today": "1,543 stars today"
+        "language": "Python",
+        "stars": "27,081",
+        "forks": "2,553",
+        "stars_today": "1,607 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "davila7 / claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "metric": "★ 31,652",
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "metric": "★ 17,176",
       "extra": {
-        "language": "Python",
-        "stars": "31,652",
-        "forks": "3,593",
-        "stars_today": "389 stars today"
+        "language": "TypeScript",
+        "stars": "17,176",
+        "forks": "1,500",
+        "stars_today": "1,060 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "BuilderIO / agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "metric": "★ 6,711",
+      "title": "google / ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "metric": "★ 9,824",
       "extra": {
-        "language": "TypeScript",
-        "stars": "6,711",
-        "forks": "605",
-        "stars_today": "87 stars today"
+        "language": "Go",
+        "stars": "9,824",
+        "forks": "484",
+        "stars_today": "1,376 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 290,918",
+      "title": "NVIDIA / Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "metric": "★ 3,917",
       "extra": {
-        "language": "Shell",
-        "stars": "290,918",
-        "forks": "26,030",
-        "stars_today": "474 stars today"
+        "language": "Python",
+        "stars": "3,917",
+        "forks": "623",
+        "stars_today": "22 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "dream-num / univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "metric": "★ 16,579",
+      "title": "FxEmbed / FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "metric": "★ 5,289",
       "extra": {
         "language": "TypeScript",
-        "stars": "16,579",
-        "forks": "1,479",
-        "stars_today": "1,142 stars today"
+        "stars": "5,289",
+        "forks": "244",
+        "stars_today": "165 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "Open-Dev-Society / OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "metric": "★ 19,041",
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "metric": "★ 37,229",
       "extra": {
-        "language": "TypeScript",
-        "stars": "19,041",
-        "forks": "2,315",
-        "stars_today": "344 stars today"
+        "language": "Python",
+        "stars": "37,229",
+        "forks": "5,411",
+        "stars_today": "510 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "metric": "★ 3,646",
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "metric": "★ 50,180",
       "extra": {
-        "language": "Go",
-        "stars": "3,646",
-        "forks": "424",
-        "stars_today": "558 stars today"
+        "language": "Python",
+        "stars": "50,180",
+        "forks": "4,610",
+        "stars_today": "415 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "strands-agents / harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "metric": "★ 8,014",
+      "title": "mvt-project / mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "metric": "★ 14,625",
       "extra": {
         "language": "Python",
-        "stars": "8,014",
-        "forks": "1,214",
-        "stars_today": "115 stars today"
+        "stars": "14,625",
+        "forks": "1,390",
+        "stars_today": "275 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "HKUDS / CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "metric": "★ 50,098",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 291,025",
       "extra": {
-        "language": "Python",
-        "stars": "50,098",
-        "forks": "4,607",
-        "stars_today": "57 stars today"
+        "language": "Shell",
+        "stars": "291,025",
+        "forks": "26,038",
+        "stars_today": "606 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "superdesigndev / treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
-      "metric": "★ 2,888",
+      "title": "strands-agents / harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "metric": "★ 8,107",
       "extra": {
         "language": "Python",
-        "stars": "2,888",
-        "forks": "249",
-        "stars_today": "506 stars today"
+        "stars": "8,107",
+        "forks": "1,221",
+        "stars_today": "463 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "metric": "★ 70,557",
+      "title": "julyx10 / lap",
+      "url": "https://github.com/julyx10/lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "metric": "★ 2,721",
       "extra": {
-        "language": "JavaScript",
-        "stars": "70,557",
-        "forks": "4,278",
-        "stars_today": "304 stars today"
+        "language": "Vue",
+        "stars": "2,721",
+        "forks": "165",
+        "stars_today": "71 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "mvt-project / mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "metric": "★ 14,565",
+      "title": "superdesigndev / treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "metric": "★ 2,995",
       "extra": {
         "language": "Python",
-        "stars": "14,565",
-        "forks": "1,387",
-        "stars_today": "543 stars today"
+        "stars": "2,995",
+        "forks": "253",
+        "stars_today": "470 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "DeusData / codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "metric": "★ 44,745",
-      "extra": {
-        "language": "C",
-        "stars": "44,745",
-        "forks": "3,648",
-        "stars_today": "190 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "harry7557558 / spirula-studio",
-      "url": "https://github.com/harry7557558/spirula-studio",
-      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
-      "metric": "★ 841",
+      "title": "leejet / stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "metric": "★ 7,171",
       "extra": {
         "language": "C++",
-        "stars": "841",
-        "forks": "60",
-        "stars_today": "69 stars today"
-      }
-    },
-    {
-      "rank": 16,
-      "title": "browser-use / video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "metric": "★ 26,692",
-      "extra": {
-        "language": "Python",
-        "stars": "26,692",
-        "forks": "3,178",
-        "stars_today": "746 stars today"
-      }
-    },
-    {
-      "rank": 17,
-      "title": "TNT-Likely / PanWatch",
-      "url": "https://github.com/TNT-Likely/PanWatch",
-      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
-      "metric": "★ 1,716",
-      "extra": {
-        "language": "Python",
-        "stars": "1,716",
-        "forks": "315",
-        "stars_today": "95 stars today"
+        "stars": "7,171",
+        "forks": "810",
+        "stars_today": "33 stars today"
       }
     }
   ]
