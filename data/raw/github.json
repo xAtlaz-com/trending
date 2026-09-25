@@ -1,184 +1,210 @@
 [
   {
     "rank": 1,
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "metric": "★ 56,799",
+    "title": "paperclipai / paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "metric": "★ 83,328",
     "extra": {
-      "language": "Python",
-      "stars": "56,799",
-      "forks": "9,957",
-      "stars_today": "347 stars today"
+      "language": "TypeScript",
+      "stars": "83,328",
+      "forks": "15,124",
+      "stars_today": "1,853 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "vectorize-io / hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "description": "Hindsight: Agent Memory That Learns",
-    "metric": "★ 28,153",
+    "title": "anthropics / claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "metric": "★ 36,745",
     "extra": {
       "language": "Python",
-      "stars": "28,153",
-      "forks": "2,764",
-      "stars_today": "1,668 stars today"
+      "stars": "36,745",
+      "forks": "4,147",
+      "stars_today": "62 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "dream-num / univer",
-    "url": "https://github.com/dream-num/univer",
-    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "metric": "★ 17,954",
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "metric": "★ 28,528",
     "extra": {
-      "language": "TypeScript",
-      "stars": "17,954",
-      "forks": "1,543",
-      "stars_today": "1,082 stars today"
+      "language": "Python",
+      "stars": "28,528",
+      "forks": "2,857",
+      "stars_today": "1,668 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "google / ax",
-    "url": "https://github.com/google/ax",
-    "description": "Google's open agentic orchestration runtime",
-    "metric": "★ 10,715",
-    "extra": {
-      "language": "Go",
-      "stars": "10,715",
-      "forks": "524",
-      "stars_today": "1,373 stars today"
-    }
-  },
-  {
-    "rank": 5,
-    "title": "NVIDIA / Model-Optimizer",
-    "url": "https://github.com/NVIDIA/Model-Optimizer",
-    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-    "metric": "★ 4,153",
-    "extra": {
-      "language": "Python",
-      "stars": "4,153",
-      "forks": "633",
-      "stars_today": "44 stars today"
-    }
-  },
-  {
-    "rank": 6,
-    "title": "FxEmbed / FxEmbed",
-    "url": "https://github.com/FxEmbed/FxEmbed",
-    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-    "metric": "★ 5,401",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "5,401",
-      "forks": "252",
-      "stars_today": "182 stars today"
-    }
-  },
-  {
-    "rank": 7,
-    "title": "anthropics / financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": "",
-    "metric": "★ 37,421",
-    "extra": {
-      "language": "Python",
-      "stars": "37,421",
-      "forks": "5,422",
-      "stars_today": "509 stars today"
-    }
-  },
-  {
-    "rank": 8,
-    "title": "HKUDS / CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-    "metric": "★ 50,398",
-    "extra": {
-      "language": "Python",
-      "stars": "50,398",
-      "forks": "4,618",
-      "stars_today": "413 stars today"
-    }
-  },
-  {
-    "rank": 9,
-    "title": "mvt-project / mvt",
-    "url": "https://github.com/mvt-project/mvt",
-    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-    "metric": "★ 14,762",
-    "extra": {
-      "language": "Python",
-      "stars": "14,762",
-      "forks": "1,394",
-      "stars_today": "272 stars today"
-    }
-  },
-  {
-    "rank": 10,
     "title": "obra / superpowers",
     "url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "metric": "★ 291,300",
+    "metric": "★ 291,413",
     "extra": {
       "language": "Shell",
-      "stars": "291,300",
-      "forks": "26,063",
+      "stars": "291,413",
+      "forks": "26,072",
       "stars_today": "611 stars today"
     }
   },
   {
-    "rank": 11,
-    "title": "strands-agents / harness-sdk",
-    "url": "https://github.com/strands-agents/harness-sdk",
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-    "metric": "★ 8,327",
+    "rank": 5,
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "metric": "★ 269,372",
+    "extra": {
+      "language": "Shell",
+      "stars": "269,372",
+      "forks": "22,705",
+      "stars_today": "671 stars today"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "dream-num / univer",
+    "url": "https://github.com/dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "metric": "★ 18,115",
+    "extra": {
+      "language": "TypeScript",
+      "stars": "18,115",
+      "forks": "1,549",
+      "stars_today": "1,082 stars today"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "anthropics / skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "metric": "★ 178,065",
     "extra": {
       "language": "Python",
-      "stars": "8,327",
-      "forks": "1,244",
-      "stars_today": "455 stars today"
+      "stars": "178,065",
+      "forks": "21,096",
+      "stars_today": "155 stars today"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "androoAGI / starnet",
+    "url": "https://github.com/androoAGI/starnet",
+    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "metric": "★ 288",
+    "extra": {
+      "language": "JavaScript",
+      "stars": "288",
+      "forks": "73",
+      "stars_today": "113 stars today"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "derv82 / wifit3",
+    "url": "https://github.com/derv82/wifit3",
+    "description": "Wifite but USB-only & cross-platform.",
+    "metric": "★ 678",
+    "extra": {
+      "language": "Python",
+      "stars": "678",
+      "forks": "75",
+      "stars_today": "168 stars today"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "kelseyhightower / kubernetes-the-hard-way",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "description": "Bootstrap Kubernetes the hard way. No scripts.",
+    "metric": "★ 50,010",
+    "extra": {
+      "language": null,
+      "stars": "50,010",
+      "forks": "15,905",
+      "stars_today": "105 stars today"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "metric": "★ 57,080",
+    "extra": {
+      "language": "Python",
+      "stars": "57,080",
+      "forks": "9,982",
+      "stars_today": "347 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "julyx10 / lap",
-    "url": "https://github.com/julyx10/lap",
-    "description": "An offline-first photo manager for large local libraries",
-    "metric": "★ 2,940",
+    "title": "shy3130 / tick-stock-panel",
+    "url": "https://github.com/shy3130/tick-stock-panel",
+    "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+    "metric": "★ 5,032",
     "extra": {
-      "language": "Vue",
-      "stars": "2,940",
-      "forks": "173",
-      "stars_today": "122 stars today"
+      "language": "Python",
+      "stars": "5,032",
+      "forks": "1,245",
+      "stars_today": "31 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "superdesigndev / treg",
-    "url": "https://github.com/superdesigndev/treg",
-    "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
-    "metric": "★ 3,228",
+    "title": "google / ax",
+    "url": "https://github.com/google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "metric": "★ 11,054",
     "extra": {
-      "language": "Python",
-      "stars": "3,228",
-      "forks": "268",
-      "stars_today": "468 stars today"
+      "language": "Go",
+      "stars": "11,054",
+      "forks": "534",
+      "stars_today": "1,373 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "leejet / stable-diffusion.cpp",
-    "url": "https://github.com/leejet/stable-diffusion.cpp",
-    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-    "metric": "★ 7,291",
+    "title": "NVIDIA / Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "metric": "★ 4,243",
     "extra": {
-      "language": "C++",
-      "stars": "7,291",
-      "forks": "814",
-      "stars_today": "36 stars today"
+      "language": "Python",
+      "stars": "4,243",
+      "forks": "640",
+      "stars_today": "44 stars today"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "pbakaus / impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "metric": "★ 70,911",
+    "extra": {
+      "language": "JavaScript",
+      "stars": "70,911",
+      "forks": "4,306",
+      "stars_today": "527 stars today"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "openbao / openbao",
+    "url": "https://github.com/openbao/openbao",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "metric": "★ 7,509",
+    "extra": {
+      "language": "Go",
+      "stars": "7,509",
+      "forks": "580",
+      "stars_today": "16 stars today"
     }
   }
 ]
