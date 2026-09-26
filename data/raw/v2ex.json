@@ -4,13 +4,13 @@
     "title": "每周免费 10 亿 token 的 muse，使用场景有哪些呢？附上注册方法，大家一起来探讨",
     "url": "https://www.v2ex.com/t/1244838",
     "description": "注册了一个 muse.ai ，但是搞不清楚使用场景是什么，有人说很牛逼，但是好像也说不清楚使用场景。附录：1.打开 gemini pro 的 spark--&gt;输入:打开 https://muse.ai/join--&gt;授予权限--&gt;在 remote 浏览器中进行注册--&gt;输入邮箱--&gt;接验证码--&gt;要求验证年龄--&gt;选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡)--&gt;注册成功.登录后在设置中输入邀请码：NF4Z0T 后可以获得 10 亿 token 。",
-    "metric": "83 回复",
-    "metric_value": 83,
+    "metric": "93 回复",
+    "metric_value": 93,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "emmathoermer",
-      "last_touched": 1790440194
+      "last_touched": 1790450069
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "有人用 AI 赚到钱了吗，可以分享下吗",
     "url": "https://www.v2ex.com/t/1244850",
     "description": "哪怕 100 块",
-    "metric": "64 回复",
-    "metric_value": 64,
+    "metric": "67 回复",
+    "metric_value": 67,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "brave256",
-      "last_touched": 1790438209
+      "last_touched": 1790447638
     }
   },
   {
@@ -32,45 +32,59 @@
     "title": "讨论一下今天 apple pay 万事达 被盗刷的技术漏洞",
     "url": "https://www.v2ex.com/t/1244872",
     "description": "今天我也遇到了中行万事达被盗刷，尽管 apple pay 卡片下方没有提示，但微信提示 apple pay 渠道消费。我去搜索了小红书，就在这 24 小时内大量的中行 apple pay 万事达被盗刷。少量招行和农行？这个需要核实。有人说撞库？还是拖库？银行，万事达中国，万事达，apple 四家肯定有一家有漏洞。有没有相关技术的从业者或者懂行的人聊聊？重点是今后如何避免，因为 apple pay 对于普通人就是黑箱，能被盗刷真是不可思议。",
-    "metric": "43 回复",
-    "metric_value": 43,
+    "metric": "44 回复",
+    "metric_value": 44,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "hippoboy",
-      "last_touched": 1790435743
+      "last_touched": 1790439343
     }
   },
   {
     "rank": 4,
-    "title": "独立开发产品无收入，有必要买 Claude Max 吗",
-    "url": "https://www.v2ex.com/t/1244814",
-    "description": "现在是一个 20 的 codex 和一个 20 刀的 Claude\n体感是 codex 干不了什么需求就没额度了，Claude 还行。\n但是加起来 40 刀，做独立开发的进度就很慢。\n但是有时候忙起来，没时间 vibe coding ，也会有一周下来额度还剩一大半的情况。\n同时考虑到自己开发的产品没收入，还有一些本以为 2 个月能上线结果半年没上线的产品。\n在想是不是应该直接上个 Claude Max ，然后快速把产品推上线看看。\n但根据经验，现在是产品比用户多，所以对于自己在这块的投入也有怀疑的想法。\n毕竟网上有段子：现在很多整天折腾 AI 独立开发的人，开着最贵的 AI 会员和云服务，做出",
-    "metric": "42 回复",
-    "metric_value": 42,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "kamisamayo",
-      "last_touched": 1790406253
-    }
-  },
-  {
-    "rank": 5,
     "title": "脱离了 Windows 的保护，发现外边根本没有雨",
     "url": "https://www.v2ex.com/t/1244853",
     "description": "把电脑上的 Windows 11 换成了 CachyOS 以后的感受：\n速度\n换了 CachyOS 以后，我才重新找回了十几年前初尝固态硬盘+Windows 7 组合的极致响应速度，被 Windows 10/11 折磨了这么多年，我差点以为即点即开是手机系统的独家功能，电脑上点一下卡一下才是常态。\n第一个感觉就是快，访问 B 站，任何页面的打开速度、视频从网页加载到开始播放的延迟时间都比 Windows 快一秒，我之前一直认为是 B 站网页工程师优化不好，现在才发现是 Windows 对所有应用一视同仁地拖后腿。\n体验（逻辑）\nCachyOS 在即开即用方面没 Windows 做得好，所以手动",
-    "metric": "38 回复",
-    "metric_value": 38,
+    "metric": "39 回复",
+    "metric_value": 39,
     "extra": {
       "node": "Linux",
       "node_name": "linux",
       "author": "gumayusi",
-      "last_touched": 1790436356
+      "last_touched": 1790450426
+    }
+  },
+  {
+    "rank": 5,
+    "title": "悲报， gemini spark 和 cloud browser 注册全部被封堵",
+    "url": "https://www.v2ex.com/t/1244878",
+    "description": "只剩直连碰运气了",
+    "metric": "39 回复",
+    "metric_value": 39,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "kav2",
+      "last_touched": 1790450306
     }
   },
   {
     "rank": 6,
+    "title": "刷屏式地注册 muse，所以这玩意儿你们用起来了吗？",
+    "url": "https://www.v2ex.com/t/1244857",
+    "description": "",
+    "metric": "37 回复",
+    "metric_value": 37,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "YanSeven",
+      "last_touched": 1790445240
+    }
+  },
+  {
+    "rank": 7,
     "title": "geoip=cn 无法识别所有中国网站吗",
     "url": "https://www.v2ex.com/t/1244848",
     "description": "为什么那些代理软件需要设置那么多规则，甚至还要随时更新？",
@@ -84,31 +98,17 @@
     }
   },
   {
-    "rank": 7,
-    "title": "悲报， gemini spark 和 cloud browser 注册全部被封堵",
-    "url": "https://www.v2ex.com/t/1244878",
-    "description": "只剩直连碰运气了",
+    "rank": 8,
+    "title": "26 号还能注册 muse.ai 的方法",
+    "url": "https://www.v2ex.com/t/1244920",
+    "description": "1: https://www.hyperbrowser.ai/ 注册这个网站, 我用的 gmail 联合登陆.\n2: 点击左侧的 playground,再点击中间上部的 run\n \n3  出现的浏览器左下角点击全屏\n \n4: 地址栏输入 muse.ai\n5: 输入邮箱继续, 一个 gmail 不成功的话, 多试几个.\n6: 用国内 visa master 信用卡都能验证,  下面的国家 我选择的美国, 邮编填的是: 37210\n7: 成功的兄弟, 可以在左下角设置里面填入我的邀请码: PUYAUX, 你我互相得 10 亿的永久 token",
     "metric": "34 回复",
     "metric_value": 34,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
-      "author": "kav2",
-      "last_touched": 1790436648
-    }
-  },
-  {
-    "rank": 8,
-    "title": "刷屏式地注册 muse，所以这玩意儿你们用起来了吗？",
-    "url": "https://www.v2ex.com/t/1244857",
-    "description": "",
-    "metric": "31 回复",
-    "metric_value": 31,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "YanSeven",
-      "last_touched": 1790439894
+      "author": "ClutchBear01",
+      "last_touched": 1790447070
     }
   },
   {
