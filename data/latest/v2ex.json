@@ -1,118 +1,76 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-09-27T01:11:34+00:00",
-  "count": 8,
+  "updated_at": "2026-09-27T06:57:21+00:00",
+  "count": 5,
   "items": [
     {
       "rank": 1,
-      "title": "有人用 AI 赚到钱了吗，可以分享下吗",
-      "url": "https://www.v2ex.com/t/1244850",
-      "description": "哪怕 100 块",
-      "metric": "71 回复",
-      "metric_value": 71,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "brave256",
-        "last_touched": 1790451238
-      }
-    },
-    {
-      "rank": 2,
-      "title": "26 号还能注册 muse.ai 的方法",
-      "url": "https://www.v2ex.com/t/1244920",
-      "description": "1: https://www.hyperbrowser.ai/ 注册这个网站, 我用的 gmail 联合登陆.\n2: 点击左侧的 playground,再点击中间上部的 run\n \n3  出现的浏览器左下角点击全屏\n \n4: 地址栏输入 muse.ai\n5: 输入邮箱继续, 一个 gmail 不成功的话, 多试几个.\n6: 用国内 visa master 信用卡都能验证,  下面的国家 我选择的美国, 邮编填的是: 37210\n7: 成功的兄弟, 可以在左下角设置里面填入我的邀请码: PUYAUX, 你我互相得 10 亿的永久 token",
-      "metric": "54 回复",
-      "metric_value": 54,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "ClutchBear01",
-        "last_touched": 1790471342
-      }
-    },
-    {
-      "rank": 3,
-      "title": "讨论一下今天 apple pay 万事达 被盗刷的技术漏洞",
-      "url": "https://www.v2ex.com/t/1244872",
-      "description": "今天我也遇到了中行万事达被盗刷，尽管 apple pay 卡片下方没有提示，但微信提示 apple pay 渠道消费。我去搜索了小红书，就在这 24 小时内大量的中行 apple pay 万事达被盗刷。少量招行和农行？这个需要核实。有人说撞库？还是拖库？银行，万事达中国，万事达，apple 四家肯定有一家有漏洞。有没有相关技术的从业者或者懂行的人聊聊？重点是今后如何避免，因为 apple pay 对于普通人就是黑箱，能被盗刷真是不可思议。",
-      "metric": "44 回复",
-      "metric_value": 44,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "hippoboy",
-        "last_touched": 1790439343
-      }
-    },
-    {
-      "rank": 4,
-      "title": "脱离了 Windows 的保护，发现外边根本没有雨",
-      "url": "https://www.v2ex.com/t/1244853",
-      "description": "把电脑上的 Windows 11 换成了 CachyOS 以后的感受：\n速度\n换了 CachyOS 以后，我才重新找回了十几年前初尝固态硬盘+Windows 7 组合的极致响应速度，被 Windows 10/11 折磨了这么多年，我差点以为即点即开是手机系统的独家功能，电脑上点一下卡一下才是常态。\n第一个感觉就是快，访问 B 站，任何页面的打开速度、视频从网页加载到开始播放的延迟时间都比 Windows 快一秒，我之前一直认为是 B 站网页工程师优化不好，现在才发现是 Windows 对所有应用一视同仁地拖后腿。\n体验（逻辑）\nCachyOS 在即开即用方面没 Windows 做得好，所以手动",
-      "metric": "41 回复",
-      "metric_value": 41,
-      "extra": {
-        "node": "Linux",
-        "node_name": "linux",
-        "author": "gumayusi",
-        "last_touched": 1790462411
-      }
-    },
-    {
-      "rank": 5,
-      "title": "悲报， gemini spark 和 cloud browser 注册全部被封堵",
-      "url": "https://www.v2ex.com/t/1244878",
-      "description": "只剩直连碰运气了",
-      "metric": "40 回复",
-      "metric_value": 40,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "kav2",
-        "last_touched": 1790453906
-      }
-    },
-    {
-      "rank": 6,
-      "title": "刷屏式地注册 muse，所以这玩意儿你们用起来了吗？",
-      "url": "https://www.v2ex.com/t/1244857",
-      "description": "",
-      "metric": "38 回复",
-      "metric_value": 38,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "YanSeven",
-        "last_touched": 1790448840
-      }
-    },
-    {
-      "rank": 7,
       "title": "关于教育，我有一个比较武断的观点",
       "url": "https://www.v2ex.com/t/1244937",
       "description": "我有一个比较武断的观点，就是国内大部分的中小学校的老师水平其实很一般。\n如果你去看他们第一学历，你会发现几乎很少 985 的，基本都是二本甚至专科。（最终也许通过死磕才磕磕绊绊考上研究生）这么说，他们自己学生时代成绩就很一般，甚至学渣。我身边真正学霸毕业之后基本上出国或者当医生，或者留高校或者在大厂工作拿高薪，几乎没有当中小学老师的。\n其实呢，我有一个很朴素的想法：如果你想变得富裕，你应该请教那些富有的人。如果你想变成事业有成，你应该请教已经事业有成的人。如果你想变成学霸，你也应该请教当做学霸的人。\n因此我的观点是，孩子的学习应该自己帮他找那些清北或者 985 毕业之后创业搞教培的，他们做这个",
-      "metric": "36 回复",
-      "metric_value": 36,
+      "metric": "69 回复",
+      "metric_value": 69,
       "extra": {
         "node": "分享发现",
         "node_name": "share",
         "author": "apollo007",
-        "last_touched": 1790470970
+        "last_touched": 1790488717
       }
     },
     {
-      "rank": 8,
-      "title": "geoip=cn 无法识别所有中国网站吗",
-      "url": "https://www.v2ex.com/t/1244848",
-      "description": "为什么那些代理软件需要设置那么多规则，甚至还要随时更新？",
-      "metric": "35 回复",
-      "metric_value": 35,
+      "rank": 2,
+      "title": "女朋友说“在你这里很没有气氛”，性格沉闷的我该怎么补救？",
+      "url": "https://www.v2ex.com/t/1244983",
+      "description": "认真求助大家，最近心里特别受挫。中秋节那天，女朋友在外地奔波，傍晚才赶回本地，第二天一早还要去上课，很辛苦。晚上聊天我像往常一样问她吃什么、洗澡了没，结果她委屈地说：“今天都快过完了，你都没跟我说节日快乐，在你这很没有气氛，家人一大早就给我发了。”其实中秋那天，我翻朋友圈看到其他人的动态都特别有节日氛围，聚会、赏月、过得热热闹闹。反观我自己，平时生活极简、圈子小、不爱社交，整个人沉闷又无趣，只会在家打 dota 。看到大家那么有气氛，再对比自己，心里本能地自卑和落差。我确实太糙、太缺少仪式感了，想关心人一开口却总像查户口。我很想为了她改变，但不知道对于我这种天生沉闷、不擅长社交的性格，平时该怎",
+      "metric": "45 回复",
+      "metric_value": 45,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "icoolboy",
+        "last_touched": 1790491724
+      }
+    },
+    {
+      "rank": 3,
+      "title": "蹭一下昨天争议很大的“哥飞“seo 博主的流量",
+      "url": "https://www.v2ex.com/t/1244913",
+      "description": "过来骗点铜币。\n我看到他好像在推上把我的问题当成养料，去滋润他的自媒体了。那我就在这公开 judge 一下了。\n就 360 刀一年，这还只是入场费。半年到一年的回本周期之内，每个人所花的时间成本和心力成本不计其数，这也是相对难以估计的。\n如果我可以用相同的心力和时间成本，在半年到一年内拿回 360 刀，那我去其他不怎么卷的赛道，它不香吗？",
+      "metric": "40 回复",
+      "metric_value": 40,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "EVJohn",
+        "last_touched": 1790473508
+      }
+    },
+    {
+      "rank": 4,
+      "title": "开始弃用 vscode",
+      "url": "https://www.v2ex.com/t/1244952",
+      "description": "Agent 时代，曾经陪我从 16 年走到 26 年的 vscode ，或者说 以 vscode 为基础开发的编辑器都给我弃用了。cursor,antigravity IDE 都不再需要了。\n实话说 vscode 在 mac 一直存在一个奇怪的 bug 。有时候打开太久的时候，整个编辑器的内容都变得不可用，只有一个灰灰的背景色。一直没有修复。不过我大概再也不会关注这个问题了。\n把这些都删除之后，下载了 ZED 作为编辑器。关闭 ZED 里面的所有 AI 功能。一个高效，简洁的编辑器用来查阅代码，十年的陪伴就这样再见了。",
+      "metric": "30 回复",
+      "metric_value": 30,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
-        "author": "oriver",
-        "last_touched": 1790419969
+        "author": "wobuhuicode",
+        "last_touched": 1790490174
+      }
+    },
+    {
+      "rank": 5,
+      "title": "应该如何对付电梯里吸烟的人？",
+      "url": "https://www.v2ex.com/t/1244915",
+      "description": "今天我先按的电梯，随后来个中年男子嘴里叼着烟在走廊里抽我没说什么，但是电梯到了后他先进电梯我挡着电梯说：我先按的电梯，要么你把烟灭了，要么你出去等下一班结果这男的和我耗上了，都不走，然后我叫来物业，业务也没什么办法，只能在其中调解最终大概僵持了 10 分钟左右，本着幸福着退让的原则我还是换了另外一部电梯大家有没有阻止过电梯吸烟的人？对于电梯抽烟的人就算报警也没啥作用吧？",
+      "metric": "30 回复",
+      "metric_value": 30,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "Vesc",
+        "last_touched": 1790491305
       }
     }
   ]
