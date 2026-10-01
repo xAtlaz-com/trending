@@ -1,34 +1,34 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-10-01T15:14:39+00:00",
+  "updated_at": "2026-10-01T20:27:42+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "产品形态来说，好多咱们的程序员以为 APP > WEB",
-      "url": "https://www.v2ex.com/t/1245970",
-      "description": "web 在咱们这边也有回归的趋势。\n规范一直在升级，性能和其他优势越来越多\n而且只是在咱们这边被无法描述的原因，让 APP 横扫一切，但其实地球上不全是这样的\n我感觉是喜欢 web",
-      "metric": "51 回复",
-      "metric_value": 51,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "zackkk",
-        "last_touched": 1790865991
-      }
-    },
-    {
-      "rank": 2,
       "title": "ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码",
       "url": "https://www.v2ex.com/t/1246024",
       "description": "今天把 ClipSeek 的 Windows 版本上架到 Microsoft Store 了，折腾了一阵，总算顺利过审了。\nClipSeek 是一款注重隐私、完全本地运行的 AI 素材搜索工具，它支持通过自然语言或参考图片，找到视频和照片中的特定画面。\n它内置了 MCP Server ，可以让 Claude 、Codex 、Cursor 等 AI Agent 直接搜索、整理、预览并导出你素材库中的内容。\n视频介绍：YouTube\n微软商店地址：ClipSeek\n今天在下方回复的朋友，都会送出永久激活码，同时祝大家国庆快乐！！",
-      "metric": "46 回复",
-      "metric_value": 46,
+      "metric": "63 回复",
+      "metric_value": 63,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "yedaxia",
-        "last_touched": 1790867017
+        "last_touched": 1790876936
+      }
+    },
+    {
+      "rank": 2,
+      "title": "产品形态来说，好多咱们的程序员以为 APP > WEB",
+      "url": "https://www.v2ex.com/t/1245970",
+      "description": "web 在咱们这边也有回归的趋势。\n规范一直在升级，性能和其他优势越来越多\n而且只是在咱们这边被无法描述的原因，让 APP 横扫一切，但其实地球上不全是这样的\n我感觉是喜欢 web",
+      "metric": "55 回复",
+      "metric_value": 55,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "zackkk",
+        "last_touched": 1790874188
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "小区净水器 or 家用净水器选择？",
       "url": "https://www.v2ex.com/t/1245961",
       "description": "前面几年一直用的小区内装的康基净水器，大概 2 天接一次，我用的 15L 的桶，一次 4 元（折扣前）。\n我一次充大几百有赠送余额，算下来每年实际费用大概在 500 元左右。\n现在在想有没有必要装个家用净水器，又担心小型的家用净水器达不到小区大设备的那个效果，而且装着麻烦占地。不知道要买多少钱的净水器才能达到效果？不追求直饮但要几乎无水垢的。\n自己接水的问题就是有点费人。",
-      "metric": "37 回复",
-      "metric_value": 37,
+      "metric": "39 回复",
+      "metric_value": 39,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "iixy",
-        "last_touched": 1790866279
+        "last_touched": 1790870549
       }
     },
     {
@@ -50,13 +50,13 @@
       "title": "有什么有意思的 3C 产品推荐嘛",
       "url": "https://www.v2ex.com/t/1245950",
       "description": "最近很想买点有意思的数码产品, 但淘宝京东的推荐算法都很垃圾, 刷了几天都是已经有的/不想要的, 很少有激起\"这个很好玩, 买个玩玩\"想法的东西\n目前已经有的一些有意思的玩意:\n\n两个迷你主机, 装了 pve\n树莓派 3b,4b,5\nsipeed 的 NanoKVM\narduino uno, mega, uno q\nstm32 f1, mp1 开发板\n炬为的 USB PD 分析仪\nusb 数据线引脚通断检测仪\n带显示屏的 m.2 双协议硬盘盒\n带显示屏的 sata 接口硬盘盒\ntrimui 的复古掌机\n\n类似的 500 rmb 以下小东西有推荐的吗, 因为预算有限, 所以无人机, 相机, 高性",
-      "metric": "32 回复",
-      "metric_value": 32,
+      "metric": "37 回复",
+      "metric_value": 37,
       "extra": {
         "node": "买买买",
         "node_name": "mmm",
         "author": "5xX4U5sUwdELgdQ3",
-        "last_touched": 1790862993
+        "last_touched": 1790884210
       }
     },
     {
@@ -64,27 +64,27 @@
       "title": "号被封了……",
       "url": "https://www.v2ex.com/t/1245975",
       "description": "前情提要： https://www.v2ex.com/t/1244849\n一大早收到了两封邮件，内容一模一样……正在填申诉内容\nYour account has been suspended\n\nHello,\n\nAn internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude.\n\nTo appeal our decision",
-      "metric": "28 回复",
-      "metric_value": 28,
+      "metric": "29 回复",
+      "metric_value": 29,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
         "author": "milkleeeeee",
-        "last_touched": 1790864215
+        "last_touched": 1790869547
       }
     },
     {
       "rank": 6,
-      "title": "Gemini 4 出来了，吊打其他的公司啊",
-      "url": "https://www.v2ex.com/t/1245940",
-      "description": "Gemini 4 出来了，吊打其他的公司啊\n周三，该公司发布了 Gemini4Argon ，这是迄今为止最先进的人工智能模型，在编码、网络安全和复杂的专业工作方面提供了重大改进。\n该公司表示，该模型在现实世界的软件工程方面创造了新的记录，在网络安\n全方面并列第一，并在衡量金融、法律和其他专业任务绩效的另一项基准中\n领先。\n谷歌表示，Argon 已在公司内部用于优化其数据中心的内存，无需购买额外硬件即可释放数百 TB 的内存。量子计算研究人员也已利用了该模型。",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "title": "主力邮箱还是得选国内邮箱",
+      "url": "https://www.v2ex.com/t/1246060",
+      "description": "近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量",
+      "metric": "28 回复",
+      "metric_value": 28,
       "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "osilinka",
-        "last_touched": 1790841962
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "ldy619354397",
+        "last_touched": 1790882780
       }
     },
     {
@@ -92,17 +92,31 @@
       "title": "最近迁移到 Catsxp 浏览器",
       "url": "https://www.v2ex.com/t/1245944",
       "description": "从 Brave 切换到 Catsxp 了，主要原因有几点：1 、Brave 的本地优化版，作者是中国人。一些小细节优化得比较好，比如垂直标签有树状结构。砍掉了 VPN/AI/钱包功能。AI/翻译功能装个豆包插件就完事。2 、自带的翻译功能切换到了谷歌翻译，而不是 brave 翻译。3 、密码/书签/扩展程序列表我用插件，不用浏览器自带的功能，可以无痛迁移。-密码管理器（本地 Keepass+chromeIPass 浏览器插件）-书签及扩展程序列表同步：MarkBridge – Multi-Profile Sync",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "27 回复",
+      "metric_value": 27,
       "extra": {
         "node": "浏览器",
         "node_name": "browsers",
         "author": "sudo123",
-        "last_touched": 1790854886
+        "last_touched": 1790858486
       }
     },
     {
       "rank": 8,
+      "title": "通过 firefox 注册 muse",
+      "url": "https://www.v2ex.com/t/1245987",
+      "description": "打开 firefox 自带的 VPN 后，通过 firefox 访问 https://muse.ai/join 就可以正常注册了。",
+      "metric": "22 回复",
+      "metric_value": 22,
+      "extra": {
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "tvirus",
+        "last_touched": 1790874575
+      }
+    },
+    {
+      "rank": 9,
       "title": "Gemini 4 Argon 已宣布",
       "url": "https://www.v2ex.com/t/1245947",
       "description": "目前未公开发布，只对美国政府和信任测试者提供。\n多个 Benchmark 超过 Opus 5.5：\n\nAAI Index 53 分，介于 GPT 6.1 Sol 和 GPT 6 Astra：\n\nText Arena #1 ，超过 Opus 4.6 ，预计依然会说人话，依然是讨好型人格：\n\nWebDev Arena #8 ，和 Opus 有较大差距：\n\n博客：\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n首发 API 价格 $2/$10 每百万输入/输出 Token",
@@ -113,20 +127,6 @@
         "node_name": "programmer",
         "author": "street000",
         "last_touched": 1790865272
-      }
-    },
-    {
-      "rank": 9,
-      "title": "通过 firefox 注册 muse",
-      "url": "https://www.v2ex.com/t/1245987",
-      "description": "打开 firefox 自带的 VPN 后，通过 firefox 访问 https://muse.ai/join 就可以正常注册了。",
-      "metric": "18 回复",
-      "metric_value": 18,
-      "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "tvirus",
-        "last_touched": 1790867470
       }
     },
     {
