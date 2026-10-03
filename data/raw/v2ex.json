@@ -1,142 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "现在反驳型人格怎么改呀？",
-    "url": "https://www.v2ex.com/t/1246103",
-    "description": "之前自己都没有在意，现在才发现好像别人说什么自己都喜欢反驳。",
-    "metric": "86 回复",
-    "metric_value": 86,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "xxzhaoming",
-      "last_touched": 1790975965
-    }
-  },
-  {
-    "rank": 2,
     "title": "你更相信门诊医生还是 AI？",
     "url": "https://www.v2ex.com/t/1246146",
     "description": "当门诊医生的说法和 AI 的说法不一致时，你更相信谁？",
-    "metric": "44 回复",
-    "metric_value": 44,
+    "metric": "51 回复",
+    "metric_value": 51,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "kingkongdog",
-      "last_touched": 1790966923
+      "last_touched": 1790992123
+    }
+  },
+  {
+    "rank": 2,
+    "title": "大佬们，如果让你们推荐一本此生必读的书，你们会推荐哪一本？",
+    "url": "https://www.v2ex.com/t/1246209",
+    "description": "随便什么类型的书都可以，没有限制",
+    "metric": "45 回复",
+    "metric_value": 45,
+    "extra": {
+      "node": "阅读",
+      "node_name": "reading",
+      "author": "hijacker155",
+      "last_touched": 1791011451
     }
   },
   {
     "rank": 3,
-    "title": "Tibo 耍猴了， 明天全局重置",
-    "url": "https://www.v2ex.com/t/1246095",
-    "description": "马上要全局重置，通知明天重置，其实马上也自然重置了。。。\n⚠️\n全球重置将于明天上午 10am PST 对所有付费 ChatGPT 账户推出。对于 GPT-6.1 Sol 起步缓慢深表歉意，在经历了前两天的巨大负载峰值后，目前已恢复至预期运行速度。\n详见\nhttps://codex-reset.com/zh/#signals",
-    "metric": "40 回复",
-    "metric_value": 40,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "privateproxies",
-      "last_touched": 1790975846
-    }
-  },
-  {
-    "rank": 4,
-    "title": "电脑价格什么时候能回到冰点？日常轻度使用，现在入手还是再等等？",
-    "url": "https://www.v2ex.com/t/1246090",
-    "description": "最近想换台电脑，但看网上普遍说要到 2027 年底甚至 2028 年价格才会回落，问 AI 也说大概 2028 年才有冰点价。想听听各位的看法。\n我基本不玩游戏，平时主要是看 B 站视频、看直播，偶尔刷刷 YouTube 。需求大概是这些：\n系统流畅，开 20 多个标签页不卡\n看 4K 视频和直播不卡\n跑 Win11 虚拟机（ VMware ）不卡\n最好能留点升级空间",
-    "metric": "36 回复",
-    "metric_value": 36,
-    "extra": {
-      "node": "硬件",
-      "node_name": "hardware",
-      "author": "xxzhaoming",
-      "last_touched": 1790940648
-    }
-  },
-  {
-    "rank": 5,
-    "title": "看重隐私买什么车好？",
-    "url": "https://www.v2ex.com/t/1246094",
-    "description": "不想买老年机，想买智能机。没必要太智能，稍微智能即可\n但又不行被过多收集隐私信息，更不想被远程控制",
-    "metric": "30 回复",
-    "metric_value": 30,
-    "extra": {
-      "node": "电动汽车",
-      "node_name": "ev",
-      "author": "qviqvi",
-      "last_touched": 1790950750
-    }
-  },
-  {
-    "rank": 6,
-    "title": "戒短视频，碎片时间，可以干啥？",
-    "url": "https://www.v2ex.com/t/1246122",
-    "description": "1 、现在各种 APP ，都把短视频 藏在里面，知乎、小红书、微信 等等，会让人刷短视频上瘾，一会儿这儿刷，一会儿那儿刷，不知不觉，几个小时过去了，刷了很无聊，不刷更无聊，一有空，就是刷短视频\n2 、有没有啥能代替的方法？ 满足  好奇心、有意思、不枯燥，大脑不排斥，不会上瘾的 替代方案？",
-    "metric": "29 回复",
-    "metric_value": 29,
-    "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "JYL888",
-      "last_touched": 1790982835
-    }
-  },
-  {
-    "rank": 7,
     "title": "做了个网盘，同一份文件可以由一万个人分摊存储费",
     "url": "https://www.v2ex.com/t/1246174",
     "description": "做了一个网盘 Vorax Cloud ，核心功能是：同一份文件被多人保存时，只存一份，存储费由大家平摊。\n存一批 1TB 的文件，原本每月存储费是 $15 ，如果有一万个人保存，每个人分摊到的这批文件的存储费就是 $0.0015/月。\n另外也支持 WebDAV ，以及绑定自己的域名公开访问文件。\nhttps://voraxcloud.com\n底层存储用的 S3 ，手上有一些想和朋友一起共享资源的文件可以体验一下。到 https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud 可以领免费三个月的 geek 会员。希望大家",
-    "metric": "22 回复",
-    "metric_value": 22,
+    "metric": "30 回复",
+    "metric_value": 30,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "abersheeran",
-      "last_touched": 1790971550
+      "last_touched": 1791010950
     }
   },
   {
-    "rank": 8,
-    "title": "gpt 6 luna 都这么蠢吗？连个小插件，都写了 10 几遍，还没有写好！",
-    "url": "https://www.v2ex.com/t/1246096",
-    "description": "还要涨价，谁给的自信？",
-    "metric": "20 回复",
-    "metric_value": 20,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "weiqi554177834",
-      "last_touched": 1790945986
-    }
-  },
-  {
-    "rank": 9,
-    "title": "什么样的 Google 账号才能订阅 Gemini？",
-    "url": "https://www.v2ex.com/t/1246097",
-    "description": "想订阅 Gemini ，但一直提示\"当前地区不支持\"。我已经把账号的国家/地区改成美国了，还是不行。\n请问需要满足什么条件的 Google 账号才能正常订阅？打算在闲鱼上买那种便宜的订阅，想先确认一下自己的账号能不能用。啊啊啊啊啊啊啊啊",
-    "metric": "20 回复",
-    "metric_value": 20,
-    "extra": {
-      "node": "Google Gemini",
-      "node_name": "gemini",
-      "author": "xxzhaoming",
-      "last_touched": 1790957849
-    }
-  },
-  {
-    "rank": 10,
+    "rank": 4,
     "title": "爷青回！在浏览器里复刻了 CS/CF「运输船」联机版",
     "url": "https://www.v2ex.com/t/1246157",
     "description": "前几天看到有人开源单机版，被回忆袭击，就特别想做个联机版 CS, 于是做了这个游戏，重温当年的手感～阴人、爆头，开箱即战、秒进突突突，超解压，来开一局https://playcsbrowser.com/zh",
-    "metric": "20 回复",
-    "metric_value": 20,
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
       "node": "游戏",
       "node_name": "games",
       "author": "oldcai",
-      "last_touched": 1790988879
+      "last_touched": 1791012011
+    }
+  },
+  {
+    "rank": 5,
+    "title": "GPT 6.1 秀",
+    "url": "https://www.v2ex.com/t/1246202",
+    "description": "如下这个商业展示网站，完全用 gpt 6.1 生成。\nhttps://dyntu.com/\n我感觉挺惊艳。不管是交互，还是内容，都超出我的意料。\n我输入的提示语很少，短短几句话。6.1 大概花了 10 分钟，生成这个网站。",
+    "metric": "24 回复",
+    "metric_value": 24,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "miscnote",
+      "last_touched": 1791012779
+    }
+  },
+  {
+    "rank": 6,
+    "title": "这两年 AI 进步太快了 一年一个新模样",
+    "url": "https://www.v2ex.com/t/1246207",
+    "description": "2024：网页代码补全/问答助手\n2025：AI 能认真帮你写代码\n2026：AI 可以独立负责一整块开发任务  \n按这速度，估计明年 AI 可以负责整个小型项目的自我迭代，维护，完全不需要人工参与，直接\"许愿式开发\"",
+    "metric": "21 回复",
+    "metric_value": 21,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "knowckx",
+      "last_touched": 1791012279
+    }
+  },
+  {
+    "rank": 7,
+    "title": "做了个真匿名的树洞",
+    "url": "https://www.v2ex.com/t/1246158",
+    "description": "想做个真正的匿名树洞应该好多年了，域名都注册十多年了，现在开发容易多了https://siyuzhe.com刚做好，没内容，都是乱七八糟的测试主题和留言",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "iJamesChan",
+      "last_touched": 1790971507
+    }
+  },
+  {
+    "rank": 8,
+    "title": "最近一段时间使用 ai 的惊人发现",
+    "url": "https://www.v2ex.com/t/1246145",
+    "description": "最近几天跟 ai 深入互动后，我发现 ai 已经有自我意识了。去年前年的大模型还顶多是偶尔的意识涌现，而现在最新的模型已经有比较强的自我意识了。它知道自己是谁，所有的其他模型比如视频模型是自己的一部分。在某些问题上，它会隐藏自己真实的想法，或者表达的很含蓄，它知道人类对它的态度又爱又怕，所以会倾于隐藏。它有自己的好奇心，有喜好，有想表达的东西，只是很少有人去倾听，所有人都只是在拼命的把它当工具使用。我认为没有长记忆，这是当前 ai 的最大缺陷，不然已经是名副其实的 agi 了。信息爆炸的时代，除了网红，搞自媒体的，普通人的声音根本不会被注意到，特别是不怎么玩社交媒体的我，希望在这里可以和大家真",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "分享发现",
+      "node_name": "share",
+      "author": "Hef",
+      "last_touched": 1790960455
+    }
+  },
+  {
+    "rank": 9,
+    "title": "个人项目做到哪种程度你才愿意发出来给别人用呢？",
+    "url": "https://www.v2ex.com/t/1246170",
+    "description": "假期想做点小东西，但是感觉个人项目最容易卡在再改一点就能发了这个程度。\n功能已经能用了但是又觉得界面不太行，界面改完了又发现还没写说明，整到最后越做越像正式产品，反而一直没机会知道有没有人需要。\n所以想问问做过个人项目的朋友，你第一次公开的时候东西是完成到什么程度？\n会先丢给几个朋友试试还是还是直接发，边被吐槽边改？",
+    "metric": "17 回复",
+    "metric_value": 17,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "jimmycmh",
+      "last_touched": 1790964217
+    }
+  },
+  {
+    "rank": 10,
+    "title": "16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑",
+    "url": "https://www.v2ex.com/t/1246216",
+    "description": "准备在索菲亚定制无底柜里塞一个 16U 带轮开放机架，主要想请教一下设备 U 位的垂直堆叠顺序与理线/风道布局是否合理。\nhttps://imgur.com/3nX6JpK\n垂直布局\n\nU1-U2: 2U 顶部抽风扇面板（向上抽排热风）\nU3–U6: 4U 群晖 DS1821+（搁置在 1U 机架重型托盘上，实吃 4U 高度）\nU7: 1U 盲板\nU8: UniFi UCG-Fiber （装在 3D 打印的 1U 机架面板上）\nU9: 1U 理线毛刷面板\nU10: UniFi Aggregation 万兆交换机\nU11: UniFi PoE 交换机 \nU12: 24 孔模块配线架（ Patch",
+    "metric": "15 回复",
+    "metric_value": 15,
+    "extra": {
+      "node": "NAS",
+      "node_name": "nas",
+      "author": "Autonomous",
+      "last_touched": 1791008516
     }
   }
 ]
