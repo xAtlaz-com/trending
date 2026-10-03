@@ -1,227 +1,253 @@
 {
   "source": "github",
-  "updated_at": "2026-10-03T07:47:53+00:00",
-  "count": 17,
+  "updated_at": "2026-10-03T13:10:32+00:00",
+  "count": 19,
   "items": [
     {
       "rank": 1,
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 89,076",
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "metric": "★ 152,493",
       "extra": {
-        "language": "Python",
-        "stars": "89,076",
-        "forks": "7,846",
-        "stars_today": "696 stars today"
+        "language": "JavaScript",
+        "stars": "152,493",
+        "forks": "8,183",
+        "stars_today": "1,289 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "metric": "★ 109,223",
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "metric": "★ 74,725",
       "extra": {
-        "language": "Go",
-        "stars": "109,223",
-        "forks": "6,319",
-        "stars_today": "209 stars today"
+        "language": "JavaScript",
+        "stars": "74,725",
+        "forks": "4,495",
+        "stars_today": "705 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 294,589",
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "metric": "★ 271,824",
       "extra": {
-        "language": "Shell",
-        "stars": "294,589",
-        "forks": "26,332",
-        "stars_today": "556 stars today"
+        "language": "JavaScript",
+        "stars": "271,824",
+        "forks": "40,597",
+        "stars_today": "578 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 152,123",
+      "title": "Effect-TS / effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "metric": "★ 16,699",
       "extra": {
-        "language": "JavaScript",
-        "stars": "152,123",
-        "forks": "8,163",
-        "stars_today": "1,435 stars today"
+        "language": "TypeScript",
+        "stars": "16,699",
+        "forks": "809",
+        "stars_today": "302 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "metric": "★ 74,516",
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "metric": "★ 109,328",
       "extra": {
-        "language": "JavaScript",
-        "stars": "74,516",
-        "forks": "4,489",
-        "stars_today": "722 stars today"
+        "language": "Go",
+        "stars": "109,328",
+        "forks": "6,324",
+        "stars_today": "505 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 274,885",
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "metric": "★ 89,393",
       "extra": {
-        "language": "Shell",
-        "stars": "274,885",
-        "forks": "23,071",
-        "stars_today": "955 stars today"
+        "language": "Python",
+        "stars": "89,393",
+        "forks": "7,865",
+        "stars_today": "1,683 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "NVIDIA / OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "metric": "★ 14,536",
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "metric": "★ 24,441",
       "extra": {
-        "language": "Rust",
-        "stars": "14,536",
-        "forks": "1,667",
-        "stars_today": "594 stars today"
+        "language": "TypeScript",
+        "stars": "24,441",
+        "forks": "6,386",
+        "stars_today": "251 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "metric": "★ 52,510",
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "metric": "★ 95,282",
       "extra": {
-        "language": "JavaScript",
-        "stars": "52,510",
-        "forks": "7,885",
-        "stars_today": "140 stars today"
+        "language": "TypeScript",
+        "stars": "95,282",
+        "forks": "8,440",
+        "stars_today": "115 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "heygen-com / hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "metric": "★ 56,017",
+      "title": "cloudflare / cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "metric": "★ 10,408",
       "extra": {
         "language": "TypeScript",
-        "stars": "56,017",
-        "forks": "5,044",
-        "stars_today": "580 stars today"
+        "stars": "10,408",
+        "forks": "1,278",
+        "stars_today": "84 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "metric": "★ 25,114",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 100,692",
       "extra": {
-        "language": "TypeScript",
-        "stars": "25,114",
-        "forks": "1,803",
-        "stars_today": "282 stars today"
+        "language": "JavaScript",
+        "stars": "100,692",
+        "forks": "10,582",
+        "stars_today": "189 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "google / skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "metric": "★ 20,831",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 294,709",
       "extra": {
-        "language": "Python",
-        "stars": "20,831",
-        "forks": "1,726",
-        "stars_today": "39 stars today"
+        "language": "Shell",
+        "stars": "294,709",
+        "forks": "26,338",
+        "stars_today": "578 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "getsentry / sentry",
-      "url": "https://github.com/getsentry/sentry",
-      "description": "Developer-first error tracking and performance monitoring",
-      "metric": "★ 45,078",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 275,062",
       "extra": {
-        "language": "Python",
-        "stars": "45,078",
-        "forks": "4,894",
-        "stars_today": "16 stars today"
+        "language": "Shell",
+        "stars": "275,062",
+        "forks": "23,085",
+        "stars_today": "750 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "metric": "★ 73,045",
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "metric": "★ 25,170",
       "extra": {
-        "language": "C",
-        "stars": "73,045",
-        "forks": "4,686",
-        "stars_today": "98 stars today"
+        "language": "TypeScript",
+        "stars": "25,170",
+        "forks": "1,805",
+        "stars_today": "256 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "cursor / plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "metric": "★ 9,557",
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "metric": "★ 111,972",
       "extra": {
         "language": "TypeScript",
-        "stars": "9,557",
-        "forks": "903",
-        "stars_today": "163 stars today"
+        "stars": "111,972",
+        "forks": "14,202",
+        "stars_today": "408 stars today"
       }
     },
     {
       "rank": 15,
-      "title": "mvschwarz / openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "metric": "★ 4,477",
+      "title": "getsentry / sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "metric": "★ 45,123",
       "extra": {
-        "language": "TypeScript",
-        "stars": "4,477",
-        "forks": "305",
-        "stars_today": "683 stars today"
+        "language": "Python",
+        "stars": "45,123",
+        "forks": "4,896",
+        "stars_today": "211 stars today"
       }
     },
     {
       "rank": 16,
-      "title": "Effect-TS / effect",
-      "url": "https://github.com/Effect-TS/effect",
-      "description": "Build production-ready applications in TypeScript",
-      "metric": "★ 16,630",
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "metric": "★ 149,055",
       "extra": {
         "language": "TypeScript",
-        "stars": "16,630",
-        "forks": "806",
-        "stars_today": "80 stars today"
+        "stars": "149,055",
+        "forks": "25,291",
+        "stars_today": "127 stars today"
       }
     },
     {
       "rank": 17,
-      "title": "pablostanley / yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "metric": "★ 3,634",
+      "title": "jamwithai / production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "metric": "★ 9,289",
+      "extra": {
+        "language": "Python",
+        "stars": "9,289",
+        "forks": "2,057",
+        "stars_today": "192 stars today"
+      }
+    },
+    {
+      "rank": 18,
+      "title": "meituan-longcat / LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "description": "",
+      "metric": "★ 8,612",
+      "extra": {
+        "language": "Python",
+        "stars": "8,612",
+        "forks": "1,518",
+        "stars_today": "43 stars today"
+      }
+    },
+    {
+      "rank": 19,
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "metric": "★ 91,365",
       "extra": {
         "language": "TypeScript",
-        "stars": "3,634",
-        "forks": "317",
-        "stars_today": "623 stars today"
+        "stars": "91,365",
+        "forks": "9,040",
+        "stars_today": "234 stars today"
       }
     }
   ]
