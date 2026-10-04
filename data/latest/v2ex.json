@@ -1,99 +1,71 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-10-03T23:37:03+00:00",
-  "count": 9,
+  "updated_at": "2026-10-04T05:00:43+00:00",
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "大佬们，如果让你们推荐一本此生必读的书，你们会推荐哪一本？",
-      "url": "https://www.v2ex.com/t/1246209",
-      "description": "随便什么类型的书都可以，没有限制",
-      "metric": "84 回复",
-      "metric_value": 84,
-      "extra": {
-        "node": "阅读",
-        "node_name": "reading",
-        "author": "hijacker155",
-        "last_touched": 1791054311
-      }
-    },
-    {
-      "rank": 2,
-      "title": "GPT 6.1 秀",
-      "url": "https://www.v2ex.com/t/1246202",
-      "description": "如下这个商业展示网站，完全用 gpt 6.1 生成。\nhttps://dyntu.com/\n我感觉挺惊艳。不管是交互，还是内容，都超出我的意料。\n我输入的提示语很少，短短几句话。6.1 大概花了 10 分钟，生成这个网站。",
-      "metric": "36 回复",
-      "metric_value": 36,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "miscnote",
-        "last_touched": 1791068173
-      }
-    },
-    {
-      "rank": 3,
-      "title": "这两年 AI 进步太快了 一年一个新模样",
-      "url": "https://www.v2ex.com/t/1246207",
-      "description": "2024：网页代码补全/问答助手\n2025：AI 能认真帮你写代码\n2026：AI 可以独立负责一整块开发任务  \n按这速度，估计明年 AI 可以负责整个小型项目的自我迭代，维护，完全不需要人工参与，直接\"许愿式开发\"",
-      "metric": "34 回复",
-      "metric_value": 34,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "knowckx",
-        "last_touched": 1791065852
-      }
-    },
-    {
-      "rank": 4,
-      "title": "199 的小米充电宝放在图书馆，插着充电忘记拿走，第二天一大家被一家子（女的还考公）偷走了，我需要较真吗？",
-      "url": "https://www.v2ex.com/t/1246297",
-      "description": "小孩老婆男的\n三口之家早上 8 点半就来了\n神奇的是，这男的一进门就抬头看监控\n然后她家孩子把我的充电宝拔下来给他爸爸\n他爸爸先放到地上一分钟，再拿到桌上，还拿自己的线看是不是可以正常使用的充电宝（因此我怀疑惯犯了）\n女的拿个笔记本电脑看网课在考公，男的没事做左顾右盼一会出去买奶茶，还拿一包抽纸挡着我的充电宝\n其后监控里拍的一清二楚，抖腿几十分钟，这男的，估计在做思想斗争\n最后 11 点 39 的时候走，她和她老婆还抬头看了下监控\n帽子来了，我强烈要求看监控，拍的清清楚楚，我看了全过程，但是不肯我用手机拍\n后来帽子说这个只是侵占，不是盗窃，我实在要追究只能我自己去法院起诉\n刚刚打督察电话，不知",
-      "metric": "28 回复",
-      "metric_value": 28,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "missx",
-        "last_touched": 1791070365
-      }
-    },
-    {
-      "rank": 5,
       "title": "历经千辛万苦终于用上了 opus5.5.",
       "url": "https://www.v2ex.com/t/1246282",
       "description": "现在想在国内订阅上、并且不封号实在是太难了。\n0. 第零步订阅一个好用的 vpn ，最好是家宽，稳定的美国 ip 。\n\n第一步注册一个 google 账号。\n申请一张招行的 visa 卡\n下载一个安卓模拟器，使用 google play 订阅\n此时订阅完成以后，会提示需要过 kyc\n使用中国护照通过 kyc\n使用。目前正常用了两天\n\n该说不说，opus5.5 聊天是真的体贴，一到晚上就提醒我早点睡觉。",
-      "metric": "26 回复",
-      "metric_value": 26,
+      "metric": "29 回复",
+      "metric_value": 29,
       "extra": {
         "node": "Claude",
         "node_name": "claude",
         "author": "obiah666",
-        "last_touched": 1791044071
+        "last_touched": 1791054871
       }
     },
     {
-      "rank": 6,
+      "rank": 2,
       "title": "微信输入法安装的时候强制要管理员权限",
       "url": "https://www.v2ex.com/t/1246278",
       "description": "正常吗",
-      "metric": "24 回复",
-      "metric_value": 24,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "isbase",
-        "last_touched": 1791049608
+        "last_touched": 1791056808
       }
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
+      "url": "https://www.v2ex.com/t/1246258",
+      "description": "想请问各位长时间/重度使用 ai 的 v 友们，如果是如下情况，你愿意付费吗？1 、物理位置：韩国/越南。（这两个对你来说你更倾向哪个吗？还是无所谓）2 、电脑：mac mini （ M 芯片以上）/ Win pc （大概 i5 16G 内存的样子）。（这两个对你来说你更倾向哪个吗？还是无所谓）3 、百分百放在真实家庭里的家宽环境。4 、按月起，包一台机器，远程连接。5 、价格可能在人民币 500 起每月，无其他费用。6 、可能会慢慢开放当地银行卡代付款购买订阅业务。-------如果您有此类需求，但以上条件仍有不满足的地方，愿意的话，可以留言您的更高需求",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "Milicense",
+        "last_touched": 1790409895
+      }
+    },
+    {
+      "rank": 4,
+      "title": "闲来无事，梳理了下自己最近的 ai 订阅",
+      "url": "https://www.v2ex.com/t/1246264",
+      "description": "5 个 openai 的 team 席位订阅，月消费 45 刀（保持）\n1 个 claude pro ，月消费 20 刀（保持）\n火山云 coding plan pro ，目前特价 50 元/月，下个月恢复原价 200 就不续订了\n2 个 kimi 老 199 套餐，月消费 398 元/月，这个月不续订了\n之前订阅的 opencode go 5 刀，5 刀优惠没了，暂时也没续订了\ndeepseek 平台里充的还有 40 块钱\n老马家的 grok 上了 grok heavy 年付，7100 （保持）\n\n之后就是续费着 oai 的和 claude 的了。然后看哪家有活动再偶尔开一个月尝尝鲜。",
+      "metric": "23 回复",
+      "metric_value": 23,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "rimworld",
+        "last_touched": 1791055307
+      }
+    },
+    {
+      "rank": 5,
       "title": "Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
       "url": "https://www.v2ex.com/t/1246247",
       "description": "付费 pro 和 ultra 用户可以使用；已经收到通知了；不知道能有多少额度；\nPro 账号的含金量提升了；",
-      "metric": "21 回复",
-      "metric_value": 21,
+      "metric": "22 回复",
+      "metric_value": 22,
       "extra": {
         "node": "Google",
         "node_name": "google",
@@ -102,31 +74,45 @@
       }
     },
     {
-      "rank": 8,
-      "title": "16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑",
-      "url": "https://www.v2ex.com/t/1246216",
-      "description": "准备在索菲亚定制无底柜里塞一个 16U 带轮开放机架，主要想请教一下设备 U 位的垂直堆叠顺序与理线/风道布局是否合理。\nhttps://imgur.com/3nX6JpK\n垂直布局\n\nU1-U2: 2U 顶部抽风扇面板（向上抽排热风）\nU3–U6: 4U 群晖 DS1821+（搁置在 1U 机架重型托盘上，实吃 4U 高度）\nU7: 1U 盲板\nU8: UniFi UCG-Fiber （装在 3D 打印的 1U 机架面板上）\nU9: 1U 理线毛刷面板\nU10: UniFi Aggregation 万兆交换机\nU11: UniFi PoE 交换机 \nU12: 24 孔模块配线架（ Patch",
-      "metric": "19 回复",
-      "metric_value": 19,
+      "rank": 6,
+      "title": "国庆参加表哥的婚礼，让我有点不同的人生感悟",
+      "url": "https://www.v2ex.com/t/1246308",
+      "description": "前几天参加了我表哥的婚礼。\n婚礼这个场合挺特别的。它跟葬礼不一样，跟医院里小孩出生也不一样，但它也能让人看到人生的不同阶段。那天在场的人，有外甥、有侄女，有几个刚大学毕业的表兄弟，有他们的父母，有父母辈的父母。老的、小的、刚起步的、已经走了一半的，全在一个空间里。\n我坐在那儿，看着看着，就有点感慨。\n有的人在为自己的小孩烦恼，烦恼他们能不能有出息，将来能不能照顾好自己，能不能幸福，能不能早点抱上孙子。再往上，父母的父母，又在想自己还能陪孩子、陪孙子多久。好像每个阶段都有每个阶段的愁。\n但你说，有烦恼，也会有幸福吧。这个我也知道。\n只是我有时候会觉得很矛盾：这真的是我想要的幸福吗？周围人都结婚了",
+      "metric": "21 回复",
+      "metric_value": 21,
       "extra": {
-        "node": "NAS",
-        "node_name": "nas",
-        "author": "Autonomous",
-        "last_touched": 1791032431
+        "node": "生活",
+        "node_name": "life",
+        "author": "yunshangzhou",
+        "last_touched": 1791089255
       }
     },
     {
-      "rank": 9,
-      "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
-      "url": "https://www.v2ex.com/t/1246258",
-      "description": "想请问各位长时间/重度使用 ai 的 v 友们，如果是如下情况，你愿意付费吗？1 、物理位置：韩国/越南。（这两个对你来说你更倾向哪个吗？还是无所谓）2 、电脑：mac mini （ M 芯片以上）/ Win pc （大概 i5 16G 内存的样子）。（这两个对你来说你更倾向哪个吗？还是无所谓）3 、百分百放在真实家庭里的家宽环境。4 、按月起，包一台机器，远程连接。5 、价格可能在人民币 500 起每月，无其他费用。6 、可能会慢慢开放当地银行卡代付款购买订阅业务。-------如果您有此类需求，但以上条件仍有不满足的地方，愿意的话，可以留言您的更高需求",
-      "metric": "19 回复",
-      "metric_value": 19,
+      "rank": 7,
+      "title": "公司让开发个某书刷阅读系统",
+      "url": "https://www.v2ex.com/t/1246332",
+      "description": "公司一直租的别人系统，国庆前说要让我模仿那个系统自行开发一个刷帖系统。\n说开发出来以后提成 3k ，基本从零开始开发，但是需要的功能和需求比较明确，设备和账号说是都准备好了。但是总感觉被坑了",
+      "metric": "20 回复",
+      "metric_value": 20,
       "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "Milicense",
-        "last_touched": 1791045727
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "xxzhaoming",
+        "last_touched": 1791089038
+      }
+    },
+    {
+      "rank": 8,
+      "title": "体感上， ChatGPT plus 5 小时额度少于 Claude pro",
+      "url": "https://www.v2ex.com/t/1246251",
+      "description": "",
+      "metric": "18 回复",
+      "metric_value": 18,
+      "extra": {
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "chen88ijn",
+        "last_touched": 1791036924
       }
     }
   ]
