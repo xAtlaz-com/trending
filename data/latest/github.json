@@ -1,97 +1,97 @@
 {
   "source": "github",
-  "updated_at": "2026-10-05T07:33:19+00:00",
-  "count": 16,
+  "updated_at": "2026-10-05T16:57:03+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "tester-army / e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
-      "metric": "★ 3,528",
+      "metric": "★ 4,246",
       "extra": {
         "language": "TypeScript",
-        "stars": "3,528",
-        "forks": "136",
-        "stars_today": "345 stars today"
+        "stars": "4,246",
+        "forks": "179",
+        "stars_today": "1,430 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "metric": "★ 76,569",
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "metric": "★ 96,485",
       "extra": {
-        "language": "JavaScript",
-        "stars": "76,569",
-        "forks": "4,570",
-        "stars_today": "1,171 stars today"
+        "language": "TypeScript",
+        "stars": "96,485",
+        "forks": "8,518",
+        "stars_today": "534 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "metric": "★ 53,213",
+      "title": "michael-denyer / pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "metric": "★ 1,356",
       "extra": {
         "language": "JavaScript",
-        "stars": "53,213",
-        "forks": "7,926",
-        "stars_today": "197 stars today"
+        "stars": "1,356",
+        "forks": "149",
+        "stars_today": "222 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 155,261",
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "metric": "★ 17,243",
       "extra": {
-        "language": "JavaScript",
-        "stars": "155,261",
-        "forks": "8,344",
-        "stars_today": "1,894 stars today"
+        "language": "Python",
+        "stars": "17,243",
+        "forks": "1,758",
+        "stars_today": "456 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "earthtojake / text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "metric": "★ 17,007",
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "metric": "★ 25,488",
       "extra": {
-        "language": "Python",
-        "stars": "17,007",
-        "forks": "1,751",
-        "stars_today": "83 stars today"
+        "language": "TypeScript",
+        "stars": "25,488",
+        "forks": "6,574",
+        "stars_today": "487 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 91,206",
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "metric": "★ 4,682",
       "extra": {
-        "language": "Python",
-        "stars": "91,206",
-        "forks": "8,008",
-        "stars_today": "980 stars today"
+        "language": "C++",
+        "stars": "4,682",
+        "forks": "357",
+        "stars_today": "994 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "getsentry / sentry",
-      "url": "https://github.com/getsentry/sentry",
-      "description": "Developer-first error tracking and performance monitoring",
-      "metric": "★ 45,440",
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "metric": "★ 91,657",
       "extra": {
         "language": "Python",
-        "stars": "45,440",
-        "forks": "4,907",
-        "stars_today": "152 stars today"
+        "stars": "91,657",
+        "forks": "8,047",
+        "stars_today": "1,156 stars today"
       }
     },
     {
@@ -99,116 +99,77 @@
       "title": "calesthio / OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 63,404",
+      "metric": "★ 63,766",
       "extra": {
         "language": "Python",
-        "stars": "63,404",
-        "forks": "8,075",
-        "stars_today": "245 stars today"
+        "stars": "63,766",
+        "forks": "8,106",
+        "stars_today": "758 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "metric": "★ 25,310",
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "metric": "★ 76,949",
       "extra": {
-        "language": "TypeScript",
-        "stars": "25,310",
-        "forks": "6,534",
-        "stars_today": "490 stars today"
+        "language": "Go",
+        "stars": "76,949",
+        "forks": "5,065",
+        "stars_today": "526 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "metric": "★ 76,697",
+      "title": "DuarteSantos8 / openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "metric": "★ 3,815",
       "extra": {
-        "language": "Go",
-        "stars": "76,697",
-        "forks": "5,053",
-        "stars_today": "24 stars today"
+        "language": "JavaScript",
+        "stars": "3,815",
+        "forks": "616",
+        "stars_today": "1,444 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "michael-denyer / pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "metric": "★ 1,230",
+      "title": "cloudflare / cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "metric": "★ 10,901",
       "extra": {
-        "language": "JavaScript",
-        "stars": "1,230",
-        "forks": "140",
-        "stars_today": "232 stars today"
+        "language": "TypeScript",
+        "stars": "10,901",
+        "forks": "1,302",
+        "stars_today": "102 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 101,316",
+      "title": "Stremio / stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "metric": "★ 14,193",
       "extra": {
         "language": "JavaScript",
-        "stars": "101,316",
-        "forks": "10,623",
-        "stars_today": "336 stars today"
+        "stars": "14,193",
+        "forks": "1,623",
+        "stars_today": "111 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "thedotmack / claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "metric": "★ 96,277",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "metric": "★ 157,091",
       "extra": {
-        "language": "TypeScript",
-        "stars": "96,277",
-        "forks": "8,500",
-        "stars_today": "628 stars today"
-      }
-    },
-    {
-      "rank": 14,
-      "title": "garrytan / gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "metric": "★ 135,239",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "135,239",
-        "forks": "20,096",
-        "stars_today": "125 stars today"
-      }
-    },
-    {
-      "rank": 15,
-      "title": "OpenCut-app / OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "metric": "★ 92,382",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "92,382",
-        "forks": "9,096",
-        "stars_today": "512 stars today"
-      }
-    },
-    {
-      "rank": 16,
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "metric": "★ 23,500",
-      "extra": {
-        "language": "C",
-        "stars": "23,500",
-        "forks": "2,255",
-        "stars_today": "211 stars today"
+        "language": "Shell",
+        "stars": "157,091",
+        "forks": "25,352",
+        "stars_today": "595 stars today"
       }
     }
   ]
