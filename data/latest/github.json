@@ -1,18 +1,18 @@
 {
   "source": "github",
-  "updated_at": "2026-10-06T03:14:29+00:00",
-  "count": 14,
+  "updated_at": "2026-10-06T10:40:56+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "tester-army / e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
-      "metric": "★ 4,930",
+      "metric": "★ 5,446",
       "extra": {
         "language": "TypeScript",
-        "stars": "4,930",
-        "forks": "206",
+        "stars": "5,446",
+        "forks": "234",
         "stars_today": "1,398 stars today"
       }
     },
@@ -21,167 +21,154 @@
       "title": "thedotmack / claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "metric": "★ 96,676",
+      "metric": "★ 96,840",
       "extra": {
         "language": "TypeScript",
-        "stars": "96,676",
-        "forks": "8,531",
+        "stars": "96,840",
+        "forks": "8,539",
         "stars_today": "534 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "michael-denyer / pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "metric": "★ 1,435",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "1,435",
-        "forks": "154",
-        "stars_today": "223 stars today"
-      }
-    },
-    {
-      "rank": 4,
       "title": "earthtojake / text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
-      "metric": "★ 17,486",
+      "metric": "★ 17,668",
       "extra": {
         "language": "Python",
-        "stars": "17,486",
-        "forks": "1,770",
+        "stars": "17,668",
+        "forks": "1,782",
         "stars_today": "437 stars today"
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "pingdotgg / t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
-      "metric": "★ 25,649",
+      "metric": "★ 25,763",
       "extra": {
         "language": "TypeScript",
-        "stars": "25,649",
-        "forks": "6,606",
+        "stars": "25,763",
+        "forks": "6,634",
         "stars_today": "485 stars today"
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 5,019",
+      "metric": "★ 5,289",
       "extra": {
         "language": "C++",
-        "stars": "5,019",
-        "forks": "371",
+        "stars": "5,289",
+        "forks": "391",
         "stars_today": "997 stars today"
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Panniantong / Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 91,985",
+      "metric": "★ 92,310",
       "extra": {
         "language": "Python",
-        "stars": "91,985",
-        "forks": "8,073",
+        "stars": "92,310",
+        "forks": "8,096",
         "stars_today": "1,155 stars today"
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "calesthio / OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 64,131",
+      "metric": "★ 64,430",
       "extra": {
         "language": "Python",
-        "stars": "64,131",
-        "forks": "8,134",
+        "stars": "64,430",
+        "forks": "8,160",
         "stars_today": "742 stars today"
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "caddyserver / caddy",
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "metric": "★ 77,176",
+      "metric": "★ 77,361",
       "extra": {
         "language": "Go",
-        "stars": "77,176",
-        "forks": "5,078",
+        "stars": "77,361",
+        "forks": "5,086",
         "stars_today": "515 stars today"
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "DuarteSantos8 / openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "metric": "★ 4,324",
+      "metric": "★ 4,780",
       "extra": {
         "language": "JavaScript",
-        "stars": "4,324",
-        "forks": "661",
+        "stars": "4,780",
+        "forks": "708",
         "stars_today": "1,433 stars today"
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "cloudflare / cloudflare-os",
       "url": "https://github.com/cloudflare/cloudflare-os",
       "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "metric": "★ 11,045",
+      "metric": "★ 11,152",
       "extra": {
         "language": "TypeScript",
-        "stars": "11,045",
-        "forks": "1,310",
+        "stars": "11,152",
+        "forks": "1,319",
         "stars_today": "101 stars today"
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Stremio / stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
-      "metric": "★ 14,326",
+      "metric": "★ 14,394",
       "extra": {
         "language": "JavaScript",
-        "stars": "14,326",
-        "forks": "1,632",
+        "stars": "14,394",
+        "forks": "1,636",
         "stars_today": "111 stars today"
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "msitarzewski / agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "metric": "★ 157,324",
+      "metric": "★ 157,508",
       "extra": {
         "language": "Shell",
-        "stars": "157,324",
-        "forks": "25,374",
+        "stars": "157,508",
+        "forks": "25,398",
         "stars_today": "744 stars today"
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "M-Abozaid / esp32-c3-adblock",
       "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
       "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share",
-      "metric": "★ 1,398",
+      "metric": "★ 1,605",
       "extra": {
         "language": "C++",
-        "stars": "1,398",
-        "forks": "122",
+        "stars": "1,605",
+        "forks": "139",
         "stars_today": "196 stars today"
       }
     }
