@@ -1,32 +1,32 @@
 {
   "source": "github",
-  "updated_at": "2026-10-06T10:40:56+00:00",
-  "count": 13,
+  "updated_at": "2026-10-06T17:05:48+00:00",
+  "count": 12,
   "items": [
     {
       "rank": 1,
       "title": "tester-army / e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
-      "metric": "★ 5,446",
+      "metric": "★ 5,930",
       "extra": {
         "language": "TypeScript",
-        "stars": "5,446",
-        "forks": "234",
-        "stars_today": "1,398 stars today"
+        "stars": "5,930",
+        "forks": "266",
+        "stars_today": "1,720 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "thedotmack / claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "metric": "★ 96,840",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 277,813",
       "extra": {
-        "language": "TypeScript",
-        "stars": "96,840",
-        "forks": "8,539",
-        "stars_today": "534 stars today"
+        "language": "Shell",
+        "stars": "277,813",
+        "forks": "23,268",
+        "stars_today": "972 stars today"
       }
     },
     {
@@ -34,142 +34,129 @@
       "title": "earthtojake / text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
-      "metric": "★ 17,668",
+      "metric": "★ 17,822",
       "extra": {
         "language": "Python",
-        "stars": "17,668",
-        "forks": "1,782",
-        "stars_today": "437 stars today"
+        "stars": "17,822",
+        "forks": "1,795",
+        "stars_today": "620 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "metric": "★ 25,763",
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "metric": "★ 5,810",
       "extra": {
-        "language": "TypeScript",
-        "stars": "25,763",
-        "forks": "6,634",
-        "stars_today": "485 stars today"
+        "language": "C++",
+        "stars": "5,810",
+        "forks": "436",
+        "stars_today": "943 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "boykopovar / AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 5,289",
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "metric": "★ 77,517",
       "extra": {
-        "language": "C++",
-        "stars": "5,289",
-        "forks": "391",
-        "stars_today": "997 stars today"
+        "language": "JavaScript",
+        "stars": "77,517",
+        "forks": "4,618",
+        "stars_today": "609 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "metric": "★ 92,310",
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "metric": "★ 97,004",
       "extra": {
-        "language": "Python",
-        "stars": "92,310",
-        "forks": "8,096",
-        "stars_today": "1,155 stars today"
+        "language": "TypeScript",
+        "stars": "97,004",
+        "forks": "8,551",
+        "stars_today": "536 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "metric": "★ 64,430",
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "metric": "★ 54,247",
       "extra": {
         "language": "Python",
-        "stars": "64,430",
-        "forks": "8,160",
-        "stars_today": "742 stars today"
+        "stars": "54,247",
+        "forks": "3,118",
+        "stars_today": "318 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "metric": "★ 77,361",
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "metric": "★ 7,886",
       "extra": {
-        "language": "Go",
-        "stars": "77,361",
-        "forks": "5,086",
-        "stars_today": "515 stars today"
+        "language": "TypeScript",
+        "stars": "7,886",
+        "forks": "876",
+        "stars_today": "2,963 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "DuarteSantos8 / openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "metric": "★ 4,780",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "metric": "★ 8,621",
       "extra": {
-        "language": "JavaScript",
-        "stars": "4,780",
-        "forks": "708",
-        "stars_today": "1,433 stars today"
+        "language": "Cuda",
+        "stars": "8,621",
+        "forks": "1,365",
+        "stars_today": "363 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "cloudflare / cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "metric": "★ 11,152",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "metric": "★ 157,670",
       "extra": {
-        "language": "TypeScript",
-        "stars": "11,152",
-        "forks": "1,319",
-        "stars_today": "101 stars today"
+        "language": "Shell",
+        "stars": "157,670",
+        "forks": "25,413",
+        "stars_today": "621 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "Stremio / stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "description": "Stremio - Freedom to Stream",
-      "metric": "★ 14,394",
+      "title": "DuarteSantos8 / openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "metric": "★ 5,306",
       "extra": {
         "language": "JavaScript",
-        "stars": "14,394",
-        "forks": "1,636",
-        "stars_today": "111 stars today"
+        "stars": "5,306",
+        "forks": "749",
+        "stars_today": "1,419 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "metric": "★ 157,508",
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "metric": "★ 43,814",
       "extra": {
-        "language": "Shell",
-        "stars": "157,508",
-        "forks": "25,398",
-        "stars_today": "744 stars today"
-      }
-    },
-    {
-      "rank": 13,
-      "title": "M-Abozaid / esp32-c3-adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share",
-      "metric": "★ 1,605",
-      "extra": {
-        "language": "C++",
-        "stars": "1,605",
-        "forks": "139",
-        "stars_today": "196 stars today"
+        "language": "HTML",
+        "stars": "43,814",
+        "forks": "2,833",
+        "stars_today": "227 stars today"
       }
     }
   ]
