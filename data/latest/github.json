@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-07T15:19:51+00:00",
+  "updated_at": "2026-10-07T20:44:29+00:00",
   "count": 13,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "metric": "★ 12,603",
+      "metric": "★ 14,254",
       "extra": {
         "language": "TypeScript",
-        "stars": "12,603",
-        "forks": "1,347",
+        "stars": "14,254",
+        "forks": "1,498",
         "stars_today": "4,666 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 279,076",
+      "metric": "★ 279,408",
       "extra": {
         "language": "Shell",
-        "stars": "279,076",
-        "forks": "23,379",
+        "stars": "279,408",
+        "forks": "23,408",
         "stars_today": "1,406 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 8,931",
+      "metric": "★ 9,969",
       "extra": {
         "language": "C++",
-        "stars": "8,931",
-        "forks": "663",
+        "stars": "9,969",
+        "forks": "751",
         "stars_today": "2,725 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "ayghri / i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "metric": "★ 54,832",
+      "metric": "★ 55,010",
       "extra": {
         "language": "Python",
-        "stars": "54,832",
-        "forks": "3,143",
+        "stars": "55,010",
+        "forks": "3,155",
         "stars_today": "620 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "cathrynlavery / diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 44,617",
+      "metric": "★ 44,850",
       "extra": {
         "language": "HTML",
-        "stars": "44,617",
-        "forks": "2,867",
+        "stars": "44,850",
+        "forks": "2,882",
         "stars_today": "828 stars today"
       }
     },
@@ -73,12 +73,12 @@
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 102,494",
+      "metric": "★ 102,697",
       "extra": {
         "language": "JavaScript",
-        "stars": "102,494",
-        "forks": "10,741",
-        "stars_today": "453 stars today"
+        "stars": "102,697",
+        "forks": "10,760",
+        "stars_today": "693 stars today"
       }
     },
     {
@@ -86,11 +86,11 @@
       "title": "EpicGames / raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
       "description": "A native, user-mode, multi-process, graphical debugger.",
-      "metric": "★ 7,752",
+      "metric": "★ 7,825",
       "extra": {
         "language": "C",
-        "stars": "7,752",
-        "forks": "376",
+        "stars": "7,825",
+        "forks": "381",
         "stars_today": "82 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "thedotmack / claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "metric": "★ 97,503",
+      "metric": "★ 97,627",
       "extra": {
         "language": "TypeScript",
-        "stars": "97,503",
-        "forks": "8,584",
+        "stars": "97,627",
+        "forks": "8,596",
         "stars_today": "578 stars today"
       }
     },
@@ -112,12 +112,12 @@
       "title": "manaflow-ai / cmux",
       "url": "https://github.com/manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "metric": "★ 27,734",
+      "metric": "★ 27,802",
       "extra": {
         "language": "Swift",
-        "stars": "27,734",
-        "forks": "2,458",
-        "stars_today": "50 stars today"
+        "stars": "27,802",
+        "forks": "2,460",
+        "stars_today": "96 stars today"
       }
     },
     {
@@ -125,11 +125,11 @@
       "title": "trycua / cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "metric": "★ 28,619",
+      "metric": "★ 28,696",
       "extra": {
         "language": "Rust",
-        "stars": "28,619",
-        "forks": "2,034",
+        "stars": "28,696",
+        "forks": "2,038",
         "stars_today": "229 stars today"
       }
     },
@@ -138,12 +138,12 @@
       "title": "cloudflare / security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "metric": "★ 25,749",
+      "metric": "★ 25,939",
       "extra": {
         "language": "JavaScript",
-        "stars": "25,749",
-        "forks": "1,548",
-        "stars_today": "538 stars today"
+        "stars": "25,939",
+        "forks": "1,559",
+        "stars_today": "617 stars today"
       }
     },
     {
@@ -151,11 +151,11 @@
       "title": "tester-army / e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
-      "metric": "★ 7,063",
+      "metric": "★ 7,296",
       "extra": {
         "language": "TypeScript",
-        "stars": "7,063",
-        "forks": "312",
+        "stars": "7,296",
+        "forks": "328",
         "stars_today": "1,391 stars today"
       }
     },
@@ -164,11 +164,11 @@
       "title": "DuarteSantos8 / openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "metric": "★ 6,526",
+      "metric": "★ 6,746",
       "extra": {
         "language": "JavaScript",
-        "stars": "6,526",
-        "forks": "877",
+        "stars": "6,746",
+        "forks": "895",
         "stars_today": "1,494 stars today"
       }
     }
