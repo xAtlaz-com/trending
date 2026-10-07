@@ -1,15 +1,15 @@
 [
   {
     "rank": 1,
-    "title": "tester-army / e2e",
-    "url": "https://github.com/tester-army/e2e",
-    "description": "Next generation e2e testing framework for web and mobile apps.",
-    "metric": "★ 6,661",
+    "title": "morluto / rea",
+    "url": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "metric": "★ 12,603",
     "extra": {
       "language": "TypeScript",
-      "stars": "6,661",
-      "forks": "294",
-      "stars_today": "1,725 stars today"
+      "stars": "12,603",
+      "forks": "1,347",
+      "stars_today": "4,666 stars today"
     }
   },
   {
@@ -17,142 +17,155 @@
     "title": "mattpocock / skills",
     "url": "https://github.com/mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "metric": "★ 278,508",
+    "metric": "★ 279,076",
     "extra": {
       "language": "Shell",
-      "stars": "278,508",
-      "forks": "23,327",
-      "stars_today": "889 stars today"
+      "stars": "279,076",
+      "forks": "23,379",
+      "stars_today": "1,406 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "earthtojake / text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "description": "Give your agent CAD superpowers.",
-    "metric": "★ 18,137",
+    "title": "boykopovar / AnyPS5",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "metric": "★ 8,931",
     "extra": {
-      "language": "Python",
-      "stars": "18,137",
-      "forks": "1,812",
-      "stars_today": "619 stars today"
+      "language": "C++",
+      "stars": "8,931",
+      "forks": "663",
+      "stars_today": "2,725 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "boykopovar / AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "metric": "★ 7,183",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "metric": "★ 54,832",
     "extra": {
-      "language": "C++",
-      "stars": "7,183",
-      "forks": "540",
-      "stars_today": "949 stars today"
+      "language": "Python",
+      "stars": "54,832",
+      "forks": "3,143",
+      "stars_today": "620 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "pbakaus / impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "metric": "★ 77,908",
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "metric": "★ 44,617",
     "extra": {
-      "language": "JavaScript",
-      "stars": "77,908",
-      "forks": "4,635",
-      "stars_today": "616 stars today"
+      "language": "HTML",
+      "stars": "44,617",
+      "forks": "2,867",
+      "stars_today": "828 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "thedotmack / claude-mem",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-    "metric": "★ 97,316",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "metric": "★ 102,494",
     "extra": {
-      "language": "TypeScript",
-      "stars": "97,316",
-      "forks": "8,576",
-      "stars_today": "534 stars today"
+      "language": "JavaScript",
+      "stars": "102,494",
+      "forks": "10,741",
+      "stars_today": "453 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "ayghri / i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "metric": "★ 54,579",
+    "title": "EpicGames / raddebugger",
+    "url": "https://github.com/EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "metric": "★ 7,752",
     "extra": {
-      "language": "Python",
-      "stars": "54,579",
-      "forks": "3,134",
-      "stars_today": "326 stars today"
+      "language": "C",
+      "stars": "7,752",
+      "forks": "376",
+      "stars_today": "82 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "morluto / rea",
-    "url": "https://github.com/morluto/rea",
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "metric": "★ 10,735",
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "metric": "★ 97,503",
     "extra": {
       "language": "TypeScript",
-      "stars": "10,735",
-      "forks": "1,185",
-      "stars_today": "2,956 stars today"
+      "stars": "97,503",
+      "forks": "8,584",
+      "stars_today": "578 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "deepseek-ai / DeepGEMM",
-    "url": "https://github.com/deepseek-ai/DeepGEMM",
-    "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-    "metric": "★ 8,794",
+    "title": "manaflow-ai / cmux",
+    "url": "https://github.com/manaflow-ai/cmux",
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+    "metric": "★ 27,734",
     "extra": {
-      "language": "Cuda",
-      "stars": "8,794",
-      "forks": "1,387",
-      "stars_today": "199 stars today"
+      "language": "Swift",
+      "stars": "27,734",
+      "forks": "2,458",
+      "stars_today": "50 stars today"
     }
   },
   {
     "rank": 10,
-    "title": "msitarzewski / agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "metric": "★ 158,003",
+    "title": "trycua / cua",
+    "url": "https://github.com/trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "metric": "★ 28,619",
     "extra": {
-      "language": "Shell",
-      "stars": "158,003",
-      "forks": "25,463",
-      "stars_today": "623 stars today"
+      "language": "Rust",
+      "stars": "28,619",
+      "forks": "2,034",
+      "stars_today": "229 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "DuarteSantos8 / openGym",
-    "url": "https://github.com/DuarteSantos8/openGym",
-    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-    "metric": "★ 6,067",
+    "title": "cloudflare / security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "metric": "★ 25,749",
     "extra": {
       "language": "JavaScript",
-      "stars": "6,067",
-      "forks": "824",
-      "stars_today": "1,419 stars today"
+      "stars": "25,749",
+      "forks": "1,548",
+      "stars_today": "538 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "cathrynlavery / diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "metric": "★ 44,263",
+    "title": "tester-army / e2e",
+    "url": "https://github.com/tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "metric": "★ 7,063",
     "extra": {
-      "language": "HTML",
-      "stars": "44,263",
-      "forks": "2,850",
-      "stars_today": "228 stars today"
+      "language": "TypeScript",
+      "stars": "7,063",
+      "forks": "312",
+      "stars_today": "1,391 stars today"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "DuarteSantos8 / openGym",
+    "url": "https://github.com/DuarteSantos8/openGym",
+    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "metric": "★ 6,526",
+    "extra": {
+      "language": "JavaScript",
+      "stars": "6,526",
+      "forks": "877",
+      "stars_today": "1,494 stars today"
     }
   }
 ]
