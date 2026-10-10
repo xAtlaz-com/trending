@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-10T12:55:52+00:00",
+  "updated_at": "2026-10-10T17:42:42+00:00",
   "count": 13,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "metric": "★ 61,525",
+      "metric": "★ 66,805",
       "extra": {
         "language": "TypeScript",
-        "stars": "61,525",
-        "forks": "12,368",
+        "stars": "66,805",
+        "forks": "14,048",
         "stars_today": "25,784 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 24,670",
+      "metric": "★ 25,697",
       "extra": {
         "language": "C++",
-        "stars": "24,670",
-        "forks": "2,043",
+        "stars": "25,697",
+        "forks": "2,138",
         "stars_today": "5,831 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "storytold / artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "metric": "★ 13,001",
+      "metric": "★ 13,661",
       "extra": {
         "language": "Rust",
-        "stars": "13,001",
-        "forks": "2,002",
+        "stars": "13,661",
+        "forks": "2,120",
         "stars_today": "3,217 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "cathrynlavery / diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 48,492",
+      "metric": "★ 48,697",
       "extra": {
         "language": "HTML",
-        "stars": "48,492",
-        "forks": "3,063",
+        "stars": "48,697",
+        "forks": "3,073",
         "stars_today": "1,189 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "mksglu / context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "metric": "★ 26,061",
+      "metric": "★ 26,178",
       "extra": {
         "language": "TypeScript",
-        "stars": "26,061",
-        "forks": "1,879",
+        "stars": "26,178",
+        "forks": "1,882",
         "stars_today": "178 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 283,677",
+      "metric": "★ 284,055",
       "extra": {
         "language": "Shell",
-        "stars": "283,677",
-        "forks": "23,762",
+        "stars": "284,055",
+        "forks": "23,788",
         "stars_today": "1,737 stars today"
       }
     },
@@ -86,12 +86,12 @@
       "title": "flutter / flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "metric": "★ 179,292",
+      "metric": "★ 179,384",
       "extra": {
         "language": "Dart",
-        "stars": "179,292",
-        "forks": "33,534",
-        "stars_today": "39 stars today"
+        "stars": "179,384",
+        "forks": "33,547",
+        "stars_today": "164 stars today"
       }
     },
     {
@@ -99,11 +99,11 @@
       "title": "tensorflow / tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "metric": "★ 200,601",
+      "metric": "★ 200,659",
       "extra": {
         "language": "C++",
-        "stars": "200,601",
-        "forks": "78,889",
+        "stars": "200,659",
+        "forks": "78,909",
         "stars_today": "24 stars today"
       }
     },
@@ -112,12 +112,12 @@
       "title": "hugohe3 / ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "metric": "★ 59,016",
+      "metric": "★ 59,226",
       "extra": {
         "language": "Python",
-        "stars": "59,016",
-        "forks": "4,659",
-        "stars_today": "372 stars today"
+        "stars": "59,226",
+        "forks": "4,667",
+        "stars_today": "515 stars today"
       }
     },
     {
@@ -125,11 +125,11 @@
       "title": "pytorch / pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "metric": "★ 104,037",
+      "metric": "★ 104,083",
       "extra": {
         "language": "Python",
-        "stars": "104,037",
-        "forks": "31,892",
+        "stars": "104,083",
+        "forks": "31,908",
         "stars_today": "81 stars today"
       }
     },
@@ -138,11 +138,11 @@
       "title": "huggingface / transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "metric": "★ 167,006",
+      "metric": "★ 167,115",
       "extra": {
         "language": "Python",
-        "stars": "167,006",
-        "forks": "34,783",
+        "stars": "167,115",
+        "forks": "34,795",
         "stars_today": "94 stars today"
       }
     },
@@ -151,11 +151,11 @@
       "title": "anthropics / knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 28,592",
+      "metric": "★ 28,678",
       "extra": {
         "language": "Python",
-        "stars": "28,592",
-        "forks": "3,267",
+        "stars": "28,678",
+        "forks": "3,269",
         "stars_today": "626 stars today"
       }
     },
@@ -164,11 +164,11 @@
       "title": "multica-ai / andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "metric": "★ 217,879",
+      "metric": "★ 218,045",
       "extra": {
         "language": null,
-        "stars": "217,879",
-        "forks": "21,963",
+        "stars": "218,045",
+        "forks": "21,969",
         "stars_today": "279 stars today"
       }
     }
