@@ -1,118 +1,104 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-10-10T06:15:24+00:00",
-  "count": 8,
+  "updated_at": "2026-10-10T12:55:52+00:00",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro",
-      "url": "https://www.v2ex.com/t/1247361",
-      "description": "功能介绍\n组了 NAS 之后，顺便搭建了 Emby/Jellyfin/Plex 服务器，对观影有了更高的要求，市面上的这类播放器软件，对于免费用户限制比较大，基本无法满足日常使用。我的想法是免费基础功能要能够覆盖大部分使用场景，这样用户量起来之后，可以更快的迭代优化。个人比较看重响应速度和用户体验\n下面是免费版和 Pro 对比：\n\n\n\n功能\n免费版\nPro\n\n\n\n\n视频播放\n✅\n✅\n\n\nJellyfin / Emby / Plex 服务器\n1 个\n不限\n\n\n本地文件 / WebDAV / SMB / NFS / FTP\n✅\n✅\n\n\n跳过片头\n❌\n✅\n\n\n学习模式：悬停查词\n✅\n✅\n\n\n学习模式",
-      "metric": "198 回复",
-      "metric_value": 198,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "trumpmaga",
-        "last_touched": 1791611038
-      }
-    },
-    {
-      "rank": 2,
-      "title": "大家有什么二手便宜好物推荐吗？感觉生活很枯燥，想买点东西玩一玩或者折腾点什么东西",
-      "url": "https://www.v2ex.com/t/1247354",
-      "description": "什么类型的都可以，包括不限于二手手机，老式胶片相机，扫地机器人，或者各种可以折腾的东西。或者是那种原本价格比较贵二手价格却很便宜的东西。感谢大家多多推荐",
-      "metric": "95 回复",
-      "metric_value": 95,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "Lasia",
-        "last_touched": 1791612286
-      }
-    },
-    {
-      "rank": 3,
       "title": "十年挚友，突然离世",
       "url": "https://www.v2ex.com/t/1247465",
       "description": "十年的挚友，永远留在了今年这个中秋\n今天是 2026 年 10 月 9 日。\n距离中秋节已经过去了十多天，国庆假期也结束了。直到今天，我才知道，我认识了十年的挚友，已经在中秋节那天离开了。\n我到现在还是有点恍惚，不知道该怎么接受这件事。\n我们是大学舍友，毕业之后虽然一直分隔两地，但始终保持着联系。平时经常一起打游戏，聊技术，聊工作，聊各种各样的话题。以前下班路上，我们也经常互相打微信电话。\n十年时间，说长不长，说短也不短。我一直觉得，我们还会这样联系很多年。\n没想到，最后一次聊天，竟然停在了 9 月 24 日。\n那天我们还在一起吐槽 AI ，聊着互联网行业里的那些事，一切都和平常一样。我完全没",
-      "metric": "74 回复",
-      "metric_value": 74,
+      "metric": "122 回复",
+      "metric_value": 122,
       "extra": {
         "node": "生活",
         "node_name": "life",
         "author": "LUCIFERorCHRIS",
-        "last_touched": 1791612591
+        "last_touched": 1791634101
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "发工资了今晚干一票大的，我准备直接用招行卡开 5 倍 max",
+      "url": "https://www.v2ex.com/t/1247676",
+      "description": "我看 claude 官网能选 china 地址了，我准备直接选我的居住地天津的地址，然后我看来一下 max 的费用是 3,047.62 台币 折合人人民币也就是不到 650 而且换算成美元也是 95 美金，如果能开出来那岂不是血赚了。\n刚才在工位试了一下，触发活体验证了，我扫描了我的身份证，好像不行，说要 passport ，我一下下班就回去那护照去，tmd 等我好消息",
+      "metric": "100 回复",
+      "metric_value": 100,
+      "extra": {
+        "node": "Claude",
+        "node_name": "claude",
+        "author": "xxzhaoming",
+        "last_touched": 1791636808
+      }
+    },
+    {
+      "rank": 3,
       "title": "超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行",
       "url": "https://www.v2ex.com/t/1247511",
       "description": "自回归模型不回归\n怪不得 OpenAI 要推迟上市",
-      "metric": "69 回复",
-      "metric_value": 69,
+      "metric": "98 回复",
+      "metric_value": 98,
       "extra": {
         "node": "OpenAI",
         "node_name": "openai",
         "author": "penzi",
-        "last_touched": 1791611569
+        "last_touched": 1791634583
       }
     },
     {
-      "rank": 5,
-      "title": "[送码] Picser 3.0 上线：我开发的 macOS 看图软件加了挑片功能",
-      "url": "https://www.v2ex.com/t/1247383",
-      "description": "应该也是去年这个季节，Picser 的第一个 MVP 上架，我也是在 V 站发的帖，当时送出去不少终身 Pro 。\n陆陆续续开发了一年多，图标重新设计了好几次，现在看顺眼多了。\n当然功能也补了不少，3.0.0 加了 挑片功能 ：可以把照片标成 拒绝/收藏 ，再按标记进行筛选。\n刚好这次假期回来拍了几百张照片 又不想在手机上一张张划着挑的，可以试试我这个功能 😂\n当然如果你有更多筛选需求，Picser 也早在 2.0  版支持了标签的。\n挑片的演示视频： https://x.com/oaseen/status/2108022148283691071?s=46\n官网： https://picser",
-      "metric": "63 回复",
-      "metric_value": 63,
-      "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "bytewalk",
-        "last_touched": 1791612730
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "五年后，还有多少程序员能靠写代码活着？",
       "url": "https://www.v2ex.com/t/1247509",
       "description": "AI 进化得越快，程序员的角色就被削得越薄。说到底，算盘高手终究输给了按计算器的小学生——不是输在技术，是输在时代换了赛道。程序员这个岗位还能撑几年？有没有大佬已经悄悄铺好后路，像炒股一样，嗅到风向不对就提前离场了？",
-      "metric": "58 回复",
-      "metric_value": 58,
+      "metric": "87 回复",
+      "metric_value": 87,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "diandian666",
-        "last_touched": 1791612453
+        "last_touched": 1791635677
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "做了一个“珠光宝气”的页面， V 友看看咋样，提提意见",
       "url": "https://www.v2ex.com/t/1247527",
       "description": "www.ailyre.com/news/\n最好用电脑看，效果更完整一些\n整体观感如何？是不是有些太浮夸了……",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "metric": "79 回复",
+      "metric_value": 79,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "nxc8335",
-        "last_touched": 1790421092
+        "last_touched": 1791569680
       }
     },
     {
-      "rank": 8,
-      "title": "codex 现在给我的感受就是又蠢又懒",
-      "url": "https://www.v2ex.com/t/1247408",
-      "description": "比 5.5 那时候出来的惊艳相比，这个 6 6.1 也太差了，我只有在 Astra Ultra fast 模式下，才能体会到之前那种干活的流畅感。现在一直在那思考，不知道在那思考什么，慢的要命，更关键的是干的活也没有之前利索了，总是毛毛躁躁的，不理解我的意思，敲打一下就朝另一个方向偏。",
-      "metric": "43 回复",
-      "metric_value": 43,
+      "rank": 6,
+      "title": "[送码]我把 1996 年《小浣熊水浒卡》的 [闪光] 效果做出来了",
+      "url": "https://www.v2ex.com/t/1247629",
+      "description": "效果演示视频：\nhttps://www.bilibili.com/video/BV1oupi6HEtw?share_source=copy_web\n下载地址\nhttps://apps.apple.com/cn/app/id6806215315\n主要信息\n应用名字：《水浒卡》\n做了哪些工作？\n1 、对卡图进行了高清化，基本可以做到 100%还原细节\n2 、在手机上还原了“粗闪”闪卡效果\n送码\nApp 本身是免费的，不用内购也能玩，就是每天有拆卡次数限制。\n为了给自己打造一点人气，回帖的兄弟，给价值 68 元的内购码\n3 、添加了一些玩法，主要是拆卡包",
+      "metric": "65 回复",
+      "metric_value": 65,
       "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "xingfu0539",
-        "last_touched": 1791587474
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "andforce",
+        "last_touched": 1791636839
+      }
+    },
+    {
+      "rank": 7,
+      "title": "曝光一个互联网小骗子 本站用户 @missx",
+      "url": "https://www.v2ex.com/t/1247525",
+      "description": "事由： https://v2ex.com/t/1246647\n评论区回复是家宽，且当时手上确实想要换家家宽落地，出于对 v 友的信任先款了（谁会拿 10 块钱抹黑自己的互联网信誉呢\n发来第一个节点，落地 IP 为: https://iplark.com/45.153.246.0  [隐藏了具体 IP ] 数据中心,广播 IP (DE) \n我询问是不是发错了,因为这完全不是家宽，而且是属于品质非常差的那种 IP 类型.\n遂又发了我一个落地 IP 为: https://iplark.com/178.239.117.0 数据中心 广播 IP (BG)\n看了下发我的节点域名，疑似是某个机场的订阅，遂要",
+      "metric": "57 回复",
+      "metric_value": 57,
+      "extra": {
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "Kinnice",
+        "last_touched": 1791631116
       }
     }
   ]

@@ -1,19 +1,19 @@
 {
   "source": "github",
-  "updated_at": "2026-10-10T06:15:24+00:00",
-  "count": 11,
+  "updated_at": "2026-10-10T12:55:52+00:00",
+  "count": 13,
   "items": [
     {
       "rank": 1,
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "metric": "★ 53,162",
+      "metric": "★ 61,525",
       "extra": {
         "language": "TypeScript",
-        "stars": "53,162",
-        "forks": "9,931",
-        "stars_today": "14,927 stars today"
+        "stars": "61,525",
+        "forks": "12,368",
+        "stars_today": "25,784 stars today"
       }
     },
     {
@@ -21,25 +21,25 @@
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 23,234",
+      "metric": "★ 24,670",
       "extra": {
         "language": "C++",
-        "stars": "23,234",
-        "forks": "1,916",
-        "stars_today": "5,868 stars today"
+        "stars": "24,670",
+        "forks": "2,043",
+        "stars_today": "5,831 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 283,134",
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "metric": "★ 13,001",
       "extra": {
-        "language": "Shell",
-        "stars": "283,134",
-        "forks": "23,719",
-        "stars_today": "1,687 stars today"
+        "language": "Rust",
+        "stars": "13,001",
+        "forks": "2,002",
+        "stars_today": "3,217 stars today"
       }
     },
     {
@@ -47,103 +47,129 @@
       "title": "cathrynlavery / diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 48,176",
+      "metric": "★ 48,492",
       "extra": {
         "language": "HTML",
-        "stars": "48,176",
-        "forks": "3,049",
-        "stars_today": "1,739 stars today"
+        "stars": "48,492",
+        "forks": "3,063",
+        "stars_today": "1,189 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "metric": "★ 45,473",
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "metric": "★ 26,061",
       "extra": {
-        "language": "Go",
-        "stars": "45,473",
-        "forks": "3,283",
-        "stars_today": "326 stars today"
+        "language": "TypeScript",
+        "stars": "26,061",
+        "forks": "1,879",
+        "stars_today": "178 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "anthropics / knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 28,408",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 283,677",
       "extra": {
-        "language": "Python",
-        "stars": "28,408",
-        "forks": "3,255",
-        "stars_today": "709 stars today"
+        "language": "Shell",
+        "stars": "283,677",
+        "forks": "23,762",
+        "stars_today": "1,737 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "BerriAI / litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "metric": "★ 60,779",
+      "title": "flutter / flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "metric": "★ 179,292",
       "extra": {
-        "language": "Python",
-        "stars": "60,779",
-        "forks": "12,198",
-        "stars_today": "95 stars today"
+        "language": "Dart",
+        "stars": "179,292",
+        "forks": "33,534",
+        "stars_today": "39 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 104,163",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "metric": "★ 200,601",
       "extra": {
-        "language": "JavaScript",
-        "stars": "104,163",
-        "forks": "10,872",
-        "stars_today": "436 stars today"
+        "language": "C++",
+        "stars": "200,601",
+        "forks": "78,889",
+        "stars_today": "24 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "storytold / artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "metric": "★ 12,135",
+      "title": "hugohe3 / ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "metric": "★ 59,016",
       "extra": {
-        "language": "Rust",
-        "stars": "12,135",
-        "forks": "1,849",
-        "stars_today": "3,752 stars today"
+        "language": "Python",
+        "stars": "59,016",
+        "forks": "4,659",
+        "stars_today": "372 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "Robbyant / lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "metric": "★ 17,799",
+      "title": "pytorch / pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "metric": "★ 104,037",
       "extra": {
         "language": "Python",
-        "stars": "17,799",
-        "forks": "1,957",
-        "stars_today": "110 stars today"
+        "stars": "104,037",
+        "forks": "31,892",
+        "stars_today": "81 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "twostraws / SwiftUI-Agent-Skill",
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "metric": "★ 5,565",
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "metric": "★ 167,006",
+      "extra": {
+        "language": "Python",
+        "stars": "167,006",
+        "forks": "34,783",
+        "stars_today": "94 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "metric": "★ 28,592",
+      "extra": {
+        "language": "Python",
+        "stars": "28,592",
+        "forks": "3,267",
+        "stars_today": "626 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "metric": "★ 217,879",
       "extra": {
         "language": null,
-        "stars": "5,565",
-        "forks": "197",
-        "stars_today": "65 stars today"
+        "stars": "217,879",
+        "forks": "21,963",
+        "stars_today": "279 stars today"
       }
     }
   ]

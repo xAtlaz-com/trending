@@ -4,61 +4,14 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sat, 10 Oct 2026 06:15:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 12:55:52 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
-<item>
-<title>[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro</title>
-<link>https://www.v2ex.com/t/1247361</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1247361</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#1 | 198 回复 | 功能介绍
-组了 NAS 之后，顺便搭建了 Emby/Jellyfin/Plex 服务器，对观影有了更高的要求，市面上的这类播放器软件，对于免费用户限制比较大，基本无法满足日常使用。我的想法是免费基础功能要能够覆盖大部分使用场景，这样用户量起来之后，可以更快的迭代优化。个人比较看重响应速度和用户体验
-下面是免费版和 Pro 对比：
-
-
-
-功能
-免费版
-Pro
-
-
-
-
-视频播放
-✅
-✅
-
-
-Jellyfin / Emby / Plex 服务器
-1 个
-不限
-
-
-本地文件 / WebDAV / SMB / NFS / FTP
-✅
-✅
-
-
-跳过片头
-❌
-✅
-
-
-</description>
-</item>
-<item>
-<title>大家有什么二手便宜好物推荐吗？感觉生活很枯燥，想买点东西玩一玩或者折腾点什么东西</title>
-<link>https://www.v2ex.com/t/1247354</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1247354</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#2 | 95 回复 | 什么类型的都可以，包括不限于二手手机，老式胶片相机，扫地机器人，或者各种可以折腾的东西。或者是那种原本价格比较贵二手价格却很便宜的东西。感谢大家多多推荐</description>
-</item>
 <item>
 <title>十年挚友，突然离世</title>
 <link>https://www.v2ex.com/t/1247465</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1247465</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#3 | 74 回复 | 十年的挚友，永远留在了今年这个中秋
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#1 | 122 回复 | 十年的挚友，永远留在了今年这个中秋
 今天是 2026 年 10 月 9 日。
 距离中秋节已经过去了十多天，国庆假期也结束了。直到今天，我才知道，我认识了十年的挚友，已经在中秋节那天离开了。
 我到现在还是有点恍惚，不知道该怎么接受这件事。
@@ -68,47 +21,67 @@ Jellyfin / Emby / Plex 服务器
 那天我们还在一起吐槽 AI ，聊着互联网行</description>
 </item>
 <item>
+<title>发工资了今晚干一票大的，我准备直接用招行卡开 5 倍 max</title>
+<link>https://www.v2ex.com/t/1247676</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1247676</guid>
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#2 | 100 回复 | 我看 claude 官网能选 china 地址了，我准备直接选我的居住地天津的地址，然后我看来一下 max 的费用是 3,047.62 台币 折合人人民币也就是不到 650 而且换算成美元也是 95 美金，如果能开出来那岂不是血赚了。
+刚才在工位试了一下，触发活体验证了，我扫描了我的身份证，好像不行，说要 passport ，我一下下班就回去那护照去，tmd 等我好消息</description>
+</item>
+<item>
 <title>超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行</title>
 <link>https://www.v2ex.com/t/1247511</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1247511</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#4 | 69 回复 | 自回归模型不回归
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#3 | 98 回复 | 自回归模型不回归
 怪不得 OpenAI 要推迟上市</description>
-</item>
-<item>
-<title>[送码] Picser 3.0 上线：我开发的 macOS 看图软件加了挑片功能</title>
-<link>https://www.v2ex.com/t/1247383</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1247383</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#5 | 63 回复 | 应该也是去年这个季节，Picser 的第一个 MVP 上架，我也是在 V 站发的帖，当时送出去不少终身 Pro 。
-陆陆续续开发了一年多，图标重新设计了好几次，现在看顺眼多了。
-当然功能也补了不少，3.0.0 加了 挑片功能 ：可以把照片标成 拒绝/收藏 ，再按标记进行筛选。
-刚好这次假期回来拍了几百张照片 又不想在手机上一张张划着挑的，可以试试我这个功能 😂
-当然如果你有更多筛选需求，Picser 也早在 2.0  版支持了标签的。
-挑片的演示视频： https://x.com/oaseen/status/2108022148283691071?s=4</description>
 </item>
 <item>
 <title>五年后，还有多少程序员能靠写代码活着？</title>
 <link>https://www.v2ex.com/t/1247509</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1247509</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#6 | 58 回复 | AI 进化得越快，程序员的角色就被削得越薄。说到底，算盘高手终究输给了按计算器的小学生——不是输在技术，是输在时代换了赛道。程序员这个岗位还能撑几年？有没有大佬已经悄悄铺好后路，像炒股一样，嗅到风向不对就提前离场了？</description>
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#4 | 87 回复 | AI 进化得越快，程序员的角色就被削得越薄。说到底，算盘高手终究输给了按计算器的小学生——不是输在技术，是输在时代换了赛道。程序员这个岗位还能撑几年？有没有大佬已经悄悄铺好后路，像炒股一样，嗅到风向不对就提前离场了？</description>
 </item>
 <item>
 <title>做了一个“珠光宝气”的页面， V 友看看咋样，提提意见</title>
 <link>https://www.v2ex.com/t/1247527</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1247527</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#7 | 43 回复 | www.ailyre.com/news/
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#5 | 79 回复 | www.ailyre.com/news/
 最好用电脑看，效果更完整一些
 整体观感如何？是不是有些太浮夸了……</description>
 </item>
 <item>
-<title>codex 现在给我的感受就是又蠢又懒</title>
-<link>https://www.v2ex.com/t/1247408</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1247408</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:24 +0000</pubDate>
-<description>#8 | 43 回复 | 比 5.5 那时候出来的惊艳相比，这个 6 6.1 也太差了，我只有在 Astra Ultra fast 模式下，才能体会到之前那种干活的流畅感。现在一直在那思考，不知道在那思考什么，慢的要命，更关键的是干的活也没有之前利索了，总是毛毛躁躁的，不理解我的意思，敲打一下就朝另一个方向偏。</description>
+<title>[送码]我把 1996 年《小浣熊水浒卡》的 [闪光] 效果做出来了</title>
+<link>https://www.v2ex.com/t/1247629</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1247629</guid>
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#6 | 65 回复 | 效果演示视频：
+https://www.bilibili.com/video/BV1oupi6HEtw?share_source=copy_web
+下载地址
+https://apps.apple.com/cn/app/id6806215315
+主要信息
+应用名字：《水浒卡》
+做了哪些工作？
+1 、对卡图进行了高清化，基本可以做到 100%还原细节
+2 、在手机上还原了“粗闪”闪卡效果
+送码
+App 本身是免费的，不用内购也能玩，就是每天有拆卡次数限制。
+为了给自己打造一点人气，回帖的兄弟，给价值 68 元的内购码
+3 、添加了一些玩法，主要是拆卡包</description>
+</item>
+<item>
+<title>曝光一个互联网小骗子 本站用户 @missx</title>
+<link>https://www.v2ex.com/t/1247525</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1247525</guid>
+<pubDate>Sat, 10 Oct 2026 12:55:52 +0000</pubDate>
+<description>#7 | 57 回复 | 事由： https://v2ex.com/t/1246647
+评论区回复是家宽，且当时手上确实想要换家家宽落地，出于对 v 友的信任先款了（谁会拿 10 块钱抹黑自己的互联网信誉呢
+发来第一个节点，落地 IP 为: https://iplark.com/45.153.246.0  [隐藏了具体 IP ] 数据中心,广播 IP (DE) 
+我询问是不是发错了,因为这完全不是家宽，而且是属于品质非常差的那种 IP 类型.
+遂又发了我一个落地 IP 为: https://iplark.com/178.239.117.0 数据中心 广播 IP (BG)
+看了下发</description>
 </item>
 </channel>
 </rss>
