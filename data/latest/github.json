@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-09T20:15:59+00:00",
+  "updated_at": "2026-10-10T00:14:53+00:00",
   "count": 11,
   "items": [
     {
@@ -8,12 +8,12 @@
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "metric": "★ 42,228",
+      "metric": "★ 45,577",
       "extra": {
         "language": "TypeScript",
-        "stars": "42,228",
-        "forks": "6,586",
-        "stars_today": "15,335 stars today"
+        "stars": "45,577",
+        "forks": "7,228",
+        "stars_today": "14,927 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 21,348",
+      "metric": "★ 22,262",
       "extra": {
         "language": "C++",
-        "stars": "21,348",
-        "forks": "1,727",
-        "stars_today": "5,925 stars today"
+        "stars": "22,262",
+        "forks": "1,814",
+        "stars_today": "5,868 stars today"
       }
     },
     {
@@ -34,12 +34,12 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 282,441",
+      "metric": "★ 282,659",
       "extra": {
         "language": "Shell",
-        "stars": "282,441",
-        "forks": "23,661",
-        "stars_today": "1,696 stars today"
+        "stars": "282,659",
+        "forks": "23,680",
+        "stars_today": "1,687 stars today"
       }
     },
     {
@@ -47,12 +47,12 @@
       "title": "cathrynlavery / diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 47,714",
+      "metric": "★ 47,844",
       "extra": {
         "language": "HTML",
-        "stars": "47,714",
-        "forks": "3,025",
-        "stars_today": "1,744 stars today"
+        "stars": "47,844",
+        "forks": "3,033",
+        "stars_today": "1,739 stars today"
       }
     },
     {
@@ -60,12 +60,12 @@
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "metric": "★ 45,076",
+      "metric": "★ 45,191",
       "extra": {
         "language": "Go",
-        "stars": "45,076",
-        "forks": "3,259",
-        "stars_today": "323 stars today"
+        "stars": "45,191",
+        "forks": "3,260",
+        "stars_today": "326 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "anthropics / knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 28,159",
+      "metric": "★ 28,244",
       "extra": {
         "language": "Python",
-        "stars": "28,159",
-        "forks": "3,239",
-        "stars_today": "714 stars today"
+        "stars": "28,244",
+        "forks": "3,243",
+        "stars_today": "709 stars today"
       }
     },
     {
@@ -86,11 +86,11 @@
       "title": "BerriAI / litellm",
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "metric": "★ 60,584",
+      "metric": "★ 60,652",
       "extra": {
         "language": "Python",
-        "stars": "60,584",
-        "forks": "12,178",
+        "stars": "60,652",
+        "forks": "12,186",
         "stars_today": "95 stars today"
       }
     },
@@ -99,12 +99,12 @@
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 103,871",
+      "metric": "★ 103,978",
       "extra": {
         "language": "JavaScript",
-        "stars": "103,871",
-        "forks": "10,860",
-        "stars_today": "523 stars today"
+        "stars": "103,978",
+        "forks": "10,868",
+        "stars_today": "436 stars today"
       }
     },
     {
@@ -112,12 +112,12 @@
       "title": "storytold / artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "metric": "★ 10,989",
+      "metric": "★ 11,431",
       "extra": {
         "language": "Rust",
-        "stars": "10,989",
-        "forks": "1,648",
-        "stars_today": "3,723 stars today"
+        "stars": "11,431",
+        "forks": "1,730",
+        "stars_today": "3,752 stars today"
       }
     },
     {
@@ -125,12 +125,12 @@
       "title": "Robbyant / lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "metric": "★ 17,641",
+      "metric": "★ 17,689",
       "extra": {
         "language": "Python",
-        "stars": "17,641",
-        "forks": "1,946",
-        "stars_today": "109 stars today"
+        "stars": "17,689",
+        "forks": "1,950",
+        "stars_today": "110 stars today"
       }
     },
     {
@@ -138,12 +138,12 @@
       "title": "twostraws / SwiftUI-Agent-Skill",
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "metric": "★ 5,364",
+      "metric": "★ 5,414",
       "extra": {
         "language": null,
-        "stars": "5,364",
-        "forks": "192",
-        "stars_today": "88 stars today"
+        "stars": "5,414",
+        "forks": "196",
+        "stars_today": "65 stars today"
       }
     }
   ]
