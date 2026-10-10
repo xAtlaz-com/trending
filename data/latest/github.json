@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-10T00:14:53+00:00",
+  "updated_at": "2026-10-10T06:15:24+00:00",
   "count": 11,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "metric": "★ 45,577",
+      "metric": "★ 53,162",
       "extra": {
         "language": "TypeScript",
-        "stars": "45,577",
-        "forks": "7,228",
+        "stars": "53,162",
+        "forks": "9,931",
         "stars_today": "14,927 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "metric": "★ 22,262",
+      "metric": "★ 23,234",
       "extra": {
         "language": "C++",
-        "stars": "22,262",
-        "forks": "1,814",
+        "stars": "23,234",
+        "forks": "1,916",
         "stars_today": "5,868 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 282,659",
+      "metric": "★ 283,134",
       "extra": {
         "language": "Shell",
-        "stars": "282,659",
-        "forks": "23,680",
+        "stars": "283,134",
+        "forks": "23,719",
         "stars_today": "1,687 stars today"
       }
     },
@@ -46,12 +46,12 @@
       "rank": 4,
       "title": "cathrynlavery / diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 47,844",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "metric": "★ 48,176",
       "extra": {
         "language": "HTML",
-        "stars": "47,844",
-        "forks": "3,033",
+        "stars": "48,176",
+        "forks": "3,049",
         "stars_today": "1,739 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "metric": "★ 45,191",
+      "metric": "★ 45,473",
       "extra": {
         "language": "Go",
-        "stars": "45,191",
-        "forks": "3,260",
+        "stars": "45,473",
+        "forks": "3,283",
         "stars_today": "326 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "anthropics / knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 28,244",
+      "metric": "★ 28,408",
       "extra": {
         "language": "Python",
-        "stars": "28,244",
-        "forks": "3,243",
+        "stars": "28,408",
+        "forks": "3,255",
         "stars_today": "709 stars today"
       }
     },
@@ -86,11 +86,11 @@
       "title": "BerriAI / litellm",
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "metric": "★ 60,652",
+      "metric": "★ 60,779",
       "extra": {
         "language": "Python",
-        "stars": "60,652",
-        "forks": "12,186",
+        "stars": "60,779",
+        "forks": "12,198",
         "stars_today": "95 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 103,978",
+      "metric": "★ 104,163",
       "extra": {
         "language": "JavaScript",
-        "stars": "103,978",
-        "forks": "10,868",
+        "stars": "104,163",
+        "forks": "10,872",
         "stars_today": "436 stars today"
       }
     },
@@ -112,11 +112,11 @@
       "title": "storytold / artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "metric": "★ 11,431",
+      "metric": "★ 12,135",
       "extra": {
         "language": "Rust",
-        "stars": "11,431",
-        "forks": "1,730",
+        "stars": "12,135",
+        "forks": "1,849",
         "stars_today": "3,752 stars today"
       }
     },
@@ -125,11 +125,11 @@
       "title": "Robbyant / lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "metric": "★ 17,689",
+      "metric": "★ 17,799",
       "extra": {
         "language": "Python",
-        "stars": "17,689",
-        "forks": "1,950",
+        "stars": "17,799",
+        "forks": "1,957",
         "stars_today": "110 stars today"
       }
     },
@@ -138,11 +138,11 @@
       "title": "twostraws / SwiftUI-Agent-Skill",
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "metric": "★ 5,414",
+      "metric": "★ 5,565",
       "extra": {
         "language": null,
-        "stars": "5,414",
-        "forks": "196",
+        "stars": "5,565",
+        "forks": "197",
         "stars_today": "65 stars today"
       }
     }
