@@ -4,77 +4,77 @@
     "title": "morluto / rea",
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "metric": "★ 124,825",
+    "metric": "★ 146,608",
     "extra": {
       "language": "TypeScript",
-      "stars": "124,825",
-      "forks": "28,054",
-      "stars_today": "25,599 stars today"
+      "stars": "146,608",
+      "forks": "33,993",
+      "stars_today": "45,495 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "boykopovar / AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "metric": "★ 31,212",
+    "title": "bilawalsidhu / gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "metric": "★ 53,230",
     "extra": {
-      "language": "C++",
-      "stars": "31,212",
-      "forks": "2,682",
-      "stars_today": "3,952 stars today"
+      "language": "JavaScript",
+      "stars": "53,230",
+      "forks": "10,569",
+      "stars_today": "1,903 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "storytold / artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "metric": "★ 19,394",
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "metric": "★ 27,096",
     "extra": {
-      "language": "Rust",
-      "stars": "19,394",
-      "forks": "3,155",
-      "stars_today": "2,957 stars today"
+      "language": "TypeScript",
+      "stars": "27,096",
+      "forks": "1,936",
+      "stars_today": "394 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "cathrynlavery / diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "metric": "★ 51,271",
+    "title": "storytold / artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "metric": "★ 21,041",
     "extra": {
-      "language": "HTML",
-      "stars": "51,271",
-      "forks": "3,244",
-      "stars_today": "1,083 stars today"
+      "language": "Rust",
+      "stars": "21,041",
+      "forks": "3,413",
+      "stars_today": "4,106 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "bilawalsidhu / gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "metric": "★ 52,392",
+    "title": "open-webui / open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "metric": "★ 154,751",
     "extra": {
-      "language": "JavaScript",
-      "stars": "52,392",
-      "forks": "10,459",
-      "stars_today": "886 stars today"
+      "language": "Python",
+      "stars": "154,751",
+      "forks": "22,626",
+      "stars_today": "142 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "pytorch / pytorch",
-    "url": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "metric": "★ 104,678",
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "metric": "★ 52,255",
     "extra": {
-      "language": "Python",
-      "stars": "104,678",
-      "forks": "32,185",
-      "stars_today": "315 stars today"
+      "language": "HTML",
+      "stars": "52,255",
+      "forks": "3,295",
+      "stars_today": "2,100 stars today"
     }
   },
   {
@@ -82,25 +82,38 @@
     "title": "lyogavin / airllm",
     "url": "https://github.com/lyogavin/airllm",
     "description": "AirLLM 70B inference with single 4GB GPU",
-    "metric": "★ 36,860",
+    "metric": "★ 37,330",
     "extra": {
       "language": "Jupyter Notebook",
-      "stars": "36,860",
-      "forks": "3,834",
-      "stars_today": "548 stars today"
+      "stars": "37,330",
+      "forks": "3,859",
+      "stars_today": "886 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "chrislgarry / Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "metric": "★ 74,470",
+    "title": "microsoft / BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "metric": "★ 40,826",
     "extra": {
-      "language": "Assembly",
-      "stars": "74,470",
-      "forks": "8,118",
-      "stars_today": "466 stars today"
+      "language": "C++",
+      "stars": "40,826",
+      "forks": "3,803",
+      "stars_today": "134 stars today"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "Alishahryar1 / free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "metric": "★ 58,770",
+    "extra": {
+      "language": "Python",
+      "stars": "58,770",
+      "forks": "9,288",
+      "stars_today": "705 stars today"
     }
   }
 ]
