@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-13T08:14:20+00:00",
+  "updated_at": "2026-10-13T16:18:16+00:00",
   "count": 9,
   "items": [
     {
@@ -8,12 +8,12 @@
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "metric": "★ 177,391",
+      "metric": "★ 196,483",
       "extra": {
         "language": "TypeScript",
-        "stars": "177,391",
-        "forks": "42,635",
-        "stars_today": "45,327 stars today"
+        "stars": "196,483",
+        "forks": "48,024",
+        "stars_today": "54,706 stars today"
       }
     },
     {
@@ -21,64 +21,64 @@
       "title": "bilawalsidhu / gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "metric": "★ 54,272",
+      "metric": "★ 54,863",
       "extra": {
         "language": "JavaScript",
-        "stars": "54,272",
-        "forks": "10,680",
-        "stars_today": "1,895 stars today"
+        "stars": "54,863",
+        "forks": "10,763",
+        "stars_today": "1,961 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "metric": "★ 27,613",
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "metric": "★ 62,150",
       "extra": {
-        "language": "TypeScript",
-        "stars": "27,613",
-        "forks": "1,959",
-        "stars_today": "246 stars today"
+        "language": "Python",
+        "stars": "62,150",
+        "forks": "6,936",
+        "stars_today": "1,691 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "storytold / artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "metric": "★ 23,329",
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "metric": "★ 27,953",
       "extra": {
-        "language": "Rust",
-        "stars": "23,329",
-        "forks": "3,720",
-        "stars_today": "4,095 stars today"
+        "language": "TypeScript",
+        "stars": "27,953",
+        "forks": "1,979",
+        "stars_today": "978 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "open-webui / open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "metric": "★ 155,388",
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "metric": "★ 53,696",
       "extra": {
-        "language": "Python",
-        "stars": "155,388",
-        "forks": "22,665",
-        "stars_today": "157 stars today"
+        "language": "HTML",
+        "stars": "53,696",
+        "forks": "3,404",
+        "stars_today": "1,813 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "cathrynlavery / diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 53,139",
+      "title": "vercel-labs / skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "metric": "★ 34,275",
       "extra": {
-        "language": "HTML",
-        "stars": "53,139",
-        "forks": "3,361",
-        "stars_today": "2,081 stars today"
+        "language": "TypeScript",
+        "stars": "34,275",
+        "forks": "2,938",
+        "stars_today": "187 stars today"
       }
     },
     {
@@ -86,38 +86,38 @@
       "title": "lyogavin / airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "metric": "★ 37,827",
+      "metric": "★ 38,116",
       "extra": {
         "language": "Jupyter Notebook",
-        "stars": "37,827",
-        "forks": "3,890",
-        "stars_today": "879 stars today"
+        "stars": "38,116",
+        "forks": "3,901",
+        "stars_today": "1,004 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "microsoft / BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "metric": "★ 41,042",
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "metric": "★ 24,690",
       "extra": {
-        "language": "C++",
-        "stars": "41,042",
-        "forks": "3,819",
-        "stars_today": "97 stars today"
+        "language": "Rust",
+        "stars": "24,690",
+        "forks": "3,897",
+        "stars_today": "4,078 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "metric": "★ 59,606",
+      "title": "xtool-org / xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "metric": "★ 8,880",
       "extra": {
-        "language": "Python",
-        "stars": "59,606",
-        "forks": "9,361",
-        "stars_today": "626 stars today"
+        "language": "Swift",
+        "stars": "8,880",
+        "forks": "369",
+        "stars_today": "936 stars today"
       }
     }
   ]
