@@ -4,14 +4,14 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Wed, 14 Oct 2026 00:31:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 05:56:06 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>关于长辈抽烟的问题，有好的解决办法么？</title>
 <link>https://www.v2ex.com/t/1248405</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1248405</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#1 | 127 回复 | 家里住的是 2 梯 4 户的住宅，中间有一条比较长的公共连廊。
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#1 | 232 回复 | 家里住的是 2 梯 4 户的住宅，中间有一条比较长的公共连廊。
 我爸前几年又开始抽烟了，其实他之前已经戒了很多年。后来因为抽烟比较多，经常咳嗽，还戒过一段时间，但这几年又抽上了。
 我和我妈都劝不动他，慢慢也就默认了，只要他不在家里抽就行。平时他有时候在连廊抽，有时候在楼梯口抽。
 最近因为这件事，邻居找上门了。
@@ -19,98 +19,110 @@
 但问题是，我之前也跟我爸沟通过好几次了，每次说到抽烟的事情，他脾气都比较大，最后基本都会吵</description>
 </item>
 <item>
-<title>用 Rust 重写一切，这次是 navicat</title>
-<link>https://www.v2ex.com/t/1248355</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1248355</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#2 | 110 回复 | 背景
-公司前阵子收到了律师函，于是通知全员删除 navicat ，个人版也不行，要求用开源的 DBeaver ，由于常年习惯了 navicat 的布局和操作习惯，实在适应不了其他工具，都 AI 时代了，索性自己撸一个吧。
-技术栈 &amp;amp; 进度
-Rust + GPUI ，gpui-kit 组件库 , shadcn 风格。无 WebView ，全部 UI 都用 Rust 写
-适配了 ODBC 驱动，理论上只要有 ODBC 驱动，都能连接
-
-
-
-数据库
-状态
-
-
-
-
-MySQL / MariaDB
-✅
-
-
-SQLite
-✅
-
-
-SQL Server
-✅
-
-</description>
+<title>v2 的大佬们指点一下我该不该割肉，房子的事</title>
+<link>https://www.v2ex.com/t/1248572</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248572</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#2 | 102 回复 | 目前情况：1. 西安当时高位买了一套房子目前月供不到 4k 但是已经资不抵债了。 贷款还有 60 个。 房子只能买 50 出头甚至都没人看。2. 杭州去年不算最低点但也不是高点入手了一套月供 4k+，贷款 100 个， 卖杭州房子的时候还借了点钱。 因为买房后两边贷款加起来 8k 出头  家庭收入也就一个月也就 15k 左右。  当时没下手杭州这边的时候没想到西安那边出手如此困难。细节我就不描述了。 我目前的想法：西安那边继续降价贴钱卖。 杭州这边快满二了也出手掉。 杭州这边应该是能平处亏个装修的钱。 西安那边能欠 10 来万吧   全都卖掉后 1 年时</description>
 </item>
 <item>
-<title>现在 AI 是不是逐渐能取代很多高水平程序员了</title>
-<link>https://www.v2ex.com/t/1248259</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1248259</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#3 | 104 回复 | 一句话，codex 帮我把光追加入到了我正在开发的游戏引擎中，感觉我已经不用干啥了。这在以前好像是很难想象的。目标是给 vulkan 渲染器加上光追，但一次就写对，并完美整合到现有代码中，这种能力其实已经说明了 AI 对很多代码的理解度不再比人类差了。下面是我发的视频，大伙可以看下效果： [我只说了“要有光”，codex 就帮我加好了光追]  https://www.bilibili.com/video/BV1sHpX6EEci/?share_source=copy_web&amp;amp;vd_source=dc379818946312063729495537</description>
+<title>muse 30 亿免费 token</title>
+<link>https://www.v2ex.com/t/1248583</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248583</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#3 | 94 回复 | https://t.me/satudigitalbot?start=ref_8713666123
+直接 tg ，输出自己的邀请码就行。可自己生成邀请链接，单个邀请码好像最高 3 次，合计 90 亿 token</description>
 </item>
 <item>
-<title>Claude 很好开啊</title>
-<link>https://www.v2ex.com/t/1248324</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1248324</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#4 | 68 回复 | Codex 额度真的消耗太快了，跟风开个 Claude 做补充
-不过 Claude 很好开啊，用之前开过的一张 Revolut ，Windows 端直接就付款成功了  
-另外使用过程中有哪些注意事项吗？我在党政机关工作，希望用它来处理报表台账、公文撰写以及偶尔写点政府网站的插件扩展，会不会一张嘴就秒封了</description>
+<title>昨天把家里 Wi-Fi 2.4G 和 5G 分开了，你们呢？</title>
+<link>https://www.v2ex.com/t/1248569</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248569</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#4 | 89 回复 | 家里有个稍微老点的小爱音箱，老是掉线，后来研究发现不支持 5G 的，当时家里的 wifi 上二频合一的，虽然连上了，隔一段时间莫名其妙就掉线了。一直想拆分，但是家里几十个设备要重新配置，尤其是有些设备重置网络的方法都忘记了（分别是什么长按这个键那个键的）得去查。昨天晚上还是决定去拆了一下，把 iot 设备都分到 2.4G 上去，手机电脑保留 5G 上，心理上感觉好像速度快了一些。</description>
+</item>
+<item>
+<title>现在修电视都这么贵的吗？</title>
+<link>https://www.v2ex.com/t/1248577</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248577</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#5 | 79 回复 | 19 年买的大法，国庆回来，小孩说就灰屏了。找了师傅上门，说是屏幕坏了。修的话要 1000 多，我想着现在只有我儿子看，就懒得修了。1000 多加一点钱都能买个国产了。上门费：78再回头想想，也是月初修的洗衣机，网上查了零件才 40 ，修了 370 。这电视会不会也是坏了小毛病，然后报价奇高。</description>
 </item>
 <item>
 <title>2026 年了，还有老架构坚持 MySQL 单表数据不能超过 2000 万行</title>
 <link>https://www.v2ex.com/t/1248372</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1248372</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#5 | 64 回复 | 问他为什么，张口闭口就是：“单表过 2000 万，B+ 树就从 3 层变成 4 层了，多一层就多一次磁盘 I/O ，多的我不想说了 你自己问 AI”我寻思现在生产环境服务器 256G 内存，给 Buffer Pool 分 200G 。Buffer Pool 看着 200G 空间表示：“我管你这那的，非叶子节点全都给我常驻内存！多出来的一层不过是几十纳秒的内存二分查找，哪来的这么多废话”业务场景如果是因为备份恢复 SLA 扛不住、在线 DDL 风险大、或者热数据 Working Set 超出内存导致离散回表击穿，那该分分、该归档归档，这叫架构治理；但如果不</description>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#6 | 78 回复 | 问他为什么，张口闭口就是：“单表过 2000 万，B+ 树就从 3 层变成 4 层了，多一层就多一次磁盘 I/O ，多的我不想说了 你自己问 AI”我寻思现在生产环境服务器 256G 内存，给 Buffer Pool 分 200G 。Buffer Pool 看着 200G 空间表示：“我管你这那的，非叶子节点全都给我常驻内存！多出来的一层不过是几十纳秒的内存二分查找，哪来的这么多废话”业务场景如果是因为备份恢复 SLA 扛不住、在线 DDL 风险大、或者热数据 Working Set 超出内存导致离散回表击穿，那该分分、该归档归档，这叫架构治理；但如果不</description>
 </item>
 <item>
-<title>避坑恒洁卫浴，前所未见的售后体验</title>
-<link>https://www.v2ex.com/t/1248260</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1248260</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#6 | 62 回复 | 大致描述下背景：房子 20 年中装修，基本上所有家电都经过一轮维修或坑，西门子冰箱（过保维修过，费用小几百，损失部分冻品），美的洗烘套装（大坑+1 ，开始以为是 10 年保，实际是核心部件 10 年保，但是产品可能的设计问题，过保后每年修一次减震器，已经持续三年），抽油烟机燃气灶（记得有付费维修过，忘记详情了），洗碗机（偶尔小范围漏水）。
-全套京东购买。
-叠上面这个背景的含义大概是，不是不能接受付费维修，就算是坑几年的美的洗烘套装售后也基本接受了，这三年每年付费维修一次。
-为啥觉得美的虽然产品有问题，售后后还能接受这家？原因是
+<title>最好看最好用的 iOS V2EX 客户端过审了，欢迎 TestFlight 体验打脸</title>
+<link>https://www.v2ex.com/t/1248562</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248562</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#7 | 70 回复 | 前情提要
+新手口喷了最好看最好用的 iOS V2EX 客户端，帮我看看值得上架 App Store 吗？
+https://v2ex.com/t/1247152
+立即体验：
+https://testflight.apple.com/join/TN6dqZVj
 
-第二次复现也就是第二次维</description>
+注册开发者，审核用了两天
+第一个 TF 审核用了两天，感觉还挺快的，后边小版本一天能过审
+
+上次发帖之后做了很多更新，还有一些更新没上 TF 。
+牛逼的说，应该是 1000 万以内最好的 V2EX 客户端了，欢迎大家体验，打我脸。
+简单传几张图吧，吹牛逼文案还没想：</description>
 </item>
 <item>
-<title>Piczo 相册照片自动分类 | 送码</title>
-<link>https://www.v2ex.com/t/1248362</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1248362</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:51 +0000</pubDate>
-<description>#7 | 58 回复 | 功能很简单，相册照片自动帮你分好类。
-除了苹果服务器外，不连接任何网络，不上传任何数据。
-一次性买断，没有订阅。
+<title>今年买到的最值的东西推荐</title>
+<link>https://www.v2ex.com/t/1248653</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248653</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#8 | 60 回复 | 我先叠甲，推荐只是我自己使用舒服，解决了我的问题，不是说它一定适合你（但万一能给你一点启发呢值不值得买，要看它能不能解决你的实际需求，是否有性价比，是否能长期高频使用第一，macbook air m5 ，淘宝百亿补贴 ¥6099 拿下，轻薄携带方便，性能够用，彻底摆脱了键盘鼠标这些。之前是 macmini m2 算是大升级了。第二，大行折叠车 p8 ，能上高铁（参考我之前的帖子）、能上地铁（合肥地铁真的太友好了），周末回家大巴通勤也很方便，解决了公共交通的首尾几公里难题。还可以 4+2 ，去很多双脚和小汽车都没法去的地方。¥3000 ，京东买的，我知道可</description>
+</item>
+<item>
+<title>程序员真的无路可走了吗?当然不是</title>
+<link>https://www.v2ex.com/t/1248595</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248595</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#9 | 54 回复 | 程序员真的无路可走了吗?当然不是
+逛了 V 站很多帖子,包括我本人之前国庆回家的时候看到小吃摊流水也还可以,大家的统一情绪都是程序员要消亡了
+但是最近流行的 复刻 xxx , 看了推特上面好多大佬的复刻项目,以及流行的很多很使用 AI 做出来的酷炫的项目, 我突然有了启发, 就是虽然大家都知道哪些项目是 AI 做出来的, 但是如果让自己去做,是不是感觉也挺难的,而普通人程序员与 AI 时代的新的能符合 AI 时代发展的软件工程师之间的差距主要是在 harness 能力
+** harness , harness , harness 重要的事情说三遍 **
+</description>
+</item>
+<item>
+<title>苹果正式发布 Apple TV 4K（第四代）： A19 芯片 + Siri AI</title>
+<link>https://www.v2ex.com/t/1248517</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1248517</guid>
+<pubDate>Wed, 14 Oct 2026 05:56:06 +0000</pubDate>
+<description>#10 | 48 回复 | 核心升级
+
+A19 芯片：上一代是 A15 ，性能大幅提升
+支持 Siri AI：由 Apple Intelligence 驱动的全新 Siri ，说"Siri"或"嘿 Siri"就能直接唤醒，不用拿遥控器
+内置三麦克风阵列：Apple TV 首次在机身加入麦克风，带人声隔离
+Wi‑Fi 7 + 蓝牙 6：无线连接全面升级，同时支持 Thread
+新款 Siri Remote （第四代）：支持"查找"的精确查找，遥控器掉进沙发缝也能找到
+
+主要规格
+
+
+
+项目
+参数
 
 
 
 
+处理器
+A19
 
 
-没有套路，直接送码！
-6TF64TR33R3RJW8AA8
-AAJ4REML7X3FMHHJML
-XFH7FPFXMPXYLNY8W3
-X7YHEFJKHKLP8NRHPA
-A47L384WRXPEAPLNJW
-8HKXAKJPXPP8YPPXMN
-XFE4LEF63KL3WEX8KP
-EW6W6TW73MHMH4EYLR
-P48FHTF3KAH8X6HHN8
-RFWEEXLAJF3YFYTTAE
-XH4MRHLXEWKNFN8K</description>
+容量
+128GB
+
+
+无线
+Wi‑Fi 7 （ 2×2 MI</description>
 </item>
 </channel>
 </rss>
