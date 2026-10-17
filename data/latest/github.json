@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-16T23:20:31+00:00",
+  "updated_at": "2026-10-17T01:27:48+00:00",
   "count": 13,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "anthropics / claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "metric": "★ 40,494",
+      "metric": "★ 40,600",
       "extra": {
         "language": "Python",
-        "stars": "40,494",
-        "forks": "4,399",
+        "stars": "40,600",
+        "forks": "4,401",
         "stars_today": "1,552 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "K-Dense-AI / scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "metric": "★ 51,465",
+      "metric": "★ 51,526",
       "extra": {
         "language": "Python",
-        "stars": "51,465",
-        "forks": "4,559",
+        "stars": "51,526",
+        "forks": "4,563",
         "stars_today": "1,158 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 281,458",
+      "metric": "★ 281,534",
       "extra": {
         "language": "JavaScript",
-        "stars": "281,458",
-        "forks": "41,847",
+        "stars": "281,534",
+        "forks": "41,856",
         "stars_today": "1,057 stars today"
       }
     },
@@ -47,12 +47,12 @@
       "title": "HKUDS / CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "metric": "★ 53,466",
+      "metric": "★ 53,514",
       "extra": {
         "language": "Python",
-        "stars": "53,466",
-        "forks": "4,840",
-        "stars_today": "323 stars today"
+        "stars": "53,514",
+        "forks": "4,850",
+        "stars_today": "281 stars today"
       }
     },
     {
@@ -60,11 +60,11 @@
       "title": "mksglu / context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "metric": "★ 30,213",
+      "metric": "★ 30,244",
       "extra": {
         "language": "TypeScript",
-        "stars": "30,213",
-        "forks": "2,125",
+        "stars": "30,244",
+        "forks": "2,128",
         "stars_today": "449 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "ruvnet / ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "metric": "★ 75,610",
+      "metric": "★ 75,645",
       "extra": {
         "language": "TypeScript",
-        "stars": "75,610",
-        "forks": "8,964",
+        "stars": "75,645",
+        "forks": "8,967",
         "stars_today": "672 stars today"
       }
     },
@@ -86,12 +86,12 @@
       "title": "android / skills",
       "url": "https://github.com/android/skills",
       "description": "",
-      "metric": "★ 8,047",
+      "metric": "★ 8,084",
       "extra": {
         "language": "Kotlin",
-        "stars": "8,047",
-        "forks": "535",
-        "stars_today": "163 stars today"
+        "stars": "8,084",
+        "forks": "536",
+        "stars_today": "36 stars today"
       }
     },
     {
@@ -99,11 +99,11 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 300,659",
+      "metric": "★ 300,687",
       "extra": {
         "language": "Shell",
-        "stars": "300,659",
-        "forks": "26,842",
+        "stars": "300,687",
+        "forks": "26,843",
         "stars_today": "973 stars today"
       }
     },
@@ -112,12 +112,12 @@
       "title": "cursor / plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
-      "metric": "★ 11,923",
+      "metric": "★ 11,968",
       "extra": {
         "language": "TypeScript",
-        "stars": "11,923",
-        "forks": "1,159",
-        "stars_today": "282 stars today"
+        "stars": "11,968",
+        "forks": "1,162",
+        "stars_today": "278 stars today"
       }
     },
     {
@@ -125,11 +125,11 @@
       "title": "debpalash / VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "metric": "★ 71,074",
+      "metric": "★ 71,269",
       "extra": {
         "language": "Python",
-        "stars": "71,074",
-        "forks": "7,773",
+        "stars": "71,269",
+        "forks": "7,794",
         "stars_today": "2,301 stars today"
       }
     },
@@ -138,12 +138,12 @@
       "title": "MadsLorentzen / ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "metric": "★ 48,453",
+      "metric": "★ 48,541",
       "extra": {
         "language": "Python",
-        "stars": "48,453",
-        "forks": "16,623",
-        "stars_today": "879 stars today"
+        "stars": "48,541",
+        "forks": "16,639",
+        "stars_today": "898 stars today"
       }
     },
     {
@@ -151,12 +151,12 @@
       "title": "hmjz100 / LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "metric": "★ 23,644",
+      "metric": "★ 23,721",
       "extra": {
         "language": "JavaScript",
-        "stars": "23,644",
-        "forks": "1,435",
-        "stars_today": "702 stars today"
+        "stars": "23,721",
+        "forks": "1,437",
+        "stars_today": "538 stars today"
       }
     },
     {
@@ -164,12 +164,12 @@
       "title": "xerj-org / xerj",
       "url": "https://github.com/xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "metric": "★ 6,895",
+      "metric": "★ 6,955",
       "extra": {
         "language": "Rust",
-        "stars": "6,895",
-        "forks": "352",
-        "stars_today": "1,647 stars today"
+        "stars": "6,955",
+        "forks": "353",
+        "stars_today": "1,648 stars today"
       }
     }
   ]
