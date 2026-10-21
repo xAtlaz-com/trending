@@ -1,142 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "我做了一个 AI 张大妈，帮忙看看，没啥好送的，每人送 20 V2EX 代币吧",
-    "url": "https://www.v2ex.com/t/1250253",
-    "description": "网址： https://aiZhangDaMa.com/做这个网站呢，主要是解决我最近的几个痛点：1. 前几个月我想买个 ChatGPT 会员，可是不知道从哪里买好，价格是否便宜。于是我收录了几百家店铺的上千个商品2. 后来我想薅 ZCode 羊毛领点 token ，结果发现活动已经结束错过了。于是我从各个渠道搜集了这类薅羊毛信息3. 再后来我想买个 AI 中转，可是不知道这么多家都什么质量和性价比。于是我收录了几十家中转大概就是这样，也欢迎广大网友的投稿，毕竟个人搜集信息的能力有限另外一个问题是想请大家帮忙看看，我这个部署在 cloudflare ，感觉国内打开似乎很慢？大家帮忙试试？什么地",
-    "metric": "175 回复",
-    "metric_value": 175,
+    "title": "前端这个行业真要完了",
+    "url": "https://www.v2ex.com/t/1250524",
+    "description": "现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭",
+    "metric": "118 回复",
+    "metric_value": 118,
     "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "liuliuliuliu",
-      "last_touched": 1792547179
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "yierban",
+      "last_touched": 1791702828
     }
   },
   {
     "rank": 2,
-    "title": "招行信用卡是真➗啊",
-    "url": "https://www.v2ex.com/t/1250316",
-    "description": "一年前加班坐地铁回家路上被拦下来办卡...前一天就没睡好，第二天加到 9 点半实在没力气拒绝，何况对方还是个刚毕业的女大学生（看起来），你绕道她就贴过来不让你走，说她们有业务压力。夏天晚上坐在路边办卡，闷的我透不过气。花费半小时，终于办完，最后领了半年腾讯视频会员。本以为就此作罢，信用卡除了办卡的时候交了点话费，平时都没用，今天突然收到短信说我信用卡欠款 300.0 元...我在想什么消费整整齐齐的 300 块，打开 app 一看是信用卡年费...（信用卡消费 6 次之后可以退，注销信用卡得去柜台）我草莓招了，真➗啊",
-    "metric": "105 回复",
-    "metric_value": 105,
+    "title": "[图一乐] 给大家看看我的 Claude 账号到底有多硬",
+    "url": "https://www.v2ex.com/t/1250477",
+    "description": "给大家看看我的 Claude 账号到底有多硬，主打一个裸奔使用\n最近看到不少人说 Claude 被封号、触发 KYC ，甚至有正常使用的老号突然没了。想了想自己的三个账号，感觉多少有点离谱，发出来给大家看看。\n先说结果：目前三个号全部正常，没封过，也从来没触发过 KYC 。\n先说说我的使用环境\n基本属于完全不做防封措施的那种：\n\n一直使用机房 IP ，而且偶尔还会换 IP 。\n从来没开过 TUN 模式。\n系统时区一直是 Asia/Shanghai。\n没用过什么指纹浏览器。\nWebRTC 泄漏也没特意处理过。\n浏览器、系统语言全是中文。\n三个账号全部使用 Google 登录。\n\n之前刚打开 Cl",
+    "metric": "84 回复",
+    "metric_value": 84,
     "extra": {
-      "node": "吐槽",
-      "node_name": "roast",
-      "author": "Hooki",
-      "last_touched": 1792547427
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "boltguo",
+      "last_touched": 1792566915
     }
   },
   {
     "rank": 3,
-    "title": "是去海外还是留国内",
-    "url": "https://www.v2ex.com/t/1250306",
-    "description": "背景\n公司明年 Q1 基本整体搬去新加坡，不跟过去的话大概率协商离职走 N+1 。\n个人情况\n\n月薪超过上海社平三倍（经济补偿会被封顶在 37731 ）\n有房贷，娃小班\n\n自己算了下\n\nN+1 = 6 个月，但 N 部分要按 37731 封顶，实际到手大概 23 万出头，一次性补偿免税\n\n纠结的点\n\n娃还小，还想多陪陪\n出海本身我是有点想去的，自己刚过 35 ，窗口可能就这么几年\n但我不确定自己这个方向在新加坡实际值多少钱，还没试过水\n\n想问\n\n有类似经历的朋友吗？最后怎么选的，现在回头看后悔吗？\n\n先谢过。",
-    "metric": "88 回复",
-    "metric_value": 88,
+    "title": "前端想学后端，但是看完这段代码就已经力竭了",
+    "url": "https://www.v2ex.com/t/1250533",
+    "description": "def fetch_created_at():\n    conn = pymysql.connect(\n        host=MYSQL_HOST, port=MYSQL_PORT, user=MYSQL_USER,\n        password=MYSQL_PASSWORD, database=MYSQL_DATABASE, charset=\"utf8mb4\",\n    )\n    try:\n        with conn.cursor() as cur:\n            cur.execute(\"SELECT created_at FROM A WHERE uid=%s",
+    "metric": "80 回复",
+    "metric_value": 80,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "Jason29147",
-      "last_touched": 1792546735
+      "node": "Python",
+      "node_name": "python",
+      "author": "Bologna",
+      "last_touched": 1792566964
     }
   },
   {
     "rank": 4,
-    "title": "卖房咨询，有卖房朋友经验的朋友来聊聊",
-    "url": "https://www.v2ex.com/t/1250231",
-    "description": "郑州二环内的刚需房，17 年交房，三室一厅，房本 93 ，实得面积 68 ，还是高层 32 层，说实话这房型还有配套确实没啥竞争力。。。。\n一年前就挂在中介，当时没想着急卖，就挂了普通价格，中介也不上心，最近合计了一下正式决定卖了，跟中介聊了一下，订了一个他认为好出手的价格，当初中介给我信心很足，也配合交了钥匙，也是贝壳必看好房。想着中秋、十一至少能有个真心愿意谈价的买家，谁知道一个看房的都没。（有一个应该是中介强拉过来的，看了不到两分钟就走了）。\n跟中介聊聊，理由就是买房人少这些，我的价格已经是同区域同房型最低了，中介也建议再等等先别急着降价什么的。想着多挂几家中介，去其他中介公司一问，说已",
-    "metric": "77 回复",
-    "metric_value": 77,
+    "title": "给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）",
+    "url": "https://www.v2ex.com/t/1250493",
+    "description": "手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭：\n每次想瞄一眼今天来了多少访客、刚发的文章有没有人看，都得打开手机浏览器 -&gt; 翻书签或输网址 -&gt; 等网页加载（有时候登录态过期还要重新输密码和 2FA）。虽然能把网页添加到主屏幕，但没有桌面小组件，多站点来回切也不顺手。\n于是干脆自己动手写了 SiteGlance —— 一个专为 Umami（同时支持自建实例与 Umami Cloud）打造的 iOS / Android 原生客户端。\n\n1. 先交底隐私与连接架构（最重要）\n我知道用自建 Umami 的",
+    "metric": "79 回复",
+    "metric_value": 79,
     "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "erwin985211",
-      "last_touched": 1792512001
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "xcc3641",
+      "last_touched": 1792566549
     }
   },
   {
     "rank": 5,
-    "title": "各位大佬都是用啥工具管理自己的密码的",
-    "url": "https://www.v2ex.com/t/1250247",
-    "description": "",
+    "title": "我发现很多人都迷之自信的认为， AI 不会取代自己的能力。",
+    "url": "https://www.v2ex.com/t/1250467",
+    "description": "现在 AI 在各个领域的能力，都超越了一般人。不管是文化艺术，还是编程开发，或者是科学技术，都快赶上专家级别了。\n但是还是有很多人认为，自己的创意、经验、能力、认知都比别人好。所以自己（用 AI ）写出来的作品，肯定比别人好。但残酷的是，除了自己之外很少有人去理解你做的东西。AI 解决了普通人的需求，那么你存在的价值就会打很大折扣。\n有了 AI 本站讨论技术的人都没有了，这就是个例子。你再牛逼的经验，比不过别人问 AI 一秒钟。\n把 AI Slop 可以算作拼多多，你东西再好，也敌不过别人亏本倾销。\n所以，这个世界上到最后只有一种能力，就是营销能力。",
     "metric": "68 回复",
     "metric_value": 68,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "rosebush373",
-      "last_touched": 1792525575
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "caoguofeng",
+      "last_touched": 1792564923
     }
   },
   {
     "rank": 6,
-    "title": "我和老婆，因为女儿练字“吵”了一架",
-    "url": "https://www.v2ex.com/t/1250295",
-    "description": "起因\n女儿刚上一年级。\n说点她小时候的事吧——三岁以前她胆子特别小，上小班整整花了三个多月才适应过来，在学校里不爱跟人说话，我们还专门送她去上了一年口才课。后来慢慢长大，才好了很多。\n上周六，书法老师布置了作业：把「四」「西」「洒」三个字，每个在练字本上写三行。\n周日下午，女儿开始写。「四」和「西」两个字，在她妈妈的督促下，总算写到了妈妈满意的样子。接下来轮到「洒」——练字本上要求先把三点水写好。\n老婆教了一会儿，就让她自己写。晚上我们约了别人有事，所以那会儿我正在客厅和厨房之间大扫除（我家每周日固定大扫除，一家三口，各有分工）。我一边放着歌一边干活，干到一半，隐约听见里屋老婆教育女儿的声音大",
-    "metric": "68 回复",
-    "metric_value": 68,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "fengzi666",
-      "last_touched": 1792520217
-    }
-  },
-  {
-    "rank": 7,
-    "title": "[中转站] gpt0.16 倍率不降智进来领鸡蛋",
-    "url": "https://www.v2ex.com/t/1250313",
-    "description": "站点地址： https://onetoken.uk/gpt 0.16x 不降智gpt 官 key 0.4x 全模型不降智deepseek 0.2x 高缓1:1 充值，新用户留下账号送 5 刀",
-    "metric": "51 回复",
-    "metric_value": 51,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "aiwoshishen",
-      "last_touched": 1792525412
-    }
-  },
-  {
-    "rank": 8,
     "title": "针对 Claude 封号，写了套软件 + 部署方法，想只卖给企业用户，不知道会不会有市场？",
     "url": "https://www.v2ex.com/t/1250396",
     "description": "我感觉有， 准备抖音投流看看。",
-    "metric": "42 回复",
-    "metric_value": 42,
+    "metric": "65 回复",
+    "metric_value": 65,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "wises",
-      "last_touched": 1792547361
+      "last_touched": 1792561818
+    }
+  },
+  {
+    "rank": 7,
+    "title": "有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。",
+    "url": "https://www.v2ex.com/t/1250519",
+    "description": "最近买了电瓶车，通勤爽歪歪，目前只买了头盔和脚垫座垫，像手套这种不知道怎么买，主要是要轻量，简洁的",
+    "metric": "61 回复",
+    "metric_value": 61,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "wuzhanggui",
+      "last_touched": 1792566535
+    }
+  },
+  {
+    "rank": 8,
+    "title": "想购买 iPad mini 8, 有人打醒我吗？",
+    "url": "https://www.v2ex.com/t/1250420",
+    "description": "iPad mini 8 最新进度｜ 2026-10-20\n一、最新消息\n\n发布：预计 10 月 27 ～ 28 日公布，最快 11 月 6 日上市； 10 月 28 日媒体活动已确认，但 mini 8 尚未官宣。\n高刷：苹果测试过 60Hz ／ 120Hz ，最终未知。\n价格：预计涨价。\n配件：苹果网站出现新款 Smart Folio （ A3632 ），暗示设计可能调整。\n\n二、核心参数：mini 7 → mini 8\n\n\n\n项目\nmini 7\nmini 8 （传闻）\n\n\n\n\n芯片\nA17 Pro\nA20 Pro（较可信）\n\n\n内存\n8GB\n12GB （推测）\n\n\n屏幕\n8.3\" LCD\n8",
+    "metric": "60 回复",
+    "metric_value": 60,
+    "extra": {
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "gebiwanger",
+      "last_touched": 1792564471
     }
   },
   {
     "rank": 9,
-    "title": "预算 1000 美金的开源软件， DeepSeek 只花 1 美金就做完了（Day 6）",
-    "url": "https://www.v2ex.com/t/1250261",
-    "description": "原本我准备了 1,000 美金预算，让 Gemini 4 当公司高管，DeepSeek 打下手。让它们帮我写一个开源软件。\n结果跑完这两天，DeepSeek 只花了大约 10 美金（换算到我的 Token 套餐里，实际成本只要 1 美金），就把 OpenCompare 整套开源软件和自动维护闭环全部做完了。\n在这个过程中，我基本上只 prompt 过两次，指一个大方向，让 Agent 自行迭代，直到完成我的目标。\n\n1. 1 美金跑完 5.9 亿 Token ，DeepSeek 连产品经理的活都扛了\n跑到现在，我们团队的分工自然演进成了这样：\nGemini 作为公司最高负责人，平时基本只负责派",
-    "metric": "42 回复",
-    "metric_value": 42,
+    "title": "感叹 Codex 的过度设计。",
+    "url": "https://www.v2ex.com/t/1250482",
+    "description": "让 Codex 写了一个功能模块（中等复杂度），给它沟通好功能以及边界后，列好开发计划，它持续工作了了 15 个小时左右，写了 2w 行代码，消耗了一整个 20x 账号的 7 周额度，看到后我惊呆了，我是真不敢合并啊！！！ 2w 行代码 review 都得一星期也够呛完成！！",
+    "metric": "59 回复",
+    "metric_value": 59,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "chaxiu",
-      "last_touched": 1792547275
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "murongxdb",
+      "last_touched": 1792565581
     }
   },
   {
     "rank": 10,
-    "title": "求问现在成本最低使用 claude+opus5.5 的方式",
-    "url": "https://www.v2ex.com/t/1250258",
-    "description": "撇开官方订阅 claude （国内环境，无法稳定）\n目前成本最低的可信性高的方式，是不是就是 claude code/app 通过 CCswitch 接入 google one pro 学生会员反代出来的 opus 5.5 了？\n目前如果付费的话，是 8.99 刀（带 youtube premium 会员）\n几个问题：\n\n还有更便宜的接 api 的方式么？\n这样反代，谷歌封号几率大么？",
-    "metric": "39 回复",
-    "metric_value": 39,
+    "title": "重生之我做了个浏览器 Agent，以为能火，结果 github 只有 50 star",
+    "url": "https://www.v2ex.com/t/1250414",
+    "description": "只有 50 Star 的项目是啥\n\n项目名称：轻舟(qz)\n项目地址：alibaba/qz-browser-agent\nChrome 应用商店： https://chromewebstore.google.com/detail/dknbdgkgoinlgjpfebapkklbmjjgdblm\n\n基本上就是一个生活在浏览器里的 Claude Code ，人能干的他都能干。\n轻 的意思是所有功能都集成在 浏览器扩展 里，大小不到 5MB ，不需要额外安装东西，你自己配置模型接口\n舟 的意思就是提升你上网冲浪的速度，但你依然能把控船的方向（人能随时介入“自动化上网”过程）\n\n核心设计：把浏览器和 C",
+    "metric": "46 回复",
+    "metric_value": 46,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "autumncry",
-      "last_touched": 1792520164
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "helei",
+      "last_touched": 1792562914
     }
   }
 ]
