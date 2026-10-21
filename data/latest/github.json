@@ -1,19 +1,19 @@
 {
   "source": "github",
-  "updated_at": "2026-10-20T23:02:12+00:00",
-  "count": 13,
+  "updated_at": "2026-10-21T01:53:14+00:00",
+  "count": 15,
   "items": [
     {
       "rank": 1,
       "title": "MadsLorentzen / ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "metric": "★ 60,416",
+      "metric": "★ 60,724",
       "extra": {
         "language": "Python",
-        "stars": "60,416",
-        "forks": "18,863",
-        "stars_today": "3,890 stars today"
+        "stars": "60,724",
+        "forks": "18,919",
+        "stars_today": "3,861 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "cloudflare / security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "metric": "★ 34,049",
+      "metric": "★ 34,330",
       "extra": {
         "language": "JavaScript",
-        "stars": "34,049",
-        "forks": "2,125",
-        "stars_today": "1,680 stars today"
+        "stars": "34,330",
+        "forks": "2,146",
+        "stars_today": "1,712 stars today"
       }
     },
     {
@@ -34,12 +34,12 @@
       "title": "stablyai / orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "metric": "★ 99,673",
+      "metric": "★ 99,808",
       "extra": {
         "language": "TypeScript",
-        "stars": "99,673",
-        "forks": "6,318",
-        "stars_today": "1,559 stars today"
+        "stars": "99,808",
+        "forks": "6,327",
+        "stars_today": "1,565 stars today"
       }
     },
     {
@@ -47,12 +47,12 @@
       "title": "DietrichGebert / ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 169,558",
+      "metric": "★ 169,770",
       "extra": {
         "language": "JavaScript",
-        "stars": "169,558",
-        "forks": "9,222",
-        "stars_today": "1,396 stars today"
+        "stars": "169,770",
+        "forks": "9,230",
+        "stars_today": "1,208 stars today"
       }
     },
     {
@@ -60,12 +60,12 @@
       "title": "Comfy-Org / ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "metric": "★ 140,714",
+      "metric": "★ 140,817",
       "extra": {
         "language": "Python",
-        "stars": "140,714",
-        "forks": "16,657",
-        "stars_today": "1,201 stars today"
+        "stars": "140,817",
+        "forks": "16,666",
+        "stars_today": "1,206 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "ruvnet / ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "metric": "★ 77,807",
+      "metric": "★ 77,874",
       "extra": {
         "language": "TypeScript",
-        "stars": "77,807",
-        "forks": "9,152",
-        "stars_today": "683 stars today"
+        "stars": "77,874",
+        "forks": "9,161",
+        "stars_today": "684 stars today"
       }
     },
     {
@@ -86,12 +86,12 @@
       "title": "Graphify-Labs / graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "metric": "★ 130,171",
+      "metric": "★ 130,310",
       "extra": {
         "language": "Python",
-        "stars": "130,171",
-        "forks": "12,537",
-        "stars_today": "906 stars today"
+        "stars": "130,310",
+        "forks": "12,544",
+        "stars_today": "802 stars today"
       }
     },
     {
@@ -99,12 +99,12 @@
       "title": "anomalyco / opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
-      "metric": "★ 218,864",
+      "metric": "★ 218,978",
       "extra": {
         "language": "TypeScript",
-        "stars": "218,864",
-        "forks": "29,201",
-        "stars_today": "1,256 stars today"
+        "stars": "218,978",
+        "forks": "29,211",
+        "stars_today": "1,240 stars today"
       }
     },
     {
@@ -112,12 +112,12 @@
       "title": "msitarzewski / agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "metric": "★ 162,296",
+      "metric": "★ 162,391",
       "extra": {
         "language": "Shell",
-        "stars": "162,296",
-        "forks": "26,224",
-        "stars_today": "590 stars today"
+        "stars": "162,391",
+        "forks": "26,231",
+        "stars_today": "562 stars today"
       }
     },
     {
@@ -125,12 +125,12 @@
       "title": "headroomlabs-ai / headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "metric": "★ 76,728",
+      "metric": "★ 76,787",
       "extra": {
         "language": "Python",
-        "stars": "76,728",
-        "forks": "5,956",
-        "stars_today": "555 stars today"
+        "stars": "76,787",
+        "forks": "5,960",
+        "stars_today": "549 stars today"
       }
     },
     {
@@ -138,38 +138,64 @@
       "title": "anthropics / knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 30,774",
+      "metric": "★ 30,810",
       "extra": {
         "language": "Python",
-        "stars": "30,774",
-        "forks": "3,463",
-        "stars_today": "262 stars today"
+        "stars": "30,810",
+        "forks": "3,464",
+        "stars_today": "267 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "shiyu-coder / Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "metric": "★ 42,327",
+      "title": "wshobson / agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "metric": "★ 41,272",
       "extra": {
         "language": "Python",
-        "stars": "42,327",
-        "forks": "7,008",
-        "stars_today": "719 stars today"
+        "stars": "41,272",
+        "forks": "4,393",
+        "stars_today": "93 stars today"
       }
     },
     {
       "rank": 13,
+      "title": "sickn33 / agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "metric": "★ 48,118",
+      "extra": {
+        "language": "Python",
+        "stars": "48,118",
+        "forks": "7,021",
+        "stars_today": "83 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "metric": "★ 42,375",
+      "extra": {
+        "language": "Python",
+        "stars": "42,375",
+        "forks": "7,014",
+        "stars_today": "733 stars today"
+      }
+    },
+    {
+      "rank": 15,
       "title": "vllm-project / vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "metric": "★ 94,417",
+      "metric": "★ 94,457",
       "extra": {
         "language": "Python",
-        "stars": "94,417",
-        "forks": "23,665",
-        "stars_today": "98 stars today"
+        "stars": "94,457",
+        "forks": "23,674",
+        "stars_today": "128 stars today"
       }
     }
   ]
