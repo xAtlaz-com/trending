@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-10-21T18:11:40+00:00",
+  "updated_at": "2026-10-21T21:55:23+00:00",
   "count": 10,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "前端这个行业真要完了",
       "url": "https://www.v2ex.com/t/1250524",
       "description": "现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭",
-      "metric": "150 回复",
-      "metric_value": 150,
+      "metric": "151 回复",
+      "metric_value": 151,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "yierban",
-        "last_touched": 1792566975
+        "last_touched": 1792570575
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "为啥你们 Vibe 的网页 AI 味儿那么重?",
       "url": "https://www.v2ex.com/t/1250676",
       "description": "好像每天看到的大家贴的自己的页面/网站 AI 味儿都特别重..\n包括不限于：\n\nAI 最爱的紫色\n奇怪的渐变效果\n各种卡片泛滥\n卡片里面经常用大段文字配满……\n大量统一的线性图标，放在圆角方块\n\n看看我的：\nhttps://vpaste.app/zh/\nB 站视频： https://www.bilibili.com/video/BV1onpk6MEsn/\n不过坦白说视频方面感觉 GPT 确实没有 Claude 效果好，看到很多站内大佬用 Claude 做的效果非常耀眼..",
-      "metric": "123 回复",
-      "metric_value": 123,
+      "metric": "127 回复",
+      "metric_value": 127,
       "extra": {
         "node": "程序员",
         "node_name": "programmer",
         "author": "Loxon",
-        "last_touched": 1792605002
+        "last_touched": 1792619005
       }
     },
     {
@@ -78,13 +78,13 @@
       "title": "PHP 最新零日漏洞怎么没人讨论",
       "url": "https://www.v2ex.com/t/1250646",
       "description": "好多业务都还在 php7 环境跑呐 这下官方都不支持修补 完蛋了\n [紧急安全预警] 关于 PHP2Shell (CVSS 9.2) 核心级 RCE 漏洞的修复指南\n\n尊敬的客户：\n\n您好！针对即将在北京时间 10 月 21 日（周三） 22:00 公开的 PHP 核心严重安全漏洞，我们在此向您发布最高级别的安全预警。\n\n据国际安全机构 Sansec 披露，此次爆发的漏洞被称为 PHP2Shell 。目前该漏洞的自动化利用工具截图已在安全社区泄露，预计官方补丁发布后 15 分钟内，全网将出现大规模的无差别扫描与攻击。\n\n漏洞核心情报\n漏洞代号/编号：PHP2Shell (CVE-2026-10",
-      "metric": "100 回复",
-      "metric_value": 100,
+      "metric": "103 回复",
+      "metric_value": 103,
       "extra": {
         "node": "PHP",
         "node_name": "php",
         "author": "loserc6",
-        "last_touched": 1792605709
+        "last_touched": 1792616616
       }
     },
     {
@@ -92,13 +92,13 @@
       "title": "给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）",
       "url": "https://www.v2ex.com/t/1250493",
       "description": "手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭：\n每次想瞄一眼今天来了多少访客、刚发的文章有没有人看，都得打开手机浏览器 -&gt; 翻书签或输网址 -&gt; 等网页加载（有时候登录态过期还要重新输密码和 2FA）。虽然能把网页添加到主屏幕，但没有桌面小组件，多站点来回切也不顺手。\n于是干脆自己动手写了 SiteGlance —— 一个专为 Umami（同时支持自建实例与 Umami Cloud）打造的 iOS / Android 原生客户端。\n\n1. 先交底隐私与连接架构（最重要）\n我知道用自建 Umami 的",
-      "metric": "87 回复",
-      "metric_value": 87,
+      "metric": "88 回复",
+      "metric_value": 88,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
         "author": "xcc3641",
-        "last_touched": 1792591273
+        "last_touched": 1792594873
       }
     },
     {

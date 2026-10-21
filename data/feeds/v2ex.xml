@@ -4,21 +4,21 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Wed, 21 Oct 2026 18:11:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:55:23 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>前端这个行业真要完了</title>
 <link>https://www.v2ex.com/t/1250524</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250524</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
-<description>#1 | 150 回复 | 现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭</description>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
+<description>#1 | 151 回复 | 现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭</description>
 </item>
 <item>
 <title>为啥你们 Vibe 的网页 AI 味儿那么重?</title>
 <link>https://www.v2ex.com/t/1250676</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250676</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
-<description>#2 | 123 回复 | 好像每天看到的大家贴的自己的页面/网站 AI 味儿都特别重..
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
+<description>#2 | 127 回复 | 好像每天看到的大家贴的自己的页面/网站 AI 味儿都特别重..
 包括不限于：
 
 AI 最爱的紫色
@@ -36,7 +36,7 @@ B 站视频： https://www.bilibili.com/video/BV1onpk6MEsn/
 <title>前端想学后端，但是看完这段代码就已经力竭了</title>
 <link>https://www.v2ex.com/t/1250533</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250533</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
 <description>#3 | 114 回复 | def fetch_created_at():
     conn = pymysql.connect(
         host=MYSQL_HOST, port=MYSQL_PORT, user=MYSQL_USER,
@@ -50,7 +50,7 @@ B 站视频： https://www.bilibili.com/video/BV1onpk6MEsn/
 <title>[图一乐] 给大家看看我的 Claude 账号到底有多硬</title>
 <link>https://www.v2ex.com/t/1250477</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250477</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
 <description>#4 | 109 回复 | 给大家看看我的 Claude 账号到底有多硬，主打一个裸奔使用
 最近看到不少人说 Claude 被封号、触发 KYC ，甚至有正常使用的老号突然没了。想了想自己的三个账号，感觉多少有点离谱，发出来给大家看看。
 先说结果：目前三个号全部正常，没封过，也从来没触发过 KYC 。
@@ -69,15 +69,15 @@ WebRTC 泄漏也没特意处理过。
 <title>有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。</title>
 <link>https://www.v2ex.com/t/1250519</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250519</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
 <description>#5 | 105 回复 | 最近买了电瓶车，通勤爽歪歪，目前只买了头盔和脚垫座垫，像手套这种不知道怎么买，主要是要轻量，简洁的</description>
 </item>
 <item>
 <title>PHP 最新零日漏洞怎么没人讨论</title>
 <link>https://www.v2ex.com/t/1250646</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250646</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
-<description>#6 | 100 回复 | 好多业务都还在 php7 环境跑呐 这下官方都不支持修补 完蛋了
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
+<description>#6 | 103 回复 | 好多业务都还在 php7 环境跑呐 这下官方都不支持修补 完蛋了
  [紧急安全预警] 关于 PHP2Shell (CVSS 9.2) 核心级 RCE 漏洞的修复指南
 
 尊敬的客户：
@@ -93,8 +93,8 @@ WebRTC 泄漏也没特意处理过。
 <title>给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）</title>
 <link>https://www.v2ex.com/t/1250493</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250493</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
-<description>#7 | 87 回复 | 手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭：
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
+<description>#7 | 88 回复 | 手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭：
 每次想瞄一眼今天来了多少访客、刚发的文章有没有人看，都得打开手机浏览器 -&amp;gt; 翻书签或输网址 -&amp;gt; 等网页加载（有时候登录态过期还要重新输密码和 2FA）。虽然能把网页添加到主屏幕，但没有桌面小组件，多站点来回切也不顺手。
 于是干脆自己动手写了 SiteGlance —— 一个专为 Umami（同时支持自建实例与 Umami Cloud）打造的 iOS / Android 原生客户端。
 
@@ -104,14 +104,14 @@ WebRTC 泄漏也没特意处理过。
 <title>感叹 Codex 的过度设计。</title>
 <link>https://www.v2ex.com/t/1250482</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250482</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
 <description>#8 | 70 回复 | 让 Codex 写了一个功能模块（中等复杂度），给它沟通好功能以及边界后，列好开发计划，它持续工作了了 15 个小时左右，写了 2w 行代码，消耗了一整个 20x 账号的 7 周额度，看到后我惊呆了，我是真不敢合并啊！！！ 2w 行代码 review 都得一星期也够呛完成！！</description>
 </item>
 <item>
 <title>做了款苹果四端播放器 Vanto，支持杜比视界、空间音频，送 200 份永久版</title>
 <link>https://www.v2ex.com/t/1250565</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250565</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
 <description>#9 | 64 回复 | 大家好，我是 Vanto 的开发者。Vanto 是一款面向 iPhone 、iPad 、Mac 和 Apple TV 的个人媒体播放器，主要给已有 NAS 或媒体服务器的朋友使用
 支持哪些来源和功能
 
@@ -124,7 +124,7 @@ AirPods 空间音频：支持系统空间音频，固定或头部追踪在系统
 <title>最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？</title>
 <link>https://www.v2ex.com/t/1250656</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250656</guid>
-<pubDate>Wed, 21 Oct 2026 18:11:40 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 21:55:23 +0000</pubDate>
 <description>#10 | 61 回复 | 旧车是婚前父母买给我的一辆小轿车，最近准备换个 SUV ，旧车估值大概 2 万元，妹妹和我不在一个城市。妹妹上班也需要用车，目前是骑电动车，我想把车给妹妹，但是之前家里因为一些琐事，导致妹妹和老婆的关系不太好，我怕提出这个请求后，老婆不同意。我本来想拿出私房钱偷偷给妹妹，让我妹转给我老婆，说是想买我们的旧车，但是问了 AI 后，AI 不建议这么搞，让我去坦诚沟通。我也知道老婆不是不讲理的人，我们也结婚多年了，夫妻感情不错，就是老婆和我家里人，主要是我妈和我妹，相处的不太好。过去没有相处好的原因有很多，大概是：1.我妈性格强势，且爱搞封建传统那些东西，让我</description>
 </item>
 </channel>
