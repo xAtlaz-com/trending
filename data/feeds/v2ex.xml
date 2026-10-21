@@ -4,21 +4,35 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Wed, 21 Oct 2026 07:17:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 13:06:34 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>前端这个行业真要完了</title>
 <link>https://www.v2ex.com/t/1250524</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250524</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#1 | 118 回复 | 现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭</description>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#1 | 149 回复 | 现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭</description>
+</item>
+<item>
+<title>前端想学后端，但是看完这段代码就已经力竭了</title>
+<link>https://www.v2ex.com/t/1250533</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1250533</guid>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#2 | 110 回复 | def fetch_created_at():
+    conn = pymysql.connect(
+        host=MYSQL_HOST, port=MYSQL_PORT, user=MYSQL_USER,
+        password=MYSQL_PASSWORD, database=MYSQL_DATABASE, charset="utf8mb4",
+    )
+    try:
+        with conn.cursor() as cur:
+            cur.execute("SELECT created_at</description>
 </item>
 <item>
 <title>[图一乐] 给大家看看我的 Claude 账号到底有多硬</title>
 <link>https://www.v2ex.com/t/1250477</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250477</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#2 | 84 回复 | 给大家看看我的 Claude 账号到底有多硬，主打一个裸奔使用
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#3 | 108 回复 | 给大家看看我的 Claude 账号到底有多硬，主打一个裸奔使用
 最近看到不少人说 Claude 被封号、触发 KYC ，甚至有正常使用的老号突然没了。想了想自己的三个账号，感觉多少有点离谱，发出来给大家看看。
 先说结果：目前三个号全部正常，没封过，也从来没触发过 KYC 。
 先说说我的使用环境
@@ -33,25 +47,37 @@ WebRTC 泄漏也没特意处理过。
 三个账号全部使用 </description>
 </item>
 <item>
-<title>前端想学后端，但是看完这段代码就已经力竭了</title>
-<link>https://www.v2ex.com/t/1250533</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1250533</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#3 | 80 回复 | def fetch_created_at():
-    conn = pymysql.connect(
-        host=MYSQL_HOST, port=MYSQL_PORT, user=MYSQL_USER,
-        password=MYSQL_PASSWORD, database=MYSQL_DATABASE, charset="utf8mb4",
-    )
-    try:
-        with conn.cursor() as cur:
-            cur.execute("SELECT created_at</description>
+<title>有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。</title>
+<link>https://www.v2ex.com/t/1250519</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1250519</guid>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#4 | 102 回复 | 最近买了电瓶车，通勤爽歪歪，目前只买了头盔和脚垫座垫，像手套这种不知道怎么买，主要是要轻量，简洁的</description>
+</item>
+<item>
+<title>为啥你们 Vibe 的网页 AI 味儿那么重?</title>
+<link>https://www.v2ex.com/t/1250676</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1250676</guid>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#5 | 101 回复 | 好像每天看到的大家贴的自己的页面/网站 AI 味儿都特别重..
+包括不限于：
+
+AI 最爱的紫色
+奇怪的渐变效果
+各种卡片泛滥
+卡片里面经常用大段文字配满……
+大量统一的线性图标，放在圆角方块
+
+看看我的：
+https://vpaste.app/zh/
+B 站视频： https://www.bilibili.com/video/BV1onpk6MEsn/
+不过坦白说视频方面感觉 GPT 确实没有 Claude 效果好，看到很多站内大佬用 Claude 做的效果非常耀眼..</description>
 </item>
 <item>
 <title>给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）</title>
 <link>https://www.v2ex.com/t/1250493</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250493</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#4 | 79 回复 | 手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭：
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#6 | 86 回复 | 手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭：
 每次想瞄一眼今天来了多少访客、刚发的文章有没有人看，都得打开手机浏览器 -&amp;gt; 翻书签或输网址 -&amp;gt; 等网页加载（有时候登录态过期还要重新输密码和 2FA）。虽然能把网页添加到主屏幕，但没有桌面小组件，多站点来回切也不顺手。
 于是干脆自己动手写了 SiteGlance —— 一个专为 Umami（同时支持自建实例与 Umami Cloud）打造的 iOS / Android 原生客户端。
 
@@ -61,81 +87,39 @@ WebRTC 泄漏也没特意处理过。
 <title>我发现很多人都迷之自信的认为， AI 不会取代自己的能力。</title>
 <link>https://www.v2ex.com/t/1250467</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250467</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#5 | 68 回复 | 现在 AI 在各个领域的能力，都超越了一般人。不管是文化艺术，还是编程开发，或者是科学技术，都快赶上专家级别了。
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#7 | 81 回复 | 现在 AI 在各个领域的能力，都超越了一般人。不管是文化艺术，还是编程开发，或者是科学技术，都快赶上专家级别了。
 但是还是有很多人认为，自己的创意、经验、能力、认知都比别人好。所以自己（用 AI ）写出来的作品，肯定比别人好。但残酷的是，除了自己之外很少有人去理解你做的东西。AI 解决了普通人的需求，那么你存在的价值就会打很大折扣。
 有了 AI 本站讨论技术的人都没有了，这就是个例子。你再牛逼的经验，比不过别人问 AI 一秒钟。
 把 AI Slop 可以算作拼多多，你东西再好，也敌不过别人亏本倾销。
 所以，这个世界上到最后只有一种能力，就是营销能力。</description>
 </item>
 <item>
-<title>针对 Claude 封号，写了套软件 + 部署方法，想只卖给企业用户，不知道会不会有市场？</title>
-<link>https://www.v2ex.com/t/1250396</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1250396</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#6 | 65 回复 | 我感觉有， 准备抖音投流看看。</description>
-</item>
-<item>
-<title>有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。</title>
-<link>https://www.v2ex.com/t/1250519</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1250519</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#7 | 61 回复 | 最近买了电瓶车，通勤爽歪歪，目前只买了头盔和脚垫座垫，像手套这种不知道怎么买，主要是要轻量，简洁的</description>
-</item>
-<item>
-<title>想购买 iPad mini 8, 有人打醒我吗？</title>
-<link>https://www.v2ex.com/t/1250420</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1250420</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#8 | 60 回复 | iPad mini 8 最新进度｜ 2026-10-20
-一、最新消息
-
-发布：预计 10 月 27 ～ 28 日公布，最快 11 月 6 日上市； 10 月 28 日媒体活动已确认，但 mini 8 尚未官宣。
-高刷：苹果测试过 60Hz ／ 120Hz ，最终未知。
-价格：预计涨价。
-配件：苹果网站出现新款 Smart Folio （ A3632 ），暗示设计可能调整。
-
-二、核心参数：mini 7 → mini 8
-
-
-
-项目
-mini 7
-mini 8 （传闻）
-
-
-
-
-芯片
-A17 Pro
-A20 Pro（较可信）
-
-
-内存
-8GB
-12GB </description>
-</item>
-<item>
 <title>感叹 Codex 的过度设计。</title>
 <link>https://www.v2ex.com/t/1250482</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1250482</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#9 | 59 回复 | 让 Codex 写了一个功能模块（中等复杂度），给它沟通好功能以及边界后，列好开发计划，它持续工作了了 15 个小时左右，写了 2w 行代码，消耗了一整个 20x 账号的 7 周额度，看到后我惊呆了，我是真不敢合并啊！！！ 2w 行代码 review 都得一星期也够呛完成！！</description>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#8 | 68 回复 | 让 Codex 写了一个功能模块（中等复杂度），给它沟通好功能以及边界后，列好开发计划，它持续工作了了 15 个小时左右，写了 2w 行代码，消耗了一整个 20x 账号的 7 周额度，看到后我惊呆了，我是真不敢合并啊！！！ 2w 行代码 review 都得一星期也够呛完成！！</description>
 </item>
 <item>
-<title>重生之我做了个浏览器 Agent，以为能火，结果 github 只有 50 star</title>
-<link>https://www.v2ex.com/t/1250414</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1250414</guid>
-<pubDate>Wed, 21 Oct 2026 07:17:09 +0000</pubDate>
-<description>#10 | 46 回复 | 只有 50 Star 的项目是啥
+<title>做了款苹果四端播放器 Vanto，支持杜比视界、空间音频，送 200 份永久版</title>
+<link>https://www.v2ex.com/t/1250565</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1250565</guid>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#9 | 58 回复 | 大家好，我是 Vanto 的开发者。Vanto 是一款面向 iPhone 、iPad 、Mac 和 Apple TV 的个人媒体播放器，主要给已有 NAS 或媒体服务器的朋友使用
+支持哪些来源和功能
 
-项目名称：轻舟(qz)
-项目地址：alibaba/qz-browser-agent
-Chrome 应用商店： https://chromewebstore.google.com/detail/dknbdgkgoinlgjpfebapkklbmjjgdblm
-
-基本上就是一个生活在浏览器里的 Claude Code ，人能干的他都能干。
-轻 的意思是所有功能都集成在 浏览器扩展 里，大小不到 5MB ，不需要额外安装东西，你自己配置模型接口
-舟 的意思就是提升你上网冲浪的速度，但你依然能把控船的方向（人能随时介入“自动化</description>
+媒体来源：Emby 、Jellyfin 、Plex 、SMB 、WebDAV ； AList 、OpenList 可通过 WebDAV 接入。
+杜比视界与 HDR：根据片源和设备能力选择播放路径，最终显示效果取决于片源、设备与显示链路。
+AirPods 空间音频：支持系统空间音频，固定或头部追踪在系统控制中心切换，需兼容的耳机、设备和音轨。
+字幕与音轨：切</description>
+</item>
+<item>
+<title>最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？</title>
+<link>https://www.v2ex.com/t/1250656</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1250656</guid>
+<pubDate>Wed, 21 Oct 2026 13:06:34 +0000</pubDate>
+<description>#10 | 57 回复 | 旧车是婚前父母买给我的一辆小轿车，最近准备换个 SUV ，旧车估值大概 2 万元，妹妹和我不在一个城市。妹妹上班也需要用车，目前是骑电动车，我想把车给妹妹，但是之前家里因为一些琐事，导致妹妹和老婆的关系不太好，我怕提出这个请求后，老婆不同意。我本来想拿出私房钱偷偷给妹妹，让我妹转给我老婆，说是想买我们的旧车，但是问了 AI 后，AI 不建议这么搞，让我去坦诚沟通。我也知道老婆不是不讲理的人，我们也结婚多年了，夫妻感情不错，就是老婆和我家里人，主要是我妈和我妹，相处的不太好。过去没有相处好的原因有很多，大概是：1.我妈性格强势，且爱搞封建传统那些东西，让我</description>
 </item>
 </channel>
 </rss>
