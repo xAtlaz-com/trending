@@ -1,170 +1,157 @@
 [
   {
     "rank": 1,
-    "title": "MadsLorentzen / ai-job-search",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "metric": "★ 62,249",
-    "extra": {
-      "language": "Python",
-      "stars": "62,249",
-      "forks": "19,236",
-      "stars_today": "3,131 stars today"
-    }
-  },
-  {
-    "rank": 2,
     "title": "cloudflare / security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "metric": "★ 35,147",
+    "metric": "★ 35,521",
     "extra": {
       "language": "JavaScript",
-      "stars": "35,147",
-      "forks": "2,211",
+      "stars": "35,521",
+      "forks": "2,231",
       "stars_today": "1,997 stars today"
     }
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "vllm-project / vllm",
     "url": "https://github.com/vllm-project/vllm",
     "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-    "metric": "★ 94,683",
+    "metric": "★ 94,773",
     "extra": {
       "language": "Python",
-      "stars": "94,683",
-      "forks": "23,715",
+      "stars": "94,773",
+      "forks": "23,730",
       "stars_today": "439 stars today"
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "stablyai / orca",
     "url": "https://github.com/stablyai/orca",
     "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "metric": "★ 100,584",
+    "metric": "★ 100,937",
     "extra": {
       "language": "TypeScript",
-      "stars": "100,584",
-      "forks": "6,357",
+      "stars": "100,937",
+      "forks": "6,382",
       "stars_today": "1,543 stars today"
     }
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "headroomlabs-ai / headroom",
     "url": "https://github.com/headroomlabs-ai/headroom",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-    "metric": "★ 77,007",
+    "metric": "★ 77,135",
     "extra": {
       "language": "Python",
-      "stars": "77,007",
-      "forks": "5,977",
+      "stars": "77,135",
+      "forks": "5,986",
       "stars_today": "477 stars today"
     }
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "DietrichGebert / ponytail",
     "url": "https://github.com/DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "metric": "★ 170,769",
+    "metric": "★ 171,196",
     "extra": {
       "language": "JavaScript",
-      "stars": "170,769",
-      "forks": "9,286",
+      "stars": "171,196",
+      "forks": "9,316",
       "stars_today": "2,051 stars today"
     }
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Comfy-Org / ComfyUI",
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-    "metric": "★ 141,232",
+    "metric": "★ 141,353",
     "extra": {
       "language": "Python",
-      "stars": "141,232",
-      "forks": "16,702",
+      "stars": "141,353",
+      "forks": "16,715",
       "stars_today": "914 stars today"
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "supabase / supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "metric": "★ 112,641",
+    "metric": "★ 112,813",
     "extra": {
       "language": "TypeScript",
-      "stars": "112,641",
-      "forks": "16,826",
+      "stars": "112,813",
+      "forks": "16,876",
       "stars_today": "509 stars today"
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "twentyhq / twenty",
     "url": "https://github.com/twentyhq/twenty",
     "description": "The open alternative to Salesforce, designed for AI.",
-    "metric": "★ 58,825",
+    "metric": "★ 58,980",
     "extra": {
       "language": "TypeScript",
-      "stars": "58,825",
-      "forks": "9,643",
+      "stars": "58,980",
+      "forks": "9,654",
       "stars_today": "105 stars today"
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "shiyu-coder / Kronos",
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "metric": "★ 42,611",
+    "metric": "★ 42,711",
     "extra": {
       "language": "Python",
-      "stars": "42,611",
-      "forks": "7,045",
+      "stars": "42,711",
+      "forks": "7,054",
       "stars_today": "570 stars today"
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "strelov1 / freehire",
     "url": "https://github.com/strelov1/freehire",
     "description": "freehire — the open-source search engine for job seekers",
-    "metric": "★ 2,034",
+    "metric": "★ 2,214",
     "extra": {
       "language": "Go",
-      "stars": "2,034",
-      "forks": "229",
-      "stars_today": "405 stars today"
+      "stars": "2,214",
+      "forks": "236",
+      "stars_today": "396 stars today"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "akitaonrails / ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "metric": "★ 12,179",
+    "extra": {
+      "language": "Rust",
+      "stars": "12,179",
+      "forks": "864",
+      "stars_today": "303 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "akitaonrails / ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "metric": "★ 12,039",
-    "extra": {
-      "language": "Rust",
-      "stars": "12,039",
-      "forks": "854",
-      "stars_today": "810 stars today"
-    }
-  },
-  {
-    "rank": 13,
     "title": "Graphify-Labs / graphify",
     "url": "https://github.com/Graphify-Labs/graphify",
     "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-    "metric": "★ 130,974",
+    "metric": "★ 131,316",
     "extra": {
       "language": "Python",
-      "stars": "130,974",
-      "forks": "12,588",
+      "stars": "131,316",
+      "forks": "12,611",
       "stars_today": "1,434 stars today"
     }
   }
