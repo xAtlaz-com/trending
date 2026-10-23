@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-10-22T23:04:06+00:00",
+  "updated_at": "2026-10-23T01:47:56+00:00",
   "count": 9,
   "items": [
     {
@@ -8,12 +8,12 @@
       "title": "php / php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
-      "metric": "★ 41,124",
+      "metric": "★ 41,184",
       "extra": {
         "language": "C",
-        "stars": "41,124",
-        "forks": "8,305",
-        "stars_today": "423 stars today"
+        "stars": "41,184",
+        "forks": "8,315",
+        "stars_today": "287 stars today"
       }
     },
     {
@@ -21,11 +21,11 @@
       "title": "anthropics / knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "metric": "★ 31,559",
+      "metric": "★ 31,645",
       "extra": {
         "language": "Python",
-        "stars": "31,559",
-        "forks": "3,530",
+        "stars": "31,645",
+        "forks": "3,536",
         "stars_today": "303 stars today"
       }
     },
@@ -34,12 +34,12 @@
       "title": "DietrichGebert / ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "metric": "★ 173,387",
+      "metric": "★ 173,551",
       "extra": {
         "language": "JavaScript",
-        "stars": "173,387",
-        "forks": "9,436",
-        "stars_today": "1,949 stars today"
+        "stars": "173,551",
+        "forks": "9,444",
+        "stars_today": "1,948 stars today"
       }
     },
     {
@@ -47,11 +47,11 @@
       "title": "cloudflare / security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "metric": "★ 39,440",
+      "metric": "★ 39,651",
       "extra": {
         "language": "JavaScript",
-        "stars": "39,440",
-        "forks": "2,455",
+        "stars": "39,651",
+        "forks": "2,473",
         "stars_today": "2,979 stars today"
       }
     },
@@ -60,12 +60,12 @@
       "title": "Graphify-Labs / graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "metric": "★ 132,891",
+      "metric": "★ 133,003",
       "extra": {
         "language": "Python",
-        "stars": "132,891",
-        "forks": "12,717",
-        "stars_today": "1,407 stars today"
+        "stars": "133,003",
+        "forks": "12,725",
+        "stars_today": "1,408 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "supabase / supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "metric": "★ 113,464",
+      "metric": "★ 113,508",
       "extra": {
         "language": "TypeScript",
-        "stars": "113,464",
-        "forks": "16,999",
-        "stars_today": "683 stars today"
+        "stars": "113,508",
+        "forks": "17,002",
+        "stars_today": "693 stars today"
       }
     },
     {
@@ -86,12 +86,12 @@
       "title": "fastapi / fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "metric": "★ 103,702",
+      "metric": "★ 103,771",
       "extra": {
         "language": "Python",
-        "stars": "103,702",
-        "forks": "10,086",
-        "stars_today": "96 stars today"
+        "stars": "103,771",
+        "forks": "10,090",
+        "stars_today": "101 stars today"
       }
     },
     {
@@ -99,12 +99,12 @@
       "title": "luongnv89 / claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "metric": "★ 43,146",
+      "metric": "★ 43,260",
       "extra": {
         "language": "Python",
-        "stars": "43,146",
-        "forks": "5,383",
-        "stars_today": "370 stars today"
+        "stars": "43,260",
+        "forks": "5,392",
+        "stars_today": "177 stars today"
       }
     },
     {
@@ -112,12 +112,12 @@
       "title": "Meloong-Git / PCL",
       "url": "https://github.com/Meloong-Git/PCL",
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "metric": "★ 8,675",
+      "metric": "★ 8,713",
       "extra": {
         "language": "Visual Basic .NET",
-        "stars": "8,675",
-        "forks": "1,198",
-        "stars_today": "115 stars today"
+        "stars": "8,713",
+        "forks": "1,203",
+        "stars_today": "119 stars today"
       }
     }
   ]
