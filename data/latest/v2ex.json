@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-10-24T19:19:57+00:00",
+  "updated_at": "2026-10-24T21:47:43+00:00",
   "count": 10,
   "items": [
     {
@@ -106,31 +106,17 @@
       "title": "国行 iPhone Duo 如何在境内写入境外 eSIM？",
       "url": "https://www.v2ex.com/t/1251454",
       "description": "如题\n\niPhone Duo 国行\niOS 27.0.1\n中国联通 eSIM 已安装\n\n1 ，我用 Anygo 把 iPhone Duo 的定位改到了纽约\n2 ，用另一台 iPhone 上的 Tello 美国流量共享热点\n当在 iPhone Duo 国行上点击添加 eSIM ，会显示“ 请开启定位服务” 但我的定位服务并没有关闭。\n各位大神 ， 有办法不出境的情况下将境外 eSIM 添加到国行 iPhone 里？\n请纯技术讨论。谢谢。",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "26 回复",
+      "metric_value": 26,
       "extra": {
         "node": "iPhone",
         "node_name": "iphone",
         "author": "leshijiazu",
-        "last_touched": 1792857213
+        "last_touched": 1792860813
       }
     },
     {
       "rank": 9,
-      "title": "来了一个到处搬运帖子起号的用户：@cjkcjkcjk",
-      "url": "https://www.v2ex.com/t/1251407",
-      "description": "t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前t/1251369 我发现张本智和、张本美和不仅球打得好，人也很有意思 7 小时前t/1251256 想起了我以前工作的医院的一件事 14 小时 57 分钟前t/1250785 结婚三年，现在跟我说不生小孩，我该怎么办？求建议  1 天前t/1250112 不婚不生可行么？怎么养老？ 4 天前t/1249853 vps 的 IP 送中了能用来给 Claude 做代理么？ 4 天前t/1249815 怎么改用户名呢？  5 天前",
-      "metric": "23 回复",
-      "metric_value": 23,
-      "extra": {
-        "node": "分享发现",
-        "node_name": "share",
-        "author": "GyroZeppeli13",
-        "last_touched": 1792820516
-      }
-    },
-    {
-      "rank": 10,
       "title": "现在新号订阅是不是必被 KYC",
       "url": "https://www.v2ex.com/t/1251445",
       "description": "前两天第二个号封了，注册了新号 free tier 可以正常使用，google play 里面想订阅，扣完钱就弹 kyc ，网络环境应该是干净的，出口是日本住宅 IP",
@@ -141,6 +127,20 @@
         "node_name": "claude",
         "author": "kloudmuka",
         "last_touched": 1792859158
+      }
+    },
+    {
+      "rank": 10,
+      "title": "有没有人知道这是什么面试套路",
+      "url": "https://www.v2ex.com/t/1251423",
+      "description": "我应聘一家做科研服务的 Agent 开发工程师，昨天下午 2 点进行了线上终面，结果下午 5 点的时候 HR 又发来消息，说业务这边还有两个问题想跟我沟通下（ Agent 业务相关问题），希望我整理后发给她。我也没多问，想好之后就发给对方了。\n现在只觉得奇怪，第一次见终面结束之后还要私下单独提问的，各位怎么看？",
+      "metric": "19 回复",
+      "metric_value": 19,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "inostarling",
+        "last_touched": 1792848362
       }
     }
   ]
