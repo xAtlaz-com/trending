@@ -4,42 +4,14 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sat, 24 Oct 2026 03:56:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 08:46:40 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
-<item>
-<title>去了趟既熟悉又陌生的台湾</title>
-<link>https://www.v2ex.com/t/1251258</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251258</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#1 | 72 回复 | 台湾，一个从小就被反复提起，却又不能说走就走的地方。课本里的“宝岛”，后来听的歌、看的影视剧，构成了我对台湾最初的印象。有着许多相通的文化和生活习惯，却经历了不同的历史与社会发展，这里会有怎样的日常？带着这份好奇和期待，这次终于有机会亲自走一走，看看华人社会的另一种样子。
-
-大陆居民赴台湾自由行，从 2011 年开放试点到 2019 年暂停，前后约 8 年，期间逐步扩大到 47 个城市。台湾方面则于 2023 年 9 月恢复受理符合条件的旅居海外及港澳大陆人士赴台观光申请。台湾居民可凭有效台胞证自行前往大陆旅游。 
-
-这次的入台证是在东京办的，中途补了两</description>
-</item>
-<item>
-<title>做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度</title>
-<link>https://www.v2ex.com/t/1251299</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251299</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#2 | 52 回复 | 平时 Codex 和 Claude Code 都在用，每次想看还剩多少额度都得点开页面,很不方便.
-EdgeQuota 贴在 Mac 屏幕边上。Codex 或 Claude Code 开始干活时它自己滑出来，干完自动收起。能看到：
-
-5 小时额度和每周额度，还剩多少、几点重置
-正在跑的会话，哪个在等你确认
-
-Codex 用的是官方 Codex ，Claude 走 Claude Code 自带的状态栏和 hooks 。不要密码，不读浏览器 cookie ，也没有我自己的服务器。
-
-几点说明：
-
-国区 App Store 搜不到，目前没上架中国大陆区，要用美</description>
-</item>
 <item>
 <title>为什么很多人都把 DeepSeek 神化了，看不起国内豆包和其它 LLM？</title>
 <link>https://www.v2ex.com/t/1251402</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1251402</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#3 | 50 回复 | 我认为 DeepSeek 、MiniMax 、Kimi 、GLM 这些 LLM 公司被严重高估了：
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#1 | 60 回复 | 我认为 DeepSeek 、MiniMax 、Kimi 、GLM 这些 LLM 公司被严重高估了：
 月活（ MAU ）：
 豆包 4.2 亿，千问 1.7 亿，DeepSeek 1.2 亿，智谱 2000 万，Kimi 1000 万；
 商业化（ ARR ）：
@@ -50,48 +22,11 @@ GLM：开源 50 余款模型，GLM-5.2 以 51 分位居全球开源智能指数�
 Deep</description>
 </item>
 <item>
-<title>经过这次 PHP 漏洞的事情，猛然发现技术圈进步的并没有那么快</title>
-<link>https://www.v2ex.com/t/1251242</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251242</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#4 | 47 回复 | 之前给某学校做的一个系统，今天校方突然联系我问我这个系统有没有最近 PHP 爆出的安全漏洞，学校最近在排查这个事情。还让我填写下表格。然后联系到前几天看小日本首脑也在 X 上发表这个漏洞资讯。猛然发现这个世界还是有很多网站用 PHP ，.NET 这些上古技术的。计算机技术圈其实进步的并没有想象的那么快。或者换句话说，技术的迭代速度和技术在世界中的普及程度，完全是两回事。你们觉得呢？</description>
-</item>
-<item>
-<title>不是我说，成都这地方当码农简直是灾难级别，成都的程序员真能顶啊？</title>
-<link>https://www.v2ex.com/t/1251263</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251263</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#5 | 38 回复 | 之前一直在北京工作，2024 年来成都，老婆体制内工作，今时不同往日，私企就是一坨，我这种私企牛马当然是决定跟着老婆走，就准备在成都这随便干干，找了两份工作，工资是以前的三分之一，一个干着干着投资人跑路（我顺走一台主机+一个显示器），另一个干着干着老板看我不顺眼（说我普通话太好，穿衣打扮太得体，能力太强不服管教）开了我，属实难绷。而且我发现成都这的小土老板普遍不遵守劳动法，并且毫无人文关怀，基本都是加入世贸突然起飞或者拆迁的暴发户，素质情商能力极低。西南柬埔寨诚不欺我。</description>
-</item>
-<item>
-<title>大家在为下一次失业做准备吗</title>
-<link>https://www.v2ex.com/t/1251287</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251287</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#6 | 36 回复 | 现在的社会经济形式，感觉不知道哪天就失业了，现在找工作基本是按月等消息了
-网上各种 AI 爆炸的信息，但真问一句自己明天失业了能干什么真不知道
-大家在为下一次失业做什么准备？</description>
-</item>
-<item>
-<title>大龄后端程序员出路讨论</title>
-<link>https://www.v2ex.com/t/1251316</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251316</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#7 | 34 回复 | 背景：  35 岁了，从事 Java 后端开发，现在公司每个月来一次裁员。想咨询下：如果还想再狗几年的话，比较好的思路是啥？  1 、降薪、进外包  2 、转行吃经验的岗位：比如 嵌入式工程师（速成以下）大家觉得呢？ 或者大家觉得嵌入式工程师 是否和我想的一样，能够干久一点？ 一起讨论下把</description>
-</item>
-<item>
-<title>锐评 v 站热门节点</title>
-<link>https://www.v2ex.com/t/1251217</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251217</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#8 | 33 回复 | 要我说，v 站的内容最有价值就是分享节点，其他的节点都是挂羊头卖狗肉，当然我说的是现在的 V2EX 。问与答（龟男的十万个为什么）：男方婚后工资该不该给女方，刚结婚一百多天，老婆生气不见我怎么办生活（龟男的性福百科）：中年夫妻里，婚外性行为到底有多普遍程序员（你全家才是程序员）：今天 Codex 又又又重置了。我也不知道这个帖子应该放到哪个分区，那就问与答吧。</description>
-</item>
-<item>
 <title>别说开发了, 这把运维真给干没了把</title>
 <link>https://www.v2ex.com/t/1251410</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1251410</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#9 | 23 回复 | 以前运维不说多少技术
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#2 | 47 回复 | 以前运维不说多少技术
 反正是个幸苦活, 公司必须养着
 毕竟经常晚上 2,3 点上线得有人盯着啊
 现在 ai 弄个定时任务, 到 3 点上去怕怕一顿忙活, 可能几分钟就搞定了
@@ -99,12 +34,62 @@ Deep</description>
 还能 24 小时干活, 谁能比</description>
 </item>
 <item>
-<title>为了不被优化，现在应该学点啥</title>
-<link>https://www.v2ex.com/t/1251315</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1251315</guid>
-<pubDate>Sat, 24 Oct 2026 03:56:51 +0000</pubDate>
-<description>#10 | 22 回复 | 我在三线城市国企做 app 开发的，本来需求就少，现在业务被别的部门抢了，基本没啥活可干了，最近一年也基本是 AI 写，手工写不了 2 行。
-为了将来不被优化，应该学点啥，感觉 AI 现在不说很智能吧，但是大部分项目它都能写个七七八八，各个岗位将来肯定也是需要有经验丰富的人的，但是可能不需要那么多人了。</description>
+<title>用单位电脑开代理，如何逃避后台监测？</title>
+<link>https://www.v2ex.com/t/1251432</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251432</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#3 | 37 回复 | OP 不是公务员，是教育事业单位，电脑网络连着教育局服务端口，那边有网络日志，随时可以倒查开了两年多代理查资料用 AI 也没被警告处理。但前段时间突然开始宣传网络安全，特别强调不能翻墙，有点慌了，不怎么敢用了。因为听说朋友公务员单位内部有使用代理被处分的，害怕自己的饭碗也会受影响有什么技术手段能够保证不被追踪或者监测吗？实在没有，也让我死心吧。今后用还是会用的，不然实在不方便，被查了再说</description>
+</item>
+<item>
+<title>大龄后端程序员出路讨论</title>
+<link>https://www.v2ex.com/t/1251316</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251316</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#4 | 35 回复 | 背景：  35 岁了，从事 Java 后端开发，现在公司每个月来一次裁员。想咨询下：如果还想再狗几年的话，比较好的思路是啥？  1 、降薪、进外包  2 、转行吃经验的岗位：比如 嵌入式工程师（速成以下）大家觉得呢？ 或者大家觉得嵌入式工程师 是否和我想的一样，能够干久一点？ 一起讨论下把</description>
+</item>
+<item>
+<title>做了个 Vibe Coding 展示站，天天更新却没人投稿</title>
+<link>https://www.v2ex.com/t/1251357</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251357</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#5 | 23 回复 | 我硬着头皮做了一个站，想专门收录 Vibe Coding 的项目，再同步发一些最新的 AI 资讯和实用的指南，给独立开发者一个能长期展示、互相找灵感的地方。
+到现在还是没什么流量，没人主动投稿，大部分时候都是我自己在唱独角戏。经常更新完看着后台的个位数访问，会怀疑自己是不是在做一件根本没人需要的东西。
+发这个帖子不是来打广告的，就是想听听大家的真实想法：
+
+这种给 Vibe Coding 项目做展示和资讯的站，你们会用吗？
+如果你有自己的小项目，你愿意投稿上去吗？不愿意是因为什么？
+独立做站的兄弟们，冷启动都是怎么熬过去的？
+
+提建议也行，都比没人理强。</description>
+</item>
+<item>
+<title>来了一个到处搬运帖子起号的用户：@cjkcjkcjk</title>
+<link>https://www.v2ex.com/t/1251407</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251407</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#6 | 22 回复 | t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前t/1251369 我发现张本智和、张本美和不仅球打得好，人也很有意思 7 小时前t/1251256 想起了我以前工作的医院的一件事 14 小时 57 分钟前t/1250785 结婚三年，现在跟我说不生小孩，我该怎么办？求建议  1 天前t/1250112 不婚不生可行么？怎么养老？ 4 天前t/1249853 vps 的 IP 送中了能用来给 Claude 做代理么？ 4 天前t/1249815 怎么改用户名呢？  5 天前</description>
+</item>
+<item>
+<title>Personal Agent 大家平时都拿来干啥？都有啥定时任务？</title>
+<link>https://www.v2ex.com/t/1251415</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251415</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#7 | 21 回复 | AI 助理（ Grok Bot 、Dots 、Muse 之类的）也出了一段时间了，确实在某些方面省了点事但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了</description>
+</item>
+<item>
+<title>月入零到月入百刀，自已没变，外人一直在变。</title>
+<link>https://www.v2ex.com/t/1251417</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251417</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#8 | 21 回复 | relabel.me 这个网站三个月破百刀。relabel.me 这个网站三个月零收入。看到不同的结果，外人的评价总会大变。实际上我们自己，我们要做的事情一直没变。却总被各种片面误解，恶意揣测影响到，有幸坚持下去了当初的人又会马上找补回来。这个网站会模拟各种评价，还能输入新的变化看评论如何反转。坚持不下去了模拟一下爽文男主，被别的言论伤害了可以模拟看到施暴者另一幅嘴脸。总之希望我们可以更好的做自己，做自己坚持想做的事情，没有人真正了解自己，持续去做就好了。</description>
+</item>
+<item>
+<title>Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了</title>
+<link>https://www.v2ex.com/t/1251425</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1251425</guid>
+<pubDate>Sat, 24 Oct 2026 08:46:40 +0000</pubDate>
+<description>#9 | 21 回复 | 官方公众号: https://mp.weixin.qq.com/s/Q6Z-skAUH_na9g37VWbHew
+我对 kimi 已经没啥感情了, 额度太不透明了.速度还慢...</description>
 </item>
 </channel>
 </rss>
