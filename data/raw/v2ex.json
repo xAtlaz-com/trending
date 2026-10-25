@@ -1,114 +1,100 @@
 [
   {
     "rank": 1,
-    "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
-    "url": "https://www.v2ex.com/t/1251551",
-    "description": "去实际体验了一下特斯拉的 model Y, 并没有什么明显的突出感受啊, 和之前体验的 yu7 su7 i6 ls6 07 这些都没什么明显的区别啊, 操控到底好在哪里了? 最让我绷不住的是智驾, 只能试驾体验六万的, 那年落地都没定, 还要三万才给自动泊车, 屏幕换挡反而是最小的槽点了, 更别说什么座椅按摩 零重力 hud 这些了, 啥都没有一辆 modelY 最丐的也要 26 万 model3 23 万, 智驾还要选装, 要是论舒适度的话, 我感觉 23 万的 yu7 20 万的阿维塔 07 什么都不加都能吊打了吧? 就为了那个超级跟脚的油门? 还是图他洋牌子的名声?",
-    "metric": "59 回复",
-    "metric_value": 59,
-    "extra": {
-      "node": "电动汽车",
-      "node_name": "ev",
-      "author": "trytrytry",
-      "last_touched": 1792874140
-    }
-  },
-  {
-    "rank": 2,
-    "title": "大龄单身青年晚上都干啥",
-    "url": "https://www.v2ex.com/t/1251553",
-    "description": "想问下，单身的大伙晚上都做啥。现在貌似对啥都失去兴趣了，打游戏，看直播，也没啥想去聊天的人",
-    "metric": "32 回复",
-    "metric_value": 32,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "pydick",
-      "last_touched": 1792890587
-    }
-  },
-  {
-    "rank": 3,
-    "title": "大家现在上班每天早餐消费多少钱？",
-    "url": "https://www.v2ex.com/t/1251530",
-    "description": "我是不吃早餐= =",
-    "metric": "29 回复",
-    "metric_value": 29,
-    "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "revival83",
-      "last_touched": 1792907610
-    }
-  },
-  {
-    "rank": 4,
     "title": "Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？",
     "url": "https://www.v2ex.com/t/1251598",
     "description": "最近发现一个非常奇怪的现象。\n在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如：\n\nthemoviedb\ngoogle\nyoutube\ntelegram\nx.com\nopenai\n\nBing 似乎不会优先展示这些网站的官方网站，甚至在搜索结果前几页都找不到官网入口，反而推荐各种第三方网站、教程、镜像站或无关页面。\n以 The Movie Database （ TMDB ）为例\n在 Bing 搜索 themoviedb：\n\n第一条结果：https://tmdb-pearl.vercel.app，一个部署在 Vercel 上的第三方项目。\n第二条结果：https://the",
-    "metric": "26 回复",
-    "metric_value": 26,
+    "metric": "31 回复",
+    "metric_value": 31,
     "extra": {
       "node": "Bing",
       "node_name": "bing",
       "author": "charley008",
-      "last_touched": 1792920388
+      "last_touched": 1792929470
     }
   },
   {
-    "rank": 5,
+    "rank": 2,
     "title": "[Day 20] - 10.25 - Tibo 又要重置了",
     "url": "https://www.v2ex.com/t/1251616",
     "description": "下午 3 点前\nhttps://codex-reset.com/zh/#signals",
-    "metric": "21 回复",
-    "metric_value": 21,
+    "metric": "23 回复",
+    "metric_value": 23,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
       "author": "privateproxies",
-      "last_touched": 1792921472
+      "last_touched": 1792935434
     }
   },
   {
-    "rank": 6,
-    "title": "claude 支持中国了？",
-    "url": "https://www.v2ex.com/t/1251557",
-    "description": "国家或地区能选中国，支付方式也能选银联了",
-    "metric": "20 回复",
-    "metric_value": 20,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
-      "author": "IMengXin",
-      "last_touched": 1792865714
-    }
-  },
-  {
-    "rank": 7,
-    "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
-    "url": "https://www.v2ex.com/t/1251601",
-    "description": "作用是，根据评论中的 #17 ，或者 @xxx ，或者“十七楼”，这样的信息，找到最近的一条回复，自动在当前这条评论上方展示。\n刚刚已上架到 chrome 应用商店，搜索 “V2EX 评论上下文” 即可。\n插件免费开源 https://github.com/mdview2026/v2ex-comment-context\n解决了我自己遇到的一个痛点。如果对你也有用，就更好了。",
-    "metric": "17 回复",
-    "metric_value": 17,
-    "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "whoisharry",
-      "last_touched": 1792921920
-    }
-  },
-  {
-    "rank": 8,
+    "rank": 3,
     "title": "有什么工具可以测试鼠标的微动是否有问题",
     "url": "https://www.v2ex.com/t/1251609",
     "description": "请问各位大神，有什么工具可以测试鼠标的微动是否有问题？",
-    "metric": "14 回复",
-    "metric_value": 14,
+    "metric": "21 回复",
+    "metric_value": 21,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "crayhuang",
-      "last_touched": 1792914128
+      "last_touched": 1792930929
+    }
+  },
+  {
+    "rank": 4,
+    "title": "有没有发现一个奇怪的现象？",
+    "url": "https://www.v2ex.com/t/1251636",
+    "description": "我发现一个很奇怪，但也很有意思的现象。如果做一个 app ，开源免费发布出来，唉，不一定有多少人用。但是你说收费，然后发码，那就会有很多人要。挺奇怪的逻辑, 特别在 V2 上，我见过很多这样的。（当然，我说的这种 case 也不是绝对的有没有人愿意分析一下这是什么心理呢？ 如果是开源免费的 App ，（ AI Slop 除外），应该怎么样来运营呢？",
+    "metric": "21 回复",
+    "metric_value": 21,
+    "extra": {
+      "node": "奇思妙想",
+      "node_name": "ideas",
+      "author": "xueshi",
+      "last_touched": 1792938369
+    }
+  },
+  {
+    "rank": 5,
+    "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
+    "url": "https://www.v2ex.com/t/1251601",
+    "description": "作用是，根据评论中的 #17 ，或者 @xxx ，或者“十七楼”，这样的信息，找到最近的一条回复，自动在当前这条评论上方展示。\n刚刚已上架到 chrome 应用商店，搜索 “V2EX 评论上下文” 即可。\n插件免费开源 https://github.com/mdview2026/v2ex-comment-context\n解决了我自己遇到的一个痛点。如果对你也有用，就更好了。",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "whoisharry",
+      "last_touched": 1792923468
+    }
+  },
+  {
+    "rank": 6,
+    "title": "codex 最新的功能，居然和我之前做的小功能如此雷同",
+    "url": "https://www.v2ex.com/t/1251621",
+    "description": "",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "break",
+      "last_touched": 1792931152
+    }
+  },
+  {
+    "rank": 7,
+    "title": "用 ai 实现书法作品自动生成",
+    "url": "https://www.v2ex.com/t/1251592",
+    "description": "昨天忽然想试试看让 ai 学习字帖的文字结构\n用一个真实字贴，学习后，生成任何文字的书法作品\n使用了三层动态书法异形引擎（同字异形 PUA 轮换 + 部件级错落微变 + 弹性笔势场与蘸墨呼吸）与随字赋形不等距纵向排版（ True Bounding-Box Vertical Kerning ），彻底消除电脑排字机械感。\n结果比我预想的好很多\n大概能到原字帖 90%水平\nhttps://dvbs2000.github.io/liuchunlin-shufa/\n直接就可以体验，输入任何诗词文字，直接出书法作品下载\n这是 github 地址\nhttps://github.com/dvbs2000/li",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "dvbs2000",
+      "last_touched": 1792923157
     }
   }
 ]
