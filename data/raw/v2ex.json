@@ -4,8 +4,8 @@
     "title": "别说开发了, 这把运维真给干没了把",
     "url": "https://www.v2ex.com/t/1251410",
     "description": "以前运维不说多少技术\n反正是个幸苦活, 公司必须养着\n毕竟经常晚上 2,3 点上线得有人盯着啊\n现在 ai 弄个定时任务, 到 3 点上去怕怕一顿忙活, 可能几分钟就搞定了\n现在 ai 写脚本, sql, 干运维等东西肯定远比人强多了\n还能 24 小时干活, 谁能比",
-    "metric": "72 回复",
-    "metric_value": 72,
+    "metric": "74 回复",
+    "metric_value": 74,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
@@ -32,13 +32,13 @@
     "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
     "url": "https://www.v2ex.com/t/1251551",
     "description": "去实际体验了一下特斯拉的 model Y, 并没有什么明显的突出感受啊, 和之前体验的 yu7 su7 i6 ls6 07 这些都没什么明显的区别啊, 操控到底好在哪里了? 最让我绷不住的是智驾, 只能试驾体验六万的, 那年落地都没定, 还要三万才给自动泊车, 屏幕换挡反而是最小的槽点了, 更别说什么座椅按摩 零重力 hud 这些了, 啥都没有一辆 modelY 最丐的也要 26 万 model3 23 万, 智驾还要选装, 要是论舒适度的话, 我感觉 23 万的 yu7 20 万的阿维塔 07 什么都不加都能吊打了吧? 就为了那个超级跟脚的油门? 还是图他洋牌子的名声?",
-    "metric": "36 回复",
-    "metric_value": 36,
+    "metric": "38 回复",
+    "metric_value": 38,
     "extra": {
       "node": "电动汽车",
       "node_name": "ev",
       "author": "trytrytry",
-      "last_touched": 1792805740
+      "last_touched": 1792812940
     }
   },
   {
@@ -57,6 +57,20 @@
   },
   {
     "rank": 5,
+    "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
+    "url": "https://www.v2ex.com/t/1251415",
+    "description": "AI 助理（ Grok Bot 、Dots 、Muse 之类的）也出了一段时间了，确实在某些方面省了点事但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了",
+    "metric": "32 回复",
+    "metric_value": 32,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "smallhml",
+      "last_touched": 1792869524
+    }
+  },
+  {
+    "rank": 6,
     "title": "月入零到月入百刀，自已没变，外人一直在变。",
     "url": "https://www.v2ex.com/t/1251417",
     "description": "relabel.me 这个网站三个月破百刀。relabel.me 这个网站三个月零收入。看到不同的结果，外人的评价总会大变。实际上我们自己，我们要做的事情一直没变。却总被各种片面误解，恶意揣测影响到，有幸坚持下去了当初的人又会马上找补回来。这个网站会模拟各种评价，还能输入新的变化看评论如何反转。坚持不下去了模拟一下爽文男主，被别的言论伤害了可以模拟看到施暴者另一幅嘴脸。总之希望我们可以更好的做自己，做自己坚持想做的事情，没有人真正了解自己，持续去做就好了。",
@@ -67,20 +81,6 @@
       "node_name": "create",
       "author": "ghuuuif",
       "last_touched": 1792857941
-    }
-  },
-  {
-    "rank": 6,
-    "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
-    "url": "https://www.v2ex.com/t/1251415",
-    "description": "AI 助理（ Grok Bot 、Dots 、Muse 之类的）也出了一段时间了，确实在某些方面省了点事但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了",
-    "metric": "29 回复",
-    "metric_value": 29,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "smallhml",
-      "last_touched": 1792858724
     }
   },
   {
@@ -116,27 +116,27 @@
     "title": "现在新号订阅是不是必被 KYC",
     "url": "https://www.v2ex.com/t/1251445",
     "description": "前两天第二个号封了，注册了新号 free tier 可以正常使用，google play 里面想订阅，扣完钱就弹 kyc ，网络环境应该是干净的，出口是日本住宅 IP",
-    "metric": "21 回复",
-    "metric_value": 21,
+    "metric": "22 回复",
+    "metric_value": 22,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "kloudmuka",
-      "last_touched": 1792859158
+      "last_touched": 1792862758
     }
   },
   {
     "rank": 10,
-    "title": "有没有人知道这是什么面试套路",
-    "url": "https://www.v2ex.com/t/1251423",
-    "description": "我应聘一家做科研服务的 Agent 开发工程师，昨天下午 2 点进行了线上终面，结果下午 5 点的时候 HR 又发来消息，说业务这边还有两个问题想跟我沟通下（ Agent 业务相关问题），希望我整理后发给她。我也没多问，想好之后就发给对方了。\n现在只觉得奇怪，第一次见终面结束之后还要私下单独提问的，各位怎么看？",
-    "metric": "19 回复",
-    "metric_value": 19,
+    "title": "大龄单身青年晚上都干啥",
+    "url": "https://www.v2ex.com/t/1251553",
+    "description": "想问下，单身的大伙晚上都做啥。现在貌似对啥都失去兴趣了，打游戏，看直播，也没啥想去聊天的人",
+    "metric": "21 回复",
+    "metric_value": 21,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "inostarling",
-      "last_touched": 1792848362
+      "node": "生活",
+      "node_name": "life",
+      "author": "pydick",
+      "last_touched": 1792868987
     }
   }
 ]
