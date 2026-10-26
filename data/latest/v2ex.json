@@ -1,132 +1,132 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-10-25T23:05:36+00:00",
+  "updated_at": "2026-10-26T01:32:29+00:00",
   "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？",
-      "url": "https://www.v2ex.com/t/1251598",
-      "description": "最近发现一个非常奇怪的现象。\n在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如：\n\nthemoviedb\ngoogle\nyoutube\ntelegram\nx.com\nopenai\n\nBing 似乎不会优先展示这些网站的官方网站，甚至在搜索结果前几页都找不到官网入口，反而推荐各种第三方网站、教程、镜像站或无关页面。\n以 The Movie Database （ TMDB ）为例\n在 Bing 搜索 themoviedb：\n\n第一条结果：https://tmdb-pearl.vercel.app，一个部署在 Vercel 上的第三方项目。\n第二条结果：https://the",
-      "metric": "31 回复",
-      "metric_value": 31,
+      "title": "有没有发现一个奇怪的现象？",
+      "url": "https://www.v2ex.com/t/1251636",
+      "description": "我发现一个很奇怪，但也很有意思的现象。如果做一个 app ，开源免费发布出来，唉，不一定有多少人用。但是你说收费，然后发码，那就会有很多人要。挺奇怪的逻辑, 特别在 V2 上，我见过很多这样的。（当然，我说的这种 case 也不是绝对的有没有人愿意分析一下这是什么心理呢？ 如果是开源免费的 App ，（ AI Slop 除外），应该怎么样来运营呢？",
+      "metric": "37 回复",
+      "metric_value": 37,
       "extra": {
-        "node": "Bing",
-        "node_name": "bing",
-        "author": "charley008",
-        "last_touched": 1792929470
+        "node": "分享发现",
+        "node_name": "share",
+        "author": "xueshi",
+        "last_touched": 1792976572
       }
     },
     {
       "rank": 2,
-      "title": "有没有发现一个奇怪的现象？",
-      "url": "https://www.v2ex.com/t/1251636",
-      "description": "我发现一个很奇怪，但也很有意思的现象。如果做一个 app ，开源免费发布出来，唉，不一定有多少人用。但是你说收费，然后发码，那就会有很多人要。挺奇怪的逻辑, 特别在 V2 上，我见过很多这样的。（当然，我说的这种 case 也不是绝对的有没有人愿意分析一下这是什么心理呢？ 如果是开源免费的 App ，（ AI Slop 除外），应该怎么样来运营呢？",
-      "metric": "28 回复",
-      "metric_value": 28,
+      "title": "Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？",
+      "url": "https://www.v2ex.com/t/1251598",
+      "description": "最近发现一个非常奇怪的现象。\n在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如：\n\nthemoviedb\ngoogle\nyoutube\ntelegram\nx.com\nopenai\n\nBing 似乎不会优先展示这些网站的官方网站，甚至在搜索结果前几页都找不到官网入口，反而推荐各种第三方网站、教程、镜像站或无关页面。\n以 The Movie Database （ TMDB ）为例\n在 Bing 搜索 themoviedb：\n\n第一条结果：https://tmdb-pearl.vercel.app，一个部署在 Vercel 上的第三方项目。\n第二条结果：https://the",
+      "metric": "32 回复",
+      "metric_value": 32,
       "extra": {
-        "node": "奇思妙想",
-        "node_name": "ideas",
-        "author": "xueshi",
-        "last_touched": 1792954595
+        "node": "Bing",
+        "node_name": "bing",
+        "author": "charley008",
+        "last_touched": 1792933070
       }
     },
     {
       "rank": 3,
-      "title": "[Day 20] - 10.25 - Tibo 又要重置了",
-      "url": "https://www.v2ex.com/t/1251616",
-      "description": "下午 3 点前\nhttps://codex-reset.com/zh/#signals",
-      "metric": "27 回复",
-      "metric_value": 27,
-      "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "privateproxies",
-        "last_touched": 1792948468
-      }
-    },
-    {
-      "rank": 4,
-      "title": "有什么工具可以测试鼠标的微动是否有问题",
-      "url": "https://www.v2ex.com/t/1251609",
-      "description": "请问各位大神，有什么工具可以测试鼠标的微动是否有问题？",
-      "metric": "25 回复",
-      "metric_value": 25,
-      "extra": {
-        "node": "问与答",
-        "node_name": "qna",
-        "author": "crayhuang",
-        "last_touched": 1792943385
-      }
-    },
-    {
-      "rank": 5,
       "title": "有没有感觉 Codex 越来越比不上 Claude 了",
       "url": "https://www.v2ex.com/t/1251671",
       "description": "",
-      "metric": "25 回复",
-      "metric_value": 25,
+      "metric": "31 回复",
+      "metric_value": 31,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
         "author": "Wenwener",
-        "last_touched": 1792952382
+        "last_touched": 1792978028
+      }
+    },
+    {
+      "rank": 4,
+      "title": "有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？",
+      "url": "https://www.v2ex.com/t/1251696",
+      "description": "好多 V 友都做过针对 V 站优化，有做油猴脚本的，chrome 插件的，有做 APP 的，各式各样，光我见过的不下 10 个了，说明大家对这个有需求的。既然有需求为何 V 站不自己去做呢？实在搞不懂，让 AI 来一梭子分分钟的事情。",
+      "metric": "31 回复",
+      "metric_value": 31,
+      "extra": {
+        "node": "V2EX",
+        "node_name": "v2ex",
+        "author": "Veliqo",
+        "last_touched": 1792977689
+      }
+    },
+    {
+      "rank": 5,
+      "title": "有什么工具可以测试鼠标的微动是否有问题",
+      "url": "https://www.v2ex.com/t/1251609",
+      "description": "请问各位大神，有什么工具可以测试鼠标的微动是否有问题？",
+      "metric": "29 回复",
+      "metric_value": 29,
+      "extra": {
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "crayhuang",
+        "last_touched": 1792957785
       }
     },
     {
       "rank": 6,
-      "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
-      "url": "https://www.v2ex.com/t/1251601",
-      "description": "作用是，根据评论中的 #17 ，或者 @xxx ，或者“十七楼”，这样的信息，找到最近的一条回复，自动在当前这条评论上方展示。\n刚刚已上架到 chrome 应用商店，搜索 “V2EX 评论上下文” 即可。\n插件免费开源 https://github.com/mdview2026/v2ex-comment-context\n解决了我自己遇到的一个痛点。如果对你也有用，就更好了。",
-      "metric": "21 回复",
-      "metric_value": 21,
+      "title": "[Day 20] - 10.25 - Tibo 又要重置了",
+      "url": "https://www.v2ex.com/t/1251616",
+      "description": "下午 3 点前\nhttps://codex-reset.com/zh/#signals",
+      "metric": "29 回复",
+      "metric_value": 29,
       "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "whoisharry",
-        "last_touched": 1792930668
+        "node": "OpenAI",
+        "node_name": "openai",
+        "author": "privateproxies",
+        "last_touched": 1792955668
       }
     },
     {
       "rank": 7,
-      "title": "codex 最新的功能，居然和我之前做的小功能如此雷同",
-      "url": "https://www.v2ex.com/t/1251621",
-      "description": "",
-      "metric": "19 回复",
-      "metric_value": 19,
+      "title": "股灾来了就开个银河买纳指或者红利低波 ETF 吧，“万 1 免 5”股票基金免 5 大笑脸开户",
+      "url": "https://www.v2ex.com/t/1251738",
+      "description": "股灾来了最近大家还是少操作吧，买买 etf 或者纳指就行，胆子大的可以抄底，哈哈这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+⚠️回帖即可参与抽奖！⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！⚠️大笑脸开户推荐：YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]GF 证券：ETF 万 0.5 免 5 [ETF 费率低]CC 证券： 万 1 免 5  [低门槛股票 etf 双免 5]GTHT 证券：万 0.8 免 5  [头部龙头券商，综合费率最低",
+      "metric": "24 回复",
+      "metric_value": 24,
       "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "break",
-        "last_touched": 1792931152
+        "node": "推广",
+        "node_name": "promotions",
+        "author": "daxiaolian8",
+        "last_touched": 1792978297
       }
     },
     {
       "rank": 8,
-      "title": "用 ai 实现书法作品自动生成",
-      "url": "https://www.v2ex.com/t/1251592",
-      "description": "昨天忽然想试试看让 ai 学习字帖的文字结构\n用一个真实字贴，学习后，生成任何文字的书法作品\n使用了三层动态书法异形引擎（同字异形 PUA 轮换 + 部件级错落微变 + 弹性笔势场与蘸墨呼吸）与随字赋形不等距纵向排版（ True Bounding-Box Vertical Kerning ），彻底消除电脑排字机械感。\n结果比我预想的好很多\n大概能到原字帖 90%水平\nhttps://dvbs2000.github.io/liuchunlin-shufa/\n直接就可以体验，输入任何诗词文字，直接出书法作品下载\n这是 github 地址\nhttps://github.com/dvbs2000/li",
-      "metric": "18 回复",
-      "metric_value": 18,
+      "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
+      "url": "https://www.v2ex.com/t/1251601",
+      "description": "作用是，根据评论中的 #17 ，或者 @xxx ，或者“十七楼”，这样的信息，找到最近的一条回复，自动在当前这条评论上方展示。\n刚刚已上架到 chrome 应用商店，搜索 “V2EX 评论上下文” 即可。\n插件免费开源 https://github.com/mdview2026/v2ex-comment-context\n解决了我自己遇到的一个痛点。如果对你也有用，就更好了。",
+      "metric": "22 回复",
+      "metric_value": 22,
       "extra": {
         "node": "分享创造",
         "node_name": "create",
-        "author": "dvbs2000",
-        "last_touched": 1792923157
+        "author": "whoisharry",
+        "last_touched": 1792934268
       }
     },
     {
       "rank": 9,
-      "title": "微信是怎么屏蔽 codex 的",
-      "url": "https://www.v2ex.com/t/1251624",
-      "description": "微信是怎么屏蔽 codex 的，理论上 codex 是通过图形界面操作微信的，模仿人类的吧. 现在只要我让 codex 操作微信，微信就自动退出，让我重新登录。",
-      "metric": "16 回复",
-      "metric_value": 16,
+      "title": "我做了一个我自认为全世界最好的雅思背词网站，完全免费，完全开源。🔥🔥🔥🔥🔥",
+      "url": "https://www.v2ex.com/t/1251691",
+      "description": "我做了一个我自认为全世界最好的雅思背词网站，完全免费，完全开源。🔥🔥🔥🔥🔥7,298 个雅思词，每个词一幅原创插画，英音、美音、例句全都有接近真人的配音。学会一个词，你的词汇星图上就点亮一颗星。完全免费！！不用注册，打开就能背，代码和词库大家随便用。希望每个人都能考过雅思。学会英语，去接触更广阔的天地，获取更多的知识。👉 http://0xlei.tech/words开源： http://github.com/designfuchen/word-atlas",
+      "metric": "22 回复",
+      "metric_value": 22,
       "extra": {
-        "node": "OpenAI",
-        "node_name": "openai",
-        "author": "garydab",
-        "last_touched": 1792943625
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "gheiisiei",
+        "last_touched": 1792875496
       }
     }
   ]
