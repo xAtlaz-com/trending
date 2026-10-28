@@ -1,149 +1,188 @@
 {
   "source": "github",
-  "updated_at": "2026-10-28T06:06:15+00:00",
-  "count": 11,
+  "updated_at": "2026-10-28T13:24:17+00:00",
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "title": "elayadesign / ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "description": "",
-      "metric": "★ 9,902",
+      "title": "JetBrains / thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "metric": "★ 4,610",
       "extra": {
-        "language": null,
-        "stars": "9,902",
-        "forks": "696",
-        "stars_today": "1,395 stars today"
+        "language": "TypeScript",
+        "stars": "4,610",
+        "forks": "240",
+        "stars_today": "1,075 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "Nutlope / hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "metric": "★ 39,401",
+      "title": "elayadesign / ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "metric": "★ 10,637",
       "extra": {
-        "language": "CSS",
-        "stars": "39,401",
-        "forks": "2,055",
-        "stars_today": "2,830 stars today"
+        "language": null,
+        "stars": "10,637",
+        "forks": "758",
+        "stars_today": "1,395 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "nightly-labs / openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "metric": "★ 2,654",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "metric": "★ 306,993",
       "extra": {
-        "language": "TypeScript",
-        "stars": "2,654",
-        "forks": "270",
-        "stars_today": "777 stars today"
+        "language": "Shell",
+        "stars": "306,993",
+        "forks": "27,322",
+        "stars_today": "1,096 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 306,652",
+      "title": "HKUDS / DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "metric": "★ 47,304",
       "extra": {
-        "language": "Shell",
-        "stars": "306,652",
-        "forks": "27,294",
-        "stars_today": "617 stars today"
+        "language": "Python",
+        "stars": "47,304",
+        "forks": "5,889",
+        "stars_today": "2,376 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "metric": "★ 90,935",
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "metric": "★ 5,207",
       "extra": {
         "language": "Rust",
-        "stars": "90,935",
-        "forks": "5,391",
-        "stars_today": "1,449 stars today"
+        "stars": "5,207",
+        "forks": "507",
+        "stars_today": "106 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "makecindy / cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "metric": "★ 7,669",
+      "title": "Nutlope / hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "metric": "★ 40,061",
       "extra": {
-        "language": "TypeScript",
-        "stars": "7,669",
-        "forks": "909",
-        "stars_today": "1,465 stars today"
+        "language": "CSS",
+        "stars": "40,061",
+        "forks": "2,089",
+        "stars_today": "2,109 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "gitroomhq / postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "metric": "★ 39,602",
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "metric": "★ 91,421",
       "extra": {
-        "language": "TypeScript",
-        "stars": "39,602",
-        "forks": "7,531",
-        "stars_today": "951 stars today"
+        "language": "Rust",
+        "stars": "91,421",
+        "forks": "5,407",
+        "stars_today": "1,471 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "metric": "★ 291,087",
+      "title": "makecindy / cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "metric": "★ 7,851",
       "extra": {
-        "language": "JavaScript",
-        "stars": "291,087",
-        "forks": "43,092",
-        "stars_today": "1,165 stars today"
+        "language": "TypeScript",
+        "stars": "7,851",
+        "forks": "923",
+        "stars_today": "740 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "HKUDS / DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "metric": "★ 46,486",
+      "title": "nightly-labs / openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "metric": "★ 2,940",
       "extra": {
-        "language": "Python",
-        "stars": "46,486",
-        "forks": "5,813",
-        "stars_today": "1,598 stars today"
+        "language": "TypeScript",
+        "stars": "2,940",
+        "forks": "290",
+        "stars_today": "1,053 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "JetBrains / thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "metric": "★ 4,288",
+      "title": "togg53192-cmd / jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "metric": "★ 6,456",
       "extra": {
-        "language": "TypeScript",
-        "stars": "4,288",
-        "forks": "227",
-        "stars_today": "1,204 stars today"
+        "language": null,
+        "stars": "6,456",
+        "forks": "933",
+        "stars_today": "1,478 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "togg53192-cmd / jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "metric": "★ 5,916",
+      "title": "hmjz100 / LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "metric": "★ 33,865",
       "extra": {
-        "language": null,
-        "stars": "5,916",
-        "forks": "866",
-        "stars_today": "902 stars today"
+        "language": "JavaScript",
+        "stars": "33,865",
+        "forks": "2,390",
+        "stars_today": "3,209 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "expo / skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "metric": "★ 3,380",
+      "extra": {
+        "language": "Shell",
+        "stars": "3,380",
+        "forks": "217",
+        "stars_today": "212 stars today"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "metric": "★ 100,599",
+      "extra": {
+        "language": "Rust",
+        "stars": "100,599",
+        "forks": "13,128",
+        "stars_today": "415 stars today"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "xiaolai / the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "metric": "★ 18,309",
+      "extra": {
+        "language": "Jupyter Notebook",
+        "stars": "18,309",
+        "forks": "17,866",
+        "stars_today": "143 stars today"
       }
     }
   ]
