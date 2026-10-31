@@ -4,13 +4,13 @@
     "title": "求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制",
     "url": "https://www.v2ex.com/t/1253376",
     "description": "最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？\n目前想到的几种方式都有各自的痛点：\n微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。\n百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。\nNAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下载，但又受到运营商上行带宽限制。如果运营商还对上行进行限速，实际体验可能也好不到哪里去。\n再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经验！",
-    "metric": "89 回复",
-    "metric_value": 89,
+    "metric": "92 回复",
+    "metric_value": 92,
     "extra": {
       "node": "互联网",
       "node_name": "internet",
       "author": "jonathan001",
-      "last_touched": 1793473257
+      "last_touched": 1793487061
     }
   },
   {
@@ -18,17 +18,31 @@
     "title": "现在教育真的太卷了，一年级上学期期中测验趣事",
     "url": "https://www.v2ex.com/t/1253357",
     "description": "昨天周五，我儿子说语文考试了，把试卷拿回家，我看了，现在不写多少分，满分 100 ，只扣分，我看扣了 7 分，得 93 分，扣分点基本上都是细节，比如写一句话后面用句号结尾，我儿子写完字没有用句号，三行直接扣三分，还有一些小毛病。\n然后我问有人得满分吗，我儿子回答说有 7 个人得 100 分。鼓励了一下儿子，继续加油就完事了。\n我媳妇正好有 2 个得 100 分同学的家长微信 问人家平时怎么做的，结果人家提前 1-2 星期就在网上买的期中测验题，做了七八次了。什么题型，注意点 ，人家都知道了，我跟我媳妇都懵逼了。\n真的太卷了。",
-    "metric": "44 回复",
-    "metric_value": 44,
+    "metric": "45 回复",
+    "metric_value": 45,
     "extra": {
       "node": "教育",
       "node_name": "edu",
       "author": "qxmqh",
-      "last_touched": 1793463854
+      "last_touched": 1793477048
     }
   },
   {
     "rank": 3,
+    "title": "[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows",
+    "url": "https://www.v2ex.com/t/1253453",
+    "description": "前言\n两周前发布了 Windows 版，安卓版终于也来了，实话说，因为我送的永久激活码可以三台设备，为了不让 v 友蒙受损失，所以继续搞了安卓版本，正好支持三端了，哈哈。目前需要下载安装包安装（和 Google Play 版签名相同，后续可以直接升级，数据不会丢失），Google Play 正在着手上架，上架成功了还会再送一波码。\n听人劝吃饱饭，v1.2.0 加入了弹幕（支持弹弹 Play 兼容的 API ）和字幕样式等功能；解决了 v 友 github 提的 issue ；还优化了一些细节和 bug 修复\n功能\n\n\n支持的文件源：Emby/Jellyfin/Plex 、WebDav/SMB/",
+    "metric": "40 回复",
+    "metric_value": 40,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "trumpmaga",
+      "last_touched": 1793487740
+    }
+  },
+  {
+    "rank": 4,
     "title": "台湾 Claude 号生意有搞头吗",
     "url": "https://www.v2ex.com/t/1253348",
     "description": "全套本地 KYC + 付款 + 手机验证 + 家宽 IP 代开的话。\n我有资源，不知道市场需求怎么样。",
@@ -42,7 +56,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "claude 似乎 今天对 pro 和 free 用户执行 ID verification 了",
     "url": "https://www.v2ex.com/t/1253347",
     "description": "好像是因为他们改策略了",
@@ -56,7 +70,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "大家目前被封禁了几个 Claude 账户？",
     "url": "https://www.v2ex.com/t/1253335",
     "description": "看了最近不少 Claude 封号的帖子，也想分享一下自己的情况\n我的账号目前都还正常，最早的一个已经使用了 1 年 3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro\n目前没有 Max 的需求\n大家的 Claude 账号都是什么情况？最长用了多久？",
@@ -67,20 +81,6 @@
       "node_name": "claude",
       "author": "GoogolChrome111",
       "last_touched": 1793445233
-    }
-  },
-  {
-    "rank": 6,
-    "title": "[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows",
-    "url": "https://www.v2ex.com/t/1253453",
-    "description": "前言\n两周前发布了 Windows 版，安卓版终于也来了，实话说，因为我送的永久激活码可以三台设备，为了不让 v 友蒙受损失，所以继续搞了安卓版本，正好支持三端了，哈哈。目前需要下载安装包安装（和 Google Play 版签名相同，后续可以直接升级，数据不会丢失），Google Play 正在着手上架，上架成功了还会再送一波码。\n听人劝吃饱饭，v1.2.0 加入了弹幕（支持弹弹 Play 兼容的 API ）和字幕样式等功能；解决了 v 友 github 提的 issue ；还优化了一些细节和 bug 修复\n功能\n\n\n支持的文件源：Emby/Jellyfin/Plex 、WebDav/SMB/",
-    "metric": "31 回复",
-    "metric_value": 31,
-    "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "trumpmaga",
-      "last_touched": 1793473025
     }
   },
   {
