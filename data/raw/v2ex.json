@@ -4,139 +4,139 @@
     "title": "求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制",
     "url": "https://www.v2ex.com/t/1253376",
     "description": "最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？\n目前想到的几种方式都有各自的痛点：\n微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。\n百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。\nNAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下载，但又受到运营商上行带宽限制。如果运营商还对上行进行限速，实际体验可能也好不到哪里去。\n再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经验！",
-    "metric": "66 回复",
-    "metric_value": 66,
+    "metric": "87 回复",
+    "metric_value": 87,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "jonathan001",
-      "last_touched": 1793441289
+      "last_touched": 1793455761
     }
   },
   {
     "rank": 2,
-    "title": "一旦动了离婚的念头，结局是不是基本确定了？",
-    "url": "https://www.v2ex.com/t/1253314",
-    "description": "有了这种想法，但仍继续坚持的老哥，后面都怎么样了？\n基本情况：爸妈健在，家在珠三角边缘农村，现在 30 出头了，对方相亲认识的，也是老家附近的人，因为各种各样的原因，各种吵吵闹闹，心里不舒服，可见的未来大概率也是这样，难以为继，还不如一个人，如果离婚了，我估计不会再婚，一是觉得自己内向，难找到伴侣，二是觉得幸福家庭应该是极小概率事件。\n但有现实问题是：\n1 、已经买了新房，房子是领证后买的，首付我出了大部分，装修钱基本也是我出的，当时说加上对方的名字，但现在房产证还没办理，如果离婚不知道会怎么判。\n2 、有个 2 岁多的儿子，儿子真的太可爱的，我是想争取的，但又担心照顾不好他，毕竟我自己煮饭都",
-    "metric": "62 回复",
-    "metric_value": 62,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "happyyl",
-      "last_touched": 1793442108
-    }
-  },
-  {
-    "rank": 3,
     "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
     "url": "https://www.v2ex.com/t/1253343",
     "description": "前几天，我在一个平台发了条动态，预告自己在做的一个写作发布工具。底下有人说没啥用，不如做个抢优惠券的；也有人说别自嗨。\n我没有生气，也没往心里去，但它让我想了很久。平台上的读者来自四面八方，关心的东西差别很大，同一件事在不同的人眼里，价值完全不同，这很正常。我真正在意的是另一件事：我想写的东西，是不是只能放进推荐流里，等一个不确定的结果？\n这让我重新审视了一个老问题：在 AI 时代，个人博客还有什么位置，能起什么作用。\n先说难听的：我知道现在开独立博客很傻。\n平台有推荐，AI 有摘要，人连搜索结果都懒得点。新域名没有权重，没有外链，没有推荐位，写一篇长文发出去，阅读量个位数是常态。这不是“内容",
-    "metric": "55 回复",
-    "metric_value": 55,
+    "metric": "72 回复",
+    "metric_value": 72,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "1244943563",
-      "last_touched": 1793443447
+      "last_touched": 1793462273
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "大家从事程序开发工作几年了",
     "url": "https://www.v2ex.com/t/1253339",
     "description": "想问问大家都工作几年了，我感觉程序员这行业能有 10 年已经很长了",
-    "metric": "46 回复",
-    "metric_value": 46,
+    "metric": "59 回复",
+    "metric_value": 59,
     "extra": {
       "node": "职场话题",
       "node_name": "career",
       "author": "giscyw",
-      "last_touched": 1793443155
+      "last_touched": 1793459996
     }
   },
   {
-    "rank": 5,
-    "title": "Loon 用可莉插件的注意一下，后续插件内容会被加密",
-    "url": "https://www.v2ex.com/t/1253305",
-    "description": "好像是有人不遵守协议肆意转发把作者搞生气了，然后 Loon 光速推出了之前的废案，现在允许插件加密了。我作为白嫖党很感谢大佬的贡献，不过后面我是真不敢用了...当然有人说你平时也不看插件源码，对你有影响吗？这个例子就像路边的摄像头，我平时也没法看，但是我知道这么多用户里面总有几个盯着更新的（我身边知道的就有一个，从来不开自动更新，都是手动维护），而且在大众的监督下，做手脚的风险很低，也能追溯。后续插件全面加密之后，只能通过抓包分析流量来判断插件的内容了，就像把大街上的摄像头全拆了，一举一动全靠大家的良心。作者用爱发电了好几年，我也信任最近一段时间的插件肯定没有问题，就怕在用一两年之后，人总是会",
-    "metric": "38 回复",
-    "metric_value": 38,
-    "extra": {
-      "node": "Apple",
-      "node_name": "apple",
-      "author": "EeveeRibbon",
-      "last_touched": 1793435337
-    }
-  },
-  {
-    "rank": 6,
+    "rank": 4,
     "title": "现在教育真的太卷了，一年级上学期期中测验趣事",
     "url": "https://www.v2ex.com/t/1253357",
     "description": "昨天周五，我儿子说语文考试了，把试卷拿回家，我看了，现在不写多少分，满分 100 ，只扣分，我看扣了 7 分，得 93 分，扣分点基本上都是细节，比如写一句话后面用句号结尾，我儿子写完字没有用句号，三行直接扣三分，还有一些小毛病。\n然后我问有人得满分吗，我儿子回答说有 7 个人得 100 分。鼓励了一下儿子，继续加油就完事了。\n我媳妇正好有 2 个得 100 分同学的家长微信 问人家平时怎么做的，结果人家提前 1-2 星期就在网上买的期中测验题，做了七八次了。什么题型，注意点 ，人家都知道了，我跟我媳妇都懵逼了。\n真的太卷了。",
-    "metric": "36 回复",
-    "metric_value": 36,
+    "metric": "43 回复",
+    "metric_value": 43,
     "extra": {
       "node": "教育",
       "node_name": "edu",
       "author": "qxmqh",
-      "last_touched": 1793440726
+      "last_touched": 1793461844
     }
   },
   {
-    "rank": 7,
+    "rank": 5,
     "title": "台湾 Claude 号生意有搞头吗",
     "url": "https://www.v2ex.com/t/1253348",
     "description": "全套本地 KYC + 付款 + 手机验证 + 家宽 IP 代开的话。\n我有资源，不知道市场需求怎么样。",
+    "metric": "34 回复",
+    "metric_value": 34,
+    "extra": {
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "383394544",
+      "last_touched": 1793445547
+    }
+  },
+  {
+    "rank": 6,
+    "title": "大家目前被封禁了几个 Claude 账户？",
+    "url": "https://www.v2ex.com/t/1253335",
+    "description": "看了最近不少 Claude 封号的帖子，也想分享一下自己的情况\n我的账号目前都还正常，最早的一个已经使用了 1 年 3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro\n目前没有 Max 的需求\n大家的 Claude 账号都是什么情况？最长用了多久？",
     "metric": "31 回复",
     "metric_value": 31,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
-      "author": "383394544",
-      "last_touched": 1793438347
-    }
-  },
-  {
-    "rank": 8,
-    "title": "大家目前被封禁了几个 Claude 账户？",
-    "url": "https://www.v2ex.com/t/1253335",
-    "description": "看了最近不少 Claude 封号的帖子，也想分享一下自己的情况\n我的账号目前都还正常，最早的一个已经使用了 1 年 3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro\n目前没有 Max 的需求\n大家的 Claude 账号都是什么情况？最长用了多久？",
-    "metric": "26 回复",
-    "metric_value": 26,
-    "extra": {
-      "node": "Claude",
-      "node_name": "claude",
       "author": "GoogolChrome111",
-      "last_touched": 1793438033
+      "last_touched": 1793445233
     }
   },
   {
-    "rank": 9,
+    "rank": 7,
     "title": "claude 似乎 今天对 pro 和 free 用户执行 ID verification 了",
     "url": "https://www.v2ex.com/t/1253347",
     "description": "好像是因为他们改策略了",
-    "metric": "26 回复",
-    "metric_value": 26,
+    "metric": "31 回复",
+    "metric_value": 31,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "xyooyx",
-      "last_touched": 1793440288
+      "last_touched": 1793459718
     }
   },
   {
-    "rank": 10,
+    "rank": 8,
+    "title": "大家用 obsidian 么，用什么路线同步的。",
+    "url": "https://www.v2ex.com/t/1253421",
+    "description": "刚新增了个 macmini 想问问使用 obsidian 的兄弟如何解决同步问题",
+    "metric": "27 回复",
+    "metric_value": 27,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "rfo",
+      "last_touched": 1793459794
+    }
+  },
+  {
+    "rank": 9,
     "title": "LockSticky 喜提大陆 App Store 下架",
     "url": "https://www.v2ex.com/t/1253370",
     "description": "早上本来想发一个版本更新的帖子，进到 App Store 突然发现搜不到了，在后台一看，天塌了😂\n\n鹤立鸡群，我真爱了😠\n现在 App Connect 申请了免备案。另外，以防免备案不通过，也在看服务器了。服务器有什么推荐吗，最便宜的那种...",
-    "metric": "22 回复",
-    "metric_value": 22,
+    "metric": "25 回复",
+    "metric_value": 25,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
       "author": "zitup",
-      "last_touched": 1793439819
+      "last_touched": 1793459272
+    }
+  },
+  {
+    "rank": 10,
+    "title": "[补送码] Navidrome 最佳播放器： Mu3ic",
+    "url": "https://www.v2ex.com/t/1253338",
+    "description": "主页 进行了升级重构，更新的所有内容都可以直接在主页上体验，无需下载应用即可上手体验，玩起来：\n本帖专属福利规则\n鉴于上一贴贴出的激活码有 37/70 未在 24h 内激活，真正有需要的 xd 刚看到帖子就已经领完了，故在此补送 37 个激活码，为最后一批赠送激活码，后续桌面端和 ios 端上线将不会再直接发放激活码，而会以优惠码的形式发福利，本帖下 37 个激活码赠完后，可以领取 6 元代金券，11.5 前叠加代金券可以史低价格 12 元激活 Pro ，代金券我会贴在 1 楼，可重复使用，截止日期到 11.5\n进群\n\n进群可以许愿！\n🎉任何问题和需求都会被重视，让我们共同提升应用体验🎉\n资源",
+    "metric": "23 回复",
+    "metric_value": 23,
+    "extra": {
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "aslehx",
+      "last_touched": 1793446283
     }
   }
 ]
