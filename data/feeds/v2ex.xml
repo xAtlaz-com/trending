@@ -4,14 +4,14 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Sat, 31 Oct 2026 23:11:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 02:29:47 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
 <title>求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制</title>
 <link>https://www.v2ex.com/t/1253376</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1253376</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#1 | 92 回复 | 最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#1 | 96 回复 | 最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？
 目前想到的几种方式都有各自的痛点：
 微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。
 百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。
@@ -19,21 +19,11 @@ NAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下�
 再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经</description>
 </item>
 <item>
-<title>现在教育真的太卷了，一年级上学期期中测验趣事</title>
-<link>https://www.v2ex.com/t/1253357</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1253357</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#2 | 45 回复 | 昨天周五，我儿子说语文考试了，把试卷拿回家，我看了，现在不写多少分，满分 100 ，只扣分，我看扣了 7 分，得 93 分，扣分点基本上都是细节，比如写一句话后面用句号结尾，我儿子写完字没有用句号，三行直接扣三分，还有一些小毛病。
-然后我问有人得满分吗，我儿子回答说有 7 个人得 100 分。鼓励了一下儿子，继续加油就完事了。
-我媳妇正好有 2 个得 100 分同学的家长微信 问人家平时怎么做的，结果人家提前 1-2 星期就在网上买的期中测验题，做了七八次了。什么题型，注意点 ，人家都知道了，我跟我媳妇都懵逼了。
-真的太卷了。</description>
-</item>
-<item>
 <title>[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows</title>
 <link>https://www.v2ex.com/t/1253453</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1253453</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#3 | 40 回复 | 前言
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#2 | 56 回复 | 前言
 两周前发布了 Windows 版，安卓版终于也来了，实话说，因为我送的永久激活码可以三台设备，为了不让 v 友蒙受损失，所以继续搞了安卓版本，正好支持三端了，哈哈。目前需要下载安装包安装（和 Google Play 版签名相同，后续可以直接升级，数据不会丢失），Google Play 正在着手上架，上架成功了还会再送一波码。
 听人劝吃饱饭，v1.2.0 加入了弹幕（支持弹弹 Play 兼容的 API ）和字幕样式等功能；解决了 v 友 github 提的 issue ；还优化了一些细节和 bug 修复
 功能
@@ -42,49 +32,75 @@ NAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下�
 支持的文件源：Emby/Jellyf</description>
 </item>
 <item>
-<title>台湾 Claude 号生意有搞头吗</title>
-<link>https://www.v2ex.com/t/1253348</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1253348</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#4 | 34 回复 | 全套本地 KYC + 付款 + 手机验证 + 家宽 IP 代开的话。
-我有资源，不知道市场需求怎么样。</description>
-</item>
-<item>
-<title>claude 似乎 今天对 pro 和 free 用户执行 ID verification 了</title>
-<link>https://www.v2ex.com/t/1253347</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1253347</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#5 | 33 回复 | 好像是因为他们改策略了</description>
-</item>
-<item>
-<title>大家目前被封禁了几个 Claude 账户？</title>
-<link>https://www.v2ex.com/t/1253335</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1253335</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#6 | 32 回复 | 看了最近不少 Claude 封号的帖子，也想分享一下自己的情况
-我的账号目前都还正常，最早的一个已经使用了 1 年 3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro
-目前没有 Max 的需求
-大家的 Claude 账号都是什么情况？最长用了多久？</description>
-</item>
-<item>
 <title>大家用 obsidian 么，用什么路线同步的。</title>
 <link>https://www.v2ex.com/t/1253421</link>
 <guid isPermaLink="false">https://www.v2ex.com/t/1253421</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#7 | 29 回复 | 刚新增了个 macmini 想问问使用 obsidian 的兄弟如何解决同步问题</description>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#3 | 32 回复 | 刚新增了个 macmini 想问问使用 obsidian 的兄弟如何解决同步问题</description>
 </item>
 <item>
-<title>[补送码] Navidrome 最佳播放器： Mu3ic</title>
-<link>https://www.v2ex.com/t/1253338</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1253338</guid>
-<pubDate>Sat, 31 Oct 2026 23:11:12 +0000</pubDate>
-<description>#8 | 25 回复 | 主页 进行了升级重构，更新的所有内容都可以直接在主页上体验，无需下载应用即可上手体验，玩起来：
-本帖专属福利规则
-鉴于上一贴贴出的激活码有 37/70 未在 24h 内激活，真正有需要的 xd 刚看到帖子就已经领完了，故在此补送 37 个激活码，为最后一批赠送激活码，后续桌面端和 ios 端上线将不会再直接发放激活码，而会以优惠码的形式发福利，本帖下 37 个激活码赠完后，可以领取 6 元代金券，11.5 前叠加代金券可以史低价格 12 元激活 Pro ，代金券我会贴在 1 楼，可重复使用，截止日期到 11.5
-进群
+<title>Blob0 更新： Mac 上的 R2 / S3 客户端现在单连接永久免费[送 Pro 码]</title>
+<link>https://www.v2ex.com/t/1253369</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253369</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#4 | 27 回复 | 大家好，我是 Blob0 的开发者。前阵子在 V2EX 分享过这个项目，当时还是 30 天试用；这次回来，是因为我把它改成了单连接永久免费。
+Blob0 是一款 macOS 上的 Cloudflare R2 / S3 兼容存储客户端。你可以把桶当作文件夹来管理，不用每次都打开控制台或敲命令。免费版支持 1 个存储连接（ 1 个桶），全部功能可一直使用，无需注册 Blob0 账户或填写信用卡。需要添加并切换多个连接时，再考虑一次性买断的 Pro 。存储桶和存储服务的费用仍由你自己的服务商收取。
+https://blob0.com
+如果你上次没看到介绍，核心</description>
+</item>
+<item>
+<title>周六/周日还会有重置吗？</title>
+<link>https://www.v2ex.com/t/1253361</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253361</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#5 | 25 回复 | 我理解应该有一次，因为美国人要过周末，周末大概率不会有优化项？</description>
+</item>
+<item>
+<title>LockSticky 喜提大陆 App Store 下架</title>
+<link>https://www.v2ex.com/t/1253370</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253370</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#6 | 25 回复 | 早上本来想发一个版本更新的帖子，进到 App Store 突然发现搜不到了，在后台一看，天塌了😂
 
-进群可以许愿！
-🎉任何问题和需求都</description>
+鹤立鸡群，我真爱了😠
+现在 App Connect 申请了免备案。另外，以防免备案不通过，也在看服务器了。服务器有什么推荐吗，最便宜的那种...</description>
+</item>
+<item>
+<title>看到很多相亲的帖子，对于大龄单身无孩的，是不是不结婚也比较好？</title>
+<link>https://www.v2ex.com/t/1253387</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253387</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#7 | 24 回复 | 今年 36 了，33 岁时有过一段非常短的婚姻，3 个月就被对方逼离婚了。看着论坛里的相亲、离婚的各种帖子，越发感觉难以找到幸福。是不是努力工作，提升资产，保护好身体健康，不再考虑结婚事宜，是个更好的选择？</description>
+</item>
+<item>
+<title>claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？</title>
+<link>https://www.v2ex.com/t/1253446</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253446</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#8 | 23 回复 | 求救求救，天才程序员不想陨落啊。
+有啥渠道可以联系歪果仁帮忙 kyc 啊？
+咸鱼上我看关键字都被封禁了，都不知道怎么找歪果仁帮忙。</description>
+</item>
+<item>
+<title>给大家分享一下四款 ios 梯子软件的使用体验，我主要看哪个更省电</title>
+<link>https://www.v2ex.com/t/1253420</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253420</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#9 | 22 回复 | 我是自建梯子，所以只有一个节点(ss2022)，其余的 dns 设置，分流规则均一致。而且是 24 小时开启，基本不去打开程序页面。
+以下是四款软件几个月来的耗电量以及稳定性体验：
+
+
+Qx：日常耗电 1%-3% ，软件稳定，但协议缺少太多，它本身支持的协议少，但如果是自建梯子，协议少本身不是什么大问题，然而 7 月开始 iPhone 不支持国外 app 推送，软件内又没有 代理 APNs 开关，这成了致命缺陷。作者始终不提供开关，收不到 tg 消息推送......
+
+
+shadowrocket：日常耗电 3%-5% ，软件支持的功能多，更新及时，然而开</description>
+</item>
+<item>
+<title>我常用的几个工具软件都让 AI 替代了</title>
+<link>https://www.v2ex.com/t/1253398</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1253398</guid>
+<pubDate>Sun, 01 Nov 2026 02:29:47 +0000</pubDate>
+<description>#10 | 19 回复 | 有声书制作软件，把下载的单集音频合并成 m4b 文件，并补充元数据，现在文件夹扔给 AI ，一句话说下需求，ai 就自己操作 ffmpeg 给处理了，并会网上搜索资料填充元数据。音乐元数据刮削软件，自己网上下载的音乐很多元数据缺失或者不对的，需要用这种软件修正，以前用的很烂的软件，经常会失败。现在直接把文件夹扔给 AI 一句话就帮你搞定了。网页数据抓取，交给国内 AI 干这些太好用了，也是一句话的事情，最终给你结构化的数据。程序员工具箱类，都懒得打开这些网页了，直接问一下 AI 。感觉以后个人开发的前景只有游戏这一个方向了，工具类软件完全没用了。</description>
 </item>
 </channel>
 </rss>
