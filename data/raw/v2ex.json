@@ -4,13 +4,13 @@
     "title": "[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]",
     "url": "https://www.v2ex.com/t/1253484",
     "description": "平时喜欢做些自己顺手的软件和工具，尤其是 AI 出来之后，做这些就更容易了。有些要么开源，要么自己本地用用（ mac 上的无法签名）。直到看了 v2exer 分享的独立开发者的一些经验分享，想着也拿出来试试，尤其是做个平台也挺有意思。\n这几天断断续续做成了现在的样子 https://www.solocraft.app/ 。剩下的是付款流程没搞好，尤其是国内。\n昨天刚订阅了苹果的开发者（真贵），现在 mac 上的软件也完成了签名和公证，大家可以直接安装使用，无需其他操作。\n收费的目的是能回收个成本，如果能更多些也更高兴。国内价格估计也就是个 token 的费用了，外网我会设置比国内更高的价格。\n",
-    "metric": "105 回复",
-    "metric_value": 105,
+    "metric": "106 回复",
+    "metric_value": 106,
     "extra": {
       "node": "分享创造",
       "node_name": "create",
       "author": "hanfengzxh",
-      "last_touched": 1793547276
+      "last_touched": 1793550876
     }
   },
   {
@@ -18,31 +18,17 @@
     "title": "大家坐飞机的时候，怎么打发时间？",
     "url": "https://www.v2ex.com/t/1253504",
     "description": "前两天刚下飞机，随手带了一本没看过的书，结果很无语，书很垃圾但是手机也没有网航旅纵横上面的无网掼蛋我也不喜欢，纯粹不喜欢打牌",
-    "metric": "65 回复",
-    "metric_value": 65,
+    "metric": "72 回复",
+    "metric_value": 72,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "RangerWolf",
-      "last_touched": 1793546552
+      "last_touched": 1793561889
     }
   },
   {
     "rank": 3,
-    "title": "我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好",
-    "url": "https://www.v2ex.com/t/1253483",
-    "description": "看到最近热门的 Clash 发了一篇文章，讲了 MitM 的原理吓出我一身冷汗啊。https://x.com/ClashbyClash/status/2116694703357964555是不是开启了这个 MitM 的功能使用了加密脚本，就得有自己被攻击的心理准备啊。",
-    "metric": "39 回复",
-    "metric_value": 39,
-    "extra": {
-      "node": "Apple",
-      "node_name": "apple",
-      "author": "505s",
-      "last_touched": 1793536942
-    }
-  },
-  {
-    "rank": 4,
     "title": "apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？",
     "url": "https://www.v2ex.com/t/1253481",
     "description": "听说要美国账单地址？\n招行信用卡，支付有短信验证的，需要设置什么？\n据说很容易被风控？请一个可靠的方式",
@@ -56,7 +42,35 @@
     }
   },
   {
+    "rank": 4,
+    "title": "恶心了， ChatGPT 要跟 Codex 共用额度了",
+    "url": "https://www.v2ex.com/t/1253511",
+    "description": "今天收到邮件\nHello,\n\nIn the coming weeks, we’ll start testing a combined experience for Chat and Work tabs in ChatGPT with a small group of users. We’ll use their feedback to improve the experience before bringing it to more people.\n\nThis will enable you to move from exploring an idea to having ChatGPT ca",
+    "metric": "35 回复",
+    "metric_value": 35,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "DawnMoon",
+      "last_touched": 1793556263
+    }
+  },
+  {
     "rank": 5,
+    "title": "当没 token 额度了 你会手改 AI 生成的代码吗 😂",
+    "url": "https://www.v2ex.com/t/1253543",
+    "description": "",
+    "metric": "34 回复",
+    "metric_value": 34,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "Misty99",
+      "last_touched": 1793552154
+    }
+  },
+  {
+    "rank": 6,
     "title": "也也也失业了，写点接下来的路",
     "url": "https://www.v2ex.com/t/1253501",
     "description": "最近看了很多失业的帖子，没想到的是，自己也被毕业了。整个过程很顺利，上级谈了下想法，我也没啥意见，周三跟 HR 聊了补偿的事情，周四签了协议，周五就离职了。\n想了下打工十余年下来，没积攒太多存款，除了一个被套牢的惠州房产（脱不了手，根本脱不了手），没办法，在高位下的单，现在出手只能按骨折价出，况且还不一定有人要。\n剩下的钱可能只够开一个小店维持生计了吧。\n最近在咸鱼尝试了下个人开发接单，初步有点希望，但也很卷，不过至少迈出了第一步。\n接下来想尝试一下独立开发美区 appstore，不知道有没有过来人传授一些经验什么的。\n昨天弄了个 NewAPI 站，也是咸鱼挂的单，卖出去了一个日卡，亏了几块钱",
@@ -70,35 +84,7 @@
     }
   },
   {
-    "rank": 6,
-    "title": "恶心了， ChatGPT 要跟 Codex 共用额度了",
-    "url": "https://www.v2ex.com/t/1253511",
-    "description": "今天收到邮件\nHello,\n\nIn the coming weeks, we’ll start testing a combined experience for Chat and Work tabs in ChatGPT with a small group of users. We’ll use their feedback to improve the experience before bringing it to more people.\n\nThis will enable you to move from exploring an idea to having ChatGPT ca",
-    "metric": "32 回复",
-    "metric_value": 32,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "DawnMoon",
-      "last_touched": 1793545059
-    }
-  },
-  {
     "rank": 7,
-    "title": "当没 token 额度了 你会手改 AI 生成的代码吗 😂",
-    "url": "https://www.v2ex.com/t/1253543",
-    "description": "",
-    "metric": "31 回复",
-    "metric_value": 31,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "Misty99",
-      "last_touched": 1793550863
-    }
-  },
-  {
-    "rank": 8,
     "title": "注册 claude 就弹 kyc",
     "url": "https://www.v2ex.com/t/1253499",
     "description": "注册一个 claude 就弹 kyc ，这个节点是不是就不推荐了",
@@ -112,7 +98,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "我做了一个赛博乞讨网站",
     "url": "https://www.v2ex.com/t/1253521",
     "description": "简介：赛博乞讨，一人给我一元钱，我将是亿万富翁啦，哈哈哈，欢迎投喂（使用微信赞赏码收款）网站地址：http://47.107.180.19:8080/",
@@ -126,17 +112,17 @@
     }
   },
   {
-    "rank": 10,
-    "title": "Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？",
-    "url": "https://www.v2ex.com/t/1253477",
-    "description": "Reddit 上为了推广自己的软件，给相关贴纸留言评论，都是简短的十几二十几个单词的简短评论，不带链接，一天也就是两三条，结果发现第二天账户就被禁了。\n申述不管用，只能重新注册账号，然后反复注册了 6 个账号，一般都是注册 3 天后开始尝试回复评论，新账号也基本都被禁了。\n有实践过的朋友吗，Reddit 有什么具体的规则，是否合适推广自己软件产品，如何避免被禁，求教～",
-    "metric": "23 回复",
-    "metric_value": 23,
+    "rank": 9,
+    "title": "用 AI 逆向了搜狗输入法， 让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本",
+    "url": "https://www.v2ex.com/t/1253540",
+    "description": "让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本\n放 github 了：\nhttps://github.com/SillyShalong/input-method-no-network",
+    "metric": "27 回复",
+    "metric_value": 27,
     "extra": {
-      "node": "Reddit",
-      "node_name": "reddit",
-      "author": "devzhaoyou",
-      "last_touched": 1793537917
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "imadog",
+      "last_touched": 1793565489
     }
   }
 ]
