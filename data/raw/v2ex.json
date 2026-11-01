@@ -1,142 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制",
-    "url": "https://www.v2ex.com/t/1253376",
-    "description": "最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？\n目前想到的几种方式都有各自的痛点：\n微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。\n百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。\nNAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下载，但又受到运营商上行带宽限制。如果运营商还对上行进行限速，实际体验可能也好不到哪里去。\n再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经验！",
-    "metric": "96 回复",
-    "metric_value": 96,
-    "extra": {
-      "node": "互联网",
-      "node_name": "internet",
-      "author": "jonathan001",
-      "last_touched": 1793498310
-    }
-  },
-  {
-    "rank": 2,
     "title": "[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows",
     "url": "https://www.v2ex.com/t/1253453",
     "description": "前言\n两周前发布了 Windows 版，安卓版终于也来了，实话说，因为我送的永久激活码可以三台设备，为了不让 v 友蒙受损失，所以继续搞了安卓版本，正好支持三端了，哈哈。目前需要下载安装包安装（和 Google Play 版签名相同，后续可以直接升级，数据不会丢失），Google Play 正在着手上架，上架成功了还会再送一波码。\n听人劝吃饱饭，v1.2.0 加入了弹幕（支持弹弹 Play 兼容的 API ）和字幕样式等功能；解决了 v 友 github 提的 issue ；还优化了一些细节和 bug 修复\n功能\n\n\n支持的文件源：Emby/Jellyfin/Plex 、WebDav/SMB/",
-    "metric": "56 回复",
-    "metric_value": 56,
+    "metric": "92 回复",
+    "metric_value": 92,
     "extra": {
       "node": "推广",
       "node_name": "promotions",
       "author": "trumpmaga",
-      "last_touched": 1793499734
+      "last_touched": 1793525297
+    }
+  },
+  {
+    "rank": 2,
+    "title": "[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]",
+    "url": "https://www.v2ex.com/t/1253484",
+    "description": "平时喜欢做些自己顺手的软件和工具，尤其是 AI 出来之后，做这些就更容易了。有些要么开源，要么自己本地用用（ mac 上的无法签名）。直到看了 v2exer 分享的独立开发者的一些经验分享，想着也拿出来试试，尤其是做个平台也挺有意思。\n这几天断断续续做成了现在的样子 https://www.solocraft.app/ 。剩下的是付款流程没搞好，尤其是国内。\n昨天刚订阅了苹果的开发者（真贵），现在 mac 上的软件也完成了签名和公证，大家可以直接安装使用，无需其他操作。\n收费的目的是能回收个成本，如果能更多些也更高兴。国内价格估计也就是个 token 的费用了，外网我会设置比国内更高的价格。\n",
+    "metric": "61 回复",
+    "metric_value": 61,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "hanfengzxh",
+      "last_touched": 1793525808
     }
   },
   {
     "rank": 3,
-    "title": "大家用 obsidian 么，用什么路线同步的。",
-    "url": "https://www.v2ex.com/t/1253421",
-    "description": "刚新增了个 macmini 想问问使用 obsidian 的兄弟如何解决同步问题",
-    "metric": "32 回复",
-    "metric_value": 32,
-    "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "rfo",
-      "last_touched": 1793470594
-    }
-  },
-  {
-    "rank": 4,
-    "title": "Blob0 更新： Mac 上的 R2 / S3 客户端现在单连接永久免费[送 Pro 码]",
-    "url": "https://www.v2ex.com/t/1253369",
-    "description": "大家好，我是 Blob0 的开发者。前阵子在 V2EX 分享过这个项目，当时还是 30 天试用；这次回来，是因为我把它改成了单连接永久免费。\nBlob0 是一款 macOS 上的 Cloudflare R2 / S3 兼容存储客户端。你可以把桶当作文件夹来管理，不用每次都打开控制台或敲命令。免费版支持 1 个存储连接（ 1 个桶），全部功能可一直使用，无需注册 Blob0 账户或填写信用卡。需要添加并切换多个连接时，再考虑一次性买断的 Pro 。存储桶和存储服务的费用仍由你自己的服务商收取。\nhttps://blob0.com\n如果你上次没看到介绍，核心功能简单列一下：\n\n文件管理：像文件管理",
-    "metric": "27 回复",
-    "metric_value": 27,
-    "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "Justin3go",
-      "last_touched": 1793440850
-    }
-  },
-  {
-    "rank": 5,
-    "title": "周六/周日还会有重置吗？",
-    "url": "https://www.v2ex.com/t/1253361",
-    "description": "我理解应该有一次，因为美国人要过周末，周末大概率不会有优化项？",
-    "metric": "25 回复",
-    "metric_value": 25,
-    "extra": {
-      "node": "OpenAI",
-      "node_name": "openai",
-      "author": "jiuzhougege",
-      "last_touched": 1793471696
-    }
-  },
-  {
-    "rank": 6,
-    "title": "LockSticky 喜提大陆 App Store 下架",
-    "url": "https://www.v2ex.com/t/1253370",
-    "description": "早上本来想发一个版本更新的帖子，进到 App Store 突然发现搜不到了，在后台一看，天塌了😂\n\n鹤立鸡群，我真爱了😠\n现在 App Connect 申请了免备案。另外，以防免备案不通过，也在看服务器了。服务器有什么推荐吗，最便宜的那种...",
-    "metric": "25 回复",
-    "metric_value": 25,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "zitup",
-      "last_touched": 1793459272
-    }
-  },
-  {
-    "rank": 7,
-    "title": "看到很多相亲的帖子，对于大龄单身无孩的，是不是不结婚也比较好？",
-    "url": "https://www.v2ex.com/t/1253387",
-    "description": "今年 36 了，33 岁时有过一段非常短的婚姻，3 个月就被对方逼离婚了。看着论坛里的相亲、离婚的各种帖子，越发感觉难以找到幸福。是不是努力工作，提升资产，保护好身体健康，不再考虑结婚事宜，是个更好的选择？",
-    "metric": "24 回复",
-    "metric_value": 24,
-    "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "ubear1991",
-      "last_touched": 1793472424
-    }
-  },
-  {
-    "rank": 8,
     "title": "claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？",
     "url": "https://www.v2ex.com/t/1253446",
     "description": "求救求救，天才程序员不想陨落啊。\n有啥渠道可以联系歪果仁帮忙 kyc 啊？\n咸鱼上我看关键字都被封禁了，都不知道怎么找歪果仁帮忙。",
-    "metric": "23 回复",
-    "metric_value": 23,
+    "metric": "38 回复",
+    "metric_value": 38,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "AnQiYang",
-      "last_touched": 1793479241
+      "last_touched": 1793525127
+    }
+  },
+  {
+    "rank": 4,
+    "title": "我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好",
+    "url": "https://www.v2ex.com/t/1253483",
+    "description": "看到最近热门的 Clash 发了一篇文章，讲了 MitM 的原理吓出我一身冷汗啊。https://x.com/ClashbyClash/status/2116694703357964555是不是开启了这个 MitM 的功能使用了加密脚本，就得有自己被攻击的心理准备啊。",
+    "metric": "36 回复",
+    "metric_value": 36,
+    "extra": {
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "505s",
+      "last_touched": 1793524415
+    }
+  },
+  {
+    "rank": 5,
+    "title": "大家坐飞机的时候，怎么打发时间？",
+    "url": "https://www.v2ex.com/t/1253504",
+    "description": "前两天刚下飞机，随手带了一本没看过的书，结果很无语，书很垃圾但是手机也没有网航旅纵横上面的无网掼蛋我也不喜欢，纯粹不喜欢打牌",
+    "metric": "34 回复",
+    "metric_value": 34,
+    "extra": {
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "RangerWolf",
+      "last_touched": 1793525613
+    }
+  },
+  {
+    "rank": 6,
+    "title": "恶心了， ChatGPT 要跟 Codex 共用额度了",
+    "url": "https://www.v2ex.com/t/1253511",
+    "description": "今天收到邮件\nHello,\n\nIn the coming weeks, we’ll start testing a combined experience for Chat and Work tabs in ChatGPT with a small group of users. We’ll use their feedback to improve the experience before bringing it to more people.\n\nThis will enable you to move from exploring an idea to having ChatGPT ca",
+    "metric": "27 回复",
+    "metric_value": 27,
+    "extra": {
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "DawnMoon",
+      "last_touched": 1793520321
+    }
+  },
+  {
+    "rank": 7,
+    "title": "apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？",
+    "url": "https://www.v2ex.com/t/1253481",
+    "description": "听说要美国账单地址？\n招行信用卡，支付有短信验证的，需要设置什么？\n据说很容易被风控？请一个可靠的方式",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "jiuzhougege",
+      "last_touched": 1793525041
+    }
+  },
+  {
+    "rank": 8,
+    "title": "看到最近群晖被黑，想给 NAS 里的数据做个备份，大家用的什么方案？",
+    "url": "https://www.v2ex.com/t/1253451",
+    "description": "最近很多 NAS 被黑了，虽然是因为开公网访问导致的，但是处于 AI 时代，说不定未来内网也不安全！\n所以想着给 NAS 里接近1T的照片视频备个份。\n至于为啥有 1T ，因为我老婆一个人就占了 700G,全部都是娃从小到大的照片，视频，10 多年的数据，真被勒索的话会很蛋疼。。\n最近看了下存百度盘啥的感觉不太靠谱，也不是很方便。。\n所以想问下大家都在用什么备份方案，必须得做多备份了。",
+    "metric": "25 回复",
+    "metric_value": 25,
+    "extra": {
+      "node": "NAS",
+      "node_name": "nas",
+      "author": "l4y3",
+      "last_touched": 1793511924
     }
   },
   {
     "rank": 9,
-    "title": "给大家分享一下四款 ios 梯子软件的使用体验，我主要看哪个更省电",
-    "url": "https://www.v2ex.com/t/1253420",
-    "description": "我是自建梯子，所以只有一个节点(ss2022)，其余的 dns 设置，分流规则均一致。而且是 24 小时开启，基本不去打开程序页面。\n以下是四款软件几个月来的耗电量以及稳定性体验：\n\n\nQx：日常耗电 1%-3% ，软件稳定，但协议缺少太多，它本身支持的协议少，但如果是自建梯子，协议少本身不是什么大问题，然而 7 月开始 iPhone 不支持国外 app 推送，软件内又没有 代理 APNs 开关，这成了致命缺陷。作者始终不提供开关，收不到 tg 消息推送......\n\n\nshadowrocket：日常耗电 3%-5% ，软件支持的功能多，更新及时，然而开启的时候，玩王者荣耀这类游戏，每隔 10",
-    "metric": "22 回复",
-    "metric_value": 22,
+    "title": "把 Surge 换成 FlClash 了，实在用不起了～ 老铁们你们都用哪个客户端？",
+    "url": "https://www.v2ex.com/t/1253435",
+    "description": "升级到 macOS 27 ，Surge 无法使用了\n准备续费 一看要 300 人民币，果断用免费的 Clash",
+    "metric": "24 回复",
+    "metric_value": 24,
     "extra": {
-      "node": "Apple",
-      "node_name": "apple",
-      "author": "program9527",
-      "last_touched": 1793463056
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "SayHelloHi",
+      "last_touched": 1793494739
     }
   },
   {
     "rank": 10,
-    "title": "我常用的几个工具软件都让 AI 替代了",
-    "url": "https://www.v2ex.com/t/1253398",
-    "description": "有声书制作软件，把下载的单集音频合并成 m4b 文件，并补充元数据，现在文件夹扔给 AI ，一句话说下需求，ai 就自己操作 ffmpeg 给处理了，并会网上搜索资料填充元数据。音乐元数据刮削软件，自己网上下载的音乐很多元数据缺失或者不对的，需要用这种软件修正，以前用的很烂的软件，经常会失败。现在直接把文件夹扔给 AI 一句话就帮你搞定了。网页数据抓取，交给国内 AI 干这些太好用了，也是一句话的事情，最终给你结构化的数据。程序员工具箱类，都懒得打开这些网页了，直接问一下 AI 。感觉以后个人开发的前景只有游戏这一个方向了，工具类软件完全没用了。",
-    "metric": "19 回复",
-    "metric_value": 19,
+    "title": "也也也失业了，写点接下来的路",
+    "url": "https://www.v2ex.com/t/1253501",
+    "description": "最近看了很多失业的帖子，没想到的是，自己也被毕业了。整个过程很顺利，上级谈了下想法，我也没啥意见，周三跟 HR 聊了补偿的事情，周四签了协议，周五就离职了。\n想了下打工十余年下来，没积攒太多存款，除了一个被套牢的惠州房产（脱不了手，根本脱不了手），没办法，在高位下的单，现在出手只能按骨折价出，况且还不一定有人要。\n剩下的钱可能只够开一个小店维持生计了吧。\n最近在咸鱼尝试了下个人开发接单，初步有点希望，但也很卷，不过至少迈出了第一步。\n接下来想尝试一下独立开发美区 appstore，不知道有没有过来人传授一些经验什么的。\n昨天弄了个 NewAPI 站，也是咸鱼挂的单，卖出去了一个日卡，亏了几块钱",
+    "metric": "24 回复",
+    "metric_value": 24,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "yuanyao",
-      "last_touched": 1793469381
+      "node": "创业组队",
+      "node_name": "meet",
+      "author": "vodmaker",
+      "last_touched": 1793525174
     }
   }
 ]
