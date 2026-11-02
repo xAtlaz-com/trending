@@ -4,13 +4,13 @@
     "title": "没有人讨论影之刃零吗？",
     "url": "https://www.v2ex.com/t/1253638",
     "description": "我周末已经玩到天昏地暗不知时间为何物了，无心上班想请假回去继续打",
-    "metric": "142 回复",
-    "metric_value": 142,
+    "metric": "167 回复",
+    "metric_value": 167,
     "extra": {
       "node": "游戏",
       "node_name": "games",
       "author": "reoah2",
-      "last_touched": 1793603731
+      "last_touched": 1793631545
     }
   },
   {
@@ -18,125 +18,125 @@
     "title": "你们除了上班 娱乐方式有哪些",
     "url": "https://www.v2ex.com/t/1253690",
     "description": "周末有时候无聊到甚至想上班，  游戏不想打，  在家躺着心里都有点焦虑，  想去做点什么又不知道做什么，  你们休息一般做点什么呢？",
-    "metric": "118 回复",
-    "metric_value": 118,
+    "metric": "167 回复",
+    "metric_value": 167,
     "extra": {
       "node": "生活",
       "node_name": "life",
       "author": "zzwww",
-      "last_touched": 1793604401
+      "last_touched": 1793632966
     }
   },
   {
     "rank": 3,
-    "title": "大家现在每天早餐消费多少钱？",
-    "url": "https://www.v2ex.com/t/1253673",
-    "description": "我是上班时吃一个和善园肉包 2.5 ，周末起不来就不吃了",
-    "metric": "94 回复",
-    "metric_value": 94,
+    "title": "前公司老板找我回去救场，情况比较特殊，想听听各位的建议",
+    "url": "https://www.v2ex.com/t/1253836",
+    "description": "求助：前老板邀约回去救场，想请教大家风险和谈判要点\n各位好，想咨询下大家的经验。\n背景\n我是技术出身的产品经理，之前一手搭建整套产研团队，负责的产品已经多端稳定上线。一个月前正常离职，交接工作当时处理得比较完整。\n现在前老板联系我，说产研团队军心涣散、普遍摆烂，项目和系统已经接近系统性崩溃，希望我回去接手稳住局面。\n核心顾虑/风险点\n\n公司之前存在晚发薪资+月底缴纳社保的记录；\n团队制度近期变动：调整为单休、强抓考勤、新增 KPI ，内部氛围偏向变相倒逼员工主动离职；\n角色尴尬：回去后大概率要当“背锅+坏人”，需要推动整改、梳理问题、压进度，很容易和老部下、现有同事形成对立。\n\n我对之前带出来",
+    "metric": "162 回复",
+    "metric_value": 162,
     "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "space2020",
-      "last_touched": 1793604382
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "losephsky",
+      "last_touched": 1793639222
     }
   },
   {
     "rank": 4,
-    "title": "agent 的代码到底审不审核",
-    "url": "https://www.v2ex.com/t/1253699",
-    "description": "用 claude code 写的代码\n# 子集聚合全部改成掩码列，取代循环里的 kills/killed/npc/rev/paid 五次切片\n    d[\"_paid\"] = ((d[\"is_revive\"] == 1) &amp; (d[\"irevivemoney\"] &gt; 0)).astype(int)\n    d[\"_kill_tgt\"] = d[\"votherroleid\"].where(d[\"is_kill\"] == 1)\n    d[\"_killed_src\"] = d[\"votherroleid\"].where(d[\"is_killed_by_role\"] == 1)\n   ",
-    "metric": "94 回复",
-    "metric_value": 94,
-    "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "webhub123",
-      "last_touched": 1793604440
-    }
-  },
-  {
-    "rank": 5,
     "title": "兄弟们这辈子买过的最贵的东西是什么？",
     "url": "https://www.v2ex.com/t/1253707",
     "description": "除了房子、看病、养娃，摸得到的实物",
-    "metric": "89 回复",
-    "metric_value": 89,
+    "metric": "135 回复",
+    "metric_value": 135,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "revival83",
-      "last_touched": 1793604315
+      "last_touched": 1793634995
+    }
+  },
+  {
+    "rank": 5,
+    "title": "大家现在每天早餐消费多少钱？",
+    "url": "https://www.v2ex.com/t/1253673",
+    "description": "我是上班时吃一个和善园肉包 2.5 ，周末起不来就不吃了",
+    "metric": "121 回复",
+    "metric_value": 121,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "space2020",
+      "last_touched": 1793633316
     }
   },
   {
     "rank": 6,
-    "title": "现在的行情真的很冷",
-    "url": "https://www.v2ex.com/t/1253652",
-    "description": "4 月份开始搞绩效改革，5 月份开始不发工资，8 月份被骂 然后离职。然后 boss 上一直没什么面试。娃一岁半需要陪伴也需要经济支持，而我，只有一腔对自己的失望。老婆的收入勉强付得起房贷，生活费还在吃老本。有点后悔以前经济形势好的时候养猫，胡吃海喝，没有提前还房贷。但是除此之外也没怎么浪费钱，养猫虽然花了 2 个 W，但是学到了好多照顾哺乳动物的常识，为养娃打基础。真的没想到自己就这样被时代淘汰了，以后真的要加入铁人三项了吗？",
-    "metric": "79 回复",
-    "metric_value": 79,
+    "title": "朋友一家定期献血，我看着矿泉水瓶陷入了沉思",
+    "url": "https://www.v2ex.com/t/1253782",
+    "description": "有个朋友在血站工作，听他说，他们家里人都会定期献血。\n这让我有点好奇：以前听人说，定期献血能促进造血，让血液“更新”，对身体有好处；也有人觉得，献血会让身体变虚，需要很久才能恢复。\n这两种说法到底哪个更靠谱？\n我自己一想到一次献血 400 毫升，就有点发怵——差不多是一瓶 500 毫升矿泉水的八成。想象一下从身体里抽出这么多血，总觉得自己可能会头晕 😂\n你献过血吗？一次献了多少？",
+    "metric": "120 回复",
+    "metric_value": 120,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "waitMeOY",
-      "last_touched": 1793603691
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "LessWu",
+      "last_touched": 1793637514
     }
   },
   {
     "rank": 7,
-    "title": "[HyperAPI 中转站]的新老用户来领鸡蛋了，评论留 ID，送$10 体验额度",
-    "url": "https://www.v2ex.com/t/1253677",
-    "description": "站点： https://hyperapi.cc\nQQ 交流群：1095326876",
-    "metric": "59 回复",
-    "metric_value": 59,
+    "title": "agent 的代码到底审不审核",
+    "url": "https://www.v2ex.com/t/1253699",
+    "description": "用 claude code 写的代码\n# 子集聚合全部改成掩码列，取代循环里的 kills/killed/npc/rev/paid 五次切片\n    d[\"_paid\"] = ((d[\"is_revive\"] == 1) &amp; (d[\"irevivemoney\"] &gt; 0)).astype(int)\n    d[\"_kill_tgt\"] = d[\"votherroleid\"].where(d[\"is_kill\"] == 1)\n    d[\"_killed_src\"] = d[\"votherroleid\"].where(d[\"is_killed_by_role\"] == 1)\n   ",
+    "metric": "117 回复",
+    "metric_value": 117,
     "extra": {
-      "node": "推广",
-      "node_name": "promotions",
-      "author": "WinterLord",
-      "last_touched": 1793603934
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "webhub123",
+      "last_touched": 1793639569
     }
   },
   {
     "rank": 8,
-    "title": "用 AI 逆向了搜狗输入法， 让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本",
-    "url": "https://www.v2ex.com/t/1253540",
-    "description": "让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本\n放 github 了：\nhttps://github.com/SillyShalong/input-method-no-network",
-    "metric": "54 回复",
-    "metric_value": 54,
+    "title": "[HyperAPI 中转站]的新老用户来领鸡蛋了，评论留 ID，送$10 体验额度",
+    "url": "https://www.v2ex.com/t/1253677",
+    "description": "站点： https://hyperapi.cc\nQQ 交流群：1095326876",
+    "metric": "104 回复",
+    "metric_value": 104,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "imadog",
-      "last_touched": 1793604146
+      "node": "推广",
+      "node_name": "promotions",
+      "author": "WinterLord",
+      "last_touched": 1793632170
     }
   },
   {
     "rank": 9,
-    "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
-    "url": "https://www.v2ex.com/t/1253635",
-    "description": "前两天买了个 ESP Mosaico ，我感觉我真的要完了，嵌入式开发也彻底没救了。\n&lt;mosaico.ai&gt;\n个人体验，只要把这个模块插上电脑，然后跟 AI 说你想要在上面做什么功能，它就会自己分析 UI 应该怎么画、传感器怎么选配，然后先在上位机仿真，再到下位机 debug （对的，可以直接 debug 下位机）。\n以下两个小应用，是我花了大概 50% 的 codex 5 小时额度就做出来的。想当年，这种级别的应用，做到完美，几乎要两个人花一两周的时间。\n反应力测试小游戏\nCodex 额度显示\n这东西确实好玩，也确实有点让人感觉绝望。",
-    "metric": "46 回复",
-    "metric_value": 46,
+    "title": "现在的行情真的很冷",
+    "url": "https://www.v2ex.com/t/1253652",
+    "description": "4 月份开始搞绩效改革，5 月份开始不发工资，8 月份被骂 然后离职。然后 boss 上一直没什么面试。娃一岁半需要陪伴也需要经济支持，而我，只有一腔对自己的失望。老婆的收入勉强付得起房贷，生活费还在吃老本。有点后悔以前经济形势好的时候养猫，胡吃海喝，没有提前还房贷。但是除此之外也没怎么浪费钱，养猫虽然花了 2 个 W，但是学到了好多照顾哺乳动物的常识，为养娃打基础。真的没想到自己就这样被时代淘汰了，以后真的要加入铁人三项了吗？",
+    "metric": "89 回复",
+    "metric_value": 89,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "DawnMoon",
-      "last_touched": 1793603714
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "waitMeOY",
+      "last_touched": 1793621024
     }
   },
   {
     "rank": 10,
-    "title": "当没 token 额度了 你会手改 AI 生成的代码吗 😂",
-    "url": "https://www.v2ex.com/t/1253543",
-    "description": "",
-    "metric": "45 回复",
-    "metric_value": 45,
+    "title": "AI 普及之后，应该把所有 Electron 重写为 native",
+    "url": "https://www.v2ex.com/t/1253744",
+    "description": "凡是基于 Electron 开发的，开着时间长，必然内存占用越来越大，界面响应越来越慢\n以前大家手写不挑你理，既然 AI 让写代码成本降低了\n感觉第一件事就应该全部迁移为 native\n大不了 macos/windows 各写一套呗，相同业务逻辑",
+    "metric": "68 回复",
+    "metric_value": 68,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
-      "author": "Misty99",
-      "last_touched": 1793580954
+      "node": "OpenAI",
+      "node_name": "openai",
+      "author": "tcper",
+      "last_touched": 1793635204
     }
   }
 ]
