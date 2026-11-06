@@ -1,132 +1,118 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-11-06T05:44:37+00:00",
-  "count": 9,
+  "updated_at": "2026-11-06T13:57:27+00:00",
+  "count": 8,
   "items": [
     {
       "rank": 1,
       "title": "微信输入法敏感词提取器",
       "url": "https://www.v2ex.com/t/1254864",
       "description": "众所不周知，微信输入法存在一个内置的敏感词库\n具体表现为：命中该词库的输入，无法组词、联想、形成记忆、永远不会出现在候选中（例如：鸡巴）\n该词库并非实时联网获取，而是直接集成在输入法的安装包内\n出于兴趣，在 AI 的辅助下，我编写了本微信输入法敏感词提取器\n目前该词库的词条数量在 1 万出头，提取效果预览：\n（由于内容过于劲爆，这里不放结果了）\n本工具从微信输入法安装目录的.\\BuildIn\\cell_dict.ssrc.zh 文件提取，在 Windows 最新版测试通过\n具体用法：\npython export_sensitive_single.py -f &lt;cell_dict.ssrc",
-      "metric": "80 回复",
-      "metric_value": 80,
+      "metric": "147 回复",
+      "metric_value": 147,
       "extra": {
         "node": "信息安全",
         "node_name": "security",
         "author": "Lightbright",
-        "last_touched": 1793943299
+        "last_touched": 1793971036
       }
     },
     {
       "rank": 2,
-      "title": "呆了八年还是被裁了",
-      "url": "https://www.v2ex.com/t/1254749",
-      "description": "太突然了，一时不知道说些什么\n经历了这个公司的起起落落 最终还是轮到了我\n坐标成都",
-      "metric": "69 回复",
-      "metric_value": 69,
+      "title": "一人一本书",
+      "url": "https://www.v2ex.com/t/1254937",
+      "description": "",
+      "metric": "118 回复",
+      "metric_value": 118,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "Smileh",
-        "last_touched": 1793942635
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "x2024",
+        "last_touched": 1793973124
       }
     },
     {
       "rank": 3,
-      "title": "做了一款 iOS 阅读器「随阅」，目前限免，欢迎试试",
-      "url": "https://www.v2ex.com/t/1254782",
-      "description": "最近做了一款阅读器 App ，叫「随阅 NoriReader 」，可以把在线阅读书源和本地书库放在一起\n\n目前主要有这些功能：\n\n在线书源：支持 Legado 格式的 JSON 书源，在 App 内搜索和阅读。\n本地书库：支持导入文件、整个目录，阅读 TXT 、EPUB 、MOBI 、AZW3 等格式的电子书。\n小说和漫画：小说支持分页、卷页和滑动翻页；漫画支持在线阅读，也可以导入 CBZ 、图片 ZIP 。\n阅读设置：字体、字号、背景、行距、目录、书签、标注、阅读进度这些都有，基本借鉴（抄的） Books 。\n书架和历史：可以收藏书籍，也能直接从历史记录继续读。\n\n目前限免，现有功能大家可以",
-      "metric": "59 回复",
-      "metric_value": 59,
+      "title": "如果不上班了，你还能靠什么继续谋生！",
+      "url": "https://www.v2ex.com/t/1254971",
+      "description": "很厌恶上班了，但是为了赚钱，又不得已。想问大家，各位有不上班了，也能继续谋生的副业吗。如果不上班了，能坚持多久呢？",
+      "metric": "100 回复",
+      "metric_value": 100,
       "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "chiaoyuja",
-        "last_touched": 1793943383
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "Meijer",
+        "last_touched": 1793969900
       }
     },
     {
       "rank": 4,
-      "title": "40+还能遇到爱情吗",
-      "url": "https://www.v2ex.com/t/1254811",
-      "description": "是不是没戏了\n内分泌组织表示荷尔蒙产能不足",
-      "metric": "54 回复",
-      "metric_value": 54,
+      "title": "为了充实虚无的人生，开始第三次尝试学吉他。。。",
+      "url": "https://www.v2ex.com/t/1254933",
+      "description": "10 年前买过一把民谣吉他，但是没坚持下去，海鲜市场卖了\n4 年前疫情整天在家无聊，又打了鸡血买了一把雅马哈静音吉他，又是没坚持下去，去年卖了\n最近刷抖 y ，看电吉他又上头，然后又买了把电的加入门 音箱。。希望能坚持下去吧",
+      "metric": "87 回复",
+      "metric_value": 87,
       "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "yang0327519",
-        "last_touched": 1793943651
+        "node": "音乐",
+        "node_name": "music",
+        "author": "aw2350",
+        "last_touched": 1793963520
       }
     },
     {
       "rank": 5,
-      "title": "无人在意的角落， idea 2026.3 发布了",
-      "url": "https://www.v2ex.com/t/1254865",
-      "description": "都是 AI 方面的功能https://www.jetbrains.com/idea/",
-      "metric": "51 回复",
-      "metric_value": 51,
-      "extra": {
-        "node": "JetBrains",
-        "node_name": "jetbrains",
-        "author": "Ayanokouji",
-        "last_touched": 1793943301
-      }
-    },
-    {
-      "rank": 6,
       "title": "今天要不要逃命，美股大跌、",
       "url": "https://www.v2ex.com/t/1254880",
       "description": "",
-      "metric": "46 回复",
-      "metric_value": 46,
+      "metric": "73 回复",
+      "metric_value": 73,
       "extra": {
         "node": "股票",
         "node_name": "stock",
         "author": "aimuz",
-        "last_touched": 1793943382
+        "last_touched": 1793962220
+      }
+    },
+    {
+      "rank": 6,
+      "title": "无人在意的角落， idea 2026.3 发布了",
+      "url": "https://www.v2ex.com/t/1254865",
+      "description": "都是 AI 方面的功能https://www.jetbrains.com/idea/",
+      "metric": "68 回复",
+      "metric_value": 68,
+      "extra": {
+        "node": "JetBrains",
+        "node_name": "jetbrains",
+        "author": "Ayanokouji",
+        "last_touched": 1793966083
       }
     },
     {
       "rank": 7,
-      "title": "jetbrains 好像已经亏损了。ai 冲击好大啊",
-      "url": "https://www.v2ex.com/t/1254870",
-      "description": "",
-      "metric": "44 回复",
-      "metric_value": 44,
-      "extra": {
-        "node": "JetBrains",
-        "node_name": "jetbrains",
-        "author": "programMrxu",
-        "last_touched": 1793940564
-      }
-    },
-    {
-      "rank": 8,
       "title": "二狗匹配对象突然删好友加拉黑",
       "url": "https://www.v2ex.com/t/1254892",
       "description": "上周四在二狗上互相心动匹配到一个女生，她先主动打的招呼，后续也是顺理成章加了微信。\n这几天有一搭没一搭聊着，昨晚下班后还互动了几句，吃晚饭的时候打开主页意外发现自己被删除了好友同时拉黑。\n脑瓜子嗡嗡的，感觉自己被厌恶了😭，一夜没睡好，很想找个说法。\n\n一开始她告诉我的名字甚至都是假的，还是看她朋友圈才发现真名，问起来被打个哈哈糊弄过去了。",
-      "metric": "39 回复",
-      "metric_value": 39,
+      "metric": "67 回复",
+      "metric_value": 67,
       "extra": {
         "node": "情感问题",
         "node_name": "libido",
         "author": "dumbass",
-        "last_touched": 1793941732
+        "last_touched": 1793972813
       }
     },
     {
-      "rank": 9,
-      "title": "1Password 7 又耍流氓，说好的终免呢？",
-      "url": "https://www.v2ex.com/t/1254717",
+      "rank": 8,
+      "title": "jetbrains 好像已经亏损了。ai 冲击好大啊",
+      "url": "https://www.v2ex.com/t/1254870",
       "description": "",
-      "metric": "38 回复",
-      "metric_value": 38,
+      "metric": "63 回复",
+      "metric_value": 63,
       "extra": {
-        "node": "Apple",
-        "node_name": "apple",
-        "author": "algercn",
-        "last_touched": 1793942965
+        "node": "JetBrains",
+        "node_name": "jetbrains",
+        "author": "programMrxu",
+        "last_touched": 1793973214
       }
     }
   ]
