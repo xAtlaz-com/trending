@@ -4,13 +4,13 @@
     "title": "微信输入法敏感词提取器",
     "url": "https://www.v2ex.com/t/1254864",
     "description": "众所不周知，微信输入法存在一个内置的敏感词库\n具体表现为：命中该词库的输入，无法组词、联想、形成记忆、永远不会出现在候选中（例如：鸡巴）\n该词库并非实时联网获取，而是直接集成在输入法的安装包内\n出于兴趣，在 AI 的辅助下，我编写了本微信输入法敏感词提取器\n目前该词库的词条数量在 1 万出头，提取效果预览：\n（由于内容过于劲爆，这里不放结果了）\n本工具从微信输入法安装目录的.\\BuildIn\\cell_dict.ssrc.zh 文件提取，在 Windows 最新版测试通过\n具体用法：\npython export_sensitive_single.py -f &lt;cell_dict.ssrc",
-    "metric": "147 回复",
-    "metric_value": 147,
+    "metric": "169 回复",
+    "metric_value": 169,
     "extra": {
       "node": "信息安全",
       "node_name": "security",
       "author": "Lightbright",
-      "last_touched": 1793971036
+      "last_touched": 1793990483
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "一人一本书",
     "url": "https://www.v2ex.com/t/1254937",
     "description": "",
-    "metric": "118 回复",
-    "metric_value": 118,
+    "metric": "128 回复",
+    "metric_value": 128,
     "extra": {
       "node": "问与答",
       "node_name": "qna",
       "author": "x2024",
-      "last_touched": 1793973124
+      "last_touched": 1793984233
     }
   },
   {
@@ -32,13 +32,13 @@
     "title": "如果不上班了，你还能靠什么继续谋生！",
     "url": "https://www.v2ex.com/t/1254971",
     "description": "很厌恶上班了，但是为了赚钱，又不得已。想问大家，各位有不上班了，也能继续谋生的副业吗。如果不上班了，能坚持多久呢？",
-    "metric": "100 回复",
-    "metric_value": 100,
+    "metric": "101 回复",
+    "metric_value": 101,
     "extra": {
-      "node": "程序员",
-      "node_name": "programmer",
+      "node": "职场话题",
+      "node_name": "career",
       "author": "Meijer",
-      "last_touched": 1793969900
+      "last_touched": 1793976457
     }
   },
   {
@@ -46,13 +46,13 @@
     "title": "为了充实虚无的人生，开始第三次尝试学吉他。。。",
     "url": "https://www.v2ex.com/t/1254933",
     "description": "10 年前买过一把民谣吉他，但是没坚持下去，海鲜市场卖了\n4 年前疫情整天在家无聊，又打了鸡血买了一把雅马哈静音吉他，又是没坚持下去，去年卖了\n最近刷抖 y ，看电吉他又上头，然后又买了把电的加入门 音箱。。希望能坚持下去吧",
-    "metric": "87 回复",
-    "metric_value": 87,
+    "metric": "89 回复",
+    "metric_value": 89,
     "extra": {
       "node": "音乐",
       "node_name": "music",
       "author": "aw2350",
-      "last_touched": 1793963520
+      "last_touched": 1793970720
     }
   },
   {
@@ -60,13 +60,13 @@
     "title": "今天要不要逃命，美股大跌、",
     "url": "https://www.v2ex.com/t/1254880",
     "description": "",
-    "metric": "73 回复",
-    "metric_value": 73,
+    "metric": "74 回复",
+    "metric_value": 74,
     "extra": {
       "node": "股票",
       "node_name": "stock",
       "author": "aimuz",
-      "last_touched": 1793962220
+      "last_touched": 1793965820
     }
   },
   {
@@ -74,13 +74,13 @@
     "title": "无人在意的角落， idea 2026.3 发布了",
     "url": "https://www.v2ex.com/t/1254865",
     "description": "都是 AI 方面的功能https://www.jetbrains.com/idea/",
-    "metric": "68 回复",
-    "metric_value": 68,
+    "metric": "69 回复",
+    "metric_value": 69,
     "extra": {
       "node": "JetBrains",
       "node_name": "jetbrains",
       "author": "Ayanokouji",
-      "last_touched": 1793966083
+      "last_touched": 1793980447
     }
   },
   {
@@ -102,13 +102,13 @@
     "title": "jetbrains 好像已经亏损了。ai 冲击好大啊",
     "url": "https://www.v2ex.com/t/1254870",
     "description": "",
-    "metric": "63 回复",
-    "metric_value": 63,
+    "metric": "65 回复",
+    "metric_value": 65,
     "extra": {
       "node": "JetBrains",
       "node_name": "jetbrains",
       "author": "programMrxu",
-      "last_touched": 1793973214
+      "last_touched": 1793989119
     }
   }
 ]
