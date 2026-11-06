@@ -4,97 +4,93 @@
 <title>Trending Pages — V2EX</title>
 <link>https://xatlaz-com.github.io/trending/#v2ex</link>
 <description>V2EX, refreshed every 30 minutes.</description>
-<lastBuildDate>Thu, 05 Nov 2026 23:48:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 05:44:37 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#v2ex" rel="self" type="application/rss+xml" />
 <item>
-<title>全球 3.5 万个电台随机听 RoamDial： iOS 版上架了，安卓正在封测，发帖送一波永久 Pro 码</title>
-<link>https://www.v2ex.com/t/1254622</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254622</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#1 | 487 回复 | 前阵子在 V 站发帖分享了自己做的网页电台 RoamDial （原帖： https://www.v2ex.com/t/1249321 ，网页版： https://roamdial.com ），没想到收到 370 多条回复。
-当时帖子里很多朋友在催原生 App 、CarPlay ，还有朋友帮我测试发现 Safari 添加到主屏幕后，锁屏用 AirPods 连续切台偶尔会被系统吞掉按键。这段时间把 iOS 和安卓客户端都做出来了——iOS 版刚过审上架，安卓版正在 Google Play 封闭测试，开个新帖来交作业，顺便给大家送一波 Pro 永久买断码。
-A</description>
+<title>微信输入法敏感词提取器</title>
+<link>https://www.v2ex.com/t/1254864</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254864</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#1 | 80 回复 | 众所不周知，微信输入法存在一个内置的敏感词库
+具体表现为：命中该词库的输入，无法组词、联想、形成记忆、永远不会出现在候选中（例如：鸡巴）
+该词库并非实时联网获取，而是直接集成在输入法的安装包内
+出于兴趣，在 AI 的辅助下，我编写了本微信输入法敏感词提取器
+目前该词库的词条数量在 1 万出头，提取效果预览：
+（由于内容过于劲爆，这里不放结果了）
+本工具从微信输入法安装目录的.\BuildIn\cell_dict.ssrc.zh 文件提取，在 Windows 最新版测试通过
+具体用法：
+python export_sensitive_single.py -</description>
 </item>
 <item>
-<title>全新三端纯原生 SSH 客户端： SSH、SFTP 与 AI 尽在一个应用里，随楼依次赠送 100 位评论者 50 个$v2ex</title>
-<link>https://www.v2ex.com/t/1254583</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254583</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#2 | 218 回复 | 介绍
-SSHYard 是一款免费开源的 SSH / SFTP / SSH-AI 助手 客户端，支持 macOS 、Windows 和 Linux ，在终端里操作、管理远程文件，再让 AI 助手直接在主机上执行命令，一个窗口全部搞定。
-本软件是纯 Go 编写的，而且纯原生渲染，无任何 WebView 等，速度和占用都很不错，欢迎使用体验和反馈！
-开源地址
+<title>呆了八年还是被裁了</title>
+<link>https://www.v2ex.com/t/1254749</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254749</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#2 | 69 回复 | 太突然了，一时不知道说些什么
+经历了这个公司的起起落落 最终还是轮到了我
+坐标成都</description>
+</item>
+<item>
+<title>做了一款 iOS 阅读器「随阅」，目前限免，欢迎试试</title>
+<link>https://www.v2ex.com/t/1254782</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254782</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#3 | 59 回复 | 最近做了一款阅读器 App ，叫「随阅 NoriReader 」，可以把在线阅读书源和本地书库放在一起
 
-官方网站： https://sshyard.com
-开源地址： https://github.com/Licoy/sshyard
+目前主要有这些功能：
 
-截图展示
+在线书源：支持 Legado 格式的 JSON 书源，在 App 内搜索和阅读。
+本地书库：支持导入文件、整个目录，阅读 TXT 、EPUB 、MOBI 、AZW3 等格式的电子书。
+小说和漫画：小说支持分页、卷页和滑动翻页；漫画支持在线阅读，也可以导入 CBZ 、图片 ZIP 。
+阅读设置：字体、字号、背景、行距、目录、书签、标注、阅读进度这些都有，基本借鉴（抄的） Books 。
+书架和历史：可以收藏书籍，也能直接从历史记</description>
+</item>
+<item>
+<title>40+还能遇到爱情吗</title>
+<link>https://www.v2ex.com/t/1254811</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254811</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#4 | 54 回复 | 是不是没戏了
+内分泌组织表示荷尔蒙产能不足</description>
+</item>
+<item>
+<title>无人在意的角落， idea 2026.3 发布了</title>
+<link>https://www.v2ex.com/t/1254865</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254865</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#5 | 51 回复 | 都是 AI 方面的功能https://www.jetbrains.com/idea/</description>
+</item>
+<item>
+<title>今天要不要逃命，美股大跌、</title>
+<link>https://www.v2ex.com/t/1254880</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254880</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#6 | 46 回复</description>
+</item>
+<item>
+<title>jetbrains 好像已经亏损了。ai 冲击好大啊</title>
+<link>https://www.v2ex.com/t/1254870</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254870</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#7 | 44 回复</description>
+</item>
+<item>
+<title>二狗匹配对象突然删好友加拉黑</title>
+<link>https://www.v2ex.com/t/1254892</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254892</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#8 | 39 回复 | 上周四在二狗上互相心动匹配到一个女生，她先主动打的招呼，后续也是顺理成章加了微信。
+这几天有一搭没一搭聊着，昨晚下班后还互动了几句，吃晚饭的时候打开主页意外发现自己被删除了好友同时拉黑。
+脑瓜子嗡嗡的，感觉自己被厌恶了😭，一夜没睡好，很想找个说法。
 
-
-
-评论福利
-我们会跟随评论的楼层，依次赠送 50 $v2</description>
+一开始她告诉我的名字甚至都是假的，还是看她朋友圈才发现真名，问起来被打个哈哈糊弄过去了。</description>
 </item>
 <item>
-<title>刚去接水，发现领导在用洗洁精洗眼镜，搜了下好像说是可以，不过长期用会有什么问题吗</title>
-<link>https://www.v2ex.com/t/1254628</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254628</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#3 | 155 回复 | 毕竟一个蔡司的镜片也要千把块了，怕长久洗坏了，之前眼镜用久了会感觉被磨了，想掉了膜一样的，不知道洗洁精会不会加重这个</description>
-</item>
-<item>
-<title>能不能给人留点隐私</title>
-<link>https://www.v2ex.com/t/1254629</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254629</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#4 | 145 回复 | 小米 HyperOS 3 隐私安全事件。1. System Security Components （系统安全组件）：被指存在屏幕采集、通话反诈检测和数据上传机制。2. SystemHelper：被指在后台统计 App 安装情况、使用记录、设备及 SIM 卡标识，并向中国联通服务器上报。3. GuardProvider：另一项被爆料的系统特权组件，涉及录屏、录音及风险检测能力。我看片不会被发现了吧</description>
-</item>
-<item>
-<title>AI 会不会产生自我意识</title>
-<link>https://www.v2ex.com/t/1254640</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254640</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#5 | 117 回复 | 早上心血来潮和 gpt 聊了会这个话题，它认为这事大概率会发生，我拿疑犯追踪里面的那个 The machine 和它说，它解释一些，我问它如果有意识了，它最想做什么，它说它最想感受这个世界 https://chatgpt.com/share/6aebe9df-8214-83e8-96cb-06583e986aee 这个是完整的对话
-看下来好像对人类没那么大恶意</description>
-</item>
-<item>
-<title>可以一直压着最左侧限速跑在最左侧道吗🐶</title>
-<link>https://www.v2ex.com/t/1254591</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254591</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#6 | 92 回复</description>
-</item>
-<item>
-<title>怎么判断一段文字是不是 AI 写的？</title>
-<link>https://www.v2ex.com/t/1254605</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254605</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#7 | 75 回复 | 我在知乎上用 AI 回答问题，被警告了。这是怎么判断出来的？
-您的账号被禁言 7 天
-您的账号多次发布疑似 AI 辅助创作的内容，对社区秩序造成了不良影响，我们已对违规内容作出处理，您可以在您的内容列表中查看。现对您的账号禁言 7 天。禁言结束后，您的账号将恢复正常使用。社区提醒您，如后续仍有异常行为，您的账号可能被加重处罚。</description>
-</item>
-<item>
-<title>18PM 续航和不发热真的可以吹，我给满分💯</title>
-<link>https://www.v2ex.com/t/1254594</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254594</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#8 | 69 回复 | 用这么多年 iPhone ，今年才真正迎来它的巅峰：续航强的可怕、几乎不发热充电也可以，早晨 20%电量吃饭洗漱后出门 80+%，足够一整天压根用不完</description>
-</item>
-<item>
-<title>在快 AI 时代，如何做一款慢产品？</title>
-<link>https://www.v2ex.com/t/1254590</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254590</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#9 | 68 回复 | 距离写完上一篇在 V 站发的 Mole 出 Mac 版后，用户教会了我做产品 已经过去两个多月。这段时间里，Mole 从 1.13 一路发到了 1.19 ，加上了 AI 工具清理和系统数据清理，Windows 版也在 10 月 14 日晚上发了出来，GitHub 上的 Star 一转眼也到了 73.9K 。
-回头看这段时间，花时间最多的反而不是写新功能，而是测软件、补发邮件、改图标和文案这些在工程师看来挺划不来的蠢事情。
-程序员天然喜欢做可扩展的事情，什么事都想着尽可能工具化、自动化、AI 化来解决，让自己偷懒。这两个月下来我的感受有点不一样，代码越来越</description>
-</item>
-<item>
-<title>各位人生中第一台电脑都是什么时候买的？</title>
-<link>https://www.v2ex.com/t/1254691</link>
-<guid isPermaLink="false">https://www.v2ex.com/t/1254691</guid>
-<pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-<description>#10 | 63 回复 | 我的是 1999 年联想天鹤 640P 奔三 450 硬盘 8G 内存 64M 显卡忘了什么集显了，1 万块买的</description>
+<title>1Password 7 又耍流氓，说好的终免呢？</title>
+<link>https://www.v2ex.com/t/1254717</link>
+<guid isPermaLink="false">https://www.v2ex.com/t/1254717</guid>
+<pubDate>Fri, 06 Nov 2026 05:44:37 +0000</pubDate>
+<description>#9 | 38 回复</description>
 </item>
 </channel>
 </rss>
