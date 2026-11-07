@@ -1,114 +1,142 @@
 [
   {
     "rank": 1,
-    "title": "微信输入法敏感词提取器",
-    "url": "https://www.v2ex.com/t/1254864",
-    "description": "众所不周知，微信输入法存在一个内置的敏感词库\n具体表现为：命中该词库的输入，无法组词、联想、形成记忆、永远不会出现在候选中（例如：鸡巴）\n该词库并非实时联网获取，而是直接集成在输入法的安装包内\n出于兴趣，在 AI 的辅助下，我编写了本微信输入法敏感词提取器\n目前该词库的词条数量在 1 万出头，提取效果预览：\n（由于内容过于劲爆，这里不放结果了）\n本工具从微信输入法安装目录的.\\BuildIn\\cell_dict.ssrc.zh 文件提取，在 Windows 最新版测试通过\n具体用法：\npython export_sensitive_single.py -f &lt;cell_dict.ssrc",
-    "metric": "171 回复",
-    "metric_value": 171,
+    "title": "今天离职谈话领导说他心寒了",
+    "url": "https://www.v2ex.com/t/1255048",
+    "description": "昨天通知被离职原因是效益不好，今天谈话1 、干了 7 个月赔偿 1 个月的感觉还挺仗义的2 、离职协议中写了 11 月 6 号是截止日期，工资竟然只给算到 10 月 30 号的，我提出这个问题后领导说太让他心寒了怎么感觉是我错了呢，我不该提出来吗",
+    "metric": "45 回复",
+    "metric_value": 45,
     "extra": {
-      "node": "信息安全",
-      "node_name": "security",
-      "author": "Lightbright",
-      "last_touched": 1793999802
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "tao66",
+      "last_touched": 1794005405
     }
   },
   {
     "rank": 2,
-    "title": "一人一本书",
-    "url": "https://www.v2ex.com/t/1254937",
-    "description": "",
-    "metric": "130 回复",
-    "metric_value": 130,
+    "title": "用的飞机节点都被送中了",
+    "url": "https://www.v2ex.com/t/1255000",
+    "description": "可能得益于部分用户长期开定位，买的机场反复切换节点登录 google ，提示的登录地点全是在国内，地点集中在浙、粤、桂。打开 play 商店设置，也有切换到国区的提示。\n得考虑换个机场或者拼车了😰",
+    "metric": "43 回复",
+    "metric_value": 43,
     "extra": {
-      "node": "阅读",
-      "node_name": "reading",
-      "author": "x2024",
-      "last_touched": 1793991433
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "ffalex",
+      "last_touched": 1794026624
     }
   },
   {
     "rank": 3,
-    "title": "如果不上班了，你还能靠什么继续谋生！",
-    "url": "https://www.v2ex.com/t/1254971",
-    "description": "很厌恶上班了，但是为了赚钱，又不得已。想问大家，各位有不上班了，也能继续谋生的副业吗。如果不上班了，能坚持多久呢？",
-    "metric": "103 回复",
-    "metric_value": 103,
+    "title": "请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的",
+    "url": "https://www.v2ex.com/t/1255105",
+    "description": "我有一台甲骨文 ARM 4 核 24G 满配服务器，一台绿云 GreenCloud 。我想尽可能保存所有 GitHub 账户所有仓库所有数据\n请问大家有什么要注意的",
+    "metric": "35 回复",
+    "metric_value": 35,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "Meijer",
-      "last_touched": 1793983657
+      "node": "git",
+      "node_name": "git",
+      "author": "GoogolChrome111",
+      "last_touched": 1794032261
     }
   },
   {
     "rank": 4,
-    "title": "为了充实虚无的人生，开始第三次尝试学吉他。。。",
-    "url": "https://www.v2ex.com/t/1254933",
-    "description": "10 年前买过一把民谣吉他，但是没坚持下去，海鲜市场卖了\n4 年前疫情整天在家无聊，又打了鸡血买了一把雅马哈静音吉他，又是没坚持下去，去年卖了\n最近刷抖 y ，看电吉他又上头，然后又买了把电的加入门 音箱。。希望能坚持下去吧",
-    "metric": "89 回复",
-    "metric_value": 89,
+    "title": "这可能是除了肉身之外的终极 Claude 防封方法，应该没有之一吧",
+    "url": "https://www.v2ex.com/t/1255153",
+    "description": "在被封了好几个号后，我觉得目前应该找到了终极的方法了。应该也是能想到的最终极的方法吧。\n怎么注册购买这个大家就各显神通吧，但有个贯穿始终的点就是，不要暴露地区。总之，哪怕就是找个在国外的朋友帮你注册购买一个都行。注册购买完之后，怎么用就是关键了，终极办法无偿分享。\n拿到号之后，不要下载 app 登录！不要下载 app 登录！不要下载 app 登录！让你的朋友或者任何别的可能在登的地方都先退出。\n简单说就是：网页登录 + 稳定静态住宅 IP + 远程调用\n准备工作\n然后千万不要脑热上来就登。可以使用正常的浏览器，但是先把之前关于 claude 的 session 和 cookie 啥的各种信息全",
+    "metric": "34 回复",
+    "metric_value": 34,
     "extra": {
-      "node": "音乐",
-      "node_name": "music",
-      "author": "aw2350",
-      "last_touched": 1793970720
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "plane",
+      "last_touched": 1794032435
     }
   },
   {
     "rank": 5,
-    "title": "今天要不要逃命，美股大跌、",
-    "url": "https://www.v2ex.com/t/1254880",
-    "description": "",
-    "metric": "74 回复",
-    "metric_value": 74,
+    "title": "AI 浪潮下，孩子英语还需要卷吗？",
+    "url": "https://www.v2ex.com/t/1255030",
+    "description": "我的认知是以后任何语言都会被 AI 抹平，完全没必要现在急头白脸的在孩子英语上花钱投入，除非孩子自己是喜欢的，那没问题。\n大家说说？",
+    "metric": "30 回复",
+    "metric_value": 30,
     "extra": {
-      "node": "股票",
-      "node_name": "stock",
-      "author": "aimuz",
-      "last_touched": 1793965820
+      "node": "问与答",
+      "node_name": "qna",
+      "author": "hydyy",
+      "last_touched": 1794009505
     }
   },
   {
     "rank": 6,
-    "title": "无人在意的角落， idea 2026.3 发布了",
-    "url": "https://www.v2ex.com/t/1254865",
-    "description": "都是 AI 方面的功能https://www.jetbrains.com/idea/",
-    "metric": "69 回复",
-    "metric_value": 69,
+    "title": "关于 gemini 用不了之后的戒断反应",
+    "url": "https://www.v2ex.com/t/1255069",
+    "description": "平时反代接 hermes 里用，虽然有时候感觉挺谄媚的，但是今天突然被风控后，尝试换了好几个其他的模型，都感觉没有那种说人话的味道，开始有戒断反应了..\n想请教下各位，有没有能力上和 gemini 3.8 flash 差不多，量大管饱的且说人话的模型方案，ds 4.1f 试了下感觉也不怎么说人话的样子",
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
-      "node": "JetBrains",
-      "node_name": "jetbrains",
-      "author": "Ayanokouji",
-      "last_touched": 1793980447
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "vaxshoot",
+      "last_touched": 1794031158
     }
   },
   {
     "rank": 7,
-    "title": "二狗匹配对象突然删好友加拉黑",
-    "url": "https://www.v2ex.com/t/1254892",
-    "description": "上周四在二狗上互相心动匹配到一个女生，她先主动打的招呼，后续也是顺理成章加了微信。\n这几天有一搭没一搭聊着，昨晚下班后还互动了几句，吃晚饭的时候打开主页意外发现自己被删除了好友同时拉黑。\n脑瓜子嗡嗡的，感觉自己被厌恶了😭，一夜没睡好，很想找个说法。\n\n一开始她告诉我的名字甚至都是假的，还是看她朋友圈才发现真名，问起来被打个哈哈糊弄过去了。",
-    "metric": "67 回复",
-    "metric_value": 67,
+    "title": "网上看到一则相亲帖",
+    "url": "https://www.v2ex.com/t/1255021",
+    "description": "女方自我介绍\n1.90 年女 168/51 未婚未孕，不黑不丑不显老。\n2.工作比较稳定且正经 自律没有不良嗜好，不抽烟不喝酒不泡吧不打牌，没有纹身，没有乱七八糟的朋友。\n3.性格偏文静，情绪稳定，心思细腻，边界感强，对待感情专一，非独生，原生家庭氛围很好有爱，父母开明。\n4.身体健康，热爱生活，会做家务，也会简单的饭菜，有点宅，社交比较少，喜欢安静，兴趣爱好比较多（拼乐高，织手工，养花花草草，做点心⋯••）。\n5.很反感烟酒槟榔味，怕猫怕狗，不太能接受养宠物，\n对男方要求\n1.年龄 87-95 ，未婚未育，五官端正，清爽不胖不胖不胖不油腻邋遢，不缺牙，不秃头，净身高 172 及以上（脸好看可",
+    "metric": "26 回复",
+    "metric_value": 26,
     "extra": {
-      "node": "情感问题",
-      "node_name": "libido",
-      "author": "dumbass",
-      "last_touched": 1793972813
+      "node": "生活",
+      "node_name": "life",
+      "author": "tt83",
+      "last_touched": 1793971047
     }
   },
   {
     "rank": 8,
-    "title": "jetbrains 好像已经亏损了。ai 冲击好大啊",
-    "url": "https://www.v2ex.com/t/1254870",
-    "description": "",
-    "metric": "65 回复",
-    "metric_value": 65,
+    "title": "原来达里奥切除过睾丸，很少有人知道",
+    "url": "https://www.v2ex.com/t/1255134",
+    "description": "Anthropic 的达里曾经得过睾丸癌。2014 年，他确诊后接受化疗，最终完全康复。这段经历此前鲜为人知。\n《纽约时报》 2026 年 11 月 5 日左右的深度报道（ Ryan Mac 等）首次较详细公开了这件事。报道称，两名认识他的人透露，Dario Amodei 在 2014 年被诊断出睾丸癌，当时他在斯坦福做癌症细胞相关博士后研究。他接受了化疗，最终完全康复。\n\n早期睾丸癌（主要指 I 期）治疗标准第一步切除一侧睾丸。治愈率超过 95%。剩下一侧通常能维持生育和睾酮。多数人仍可自然生育。\n化疗：常导致暂时不育。多数人 1-2 年后恢复精子生成，5 年时约 80%恢复。少数永久受损。",
+    "metric": "21 回复",
+    "metric_value": 21,
     "extra": {
-      "node": "JetBrains",
-      "node_name": "jetbrains",
-      "author": "programMrxu",
-      "last_touched": 1793989119
+      "node": "业界八卦",
+      "node_name": "gossip",
+      "author": "FFM",
+      "last_touched": 1794029475
+    }
+  },
+  {
+    "rank": 9,
+    "title": "做了一个叫「窝囊费」的小程序，大佬们给点意见。",
+    "url": "https://www.v2ex.com/t/1255008",
+    "description": "https://imgur.com/nzLlA3A",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "liaowade",
+      "last_touched": 1793959003
+    }
+  },
+  {
+    "rank": 10,
+    "title": "新 mac 怎么选",
+    "url": "https://www.v2ex.com/t/1254986",
+    "description": "想换个 MacBook\n14 寸 M5pro 48g+1T\n16 寸 m5pro 24g+1T\n差价 500 ，突然不知道怎么选了，大家出出主意 谢谢",
+    "metric": "17 回复",
+    "metric_value": 17,
+    "extra": {
+      "node": "Apple",
+      "node_name": "apple",
+      "author": "roach116",
+      "last_touched": 1793965450
     }
   }
 ]
