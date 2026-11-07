@@ -1,19 +1,19 @@
 {
   "source": "github",
-  "updated_at": "2026-11-06T20:19:52+00:00",
-  "count": 18,
+  "updated_at": "2026-11-07T00:14:40+00:00",
+  "count": 17,
   "items": [
     {
       "rank": 1,
       "title": "zed-industries / zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "metric": "★ 93,443",
+      "metric": "★ 93,610",
       "extra": {
         "language": "Rust",
-        "stars": "93,443",
-        "forks": "11,486",
-        "stars_today": "292 stars today"
+        "stars": "93,610",
+        "forks": "11,499",
+        "stars_today": "306 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "NVIDIA / auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "metric": "★ 8,814",
+      "metric": "★ 8,995",
       "extra": {
         "language": "Python",
-        "stars": "8,814",
-        "forks": "707",
-        "stars_today": "2,005 stars today"
+        "stars": "8,995",
+        "forks": "722",
+        "stars_today": "2,015 stars today"
       }
     },
     {
@@ -34,12 +34,12 @@
       "title": "rails / rails",
       "url": "https://github.com/rails/rails",
       "description": "Ruby on Rails",
-      "metric": "★ 58,970",
+      "metric": "★ 59,023",
       "extra": {
         "language": "Ruby",
-        "stars": "58,970",
-        "forks": "23,827",
-        "stars_today": "152 stars today"
+        "stars": "59,023",
+        "forks": "23,833",
+        "stars_today": "142 stars today"
       }
     },
     {
@@ -47,12 +47,12 @@
       "title": "mpv-player / mpv",
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
-      "metric": "★ 37,839",
+      "metric": "★ 37,872",
       "extra": {
         "language": "C",
-        "stars": "37,839",
-        "forks": "3,630",
-        "stars_today": "36 stars today"
+        "stars": "37,872",
+        "forks": "3,632",
+        "stars_today": "37 stars today"
       }
     },
     {
@@ -60,12 +60,12 @@
       "title": "rust-lang / rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
-      "metric": "★ 121,344",
+      "metric": "★ 121,440",
       "extra": {
         "language": "Rust",
-        "stars": "121,344",
-        "forks": "17,361",
-        "stars_today": "186 stars today"
+        "stars": "121,440",
+        "forks": "17,365",
+        "stars_today": "192 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "react / react",
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
-      "metric": "★ 252,192",
+      "metric": "★ 252,251",
       "extra": {
         "language": "JavaScript",
-        "stars": "252,192",
-        "forks": "51,805",
-        "stars_today": "244 stars today"
+        "stars": "252,251",
+        "forks": "51,810",
+        "stars_today": "248 stars today"
       }
     },
     {
@@ -86,12 +86,12 @@
       "title": "angular / angular",
       "url": "https://github.com/angular/angular",
       "description": "Deliver web apps with confidence 🚀",
-      "metric": "★ 101,264",
+      "metric": "★ 101,355",
       "extra": {
         "language": "TypeScript",
-        "stars": "101,264",
-        "forks": "28,908",
-        "stars_today": "128 stars today"
+        "stars": "101,355",
+        "forks": "28,912",
+        "stars_today": "135 stars today"
       }
     },
     {
@@ -99,12 +99,12 @@
       "title": "symfony / symfony",
       "url": "https://github.com/symfony/symfony",
       "description": "The Symfony PHP framework",
-      "metric": "★ 31,356",
+      "metric": "★ 31,426",
       "extra": {
         "language": "PHP",
-        "stars": "31,356",
-        "forks": "9,944",
-        "stars_today": "89 stars today"
+        "stars": "31,426",
+        "forks": "9,948",
+        "stars_today": "128 stars today"
       }
     },
     {
@@ -112,12 +112,12 @@
       "title": "prometheus / prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
-      "metric": "★ 67,101",
+      "metric": "★ 67,178",
       "extra": {
         "language": "Go",
-        "stars": "67,101",
-        "forks": "10,981",
-        "stars_today": "140 stars today"
+        "stars": "67,178",
+        "forks": "10,988",
+        "stars_today": "148 stars today"
       }
     },
     {
@@ -125,12 +125,12 @@
       "title": "google / skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
-      "metric": "★ 22,776",
+      "metric": "★ 22,827",
       "extra": {
         "language": "Python",
-        "stars": "22,776",
-        "forks": "1,918",
-        "stars_today": "532 stars today"
+        "stars": "22,827",
+        "forks": "1,920",
+        "stars_today": "534 stars today"
       }
     },
     {
@@ -138,103 +138,90 @@
       "title": "microsoft / vscode",
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
-      "metric": "★ 194,941",
+      "metric": "★ 195,022",
       "extra": {
         "language": "TypeScript",
-        "stars": "194,941",
-        "forks": "44,413",
-        "stars_today": "295 stars today"
+        "stars": "195,022",
+        "forks": "44,425",
+        "stars_today": "301 stars today"
       }
     },
     {
       "rank": 12,
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "metric": "★ 12,620",
+      "title": "nushell / nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "metric": "★ 40,978",
       "extra": {
-        "language": "C",
-        "stars": "12,620",
-        "forks": "1,643",
-        "stars_today": "313 stars today"
+        "language": "Rust",
+        "stars": "40,978",
+        "forks": "2,343",
+        "stars_today": "131 stars today"
       }
     },
     {
       "rank": 13,
-      "title": "nushell / nushell",
-      "url": "https://github.com/nushell/nushell",
-      "description": "A new type of shell",
-      "metric": "★ 40,899",
+      "title": "etcd-io / etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "metric": "★ 52,612",
       "extra": {
-        "language": "Rust",
-        "stars": "40,899",
-        "forks": "2,339",
-        "stars_today": "88 stars today"
+        "language": "Go",
+        "stars": "52,612",
+        "forks": "10,590",
+        "stars_today": "128 stars today"
       }
     },
     {
       "rank": 14,
-      "title": "etcd-io / etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "metric": "★ 52,563",
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "metric": "★ 31,285",
       "extra": {
-        "language": "Go",
-        "stars": "52,563",
-        "forks": "10,587",
-        "stars_today": "123 stars today"
+        "language": "C",
+        "stars": "31,285",
+        "forks": "11,580",
+        "stars_today": "26 stars today"
       }
     },
     {
       "rank": 15,
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "metric": "★ 31,258",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 316,696",
       "extra": {
-        "language": "C",
-        "stars": "31,258",
-        "forks": "11,580",
-        "stars_today": "24 stars today"
+        "language": "Shell",
+        "stars": "316,696",
+        "forks": "26,493",
+        "stars_today": "2,070 stars today"
       }
     },
     {
       "rank": 16,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 316,540",
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "metric": "★ 63,953",
       "extra": {
-        "language": "Shell",
-        "stars": "316,540",
-        "forks": "26,477",
-        "stars_today": "2,058 stars today"
+        "language": "JavaScript",
+        "stars": "63,953",
+        "forks": "4,144",
+        "stars_today": "2,548 stars today"
       }
     },
     {
       "rank": 17,
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "metric": "★ 63,651",
-      "extra": {
-        "language": "JavaScript",
-        "stars": "63,651",
-        "forks": "4,127",
-        "stars_today": "2,524 stars today"
-      }
-    },
-    {
-      "rank": 18,
       "title": "astral-sh / ruff",
       "url": "https://github.com/astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "metric": "★ 50,599",
+      "metric": "★ 50,687",
       "extra": {
         "language": "Rust",
-        "stars": "50,599",
-        "forks": "2,602",
-        "stars_today": "107 stars today"
+        "stars": "50,687",
+        "forks": "2,611",
+        "stars_today": "169 stars today"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-11-06T20:19:52+00:00",
+  "updated_at": "2026-11-07T00:14:40+00:00",
   "count": 8,
   "items": [
     {
@@ -8,13 +8,13 @@
       "title": "微信输入法敏感词提取器",
       "url": "https://www.v2ex.com/t/1254864",
       "description": "众所不周知，微信输入法存在一个内置的敏感词库\n具体表现为：命中该词库的输入，无法组词、联想、形成记忆、永远不会出现在候选中（例如：鸡巴）\n该词库并非实时联网获取，而是直接集成在输入法的安装包内\n出于兴趣，在 AI 的辅助下，我编写了本微信输入法敏感词提取器\n目前该词库的词条数量在 1 万出头，提取效果预览：\n（由于内容过于劲爆，这里不放结果了）\n本工具从微信输入法安装目录的.\\BuildIn\\cell_dict.ssrc.zh 文件提取，在 Windows 最新版测试通过\n具体用法：\npython export_sensitive_single.py -f &lt;cell_dict.ssrc",
-      "metric": "169 回复",
-      "metric_value": 169,
+      "metric": "171 回复",
+      "metric_value": 171,
       "extra": {
         "node": "信息安全",
         "node_name": "security",
         "author": "Lightbright",
-        "last_touched": 1793990483
+        "last_touched": 1793999802
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "一人一本书",
       "url": "https://www.v2ex.com/t/1254937",
       "description": "",
-      "metric": "128 回复",
-      "metric_value": 128,
+      "metric": "130 回复",
+      "metric_value": 130,
       "extra": {
-        "node": "问与答",
-        "node_name": "qna",
+        "node": "阅读",
+        "node_name": "reading",
         "author": "x2024",
-        "last_touched": 1793984233
+        "last_touched": 1793991433
       }
     },
     {
@@ -36,13 +36,13 @@
       "title": "如果不上班了，你还能靠什么继续谋生！",
       "url": "https://www.v2ex.com/t/1254971",
       "description": "很厌恶上班了，但是为了赚钱，又不得已。想问大家，各位有不上班了，也能继续谋生的副业吗。如果不上班了，能坚持多久呢？",
-      "metric": "101 回复",
-      "metric_value": 101,
+      "metric": "103 回复",
+      "metric_value": 103,
       "extra": {
         "node": "职场话题",
         "node_name": "career",
         "author": "Meijer",
-        "last_touched": 1793976457
+        "last_touched": 1793983657
       }
     },
     {
