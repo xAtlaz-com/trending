@@ -1,236 +1,197 @@
 [
   {
     "rank": 1,
-    "title": "zed-industries / zed",
-    "url": "https://github.com/zed-industries/zed",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-    "metric": "★ 93,820",
+    "title": "vercel-labs / agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "metric": "★ 46,448",
     "extra": {
       "language": "Rust",
-      "stars": "93,820",
-      "forks": "11,512",
-      "stars_today": "306 stars today"
+      "stars": "46,448",
+      "forks": "3,184",
+      "stars_today": "180 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "NVIDIA / auto-ontology",
-    "url": "https://github.com/NVIDIA/auto-ontology",
-    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-    "metric": "★ 9,316",
+    "title": "cloudflare / security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "metric": "★ 64,909",
     "extra": {
-      "language": "Python",
-      "stars": "9,316",
-      "forks": "739",
-      "stars_today": "2,015 stars today"
+      "language": "JavaScript",
+      "stars": "64,909",
+      "forks": "4,212",
+      "stars_today": "2,088 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "rails / rails",
-    "url": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "metric": "★ 59,056",
+    "title": "google / skills",
+    "url": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "metric": "★ 23,087",
     "extra": {
-      "language": "Ruby",
-      "stars": "59,056",
-      "forks": "23,833",
-      "stars_today": "142 stars today"
+      "language": "Python",
+      "stars": "23,087",
+      "forks": "1,939",
+      "stars_today": "449 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "mpv-player / mpv",
-    "url": "https://github.com/mpv-player/mpv",
-    "description": "🎥 Command line media player",
-    "metric": "★ 37,929",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "metric": "★ 317,230",
     "extra": {
-      "language": "C",
-      "stars": "37,929",
-      "forks": "3,635",
-      "stars_today": "37 stars today"
+      "language": "Shell",
+      "stars": "317,230",
+      "forks": "26,546",
+      "stars_today": "1,111 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "rust-lang / rust",
-    "url": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "metric": "★ 121,516",
+    "title": "anthropics / skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "metric": "★ 188,386",
     "extra": {
-      "language": "Rust",
-      "stars": "121,516",
-      "forks": "17,369",
-      "stars_today": "192 stars today"
+      "language": "Python",
+      "stars": "188,386",
+      "forks": "22,218",
+      "stars_today": "386 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "react / react",
-    "url": "https://github.com/react/react",
-    "description": "The library for web and native user interfaces.",
-    "metric": "★ 252,304",
+    "title": "meta / astryx",
+    "url": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "metric": "★ 14,161",
     "extra": {
-      "language": "JavaScript",
-      "stars": "252,304",
-      "forks": "51,830",
-      "stars_today": "248 stars today"
+      "language": "TypeScript",
+      "stars": "14,161",
+      "forks": "1,171",
+      "stars_today": "198 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "angular / angular",
-    "url": "https://github.com/angular/angular",
-    "description": "Deliver web apps with confidence 🚀",
-    "metric": "★ 101,419",
+    "title": "prometheus / prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "metric": "★ 67,306",
     "extra": {
-      "language": "TypeScript",
-      "stars": "101,419",
-      "forks": "28,914",
-      "stars_today": "135 stars today"
+      "language": "Go",
+      "stars": "67,306",
+      "forks": "10,994",
+      "stars_today": "325 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "symfony / symfony",
-    "url": "https://github.com/symfony/symfony",
-    "description": "The Symfony PHP framework",
-    "metric": "★ 31,474",
+    "title": "sherlock-project / sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "metric": "★ 99,547",
     "extra": {
-      "language": "PHP",
-      "stars": "31,474",
-      "forks": "9,949",
-      "stars_today": "128 stars today"
+      "language": "Python",
+      "stars": "99,547",
+      "forks": "11,792",
+      "stars_today": "1,761 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "prometheus / prometheus",
-    "url": "https://github.com/prometheus/prometheus",
-    "description": "The Prometheus monitoring system and time series database.",
-    "metric": "★ 67,235",
+    "title": "milind-soni / OpenMausBot",
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "metric": "★ 16,313",
     "extra": {
-      "language": "Go",
-      "stars": "67,235",
-      "forks": "10,989",
-      "stars_today": "148 stars today"
+      "language": "TypeScript",
+      "stars": "16,313",
+      "forks": "2,313",
+      "stars_today": "1,986 stars today"
     }
   },
   {
     "rank": 10,
-    "title": "google / skills",
-    "url": "https://github.com/google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "metric": "★ 22,945",
+    "title": "astral-sh / ruff",
+    "url": "https://github.com/astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "metric": "★ 50,830",
     "extra": {
-      "language": "Python",
-      "stars": "22,945",
-      "forks": "1,929",
-      "stars_today": "534 stars today"
+      "language": "Rust",
+      "stars": "50,830",
+      "forks": "2,624",
+      "stars_today": "350 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "microsoft / vscode",
-    "url": "https://github.com/microsoft/vscode",
-    "description": "Visual Studio Code",
-    "metric": "★ 195,076",
+    "title": "tailwindlabs / tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "metric": "★ 98,237",
     "extra": {
       "language": "TypeScript",
-      "stars": "195,076",
-      "forks": "44,433",
-      "stars_today": "301 stars today"
+      "stars": "98,237",
+      "forks": "7,091",
+      "stars_today": "152 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "lz4 / lz4",
-    "url": "https://github.com/lz4/lz4",
-    "description": "Extremely Fast Compression algorithm",
-    "metric": "★ 12,646",
+    "title": "mbillow / localthings",
+    "url": "https://github.com/mbillow/localthings",
+    "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+    "metric": "★ 951",
     "extra": {
-      "language": "C",
-      "stars": "12,646",
-      "forks": "1,643",
-      "stars_today": "315 stars today"
+      "language": "Python",
+      "stars": "951",
+      "forks": "102",
+      "stars_today": "184 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "nushell / nushell",
-    "url": "https://github.com/nushell/nushell",
-    "description": "A new type of shell",
-    "metric": "★ 41,019",
+    "title": "zed-industries / zed",
+    "url": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "metric": "★ 94,066",
     "extra": {
       "language": "Rust",
-      "stars": "41,019",
-      "forks": "2,344",
-      "stars_today": "131 stars today"
+      "stars": "94,066",
+      "forks": "11,535",
+      "stars_today": "1,119 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "etcd-io / etcd",
-    "url": "https://github.com/etcd-io/etcd",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-    "metric": "★ 52,640",
+    "title": "ranxianglei / billion-context",
+    "url": "https://github.com/ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "metric": "★ 4,430",
     "extra": {
-      "language": "Go",
-      "stars": "52,640",
-      "forks": "10,590",
-      "stars_today": "128 stars today"
+      "language": "TypeScript",
+      "stars": "4,430",
+      "forks": "359",
+      "stars_today": "185 stars today"
     }
   },
   {
     "rank": 15,
-    "title": "openssl / openssl",
-    "url": "https://github.com/openssl/openssl",
-    "description": "General purpose TLS and crypto library",
-    "metric": "★ 31,330",
+    "title": "dsx-ai-factory / nvke",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "metric": "★ 369",
     "extra": {
-      "language": "C",
-      "stars": "31,330",
-      "forks": "11,583",
-      "stars_today": "26 stars today"
-    }
-  },
-  {
-    "rank": 16,
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "metric": "★ 316,922",
-    "extra": {
-      "language": "Shell",
-      "stars": "316,922",
-      "forks": "26,522",
-      "stars_today": "2,070 stars today"
-    }
-  },
-  {
-    "rank": 17,
-    "title": "cloudflare / security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "metric": "★ 64,424",
-    "extra": {
-      "language": "JavaScript",
-      "stars": "64,424",
-      "forks": "4,175",
-      "stars_today": "2,548 stars today"
-    }
-  },
-  {
-    "rank": 18,
-    "title": "astral-sh / ruff",
-    "url": "https://github.com/astral-sh/ruff",
-    "description": "An extremely fast Python linter and code formatter, written in Rust.",
-    "metric": "★ 50,753",
-    "extra": {
-      "language": "Rust",
-      "stars": "50,753",
-      "forks": "2,616",
-      "stars_today": "169 stars today"
+      "language": "Go",
+      "stars": "369",
+      "forks": "78",
+      "stars_today": "125 stars today"
     }
   }
 ]
