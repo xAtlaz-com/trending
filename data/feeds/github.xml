@@ -4,112 +4,70 @@
 <title>Trending Pages — GitHub Trending</title>
 <link>https://xatlaz-com.github.io/trending/#github</link>
 <description>GitHub Trending, refreshed every 30 minutes.</description>
-<lastBuildDate>Sun, 08 Nov 2026 08:45:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 15:52:38 +0000</lastBuildDate>
 <atom:link href="https://xatlaz-com.github.io/trending/#github" rel="self" type="application/rss+xml" />
-<item>
-<title>vercel-labs / agent-browser</title>
-<link>https://github.com/vercel-labs/agent-browser</link>
-<guid isPermaLink="false">https://github.com/vercel-labs/agent-browser</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#1 | ★ 46,855 | Browser automation CLI for AI agents</description>
-</item>
-<item>
-<title>cloudflare / security-audit-skill</title>
-<link>https://github.com/cloudflare/security-audit-skill</link>
-<guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#2 | ★ 65,778 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
-</item>
-<item>
-<title>google / skills</title>
-<link>https://github.com/google/skills</link>
-<guid isPermaLink="false">https://github.com/google/skills</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#3 | ★ 23,428 | Agent Skills for Google products and technologies</description>
-</item>
-<item>
-<title>mattpocock / skills</title>
-<link>https://github.com/mattpocock/skills</link>
-<guid isPermaLink="false">https://github.com/mattpocock/skills</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#4 | ★ 317,746 | Skills for Real Engineers. Straight from my .agents directory.</description>
-</item>
-<item>
-<title>anthropics / skills</title>
-<link>https://github.com/anthropics/skills</link>
-<guid isPermaLink="false">https://github.com/anthropics/skills</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#5 | ★ 188,816 | Public repository for Agent Skills</description>
-</item>
-<item>
-<title>meta / astryx</title>
-<link>https://github.com/meta/astryx</link>
-<guid isPermaLink="false">https://github.com/meta/astryx</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#6 | ★ 14,562 | An open source design system that's fully customizable and agent ready</description>
-</item>
-<item>
-<title>prometheus / prometheus</title>
-<link>https://github.com/prometheus/prometheus</link>
-<guid isPermaLink="false">https://github.com/prometheus/prometheus</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#7 | ★ 67,451 | The Prometheus monitoring system and time series database.</description>
-</item>
 <item>
 <title>sherlock-project / sherlock</title>
 <link>https://github.com/sherlock-project/sherlock</link>
 <guid isPermaLink="false">https://github.com/sherlock-project/sherlock</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#8 | ★ 100,549 | Hunt down social media accounts by username across social networks</description>
-</item>
-<item>
-<title>milind-soni / OpenMausBot</title>
-<link>https://github.com/milind-soni/OpenMausBot</link>
-<guid isPermaLink="false">https://github.com/milind-soni/OpenMausBot</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#9 | ★ 17,025 | Open-source Grok Bot alternative with a virtual machine that bots can use</description>
-</item>
-<item>
-<title>astral-sh / ruff</title>
-<link>https://github.com/astral-sh/ruff</link>
-<guid isPermaLink="false">https://github.com/astral-sh/ruff</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#10 | ★ 50,982 | An extremely fast Python linter and code formatter, written in Rust.</description>
-</item>
-<item>
-<title>tailwindlabs / tailwindcss</title>
-<link>https://github.com/tailwindlabs/tailwindcss</link>
-<guid isPermaLink="false">https://github.com/tailwindlabs/tailwindcss</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#11 | ★ 98,486 | A utility-first CSS framework for rapid UI development.</description>
-</item>
-<item>
-<title>mbillow / localthings</title>
-<link>https://github.com/mbillow/localthings</link>
-<guid isPermaLink="false">https://github.com/mbillow/localthings</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#12 | ★ 1,068 | Control your Samsung appliances from Home Assistant over your home network, with no cloud account.</description>
-</item>
-<item>
-<title>zed-industries / zed</title>
-<link>https://github.com/zed-industries/zed</link>
-<guid isPermaLink="false">https://github.com/zed-industries/zed</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#13 | ★ 94,292 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
-</item>
-<item>
-<title>ranxianglei / billion-context</title>
-<link>https://github.com/ranxianglei/billion-context</link>
-<guid isPermaLink="false">https://github.com/ranxianglei/billion-context</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#14 | ★ 4,629 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</description>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#1 | ★ 102,451 | Hunt down social media accounts by username across social networks</description>
 </item>
 <item>
 <title>dsx-ai-factory / nvke</title>
 <link>https://github.com/dsx-ai-factory/nvke</link>
 <guid isPermaLink="false">https://github.com/dsx-ai-factory/nvke</guid>
-<pubDate>Sun, 08 Nov 2026 08:45:17 +0000</pubDate>
-<description>#15 | ★ 565 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#2 | ★ 733 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+</item>
+<item>
+<title>milind-soni / OpenMausBot</title>
+<link>https://github.com/milind-soni/OpenMausBot</link>
+<guid isPermaLink="false">https://github.com/milind-soni/OpenMausBot</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#3 | ★ 17,877 | Open-source Grok Bot alternative with a virtual machine that bots can use</description>
+</item>
+<item>
+<title>anthropics / claude-quickstarts</title>
+<link>https://github.com/anthropics/claude-quickstarts</link>
+<guid isPermaLink="false">https://github.com/anthropics/claude-quickstarts</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#4 | ★ 19,256 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</description>
+</item>
+<item>
+<title>vercel-labs / agent-browser</title>
+<link>https://github.com/vercel-labs/agent-browser</link>
+<guid isPermaLink="false">https://github.com/vercel-labs/agent-browser</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#5 | ★ 47,350 | Browser automation CLI for AI agents</description>
+</item>
+<item>
+<title>meta / astryx</title>
+<link>https://github.com/meta/astryx</link>
+<guid isPermaLink="false">https://github.com/meta/astryx</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#6 | ★ 15,604 | An open source design system that's fully customizable and agent ready</description>
+</item>
+<item>
+<title>anthropics / skills</title>
+<link>https://github.com/anthropics/skills</link>
+<guid isPermaLink="false">https://github.com/anthropics/skills</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#7 | ★ 189,286 | Public repository for Agent Skills</description>
+</item>
+<item>
+<title>google-deepmind / mujoco</title>
+<link>https://github.com/google-deepmind/mujoco</link>
+<guid isPermaLink="false">https://github.com/google-deepmind/mujoco</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#8 | ★ 16,233 | Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+</item>
+<item>
+<title>ranxianglei / billion-context</title>
+<link>https://github.com/ranxianglei/billion-context</link>
+<guid isPermaLink="false">https://github.com/ranxianglei/billion-context</guid>
+<pubDate>Sun, 08 Nov 2026 15:52:38 +0000</pubDate>
+<description>#9 | ★ 4,945 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</description>
 </item>
 </channel>
 </rss>
