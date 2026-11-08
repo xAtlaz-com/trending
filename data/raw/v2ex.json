@@ -4,13 +4,13 @@
     "title": "这可能是除了肉身之外的终极 Claude 防封方法，应该没有之一吧",
     "url": "https://www.v2ex.com/t/1255153",
     "description": "在被封了好几个号后，我觉得目前应该找到了终极的方法了。应该也是能想到的最终极的方法吧。\n怎么注册购买这个大家就各显神通吧，但有个贯穿始终的点就是，不要暴露地区。总之，哪怕就是找个在国外的朋友帮你注册购买一个都行。注册购买完之后，怎么用就是关键了，终极办法无偿分享。\n拿到号之后，不要下载 app 登录！不要下载 app 登录！不要下载 app 登录！让你的朋友或者任何别的可能在登的地方都先退出。\n简单说就是：网页登录 + 稳定静态住宅 IP + 远程调用\n准备工作\n然后千万不要脑热上来就登。可以使用正常的浏览器，但是先把之前关于 claude 的 session 和 cookie 啥的各种信息全",
-    "metric": "65 回复",
-    "metric_value": 65,
+    "metric": "69 回复",
+    "metric_value": 69,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "plane",
-      "last_touched": 1794079684
+      "last_touched": 1794086884
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "ChatGpt 大面积封号？",
     "url": "https://www.v2ex.com/t/1255172",
     "description": "三个菲区 Pro20 全部中招，不同服务器固定 IP 出口，用了小半年一直很稳定。有其他中招的朋友吗?",
-    "metric": "40 回复",
-    "metric_value": 40,
+    "metric": "43 回复",
+    "metric_value": 43,
     "extra": {
       "node": "OpenAI",
       "node_name": "openai",
       "author": "DanShu",
-      "last_touched": 1794079941
+      "last_touched": 1794083541
     }
   },
   {
@@ -32,8 +32,8 @@
     "title": "目前最强的 AI 能否实现这种排查问题的能力？",
     "url": "https://www.v2ex.com/t/1255141",
     "description": "我在面对开发负责人时，打开系统界面，指着一个输入框说：“在这里输入这个，点提交，哎，它报错了，而且后台日志报的是栈溢出的错误，你来解决一下”，然后开发组就去解决问题了，我可以对 AI 这样吗？",
-    "metric": "29 回复",
-    "metric_value": 29,
+    "metric": "31 回复",
+    "metric_value": 31,
     "extra": {
       "node": "程序员",
       "node_name": "programmer",
@@ -57,6 +57,20 @@
   },
   {
     "rank": 5,
+    "title": "请问大佬们买 Macbook 各种系列 24GB 以上的都是什么需求",
+    "url": "https://www.v2ex.com/t/1255251",
+    "description": "能理解每个人的需求都差异很大，对于我来说，我也买过几台 pro ，不过都是好多年前了，现在都是买最轻便的 Air ，包括最近一直用的是上古的 Macbook 12 寸+Omarchy ， 看看网页，ssh ，wechat ，vibe coding 各种 CLI ， 基本上内存很少超过 5GB\n所以很好奇，做视频处理的应该是少数吧，要那么大内存都是用来做什么，LLM 这个也不太够， 编译吗？",
+    "metric": "26 回复",
+    "metric_value": 26,
+    "extra": {
+      "node": "MacBook Pro",
+      "node_name": "mbp",
+      "author": "hihihihihi",
+      "last_touched": 1794081927
+    }
+  },
+  {
+    "rank": 6,
     "title": "有点纠结选西屋的 K16 还是格米莱 G3006J 的咖啡机",
     "url": "https://www.v2ex.com/t/1255169",
     "description": "小白一枚，目前预算 2600 左右，想入手一个意式咖啡机，看网上别人萃取的样子很馋。就想自己搞个玩玩。也想自己 DIY 咖啡饮料，不是属于每天必须一杯要续命的，就是喜欢这个风味。目前手里有一个 CLITON 的手摇磨豆机 6 精钢芯的。主要的纠结点是要不要上 K16 带自动磨豆功能或者是更自由的 3006J/H。或者有更好的选择大佬们也可以推荐一波，顶天 3000 内预算",
@@ -67,20 +81,6 @@
       "node_name": "qna",
       "author": "YaNanGe",
       "last_touched": 1794065362
-    }
-  },
-  {
-    "rank": 6,
-    "title": "请问大佬们买 Macbook 各种系列 24GB 以上的都是什么需求",
-    "url": "https://www.v2ex.com/t/1255251",
-    "description": "能理解每个人的需求都差异很大，对于我来说，我也买过几台 pro ，不过都是好多年前了，现在都是买最轻便的 Air ，包括最近一直用的是上古的 Macbook 12 寸+Omarchy ， 看看网页，ssh ，wechat ，vibe coding 各种 CLI ， 基本上内存很少超过 5GB\n所以很好奇，做视频处理的应该是少数吧，要那么大内存都是用来做什么，LLM 这个也不太够， 编译吗？",
-    "metric": "22 回复",
-    "metric_value": 22,
-    "extra": {
-      "node": "MacBook Pro",
-      "node_name": "mbp",
-      "author": "hihihihihi",
-      "last_touched": 1794067527
     }
   }
 ]
