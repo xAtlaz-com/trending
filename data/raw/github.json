@@ -1,119 +1,145 @@
 [
   {
     "rank": 1,
-    "title": "sherlock-project / sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "description": "Hunt down social media accounts by username across social networks",
-    "metric": "★ 103,402",
+    "title": "anthropics / skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "metric": "★ 190,315",
     "extra": {
       "language": "Python",
-      "stars": "103,402",
-      "forks": "12,118",
-      "stars_today": "2,372 stars today"
+      "stars": "190,315",
+      "forks": "22,401",
+      "stars_today": "1,052 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "dsx-ai-factory / nvke",
-    "url": "https://github.com/dsx-ai-factory/nvke",
-    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-    "metric": "★ 834",
+    "title": "meta / astryx",
+    "url": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "metric": "★ 18,675",
     "extra": {
-      "language": "Go",
-      "stars": "834",
-      "forks": "110",
-      "stars_today": "345 stars today"
+      "language": "TypeScript",
+      "stars": "18,675",
+      "forks": "1,439",
+      "stars_today": "3,324 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "milind-soni / OpenMausBot",
-    "url": "https://github.com/milind-soni/OpenMausBot",
-    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "metric": "★ 18,211",
+    "title": "sherlock-project / sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "metric": "★ 106,163",
     "extra": {
-      "language": "TypeScript",
-      "stars": "18,211",
-      "forks": "2,532",
-      "stars_today": "1,437 stars today"
+      "language": "Python",
+      "stars": "106,163",
+      "forks": "12,323",
+      "stars_today": "4,294 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "anthropics / claude-quickstarts",
-    "url": "https://github.com/anthropics/claude-quickstarts",
-    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "metric": "★ 19,399",
+    "title": "google-deepmind / mujoco",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "metric": "★ 16,757",
     "extra": {
-      "language": "Python",
-      "stars": "19,399",
-      "forks": "3,281",
-      "stars_today": "28 stars today"
+      "language": "C++",
+      "stars": "16,757",
+      "forks": "1,973",
+      "stars_today": "579 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "vercel-labs / agent-browser",
-    "url": "https://github.com/vercel-labs/agent-browser",
-    "description": "Browser automation CLI for AI agents",
-    "metric": "★ 47,557",
+    "title": "anthropics / claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "metric": "★ 19,784",
     "extra": {
-      "language": "Rust",
-      "stars": "47,557",
-      "forks": "3,257",
-      "stars_today": "812 stars today"
+      "language": "Python",
+      "stars": "19,784",
+      "forks": "3,298",
+      "stars_today": "560 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "meta / astryx",
-    "url": "https://github.com/meta/astryx",
-    "description": "An open source design system that's fully customizable and agent ready",
-    "metric": "★ 16,649",
+    "title": "garrytan / gbrain",
+    "url": "https://github.com/garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "metric": "★ 31,922",
     "extra": {
       "language": "TypeScript",
-      "stars": "16,649",
-      "forks": "1,316",
-      "stars_today": "863 stars today"
+      "stars": "31,922",
+      "forks": "4,756",
+      "stars_today": "215 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "anthropics / skills",
-    "url": "https://github.com/anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "metric": "★ 189,602",
+    "title": "vercel-labs / agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "metric": "★ 48,180",
     "extra": {
-      "language": "Python",
-      "stars": "189,602",
-      "forks": "22,346",
-      "stars_today": "793 stars today"
+      "language": "Rust",
+      "stars": "48,180",
+      "forks": "3,288",
+      "stars_today": "914 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "google-deepmind / mujoco",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "metric": "★ 16,389",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "metric": "★ 103,202",
     "extra": {
-      "language": "C++",
-      "stars": "16,389",
-      "forks": "1,952",
-      "stars_today": "26 stars today"
+      "language": "Rust",
+      "stars": "103,202",
+      "forks": "13,390",
+      "stars_today": "203 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "ranxianglei / billion-context",
-    "url": "https://github.com/ranxianglei/billion-context",
-    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-    "metric": "★ 5,120",
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "metric": "★ 68,540",
+    "extra": {
+      "language": "Python",
+      "stars": "68,540",
+      "forks": "56,333",
+      "stars_today": "505 stars today"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "homeassistant-ai / ha-mcp",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "metric": "★ 5,623",
+    "extra": {
+      "language": "Python",
+      "stars": "5,623",
+      "forks": "274",
+      "stars_today": "31 stars today"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "milind-soni / OpenMausBot",
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "metric": "★ 19,294",
     "extra": {
       "language": "TypeScript",
-      "stars": "5,120",
-      "forks": "404",
-      "stars_today": "460 stars today"
+      "stars": "19,294",
+      "forks": "2,653",
+      "stars_today": "1,589 stars today"
     }
   }
 ]
