@@ -1,149 +1,162 @@
 {
   "source": "github",
-  "updated_at": "2026-11-10T06:34:34+00:00",
-  "count": 11,
+  "updated_at": "2026-11-10T15:29:33+00:00",
+  "count": 12,
   "items": [
     {
       "rank": 1,
-      "title": "anthropics / skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "metric": "★ 191,373",
+      "title": "meta / astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "metric": "★ 21,934",
       "extra": {
-        "language": "Python",
-        "stars": "191,373",
-        "forks": "22,469",
-        "stars_today": "1,038 stars today"
+        "language": "TypeScript",
+        "stars": "21,934",
+        "forks": "1,727",
+        "stars_today": "3,111 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "meta / astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "metric": "★ 20,805",
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "metric": "★ 191,931",
       "extra": {
-        "language": "TypeScript",
-        "stars": "20,805",
-        "forks": "1,581",
-        "stars_today": "3,278 stars today"
+        "language": "Python",
+        "stars": "191,931",
+        "forks": "22,592",
+        "stars_today": "1,676 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "sherlock-project / sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "metric": "★ 107,691",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 114,893",
       "extra": {
-        "language": "Python",
-        "stars": "107,691",
-        "forks": "12,451",
-        "stars_today": "4,267 stars today"
+        "language": "JavaScript",
+        "stars": "114,893",
+        "forks": "12,038",
+        "stars_today": "465 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "metric": "★ 17,045",
+      "title": "anthropics / claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "metric": "★ 20,321",
       "extra": {
-        "language": "C++",
-        "stars": "17,045",
-        "forks": "2,010",
-        "stars_today": "574 stars today"
+        "language": "Python",
+        "stars": "20,321",
+        "forks": "3,425",
+        "stars_today": "530 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "anthropics / claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "metric": "★ 20,150",
+      "title": "google-deepmind / mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "metric": "★ 17,210",
       "extra": {
-        "language": "Python",
-        "stars": "20,150",
-        "forks": "3,326",
-        "stars_today": "551 stars today"
+        "language": "C++",
+        "stars": "17,210",
+        "forks": "2,108",
+        "stars_today": "453 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "garrytan / gbrain",
-      "url": "https://github.com/garrytan/gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "metric": "★ 32,297",
+      "title": "we-promise / sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "metric": "★ 11,573",
       "extra": {
-        "language": "TypeScript",
-        "stars": "32,297",
-        "forks": "4,779",
-        "stars_today": "216 stars today"
+        "language": "Ruby",
+        "stars": "11,573",
+        "forks": "846",
+        "stars_today": "184 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "metric": "★ 48,697",
+      "title": "homeassistant-ai / ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "metric": "★ 6,414",
       "extra": {
-        "language": "Rust",
-        "stars": "48,697",
-        "forks": "3,319",
-        "stars_today": "916 stars today"
+        "language": "Python",
+        "stars": "6,414",
+        "forks": "391",
+        "stars_today": "792 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "metric": "★ 103,647",
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "metric": "★ 48,993",
       "extra": {
         "language": "Rust",
-        "stars": "103,647",
-        "forks": "13,425",
-        "stars_today": "172 stars today"
+        "stars": "48,993",
+        "forks": "3,420",
+        "stars_today": "775 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "metric": "★ 69,200",
+      "title": "sherlock-project / sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "metric": "★ 108,477",
       "extra": {
         "language": "Python",
-        "stars": "69,200",
-        "forks": "56,470",
-        "stars_today": "506 stars today"
+        "stars": "108,477",
+        "forks": "12,591",
+        "stars_today": "2,387 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "homeassistant-ai / ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "metric": "★ 6,151",
+      "title": "tokio-rs / topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "metric": "★ 6,642",
       "extra": {
-        "language": "Python",
-        "stars": "6,151",
-        "forks": "300",
-        "stars_today": "31 stars today"
+        "language": "Rust",
+        "stars": "6,642",
+        "forks": "266",
+        "stars_today": "192 stars today"
       }
     },
     {
       "rank": 11,
-      "title": "milind-soni / OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "metric": "★ 20,061",
+      "title": "ranxianglei / billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "metric": "★ 6,069",
       "extra": {
         "language": "TypeScript",
-        "stars": "20,061",
-        "forks": "2,740",
-        "stars_today": "1,587 stars today"
+        "stars": "6,069",
+        "forks": "491",
+        "stars_today": "374 stars today"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "metric": "★ 320,510",
+      "extra": {
+        "language": "Shell",
+        "stars": "320,510",
+        "forks": "26,864",
+        "stars_today": "1,223 stars today"
       }
     }
   ]
