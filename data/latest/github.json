@@ -1,162 +1,136 @@
 {
   "source": "github",
-  "updated_at": "2026-11-11T08:09:22+00:00",
-  "count": 12,
+  "updated_at": "2026-11-11T16:30:29+00:00",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "meta / astryx",
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
-      "metric": "★ 23,738",
+      "metric": "★ 24,498",
       "extra": {
         "language": "TypeScript",
-        "stars": "23,738",
-        "forks": "1,864",
-        "stars_today": "3,108 stars today"
+        "stars": "24,498",
+        "forks": "1,914",
+        "stars_today": "2,842 stars today"
       }
     },
     {
       "rank": 2,
-      "title": "anthropics / skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "metric": "★ 192,666",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "metric": "★ 69,980",
       "extra": {
         "language": "Python",
-        "stars": "192,666",
-        "forks": "22,675",
-        "stars_today": "1,679 stars today"
+        "stars": "69,980",
+        "forks": "56,797",
+        "stars_today": "429 stars today"
       }
     },
     {
       "rank": 3,
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "metric": "★ 115,421",
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "metric": "★ 1,553",
       "extra": {
-        "language": "JavaScript",
-        "stars": "115,421",
-        "forks": "12,111",
-        "stars_today": "465 stars today"
+        "language": "TypeScript",
+        "stars": "1,553",
+        "forks": "133",
+        "stars_today": "133 stars today"
       }
     },
     {
       "rank": 4,
-      "title": "anthropics / claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "metric": "★ 20,656",
+      "title": "shadcn / improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "metric": "★ 10,594",
       "extra": {
-        "language": "Python",
-        "stars": "20,656",
-        "forks": "3,478",
-        "stars_today": "531 stars today"
+        "language": null,
+        "stars": "10,594",
+        "forks": "433",
+        "stars_today": "333 stars today"
       }
     },
     {
       "rank": 5,
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "metric": "★ 17,512",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "metric": "★ 115,695",
       "extra": {
-        "language": "C++",
-        "stars": "17,512",
-        "forks": "2,160",
-        "stars_today": "456 stars today"
+        "language": "JavaScript",
+        "stars": "115,695",
+        "forks": "12,137",
+        "stars_today": "788 stars today"
       }
     },
     {
       "rank": 6,
-      "title": "we-promise / sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "metric": "★ 12,303",
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "metric": "★ 49,707",
       "extra": {
-        "language": "Ruby",
-        "stars": "12,303",
-        "forks": "911",
-        "stars_today": "159 stars today"
+        "language": "Rust",
+        "stars": "49,707",
+        "forks": "3,478",
+        "stars_today": "712 stars today"
       }
     },
     {
       "rank": 7,
-      "title": "homeassistant-ai / ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "metric": "★ 6,854",
+      "title": "we-promise / sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "metric": "★ 12,675",
       "extra": {
-        "language": "Python",
-        "stars": "6,854",
-        "forks": "440",
-        "stars_today": "790 stars today"
+        "language": "Ruby",
+        "stars": "12,675",
+        "forks": "940",
+        "stars_today": "1,079 stars today"
       }
     },
     {
       "rank": 8,
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "metric": "★ 49,468",
+      "title": "homeassistant-ai / ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "metric": "★ 7,098",
       "extra": {
-        "language": "Rust",
-        "stars": "49,468",
-        "forks": "3,466",
-        "stars_today": "780 stars today"
+        "language": "Python",
+        "stars": "7,098",
+        "forks": "446",
+        "stars_today": "640 stars today"
       }
     },
     {
       "rank": 9,
-      "title": "sherlock-project / sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "metric": "★ 109,504",
+      "title": "openai / codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "metric": "★ 11,518",
       "extra": {
-        "language": "Python",
-        "stars": "109,504",
-        "forks": "12,701",
-        "stars_today": "2,393 stars today"
+        "language": "TypeScript",
+        "stars": "11,518",
+        "forks": "917",
+        "stars_today": "20 stars today"
       }
     },
     {
       "rank": 10,
-      "title": "tokio-rs / topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "metric": "★ 6,991",
+      "title": "TheAlgorithms / Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "metric": "★ 66,925",
       "extra": {
-        "language": "Rust",
-        "stars": "6,991",
-        "forks": "309",
-        "stars_today": "192 stars today"
-      }
-    },
-    {
-      "rank": 11,
-      "title": "ranxianglei / billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "metric": "★ 6,580",
-      "extra": {
-        "language": "TypeScript",
-        "stars": "6,580",
-        "forks": "542",
-        "stars_today": "375 stars today"
-      }
-    },
-    {
-      "rank": 12,
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "metric": "★ 321,291",
-      "extra": {
-        "language": "Shell",
-        "stars": "321,291",
-        "forks": "26,936",
-        "stars_today": "1,225 stars today"
+        "language": "Java",
+        "stars": "66,925",
+        "forks": "21,496",
+        "stars_today": "108 stars today"
       }
     }
   ]
