@@ -1,146 +1,146 @@
 {
   "source": "v2ex",
-  "updated_at": "2026-11-11T22:59:16+00:00",
+  "updated_at": "2026-11-12T03:45:23+00:00",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "马上结婚了，但是吵架了！",
-      "url": "https://www.v2ex.com/t/1256055",
-      "description": "背景：\n女朋友对我很好，人也很好，经常给我买东西，我给她买的东西有，但没有她给我买的多\n平时住在一起，大的花销一般是我出，但是最后出的应该也差不多，没太计较这个\n彩礼、三金：说的是 18.8w ，反正多少来着，没记清，我转给女朋友 20 万。\n马上结婚了，因为时间比较急，还没有买三金，婚礼也是在村里办的，也能省一些钱\n订婚，彩礼的主要花费都是我出，我父母没出，他们没啥钱，但是也不想着多赚些钱，他们出了家里的酒席钱，车队、旅馆。\n我父母没出钱，一方面是因为他们没啥钱，另一方面也是我觉着他们没啥钱，留点钱有安全感，不太想让他们出。\n我女朋友现在工资比我高一些。\n女朋友对我父母不出钱很有意见。\n矛盾",
-      "metric": "317 回复",
-      "metric_value": 317,
-      "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "6581",
-        "last_touched": 1794421682
-      }
-    },
-    {
-      "rank": 2,
-      "title": "大模型千千万，为什么非要用 Claude？",
-      "url": "https://www.v2ex.com/t/1256081",
-      "description": "不理解，实在不理解...\n如题，大模型千千万，包括国外的 GPT 、Gemini 、Grok 等，国内的 Qwen 、DeepSeek 、GLM 、Kimi 、豆包等，为什么非要去买敌意这么大的 Claude ？动不动封号，钱也不退。",
-      "metric": "195 回复",
-      "metric_value": 195,
-      "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "Wikey",
-        "last_touched": 1794437616
-      }
-    },
-    {
-      "rank": 3,
-      "title": "[求关注]建立了一个 TG 频道 A 股资讯自动发布，回复这个帖子前 100 名送铜币",
-      "url": "https://www.v2ex.com/t/1256107",
-      "description": "内容如下：\n做了一个 Telegram 的 Bot ，每天早上会定时发布早盘情报，每小时会发布要闻，收盘发布总结。\n📊 StockClaw ｜ A 股情报与复盘\n早盘看重点，盘后看主线。\n每日整理重要新闻、题材变化、涨停天梯与全球 Top10 ，附来源与相关题材。\n👉 https://t.me/stockclawa\n\n当前账户余额：\n30 15",
-      "metric": "116 回复",
-      "metric_value": 116,
-      "extra": {
-        "node": "推广",
-        "node_name": "promotions",
-        "author": "CC2757",
-        "last_touched": 1794435051
-      }
-    },
-    {
-      "rank": 4,
-      "title": "双十一名存实亡",
-      "url": "https://www.v2ex.com/t/1256030",
-      "description": "rt现在的双十一太平淡了还记得早些年，10 号晚上 20 点左右以及 24 点左右盯着手机付款！",
+      "title": "家人们，我失恋了",
+      "url": "https://www.v2ex.com/t/1256209",
+      "description": "好像失去了支撑，现在在工位，回家也是一个人，工作没有什么盼头，喜欢的人也没有了",
       "metric": "110 回复",
       "metric_value": 110,
       "extra": {
         "node": "生活",
         "node_name": "life",
-        "author": "nododo",
-        "last_touched": 1794420370
+        "author": "tomcat12F",
+        "last_touched": 1794454616
+      }
+    },
+    {
+      "rank": 2,
+      "title": "最近秋招陆陆续续面了一堆应届生，说点感受",
+      "url": "https://www.v2ex.com/t/1256189",
+      "description": "整体水平是真的高。CCF A 一作的不少，两段大厂实习基本是标配，而且实习都是实打实做过东西的，能讲出细节。聊业务、聊领域、聊 Agent 怎么搭、评测怎么做，回答得全面也有自己的思考，简历和表达都比我们当年强很多。\n但稍微往底层问一点，问题就出来了：\n\nLLM 接口的 token 分几类、计费为什么不一样，说不清楚\nprefill 和 decode 分别在做什么，说不清楚\nQKV 的八股答得很漂亮，但往下追问 KV cache 存的是什么、长上下文为什么慢，基本就答不上了\n\n现在的学校有点像一场军备竞赛：\n\n老师用 GPT 出题，学生用 GPT 做题，老师再用 GPT 阅卷\n论文用 AI 找",
+      "metric": "102 回复",
+      "metric_value": 102,
+      "extra": {
+        "node": "职场话题",
+        "node_name": "career",
+        "author": "kvenux",
+        "last_touched": 1794453945
+      }
+    },
+    {
+      "rank": 3,
+      "title": "腾讯裁员一半",
+      "url": "https://www.v2ex.com/t/1256359",
+      "description": "灭霸响指？",
+      "metric": "69 回复",
+      "metric_value": 69,
+      "extra": {
+        "node": "程序员",
+        "node_name": "programmer",
+        "author": "kaouiwyhauaysada",
+        "last_touched": 1794181375
+      }
+    },
+    {
+      "rank": 4,
+      "title": "31 岁男前来讨教 V 吧老哥备孕秘籍",
+      "url": "https://www.v2ex.com/t/1256329",
+      "description": "如题，不知道 V 吧老哥们会不会有备孕技巧。还是说干就完了！ 31 岁男，32 岁女，正准备开始备孕，目标六个月怀上。",
+      "metric": "67 回复",
+      "metric_value": 67,
+      "extra": {
+        "node": "生活",
+        "node_name": "life",
+        "author": "punu",
+        "last_touched": 1794454785
       }
     },
     {
       "rank": 5,
-      "title": "32 岁后端程序员，准备拿 N+1 离职了",
-      "url": "https://www.v2ex.com/t/1256051",
-      "description": "坐标北京，快 32 岁，Java 后端开发 7 年多，在目前这家公司待了快 5 年\n入职的时候是公司巅峰，然后就是漫长的‘阴跌’，工作成长空间有限，加班也比较多。\n其实早就有离开的想法，只是一直没有下定决心。\n而且现在每月开始强制打低绩效了，下班了都不走，硬卷。\n最近公司有裁员计划，领导提到可以帮忙争取 N+1 。\n考虑之后，我已经明确表达了离开的意愿，目前还在等后续流程。\n家里有老婆孩子，主要靠我一份收入。虽然有一定积蓄，但很久没参加面试了，算法和八股文也需要重新准备，也不知道能不能找到工作。\n说实话，对未来还是有些焦虑，但继续待下去感觉也是温水煮青蛙。既然有这个机会，就决定再出去拼一次。\n",
-      "metric": "103 回复",
-      "metric_value": 103,
+      "title": "双十一都买了什么",
+      "url": "https://www.v2ex.com/t/1256122",
+      "description": "年纪上来了，都不知道买什么，也没什么欲望\n就买了一个升降的桌子，可以站着办公，对健康会好一点吧？\n问问大家都买了什么",
+      "metric": "66 回复",
+      "metric_value": 66,
       "extra": {
-        "node": "职场话题",
-        "node_name": "career",
-        "author": "jo3y",
-        "last_touched": 1794414842
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "404NotF0und",
+        "last_touched": 1794454156
       }
     },
     {
       "rank": 6,
-      "title": "工作和未来困境，大龄码农该何去何从",
-      "url": "https://www.v2ex.com/t/1256042",
-      "description": "前情：三十八线小城市，人口大概 1-200w(包括下面的县市和农村)，本地主要以工业工厂为主，经济低迷。自己年龄三十出头，有一个刚出生的儿子，老婆还在休息。最近公司工资开始延期，原因说是回款问题(往好了想是暂时还没说不发)，眼看\"可能\"再过半年一年就不太行了。受到 ai 影响，本地可能找不到目前需要的工资(1w+)。我对这个行业整体持悲观态度，感觉一个实习或者刚毕业的学生+ai ，就赶得上我目前的水平了(Java 开发工作 7 年+)。不仅仅是目前，对于未来何去何从，心里有一个大大的问号。我想了想自己的出路，有下面这么几条：1.年后去外面大城市试试(比如杭州)，要么拖家带口，要么自己一个人去(",
-      "metric": "89 回复",
-      "metric_value": 89,
+      "title": "兄弟们，房贷终于要还清了！",
+      "url": "https://www.v2ex.com/t/1256244",
+      "description": "本月房贷终于要还清了，卡里备好的 4.7 万静静躺着，等那天银行自动划走就好。\n回想 2022 年初刚背上这 35 万贷款那会儿，压力大到喘不过气。真得谢谢老婆，之前她把彩礼钱拿出来帮我还贷，前前后后提前还了五六次，愣是把一大笔债磨成了现在这点零头。\n四年，从 2022 到 2026 ，35 万清零。",
+      "metric": "55 回复",
+      "metric_value": 55,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "seedhk",
-        "last_touched": 1794413769
+        "node": "生活",
+        "node_name": "life",
+        "author": "v2ek",
+        "last_touched": 1794453930
       }
     },
     {
       "rank": 7,
-      "title": "SSHYard 已正式发布 V1.0.0 - 高颜值纯原生 SSH 客户端，功能齐全且体积非常小，随楼抽 50 位评论者每位赠送 50 个$v2ex",
-      "url": "https://www.v2ex.com/t/1256021",
-      "description": "介绍\nSSHYard 是一款免费开源的 SSH / SFTP 客户端，支持 macOS 、Windows 和 Linux ，在终端里操作、管理远程文件等，再让 AI 助手直接在主机上帮你工作，一个窗口全部搞定。\n本软件是纯 Go 编写的（基于 MyGO)，而且纯原生渲染，无任何 WebView 等，速度和占用都很不错，欢迎使用体验和反馈！\n开源地址\n\n\n官方网站： https://sshyard.com\n\n\n开源地址： https://github.com/Licoy/sshyard\n\n\n功能\n\n\n终端\n\n多标签、分屏与终端搜索，标签可拖动排序和重命名\n真彩色、宽字符、输入法，以及 tmux ",
-      "metric": "83 回复",
-      "metric_value": 83,
+      "title": "咸鱼怎么卖东西，好多东西挂了许久也卖不出去，只有购买记录，售出记录屈指可数",
+      "url": "https://www.v2ex.com/t/1256332",
+      "description": "图示举例如上，佬们有啥好办法或新思路",
+      "metric": "50 回复",
+      "metric_value": 50,
       "extra": {
-        "node": "分享创造",
-        "node_name": "create",
-        "author": "licoycn",
-        "last_touched": 1794327398
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "ubuntuyin",
+        "last_touched": 1794454906
       }
     },
     {
       "rank": 8,
-      "title": "想买 switch 了 是买 1 还是 2？",
-      "url": "https://www.v2ex.com/t/1256038",
-      "description": "想玩这些\n\n平时和女朋友在家玩玩体感游戏\n野炊\n暗黑刷刷刷",
-      "metric": "83 回复",
-      "metric_value": 83,
+      "title": "未来公司的护城河是什么",
+      "url": "https://www.v2ex.com/t/1256139",
+      "description": "之前看 Dario 谈到公司的护城河是拥有未被 ai 训练过的数据。\n腾讯姚顺雨 说公司的护城河不在大模型 在应用层。\n感觉 建筑，养老，个护，医疗，教育，餐饮 可能是受到冲击较小的行业，现在的软件，互联网，嵌入式行业的护城河在哪里",
+      "metric": "50 回复",
+      "metric_value": 50,
       "extra": {
         "node": "问与答",
         "node_name": "qna",
-        "author": "fragilePride",
-        "last_touched": 1794402496
+        "author": "senooo",
+        "last_touched": 1794452827
       }
     },
     {
       "rank": 9,
-      "title": "最近秋招陆陆续续面了一堆应届生，说点感受",
-      "url": "https://www.v2ex.com/t/1256189",
-      "description": "整体水平是真的高。CCF A 一作的不少，两段大厂实习基本是标配，而且实习都是实打实做过东西的，能讲出细节。聊业务、聊领域、聊 Agent 怎么搭、评测怎么做，回答得全面也有自己的思考，简历和表达都比我们当年强很多。\n但稍微往底层问一点，问题就出来了：\n\nLLM 接口的 token 分几类、计费为什么不一样，说不清楚\nprefill 和 decode 分别在做什么，说不清楚\nQKV 的八股答得很漂亮，但往下追问 KV cache 存的是什么、长上下文为什么慢，基本就答不上了\n\n现在的学校有点像一场军备竞赛：\n\n老师用 GPT 出题，学生用 GPT 做题，老师再用 GPT 阅卷\n论文用 AI 找",
-      "metric": "74 回复",
-      "metric_value": 74,
+      "title": "一年前给小电驴装的监控，终于派上用场了，成功拍到偷头盔的全过程",
+      "url": "https://www.v2ex.com/t/1256357",
+      "description": "我去年发的帖子：\n给我的小电驴装了一个监控，再也不怕被偷头盔了\n当时因为头盔上蓝牙耳机被偷，一气之下自己动手改装了一套哨兵系统。\n没想到一年半后，终于等来了实战机会 😂\n昨天晚上 6 点左右，放在电动车踏板上的头盔+蓝牙耳机，又被人顺走了。\n导致我顶着寒风骑回家，冻成孙子了。前前后后花 5 个小时忙活这个事情（回老家拿头盔+翻监控+报案）\n已经第一时间报警并且提交监控材料了，帽子叔叔说分分钟拿下，现在就坐等拿回财物了。\n现场截图：\n\n这种几百块钱的盗窃，一般能处理到什么程度？可以拿到赔偿吗？能构成拘留条件吗？",
+      "metric": "48 回复",
+      "metric_value": 48,
       "extra": {
-        "node": "程序员",
-        "node_name": "programmer",
-        "author": "kvenux",
-        "last_touched": 1794417661
+        "node": "问与答",
+        "node_name": "qna",
+        "author": "clacf",
+        "last_touched": 1794454955
       }
     },
     {
       "rank": 10,
-      "title": "家人们，我失恋了",
-      "url": "https://www.v2ex.com/t/1256209",
-      "description": "好像失去了支撑，现在在工位，回家也是一个人，工作没有什么盼头，喜欢的人也没有了",
-      "metric": "72 回复",
-      "metric_value": 72,
+      "title": "[送码] Mu3ic 史诗级更新，现已支持播客和听书，实现音频内容消费中心，对音乐服大曲库实现深度优化，最佳用户体验没有之一，送码+双 11 优惠活动",
+      "url": "https://www.v2ex.com/t/1256202",
+      "description": "🎉 Mu3ic 迎来史诗级更新，最强音频内容消费终端，完美支持音乐、电台、播客和听书。最佳用户体验，深度优化音乐服大曲库的使用体验，丝滑切换音乐服。横屏唱机皮肤升级，支持明暗自动切换，彩色胶片的色彩和纹理自适应歌曲封面。福利说明在文末，进群享受ios 内测权益 📱\n\nAudio Hub Terminal\n\n音乐：本地音乐 / Navidrome / Jellyfin / Emby\n电台：Navidrome / 应用内自行添加\n播客：应用内订阅，支持 RSS 与 OPML 导入\n听书：Audiobookshelf\n\nMu3ic 1.8.0 stable 的重磅更新\n\n深度优化了对第三方大体量音乐",
+      "metric": "47 回复",
+      "metric_value": 47,
       "extra": {
-        "node": "生活",
-        "node_name": "life",
-        "author": "tomcat12F",
-        "last_touched": 1794407334
+        "node": "分享创造",
+        "node_name": "create",
+        "author": "aslehx",
+        "last_touched": 1794454213
       }
     }
   ]
