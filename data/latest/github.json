@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-11-14T02:57:58+00:00",
+  "updated_at": "2026-11-14T10:01:47+00:00",
   "count": 12,
   "items": [
     {
@@ -8,11 +8,11 @@
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "metric": "★ 50,707",
+      "metric": "★ 50,955",
       "extra": {
         "language": "Go",
-        "stars": "50,707",
-        "forks": "3,773",
+        "stars": "50,955",
+        "forks": "3,798",
         "stars_today": "215 stars today"
       }
     },
@@ -21,11 +21,11 @@
       "title": "GoogleChrome / modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
-      "metric": "★ 4,945",
+      "metric": "★ 5,228",
       "extra": {
         "language": "TypeScript",
-        "stars": "4,945",
-        "forks": "273",
+        "stars": "5,228",
+        "forks": "286",
         "stars_today": "1,925 stars today"
       }
     },
@@ -34,11 +34,11 @@
       "title": "openai / codex-security",
       "url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
-      "metric": "★ 13,176",
+      "metric": "★ 13,345",
       "extra": {
         "language": "TypeScript",
-        "stars": "13,176",
-        "forks": "1,026",
+        "stars": "13,345",
+        "forks": "1,032",
         "stars_today": "751 stars today"
       }
     },
@@ -47,11 +47,11 @@
       "title": "ZhuLinsen / daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "metric": "★ 71,693",
+      "metric": "★ 72,005",
       "extra": {
         "language": "Python",
-        "stars": "71,693",
-        "forks": "57,317",
+        "stars": "72,005",
+        "forks": "57,394",
         "stars_today": "256 stars today"
       }
     },
@@ -60,11 +60,11 @@
       "title": "we-promise / sure",
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
-      "metric": "★ 14,793",
+      "metric": "★ 14,960",
       "extra": {
         "language": "Ruby",
-        "stars": "14,793",
-        "forks": "1,125",
+        "stars": "14,960",
+        "forks": "1,138",
         "stars_today": "925 stars today"
       }
     },
@@ -73,11 +73,11 @@
       "title": "backnotprop / plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "metric": "★ 10,501",
+      "metric": "★ 10,620",
       "extra": {
         "language": "TypeScript",
-        "stars": "10,501",
-        "forks": "790",
+        "stars": "10,620",
+        "forks": "794",
         "stars_today": "108 stars today"
       }
     },
@@ -86,11 +86,11 @@
       "title": "louislam / uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
-      "metric": "★ 93,890",
+      "metric": "★ 94,000",
       "extra": {
         "language": "JavaScript",
-        "stars": "93,890",
-        "forks": "8,724",
+        "stars": "94,000",
+        "forks": "8,730",
         "stars_today": "71 stars today"
       }
     },
@@ -99,11 +99,11 @@
       "title": "block / buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
-      "metric": "★ 37,315",
+      "metric": "★ 37,391",
       "extra": {
         "language": "Rust",
-        "stars": "37,315",
-        "forks": "4,942",
+        "stars": "37,391",
+        "forks": "4,945",
         "stars_today": "97 stars today"
       }
     },
@@ -112,11 +112,11 @@
       "title": "tradermonty / claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "metric": "★ 4,216",
+      "metric": "★ 4,368",
       "extra": {
         "language": "Python",
-        "stars": "4,216",
-        "forks": "873",
+        "stars": "4,368",
+        "forks": "884",
         "stars_today": "69 stars today"
       }
     },
@@ -125,11 +125,11 @@
       "title": "tailscale / tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "metric": "★ 9,496",
+      "metric": "★ 9,633",
       "extra": {
         "language": "Go",
-        "stars": "9,496",
-        "forks": "433",
+        "stars": "9,633",
+        "forks": "440",
         "stars_today": "256 stars today"
       }
     },
@@ -138,11 +138,11 @@
       "title": "Likely7 / Veyra-NRVideo",
       "url": "https://github.com/Likely7/Veyra-NRVideo",
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-      "metric": "★ 1,647",
+      "metric": "★ 1,780",
       "extra": {
         "language": "C++",
-        "stars": "1,647",
-        "forks": "73",
+        "stars": "1,780",
+        "forks": "79",
         "stars_today": "256 stars today"
       }
     },
@@ -151,11 +151,11 @@
       "title": "ChromeDevTools / chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
-      "metric": "★ 55,507",
+      "metric": "★ 55,812",
       "extra": {
         "language": "TypeScript",
-        "stars": "55,507",
-        "forks": "4,607",
+        "stars": "55,812",
+        "forks": "4,622",
         "stars_today": "67 stars today"
       }
     }
