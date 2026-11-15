@@ -4,69 +4,69 @@
     "title": "关于设置中目前提供的 6 种楼中楼样式的 Demo",
     "url": "https://www.v2ex.com/t/1257128",
     "description": "新的设置选项可以在这里找到：\nhttps://edge.v2ex.com/settings#reply_thread_style\n\n六种样式的 Demo\n引用条\n\n角标 + 悬浮预览\n\n楼中楼\n\n树形缩进\n\n对话连线\n\n引用楼层",
-    "metric": "72 回复",
-    "metric_value": 72,
+    "metric": "110 回复",
+    "metric_value": 110,
     "extra": {
       "node": "Wunder",
       "node_name": "wunder",
       "author": "Livid",
-      "last_touched": 1794733937
+      "last_touched": 1794756905
     }
   },
   {
     "rank": 2,
-    "title": "如果给计算机基础教材列一个「五大经典」，你会选哪几本",
-    "url": "https://www.v2ex.com/t/1257146",
-    "description": "最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材：\n计算机系统：《深入理解计算机系统》（CSAPP）\n计算机网络：《计算机网络：自顶向下方法》\n操作系统：《操作系统导论》（OSTEP）\n编译原理：《编译原理》（Dragon Book）\n数据库：《数据库系统概念》（Database System Concepts）\n这五个方向基本覆盖了我理解的计算机基础知识体系。已经买了 CSAPP、自顶向下。准备都买回来\n想问问 V 站的各位：\n这五本书作为对应领域的代表教材，选择是否合适？\n有没有你认为更值得推荐的替代书籍？\n除了这五个方向，还有哪些基础领域值得纳入这份书",
-    "metric": "31 回复",
-    "metric_value": 31,
+    "title": "deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结",
+    "url": "https://www.v2ex.com/t/1257214",
+    "description": "先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor 用于公司项目的程序员，所以 AI Coding 经验有 2 年半的时间了吧。\n当时惊叹 chatgpt 的能力，我意识到了 AI 真的会思考，AI 不再是算法和程序堆叠的产物。\n从 Cursor 到 Codex 到 Calude Code，再到 deepseek-harness。\n他们都在特定的环境完成了我的任务，从用 Cursor 时自己还会手动改下 AI 写代码遗留下的问题，到用 Codex 时感受到 AI 可以自己完成 UI 设",
+    "metric": "68 回复",
+    "metric_value": 68,
     "extra": {
-      "node": "计算机",
-      "node_name": "computers",
-      "author": "GoogolChrome111",
-      "last_touched": 1794726214
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "ttkit",
+      "last_touched": 1794755699
     }
   },
   {
     "rank": 3,
-    "title": "我自己开发了一个远程控制软件 Airhand 欢迎 star~ 支持 120fps",
-    "url": "https://www.v2ex.com/t/1257076",
-    "description": "airhand\n\n我是 airhand 的开发者，项目地址：https://github.com/sqlpxc/airhand，欢迎 Star ⭐\n\nFAQ\n为什么还要再做远程控制？为什么不用 RustDesk ？\n最开始的原因很简单：RustDesk 需要部署 hbbs 和 hbbr，开的端口太多了，我总觉得在服务端开很多端口不是什么好事……\n而且它不支持 AV1 硬件编码。（为什么一定要支持这个？自己使用过我的项目就能体会，效果非常不错。）\n为什么之前一直没有编译二进制文件？\n因为早期版本里，如果服务端不可信，是很危险的：服务器管理员甚至可以直接连接任何客户端。\n后来加了配对码功能，我才自",
-    "metric": "30 回复",
-    "metric_value": 30,
+    "title": "如果给计算机基础教材列一个「五大经典」，你会选哪几本",
+    "url": "https://www.v2ex.com/t/1257146",
+    "description": "最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材：\n计算机系统：《深入理解计算机系统》（CSAPP）\n计算机网络：《计算机网络：自顶向下方法》\n操作系统：《操作系统导论》（OSTEP）\n编译原理：《编译原理》（Dragon Book）\n数据库：《数据库系统概念》（Database System Concepts）\n这五个方向基本覆盖了我理解的计算机基础知识体系。已经买了 CSAPP、自顶向下。准备都买回来\n想问问 V 站的各位：\n这五本书作为对应领域的代表教材，选择是否合适？\n有没有你认为更值得推荐的替代书籍？\n除了这五个方向，还有哪些基础领域值得纳入这份书",
+    "metric": "41 回复",
+    "metric_value": 41,
     "extra": {
-      "node": "分享创造",
-      "node_name": "create",
-      "author": "sqlpxc",
-      "last_touched": 1794699371
+      "node": "计算机",
+      "node_name": "computers",
+      "author": "GoogolChrome111",
+      "last_touched": 1794754895
     }
   },
   {
     "rank": 4,
-    "title": "有没有 V 友自己搭建过云手机？想实现网页远程操作，不想再用第三方云手机了",
-    "url": "https://www.v2ex.com/t/1257073",
-    "description": "想问一下，有没有 V 友尝试过自己用服务器搭建开源项目的云手机？\n比如在自己的服务器上部署云手机环境，然后通过网页端远程访问和操作，平时用来刷视频、玩游戏，测试 app 等等。\n如果整个环境都部署在自己的服务器上，数据和操作也由自己掌控，理论上隐私和安全性也会更有保障。\n不知道有没有大佬实践过？目前有哪些比较成熟的开源方案值得推荐？求分享经验！",
-    "metric": "27 回复",
-    "metric_value": 27,
+    "title": "闲聊聊到了我司当前接入 AI 的年度成本",
+    "url": "https://www.v2ex.com/t/1257169",
+    "description": "前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本\n我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖\n员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。\n公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到打工人自己头上。明年应该是砍额度+裁员，按照比例的话估计要",
+    "metric": "35 回复",
+    "metric_value": 35,
     "extra": {
-      "node": "Android",
-      "node_name": "android",
-      "author": "ccai",
-      "last_touched": 1794723733
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "Zhuzhuchenyan",
+      "last_touched": 1794754418
     }
   },
   {
     "rank": 5,
-    "title": "求助: 想在寝室搞一个小主机 有推荐么?",
-    "url": "https://www.v2ex.com/t/1257109",
-    "description": "目前只有一台 8845H 的笔记本 + iPad air(有点想把 pad 出掉... 记笔记屏幕滑的一 看书不如手机随时随地又小巧 拿着舒服)\n预算 4000 左右\n用途\n\n挂 agent 跑任务(主要是翻译一些文档 搜集一些资料 完成一些重复小任务 小机器人监控一些任务 有时候有一些想法直接丢给 ai one-shot 先跑三四轮 然后后看一看结果是否收敛 如果有感觉就继续迭代 感觉完成的不好或者是后续投入优化的时间会花费的很大的话就放弃掉) 如果在本机跑的话老是控制不住自己 tmux 切过去看进程 有点难受.  \n挂 pt\n喜欢折腾 最近在学运维 docker 想要自己装台机子舒服一下 ",
-    "metric": "26 回复",
-    "metric_value": 26,
+    "title": "记录第一次相亲",
+    "url": "https://www.v2ex.com/t/1257174",
+    "description": "介绍认识\n前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。\n我今年 30 岁，其实之前一直不太愿意通过相亲这种方式认识女生。不过最近想了想，加个微信也没什么，先聊聊看也无妨。毕竟在目前的工作地，身边没什么朋友，如果能找到有共同爱好的人，以后一起骑骑车、爬爬山，偶尔约着出去玩，也挺不错。\n聊天\n加上微信后，简单聊了几句，和我预想的差不多，基本看不出对方有什么主动交流的意愿，聊天也很难继续推进。\n两天后，我主动问对方有没有时间线下见一面。对方表示有时间可以，于是我接着问她什么时候方便。结果对方说最近没空，等有时间再说。\n说实话，到这里我其实已经不太想继续约了。\n过了几天，亲戚问起",
+    "metric": "33 回复",
+    "metric_value": 33,
     "extra": {
-      "node": "问与答",
-      "node_name": "qna",
-      "author": "xukuangdi465",
-      "last_touched": 1794694376
+      "node": "生活",
+      "node_name": "life",
+      "author": "falsemask",
+      "last_touched": 1794752286
     }
   },
   {
@@ -74,69 +74,69 @@
     "title": "打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？",
     "url": "https://www.v2ex.com/t/1257158",
     "description": "有在用的老师提供一些经验分享吗？\n只自己工作室内部使用。",
-    "metric": "22 回复",
-    "metric_value": 22,
+    "metric": "29 回复",
+    "metric_value": 29,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
       "author": "chirsxp",
-      "last_touched": 1794730143
+      "last_touched": 1794745260
     }
   },
   {
     "rank": 7,
-    "title": "闲聊聊到了我司当前接入 AI 的年度成本",
-    "url": "https://www.v2ex.com/t/1257169",
-    "description": "前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本\n我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖\n员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。\n公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到打工人自己头上。明年应该是砍额度+裁员，按照比例的话估计要",
-    "metric": "17 回复",
-    "metric_value": 17,
+    "title": "又被淘宝双 11 背刺了",
+    "url": "https://www.v2ex.com/t/1257229",
+    "description": "因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传“全网保价至 11 月 20 日”，所以也没害怕会降价，就下单了。\n结果没过几天，发现拼兮兮同款便宜了 400+。申请保价时，淘宝却说必须在签收后 7 天内申请，超期不支持。\n？？？\n宣传时大字写着保价到 11 月 20 日，真要申请了，又搬出一个“签收后 7 天”的限制。\n那所谓的全网保价，到底保了个什么？\n更离谱的还在后面！\n因为不认可处理结果，我通过 12315 正式投诉。\n淘宝只是打电话通知我不给退差价，我明确没有接受这个方案，也没有同意和解。\n结果 12315 的处理反馈居然显示：\n「和解结果：协",
+    "metric": "20 回复",
+    "metric_value": 20,
     "extra": {
-      "node": "职场话题",
-      "node_name": "career",
-      "author": "Zhuzhuchenyan",
-      "last_touched": 1794730320
+      "node": "分享发现",
+      "node_name": "share",
+      "author": "OpenList",
+      "last_touched": 1794754867
     }
   },
   {
     "rank": 8,
-    "title": "记录第一次相亲",
-    "url": "https://www.v2ex.com/t/1257174",
-    "description": "介绍认识\n前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。\n我今年 30 岁，其实之前一直不太愿意通过相亲这种方式认识女生。不过最近想了想，加个微信也没什么，先聊聊看也无妨。毕竟在目前的工作地，身边没什么朋友，如果能找到有共同爱好的人，以后一起骑骑车、爬爬山，偶尔约着出去玩，也挺不错。\n聊天\n加上微信后，简单聊了几句，和我预想的差不多，基本看不出对方有什么主动交流的意愿，聊天也很难继续推进。\n两天后，我主动问对方有没有时间线下见一面。对方表示有时间可以，于是我接着问她什么时候方便。结果对方说最近没空，等有时间再说。\n说实话，到这里我其实已经不太想继续约了。\n过了几天，亲戚问起",
-    "metric": "17 回复",
-    "metric_value": 17,
+    "title": "哈哈哈喜报，做的垂直分享发现优质产品社区，注册用户超 2000+，收录/发布产品超 1000+啦～",
+    "url": "https://www.v2ex.com/t/1257168",
+    "description": "距离产品派上线大半年时间了，期间一直在不停的迭代修复 bug\n近日发现注册用户超 2000+，收录/发布产品超 1000+\n非常感谢各位派友和 v 友们的支持～\n近日我们还进行了一轮大版本更新，包括全新界面吉祥物、全新积分体系等等\n\n具体的更新内容可以参考：https://chanpinpai.com/topic/ok8xnNZ2\n未来我们会推出积分兑换商城等等更多玩法",
+    "metric": "18 回复",
+    "metric_value": 18,
     "extra": {
-      "node": "生活",
-      "node_name": "life",
-      "author": "falsemask",
-      "last_touched": 1794729950
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "MYI",
+      "last_touched": 1794754724
     }
   },
   {
     "rank": 9,
-    "title": "20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励",
-    "url": "https://www.v2ex.com/t/1257127",
-    "description": "现在在设置中可以选择几种不同的楼中楼样式：\nhttps://edge.v2ex.com/settings#reply_thread_style\n关于几种新的楼中楼样式的说明：\nhttps://edge.v2ex.com/help/reply-threads\n目前提供的 6 种楼中楼样式的 Demo：\nhttps://edge.v2ex.com/t/1257128\n\n首页右上角的黑暗模式切换现在支持自动跟随系统设置。\n\n\n如果在 Solana HODL 页面或者注册时使用快速买入功能（由 Jupiter Swap API 驱动），那么会获得额外的铜币奖励：\nhttps://edge.v2ex.c",
-    "metric": "16 回复",
-    "metric_value": 16,
+    "title": "恭喜 BLG，一穿四 LCK，史上最有含金量的 S 冠",
+    "url": "https://www.v2ex.com/t/1257145",
+    "description": "",
+    "metric": "17 回复",
+    "metric_value": 17,
     "extra": {
-      "node": "站点状态",
-      "node_name": "status",
-      "author": "Livid",
-      "last_touched": 1794707406
+      "node": "英雄联盟",
+      "node_name": "lol",
+      "author": "space2020",
+      "last_touched": 1794743008
     }
   },
   {
     "rank": 10,
-    "title": "两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着",
-    "url": "https://www.v2ex.com/t/1257137",
-    "description": "我大号用了 4 个月，在 11 月 11 日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC 。小号用了一周，在 11 月 11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11 月 12 日就不敢用 fable5.2 了，开着 opus5.5 meduim 来蹬，晚上用到周额度 95%了给我跳出 KYC ，这天聊的都是爬虫，这个我怀疑是滥用的原因或者是聊的内容有点不合规，或者是 fable5.2 蹬太狠了。\n说一下我的环境，我买的 lisahost 9929 400gb",
-    "metric": "15 回复",
-    "metric_value": 15,
+    "title": "有没有 Claude portal 验证一直在验证中的 v 友",
+    "url": "https://www.v2ex.com/t/1257170",
+    "description": "我的 Claude 在前天弹出 portal 验证，当即用护照进行了验证，但是已经 48h 以上了还一直在验证中，提示正在检查。有没有 v 友知道啥情况吗？",
+    "metric": "17 回复",
+    "metric_value": 17,
     "extra": {
       "node": "Claude",
       "node_name": "claude",
-      "author": "chenlide",
-      "last_touched": 1794693622
+      "author": "simyoo",
+      "last_touched": 1794733820
     }
   }
 ]
