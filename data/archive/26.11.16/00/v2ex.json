@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "title": "deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结",
+    "url": "https://www.v2ex.com/t/1257214",
+    "description": "先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor 用于公司项目的程序员，所以 AI Coding 经验有 2 年半的时间了吧。\n当时惊叹 chatgpt 的能力，我意识到了 AI 真的会思考，AI 不再是算法和程序堆叠的产物。\n从 Cursor 到 Codex 到 Calude Code，再到 deepseek-harness。\n他们都在特定的环境完成了我的任务，从用 Cursor 时自己还会手动改下 AI 写代码遗留下的问题，到用 Codex 时感受到 AI 可以自己完成 UI 设",
+    "metric": "82 回复",
+    "metric_value": 82,
+    "extra": {
+      "node": "程序员",
+      "node_name": "programmer",
+      "author": "ttkit",
+      "last_touched": 1794789024
+    }
+  },
+  {
+    "rank": 2,
+    "title": "闲聊聊到了我司当前接入 AI 的年度成本",
+    "url": "https://www.v2ex.com/t/1257169",
+    "description": "前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本\n我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖\n员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。\n公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到打工人自己头上。明年应该是砍额度+裁员，按照比例的话估计要",
+    "metric": "37 回复",
+    "metric_value": 37,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "Zhuzhuchenyan",
+      "last_touched": 1794759297
+    }
+  },
+  {
+    "rank": 3,
+    "title": "记录第一次相亲",
+    "url": "https://www.v2ex.com/t/1257174",
+    "description": "介绍认识\n前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。\n我今年 30 岁，其实之前一直不太愿意通过相亲这种方式认识女生。不过最近想了想，加个微信也没什么，先聊聊看也无妨。毕竟在目前的工作地，身边没什么朋友，如果能找到有共同爱好的人，以后一起骑骑车、爬爬山，偶尔约着出去玩，也挺不错。\n聊天\n加上微信后，简单聊了几句，和我预想的差不多，基本看不出对方有什么主动交流的意愿，聊天也很难继续推进。\n两天后，我主动问对方有没有时间线下见一面。对方表示有时间可以，于是我接着问她什么时候方便。结果对方说最近没空，等有时间再说。\n说实话，到这里我其实已经不太想继续约了。\n过了几天，亲戚问起",
+    "metric": "35 回复",
+    "metric_value": 35,
+    "extra": {
+      "node": "生活",
+      "node_name": "life",
+      "author": "falsemask",
+      "last_touched": 1794760882
+    }
+  },
+  {
+    "rank": 4,
+    "title": "打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？",
+    "url": "https://www.v2ex.com/t/1257158",
+    "description": "有在用的老师提供一些经验分享吗？\n只自己工作室内部使用。",
+    "metric": "30 回复",
+    "metric_value": 30,
+    "extra": {
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "chirsxp",
+      "last_touched": 1794748860
+    }
+  },
+  {
+    "rank": 5,
+    "title": "又被淘宝双 11 背刺了",
+    "url": "https://www.v2ex.com/t/1257229",
+    "description": "因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传“全网保价至 11 月 20 日”，所以也没害怕会降价，就下单了。\n结果没过几天，发现拼兮兮同款便宜了 400+。申请保价时，淘宝却说必须在签收后 7 天内申请，超期不支持。\n？？？\n宣传时大字写着保价到 11 月 20 日，真要申请了，又搬出一个“签收后 7 天”的限制。\n那所谓的全网保价，到底保了个什么？\n更离谱的还在后面！\n因为不认可处理结果，我通过 12315 正式投诉。\n淘宝只是打电话通知我不给退差价，我明确没有接受这个方案，也没有同意和解。\n结果 12315 的处理反馈居然显示：\n「和解结果：协",
+    "metric": "29 回复",
+    "metric_value": 29,
+    "extra": {
+      "node": "分享发现",
+      "node_name": "share",
+      "author": "OpenList",
+      "last_touched": 1794789994
+    }
+  },
+  {
+    "rank": 6,
+    "title": "Gemini 模型如何？",
+    "url": "https://www.v2ex.com/t/1257234",
+    "description": "最近 codex 表现实在有点拉，智力有点下滑，额度还不经用 想体验下 Gemini， 有用过的朋友吗？ 体验对比 claude 如何？如果开 20 刀的额度对比 codex 的 20 刀哪个更经用一点？",
+    "metric": "21 回复",
+    "metric_value": 21,
+    "extra": {
+      "node": "Vibe Coding",
+      "node_name": "vibe-coding",
+      "author": "JohnXu20151211",
+      "last_touched": 1794762988
+    }
+  },
+  {
+    "rank": 7,
+    "title": "有没有 Claude portal 验证一直在验证中的 v 友",
+    "url": "https://www.v2ex.com/t/1257170",
+    "description": "我的 Claude 在前天弹出 portal 验证，当即用护照进行了验证，但是已经 48h 以上了还一直在验证中，提示正在检查。有没有 v 友知道啥情况吗？",
+    "metric": "19 回复",
+    "metric_value": 19,
+    "extra": {
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "simyoo",
+      "last_touched": 1794741020
+    }
+  },
+  {
+    "rank": 8,
+    "title": "哈哈哈喜报，做的垂直分享发现优质产品社区，注册用户超 2000+，收录/发布产品超 1000+啦～",
+    "url": "https://www.v2ex.com/t/1257168",
+    "description": "距离产品派上线大半年时间了，期间一直在不停的迭代修复 bug\n近日发现注册用户超 2000+，收录/发布产品超 1000+\n非常感谢各位派友和 v 友们的支持～\n近日我们还进行了一轮大版本更新，包括全新界面吉祥物、全新积分体系等等\n\n具体的更新内容可以参考：https://chanpinpai.com/topic/ok8xnNZ2\n未来我们会推出积分兑换商城等等更多玩法",
+    "metric": "18 回复",
+    "metric_value": 18,
+    "extra": {
+      "node": "分享创造",
+      "node_name": "create",
+      "author": "MYI",
+      "last_touched": 1794754724
+    }
+  },
+  {
+    "rank": 9,
+    "title": "老号门户验证中国护照秒封吗？",
+    "url": "https://www.v2ex.com/t/1257200",
+    "description": "Replies from Claude are unavailable on your account. You can complete the verification now in the Anthropic Verification Portal.7 月注册的 用了三个月 pro 套餐 不编程 只在 ios 手机客户端问问题，美区礼品卡订阅。固定 winpc 新加披节点 昨晚建了个代谢报告的项目 就被谈门户验证了，看了诸多案例，在犹豫是自己中国护照验证，还是淘宝外援，这次验证过了是不是能消停很久？ 里面存了很多项目、记忆 不像重新开号。",
+    "metric": "15 回复",
+    "metric_value": 15,
+    "extra": {
+      "node": "Claude",
+      "node_name": "claude",
+      "author": "mdcaqr",
+      "last_touched": 1794760539
+    }
+  },
+  {
+    "rank": 10,
+    "title": "都说 AI 大大提高了编程效率，真正失业的程序员多吗",
+    "url": "https://www.v2ex.com/t/1257251",
+    "description": "我看身边大部分人都还苟着，有一些被裁员优化的，很多还是找到了新工作，不论好坏，有多卷，至少还有一份工作。只有一小部分人真的失业在家。另外，大家都再说经济下行，钱难赚。不知道这里的朋友们怎么样？",
+    "metric": "14 回复",
+    "metric_value": 14,
+    "extra": {
+      "node": "职场话题",
+      "node_name": "career",
+      "author": "zhouxiaoyuan",
+      "last_touched": 1794774037
+    }
+  }
+]
