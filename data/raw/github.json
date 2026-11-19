@@ -1,249 +1,210 @@
 [
   {
     "rank": 1,
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "metric": "★ 17,369",
+    "title": "elementalsouls / Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "metric": "★ 12,188",
     "extra": {
-      "language": "TypeScript",
-      "stars": "17,369",
-      "forks": "1,915",
-      "stars_today": "314 stars today"
+      "language": "Python",
+      "stars": "12,188",
+      "forks": "1,573",
+      "stars_today": "1,353 stars today"
     }
   },
   {
     "rank": 2,
-    "title": "HKUDS / CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-    "metric": "★ 60,103",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "metric": "★ 321,911",
     "extra": {
-      "language": "Python",
-      "stars": "60,103",
-      "forks": "5,456",
-      "stars_today": "389 stars today"
+      "language": "Shell",
+      "stars": "321,911",
+      "forks": "28,613",
+      "stars_today": "2,029 stars today"
     }
   },
   {
     "rank": 3,
-    "title": "mvanhorn / last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "metric": "★ 70,382",
+    "title": "HKUDS / CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "metric": "★ 60,389",
     "extra": {
       "language": "Python",
-      "stars": "70,382",
-      "forks": "6,269",
-      "stars_today": "1,059 stars today"
+      "stars": "60,389",
+      "forks": "5,479",
+      "stars_today": "899 stars today"
     }
   },
   {
     "rank": 4,
-    "title": "getarcaneapp / arcane",
-    "url": "https://github.com/getarcaneapp/arcane",
-    "description": "Modern Docker Management, Designed for Everyone",
-    "metric": "★ 10,002",
+    "title": "jingyaogong / minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+    "metric": "★ 66,758",
     "extra": {
-      "language": "Go",
-      "stars": "10,002",
-      "forks": "571",
-      "stars_today": "547 stars today"
+      "language": "Python",
+      "stars": "66,758",
+      "forks": "8,777",
+      "stars_today": "301 stars today"
     }
   },
   {
     "rank": 5,
-    "title": "NVIDIA / SkillEvaluator",
-    "url": "https://github.com/NVIDIA/SkillEvaluator",
-    "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
-    "metric": "★ 3,951",
+    "title": "cursor / plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "metric": "★ 17,486",
     "extra": {
-      "language": "Python",
-      "stars": "3,951",
-      "forks": "534",
-      "stars_today": "312 stars today"
+      "language": "TypeScript",
+      "stars": "17,486",
+      "forks": "1,928",
+      "stars_today": "383 stars today"
     }
   },
   {
     "rank": 6,
-    "title": "nvm-sh / nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-    "metric": "★ 96,220",
+    "title": "firecrawl / firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+    "metric": "★ 203,925",
     "extra": {
-      "language": "Shell",
-      "stars": "96,220",
-      "forks": "10,795",
-      "stars_today": "237 stars today"
+      "language": "TypeScript",
+      "stars": "203,925",
+      "forks": "10,686",
+      "stars_today": "795 stars today"
     }
   },
   {
     "rank": 7,
-    "title": "astral-sh / uv",
-    "url": "https://github.com/astral-sh/uv",
-    "description": "An extremely fast Python package and project manager, written in Rust.",
-    "metric": "★ 92,353",
+    "title": "nginx / nginx",
+    "url": "https://github.com/nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "metric": "★ 32,274",
     "extra": {
-      "language": "Rust",
-      "stars": "92,353",
-      "forks": "3,934",
-      "stars_today": "258 stars today"
+      "language": "C",
+      "stars": "32,274",
+      "forks": "8,411",
+      "stars_today": "66 stars today"
     }
   },
   {
     "rank": 8,
-    "title": "google-research / paper-orchestra",
-    "url": "https://github.com/google-research/paper-orchestra",
-    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-    "metric": "★ 4,680",
+    "title": "openvinotoolkit / openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "metric": "★ 11,510",
     "extra": {
-      "language": "Python",
-      "stars": "4,680",
-      "forks": "573",
-      "stars_today": "1,524 stars today"
+      "language": "C++",
+      "stars": "11,510",
+      "forks": "3,619",
+      "stars_today": "246 stars today"
     }
   },
   {
     "rank": 9,
-    "title": "google-labs-code / stitch-skills",
-    "url": "https://github.com/google-labs-code/stitch-skills",
-    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-    "metric": "★ 10,536",
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "metric": "★ 68,509",
     "extra": {
-      "language": "TypeScript",
-      "stars": "10,536",
-      "forks": "1,373",
-      "stars_today": "365 stars today"
+      "language": "HTML",
+      "stars": "68,509",
+      "forks": "4,606",
+      "stars_today": "332 stars today"
     }
   },
   {
     "rank": 10,
-    "title": "sveltejs / svelte",
-    "url": "https://github.com/sveltejs/svelte",
-    "description": "web development for the rest of us",
-    "metric": "★ 89,725",
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "metric": "★ 70,666",
     "extra": {
-      "language": "JavaScript",
-      "stars": "89,725",
-      "forks": "6,225",
-      "stars_today": "692 stars today"
+      "language": "Python",
+      "stars": "70,666",
+      "forks": "6,297",
+      "stars_today": "952 stars today"
     }
   },
   {
     "rank": 11,
-    "title": "jquery / jquery",
-    "url": "https://github.com/jquery/jquery",
-    "description": "jQuery JavaScript Library",
-    "metric": "★ 60,083",
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "metric": "★ 10,642",
     "extra": {
-      "language": "JavaScript",
-      "stars": "60,083",
-      "forks": "20,713",
-      "stars_today": "266 stars today"
+      "language": "TypeScript",
+      "stars": "10,642",
+      "forks": "1,382",
+      "stars_today": "303 stars today"
     }
   },
   {
     "rank": 12,
-    "title": "appwrite / appwrite",
-    "url": "https://github.com/appwrite/appwrite",
-    "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-    "metric": "★ 58,353",
+    "title": "mjmirza / app-store-compliance",
+    "url": "https://github.com/mjmirza/app-store-compliance",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "metric": "★ 1,685",
     "extra": {
-      "language": "TypeScript",
-      "stars": "58,353",
-      "forks": "5,896",
-      "stars_today": "232 stars today"
+      "language": "Shell",
+      "stars": "1,685",
+      "forks": "122",
+      "stars_today": "542 stars today"
     }
   },
   {
     "rank": 13,
-    "title": "openvinotoolkit / openvino",
-    "url": "https://github.com/openvinotoolkit/openvino",
-    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-    "metric": "★ 11,427",
+    "title": "Tracer-Cloud / opensre",
+    "url": "https://github.com/Tracer-Cloud/opensre",
+    "description": "The open-source agent for CI/CD reliability.",
+    "metric": "★ 13,019",
     "extra": {
-      "language": "C++",
-      "stars": "11,427",
-      "forks": "3,609",
-      "stars_today": "24 stars today"
+      "language": "Python",
+      "stars": "13,019",
+      "forks": "1,899",
+      "stars_today": "25 stars today"
     }
   },
   {
     "rank": 14,
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "metric": "★ 321,564",
+    "title": "toeverything / AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "metric": "★ 74,996",
     "extra": {
-      "language": "Shell",
-      "stars": "321,564",
-      "forks": "28,582",
-      "stars_today": "822 stars today"
+      "language": "TypeScript",
+      "stars": "74,996",
+      "forks": "5,555",
+      "stars_today": "170 stars today"
     }
   },
   {
     "rank": 15,
-    "title": "affaan-m / ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "metric": "★ 306,831",
+    "title": "XiaoYouChR / Ghost-Downloader-3",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。",
+    "metric": "★ 12,517",
     "extra": {
-      "language": "JavaScript",
-      "stars": "306,831",
-      "forks": "45,168",
-      "stars_today": "1,108 stars today"
+      "language": "Python",
+      "stars": "12,517",
+      "forks": "783",
+      "stars_today": "449 stars today"
     }
   },
   {
     "rank": 16,
-    "title": "DeanChensj / jiangshan-map",
-    "url": "https://github.com/DeanChensj/jiangshan-map",
-    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-    "metric": "★ 8,316",
+    "title": "zhouxiaoka / autoclip",
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "metric": "★ 11,111",
     "extra": {
-      "language": "JavaScript",
-      "stars": "8,316",
-      "forks": "1,019",
-      "stars_today": "218 stars today"
-    }
-  },
-  {
-    "rank": 17,
-    "title": "n8n-io / n8n",
-    "url": "https://github.com/n8n-io/n8n",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "metric": "★ 211,310",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "211,310",
-      "forks": "61,578",
-      "stars_today": "325 stars today"
-    }
-  },
-  {
-    "rank": 18,
-    "title": "solidjs / solid",
-    "url": "https://github.com/solidjs/solid",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-    "metric": "★ 36,716",
-    "extra": {
-      "language": "TypeScript",
-      "stars": "36,716",
-      "forks": "1,191",
-      "stars_today": "40 stars today"
-    }
-  },
-  {
-    "rank": 19,
-    "title": "punkpeye / awesome-mcp-servers",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers",
-    "description": "A collection of MCP servers.",
-    "metric": "★ 98,174",
-    "extra": {
-      "language": null,
-      "stars": "98,174",
-      "forks": "20,388",
-      "stars_today": "53 stars today"
+      "language": "Python",
+      "stars": "11,111",
+      "forks": "1,932",
+      "stars_today": "110 stars today"
     }
   }
 ]
