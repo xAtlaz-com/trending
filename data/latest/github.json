@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "updated_at": "2026-11-24T20:47:23+00:00",
+  "updated_at": "2026-11-25T04:00:59+00:00",
   "count": 16,
   "items": [
     {
@@ -8,12 +8,12 @@
       "title": "elementalsouls / Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "metric": "★ 21,256",
+      "metric": "★ 21,672",
       "extra": {
         "language": "Python",
-        "stars": "21,256",
-        "forks": "2,217",
-        "stars_today": "1,833 stars today"
+        "stars": "21,672",
+        "forks": "2,249",
+        "stars_today": "1,826 stars today"
       }
     },
     {
@@ -21,12 +21,12 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "metric": "★ 325,697",
+      "metric": "★ 325,923",
       "extra": {
         "language": "Shell",
-        "stars": "325,697",
-        "forks": "28,897",
-        "stars_today": "1,006 stars today"
+        "stars": "325,923",
+        "forks": "28,921",
+        "stars_today": "1,003 stars today"
       }
     },
     {
@@ -34,12 +34,12 @@
       "title": "HKUDS / CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "metric": "★ 64,627",
+      "metric": "★ 64,961",
       "extra": {
         "language": "Python",
-        "stars": "64,627",
-        "forks": "5,889",
-        "stars_today": "1,075 stars today"
+        "stars": "64,961",
+        "forks": "5,917",
+        "stars_today": "1,074 stars today"
       }
     },
     {
@@ -47,11 +47,11 @@
       "title": "jingyaogong / minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "metric": "★ 70,112",
+      "metric": "★ 70,392",
       "extra": {
         "language": "Python",
-        "stars": "70,112",
-        "forks": "9,126",
+        "stars": "70,392",
+        "forks": "9,153",
         "stars_today": "727 stars today"
       }
     },
@@ -60,12 +60,12 @@
       "title": "cursor / plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
-      "metric": "★ 19,142",
+      "metric": "★ 19,279",
       "extra": {
         "language": "TypeScript",
-        "stars": "19,142",
-        "forks": "2,070",
-        "stars_today": "359 stars today"
+        "stars": "19,279",
+        "forks": "2,080",
+        "stars_today": "360 stars today"
       }
     },
     {
@@ -73,12 +73,12 @@
       "title": "firecrawl / firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "metric": "★ 208,799",
+      "metric": "★ 209,073",
       "extra": {
         "language": "TypeScript",
-        "stars": "208,799",
-        "forks": "10,909",
-        "stars_today": "990 stars today"
+        "stars": "209,073",
+        "forks": "10,924",
+        "stars_today": "991 stars today"
       }
     },
     {
@@ -86,11 +86,11 @@
       "title": "nginx / nginx",
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
-      "metric": "★ 33,189",
+      "metric": "★ 33,243",
       "extra": {
         "language": "C",
-        "stars": "33,189",
-        "forks": "8,393",
+        "stars": "33,243",
+        "forks": "8,397",
         "stars_today": "158 stars today"
       }
     },
@@ -99,12 +99,12 @@
       "title": "openvinotoolkit / openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "metric": "★ 12,431",
+      "metric": "★ 12,497",
       "extra": {
         "language": "C++",
-        "stars": "12,431",
-        "forks": "3,691",
-        "stars_today": "187 stars today"
+        "stars": "12,497",
+        "forks": "3,695",
+        "stars_today": "185 stars today"
       }
     },
     {
@@ -112,12 +112,12 @@
       "title": "cathrynlavery / diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "metric": "★ 71,883",
+      "metric": "★ 72,217",
       "extra": {
         "language": "HTML",
-        "stars": "71,883",
-        "forks": "4,796",
-        "stars_today": "794 stars today"
+        "stars": "72,217",
+        "forks": "4,815",
+        "stars_today": "802 stars today"
       }
     },
     {
@@ -125,12 +125,12 @@
       "title": "mvanhorn / last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "metric": "★ 74,095",
+      "metric": "★ 74,350",
       "extra": {
         "language": "Python",
-        "stars": "74,095",
-        "forks": "6,532",
-        "stars_today": "695 stars today"
+        "stars": "74,350",
+        "forks": "6,553",
+        "stars_today": "703 stars today"
       }
     },
     {
@@ -138,12 +138,12 @@
       "title": "google-labs-code / stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "metric": "★ 12,596",
+      "metric": "★ 12,723",
       "extra": {
         "language": "TypeScript",
-        "stars": "12,596",
-        "forks": "1,523",
-        "stars_today": "401 stars today"
+        "stars": "12,723",
+        "forks": "1,526",
+        "stars_today": "403 stars today"
       }
     },
     {
@@ -151,12 +151,12 @@
       "title": "mjmirza / app-store-compliance",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "metric": "★ 5,756",
+      "metric": "★ 5,950",
       "extra": {
         "language": "Shell",
-        "stars": "5,756",
-        "forks": "373",
-        "stars_today": "936 stars today"
+        "stars": "5,950",
+        "forks": "383",
+        "stars_today": "928 stars today"
       }
     },
     {
@@ -164,12 +164,12 @@
       "title": "Tracer-Cloud / opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
-      "metric": "★ 15,133",
+      "metric": "★ 15,234",
       "extra": {
         "language": "Python",
-        "stars": "15,133",
-        "forks": "2,007",
-        "stars_today": "408 stars today"
+        "stars": "15,234",
+        "forks": "2,013",
+        "stars_today": "398 stars today"
       }
     },
     {
@@ -177,12 +177,12 @@
       "title": "toeverything / AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "metric": "★ 77,908",
+      "metric": "★ 78,060",
       "extra": {
         "language": "TypeScript",
-        "stars": "77,908",
-        "forks": "5,696",
-        "stars_today": "589 stars today"
+        "stars": "78,060",
+        "forks": "5,701",
+        "stars_today": "584 stars today"
       }
     },
     {
@@ -190,12 +190,12 @@
       "title": "XiaoYouChR / Ghost-Downloader-3",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
-      "metric": "★ 17,218",
+      "metric": "★ 17,517",
       "extra": {
         "language": "Python",
-        "stars": "17,218",
-        "forks": "1,042",
-        "stars_today": "1,102 stars today"
+        "stars": "17,517",
+        "forks": "1,056",
+        "stars_today": "1,092 stars today"
       }
     },
     {
@@ -203,12 +203,12 @@
       "title": "zhouxiaoka / autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "metric": "★ 15,256",
+      "metric": "★ 15,522",
       "extra": {
         "language": "Python",
-        "stars": "15,256",
-        "forks": "2,260",
-        "stars_today": "981 stars today"
+        "stars": "15,522",
+        "forks": "2,282",
+        "stars_today": "980 stars today"
       }
     }
   ]
